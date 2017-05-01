@@ -5,10 +5,61 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: POEditor.com\n"
 "Project-Id-Version: First Principles\n"
-"Language: ru\n"
+"Language: uk\n"
 
 #: 
-msgid "test"
+msgid "First Principles"
+msgstr "Основи вчення"
+
+#: 
+msgid "Introduction"
+msgstr "Вступ"
+
+#: 
+msgid "The Book of John"
 msgstr ""
 
+#: 
+msgid "Seeking God"
+msgstr ""
+
+#: 
+msgid "The Word of God"
+msgstr ""
+
+#: 
+msgid "Discipleship"
+msgstr ""
+
+#: 
+msgid "Home"
+msgstr ""
+
+#: 
+msgid "Blessed means happy (superlatively happy)"
+msgstr ""
+
+#: 
+msgid "Happiness is not the goal of one who seeks God but the \"by-product"
+msgstr ""
+
+#: 
+msgid "To seek God you must do it with all your heart"
+msgstr ""
+
+#: 
+msgid "Seeking God means to \"keep His statutes\""
+msgstr ""
+
+#: 
+msgid "Do not worry &mdash; ironic &mdash; can not add a single hour to your life"
+msgstr ""
+
+#: 
+msgid "God knows your needs"
+msgstr ""
+
+#: 
+msgid "Happiness is not the goal of one who seeks God but the \"by-product\""
+msgstr ""
 
