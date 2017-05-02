@@ -1,0 +1,7 @@
+# First Principles translation
+msgid "The Book of John"
+msgstr ""
+msgid "The Book of John"
+msgstr ""
+msgid "Home"
+msgstr ""
