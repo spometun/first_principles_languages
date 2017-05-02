@@ -17,7 +17,7 @@ msgstr "Вступ"
 
 #: 
 msgid "The Book of John"
-msgstr ""
+msgstr "Євангеліє від Івана"
 
 #: 
 msgid "Seeking God"
@@ -25,7 +25,7 @@ msgstr ""
 
 #: 
 msgid "The Word of God"
-msgstr ""
+msgstr "Слово Бога"
 
 #: 
 msgid "Discipleship"
@@ -57,7 +57,7 @@ msgstr ""
 
 #: 
 msgid "God knows your needs"
-msgstr ""
+msgstr "Бог знає твої потреби"
 
 #: 
 msgid "Happiness is not the goal of one who seeks God but the \"by-product\""
