@@ -63,3 +63,1011 @@ msgstr "Богу известны твои нужды"
 msgid "Happiness is not the goal of one who seeks God but the \"by-product\""
 msgstr ""
 
+#: 
+msgid "The Coming of the Kingdom"
+msgstr "Приход Царства"
+
+#: 
+msgid "Light and Darkness"
+msgstr "Свет и тьма"
+
+#: 
+msgid "New Testament Conversion"
+msgstr "Обращения в Новом Завете"
+
+#: 
+msgid "The Cross"
+msgstr ""
+
+#: 
+msgid "The Medical Account of the Crucifixion of Christ"
+msgstr ""
+
+#: 
+msgid "Baptism with the Holy Spirit"
+msgstr ""
+
+#: 
+msgid "Miraculous Gifts of the Holy Spirit"
+msgstr ""
+
+#: 
+msgid "The Church"
+msgstr ""
+
+#: 
+msgid "The Book of Acts"
+msgstr ""
+
+#: 
+msgid "After Baptism, Now What?"
+msgstr ""
+
+#: 
+msgid "Christ Is Your Life"
+msgstr ""
+
+#: 
+msgid "Best Friends of All Time"
+msgstr ""
+
+#: 
+msgid "The Mission"
+msgstr ""
+
+#: 
+msgid "Persecution"
+msgstr ""
+
+#: 
+msgid "Memory Scriptures"
+msgstr ""
+
+#: 
+msgid "Seek first His kingdom and righteousness"
+msgstr ""
+
+#: 
+msgid "Then God will give you everything you need"
+msgstr ""
+
+#: 
+msgid "God determines the times and places each person lives"
+msgstr ""
+
+#: 
+msgid "He does this so men will seek Him, reach out for Him and find Him"
+msgstr ""
+
+#: 
+msgid "He is not far from anyone"
+msgstr ""
+
+#: 
+msgid "A Christian meeting you is not by chance &mdash; but of God"
+msgstr ""
+
+#: 
+msgid "God seeks men (Acts 17 taught men must seek God"
+msgstr ""
+
+#: 
+msgid "Men who want to worship Him in spirit and in truth"
+msgstr ""
+
+#: 
+msgid "Read and study the Bible for your own convictions"
+msgstr ""
+
+#: 
+msgid "Study daily"
+msgstr ""
+
+#: 
+msgid "God has an individual plan for your life"
+msgstr ""
+
+#: 
+msgid "A plan to prosper you &mdash; with hope and a future"
+msgstr ""
+
+#: 
+msgid "You will find God when you seek Him with all your heart"
+msgstr ""
+
+#: 
+msgid "The angels and the Holy Spirit are helping to get you to God"
+msgstr ""
+
+#: 
+msgid "Do not be afraid to ask questions about life or the Bible &mdash; be humble"
+msgstr ""
+
+#: 
+msgid "You need someone to explain the Bible to you"
+msgstr ""
+
+#: 
+msgid "You will be \"rejoicing\" when you find God"
+msgstr ""
+
+#: 
+msgid "Seek and God guarantees you will find Him"
+msgstr ""
+
+#: 
+msgid "Ask God for help"
+msgstr ""
+
+#: 
+msgid "All Scripture is inspired by God"
+msgstr ""
+
+#: 
+msgid "It is to be applied to our lives"
+msgstr ""
+
+#: 
+msgid "The Word is relevant"
+msgstr ""
+
+#: 
+msgid "The Word cuts (hurts)"
+msgstr ""
+
+#: 
+msgid "Learn that it is good to be \"cut,\" because a scalpel (God's Word) \"cuts\" the cancer (sin) out!"
+msgstr ""
+
+#: 
+msgid "There is no private interpretation of the Bible"
+msgstr ""
+
+#: 
+msgid "The Holy Spirit inspired the men who wrote the books of the Bible"
+msgstr ""
+
+#: 
+msgid "Intellectual belief is not enough - nor can we go by our feelings"
+msgstr ""
+
+#: 
+msgid "Everyone must hold on to and follow the teachings of Jesus to be a true disciple"
+msgstr ""
+
+#: 
+msgid "Sincerity does not equal truth"
+msgstr ""
+
+#: 
+msgid "Religious people can be wrong"
+msgstr ""
+
+#: 
+msgid "Do not go by traditions or creeds"
+msgstr ""
+
+#: 
+msgid "Worship by traditions - those which contradict the Word of God - is worship in vain"
+msgstr ""
+
+#: 
+msgid "Watch your life and doctrine closely - they are inseparable"
+msgstr ""
+
+#: 
+msgid "Which is more important:  life or doctrine?  Neither - an airplane with only one wing cannot fly"
+msgstr ""
+
+#: 
+msgid "Why is it so important to learn and to teach and to live the right doctrine?  To save yourself and those who hear you."
+msgstr ""
+
+#: 
+msgid "A noble character in God's eyes: great eagerness in receiving the message; examine Scriptures; daily; and believe - make decisions based on the Scriptures."
+msgstr ""
+
+#: 
+msgid "Must check what religious leaders say"
+msgstr ""
+
+#: 
+msgid "Your challenge: Read and study the Bible every day!"
+msgstr ""
+
+#: 
+msgid "The Word of God is a mirror"
+msgstr ""
+
+#: 
+msgid "Do not forget what you see - \"do what it says\""
+msgstr ""
+
+#: 
+msgid "Why study the Bible? The Word will judge us"
+msgstr ""
+
+#: 
+msgid "For when by reason of the time you ought to be teachers, you... need to have someone teach you the rudiments of the first principles of the oracles of God... Therefore leaving the doctrine of the first principles of Christ, let us press on to perfection - not laying again a foundation... of faith toward God, of the teaching of baptisms, of laying on of hands, of resurrection of the dead and of eternal judgment. This will we do!"
+msgstr ""
+
+#: 
+msgid "Hebrews 5:12; 6:1-3"
+msgstr ""
+
+#: 
+msgid "WEV"
+msgstr ""
+
+#: 
+msgid "Originally, the First Principle Studies were written in 1980, while I served the Lord during the formative early days of the Boston Church of Christ. They were revised in 2003 and 2006 to meet the needs and to confront the challenges of the Portland International Church of Christ. In Los Angeles in 2009 and 2012, I made a few more modifications. As of today, these same First Principles Studies are being taught to all the new disciples of the"
+msgstr ""
+
+#: 
+msgid "City of Angels International Christian Church"
+msgstr ""
+
+#: 
+msgid "God has greatly blessed these lessons as they have been translated into over 20 languages around the world. May the Lord continue to \"solidify, unify and multiply\" sold-out disciples everywhere for the evangelization of all the nations in this generation! And to God be the glory!"
+msgstr ""
+
+#: 
+msgid "Dr. Kip McKean"
+msgstr ""
+
+#: 
+msgid "July 1, 2014"
+msgstr ""
+
+#: 
+msgid "Introduction:"
+msgstr ""
+
+#: 
+msgid "Matthew 28:18-20"
+msgstr ""
+
+#: 
+msgid "What does Jesus want everybody to become?"
+msgstr ""
+
+#: 
+msgid "Which is the more popular term - \"Disciple\" or \"Christian?\" The word \"Christian\" only appears three times in the New \t\t\t       Testament.  It is the name those in the world gave the disciples, seven years after the church began"
+msgstr ""
+
+#: 
+msgid "(Acts 11:19-26)"
+msgstr ""
+
+#: 
+msgid "The word \"Disciple\" occurs over 270 times in the New Testament"
+msgstr ""
+
+#: 
+msgid "SAVED = CHRISTIAN = DISCIPLE"
+msgstr ""
+
+#: 
+msgid "Jesus came to make disciples.  Only baptized disciples will be saved"
+msgstr ""
+
+#: 
+msgid "Let's have Jesus define disciple, thus defining who is a true Christian"
+msgstr ""
+
+#: 
+msgid "Mark 1:14-18"
+msgstr ""
+
+#: 
+msgid "Calling of the first disciples"
+msgstr ""
+
+#: 
+msgid "Come follow me (Christ)"
+msgstr ""
+
+#: 
+msgid "Fishers of men - Jesus gave these first disciples the real purpose for living"
+msgstr ""
+
+#: 
+msgid "Immediately"
+msgstr ""
+
+#: 
+msgid "Luke 9:23-26"
+msgstr ""
+
+#: 
+msgid "If any man..."
+msgstr ""
+
+#: 
+msgid "Deny self.  Notice Christ in the garden("
+msgstr ""
+
+#: 
+msgid "Matthew 26:36-39,"
+msgstr ""
+
+#: 
+msgid "'Not my will, but your will')."
+msgstr ""
+
+#: 
+msgid "Do not give in to moods"
+msgstr ""
+
+#: 
+msgid "Carry the cross - daily"
+msgstr ""
+
+#: 
+msgid "Gain the world ... forfeit soul. Lose your life for Jesus ... save it"
+msgstr ""
+
+#: 
+msgid "Luke 14:25-33"
+msgstr ""
+
+#: 
+msgid "Count the cost (v. 28-30)"
+msgstr ""
+
+#: 
+msgid "Consider the alternatives (v. 31-32)"
+msgstr ""
+
+#: 
+msgid "Love Christ more than any person (v. 26)"
+msgstr ""
+
+#: 
+msgid "Persecutions (v. 27)"
+msgstr ""
+
+#: 
+msgid "Everything, not just anything (v. 33)"
+msgstr ""
+
+#: 
+msgid "Luke 11:1-4"
+msgstr ""
+
+#: 
+msgid "Must learn to pray - disciples saw the strength Jesus received from the Father"
+msgstr ""
+
+#: 
+msgid "Daily personal relationship with God (v. 3); daily prayer"
+msgstr ""
+
+#: 
+msgid "John 13:34-35"
+msgstr ""
+
+#: 
+msgid "Love one another"
+msgstr ""
+
+#: 
+msgid "Be an active part of the fellowship"
+msgstr ""
+
+#: 
+msgid "Command - make disciples (given to all)"
+msgstr ""
+
+#: 
+msgid "Who is a candidate for baptism?  A person who makes the decision to be a disciple"
+msgstr ""
+
+#: 
+msgid "You need someone to disciple you to maturity in Christ"
+msgstr ""
+
+#: 
+msgid "This is the only way to save the world!"
+msgstr ""
+
+#: 
+msgid "Year"
+msgstr ""
+
+#: 
+msgid "Preacher"
+msgstr ""
+
+#: 
+msgid "Disciple"
+msgstr ""
+
+#: 
+msgid "the world, 10 billion plus"
+msgstr ""
+
+#: 
+msgid "Conclusion Question:"
+msgstr ""
+
+#: 
+msgid "Am I a disciple?  Am I a Christian?  Am I saved?  What do I need to do to become a disciple?"
+msgstr ""
+
+#: 
+msgid "In this study you will see the continuity of the Old and New Testaments."
+msgstr ""
+
+#: 
+msgid "Questions:  What is the Kingdom of God?  When did it come?"
+msgstr ""
+
+#: 
+msgid "Old Testament Predictions of the Kingdom (the height of Israel's glory was under the kingship of David, approximately 1000 B.C.)"
+msgstr ""
+
+#: 
+msgid "(750 B.C.)"
+msgstr ""
+
+#: 
+msgid "Last days"
+msgstr ""
+
+#: 
+msgid "Mountains (Symbolizes kingdoms):  Mountain of the Lord, chief of the mountains"
+msgstr ""
+
+#: 
+msgid "All nations"
+msgstr ""
+
+#: 
+msgid "Jerusalem"
+msgstr ""
+
+#: 
+msgid "(550 B.C.)"
+msgstr ""
+
+#: 
+msgid "Set up this passage by explaining that earlier in Daniel 2 King Nebuchadnezzer threatens death to all his astrologers and dream interpreters if they do not first tell him his dream, then interpret it."
+msgstr ""
+
+#: 
+msgid "Daniel interprets King Nebuchadnezzar's dream"
+msgstr ""
+
+#: 
+msgid "Empires"
+msgstr ""
+
+#: 
+msgid "Babylonian:  gold"
+msgstr ""
+
+#: 
+msgid "Medo-Persian:  silver"
+msgstr ""
+
+#: 
+msgid "Alexander the Great:  bronze"
+msgstr ""
+
+#: 
+msgid "Roman:  iron (iron and clay)"
+msgstr ""
+
+#: 
+msgid "Rock - cut out not by human hands (therefore God)"
+msgstr ""
+
+#: 
+msgid "Rock becomes huge mountain - filled the whole earth"
+msgstr ""
+
+#: 
+msgid "Kingdom that will never be destroyed (v. 44)"
+msgstr ""
+
+#: 
+msgid "New Testament Predictions of the Kingdom"
+msgstr ""
+
+#: 
+msgid "John the Baptist"
+msgstr ""
+
+#: 
+msgid "(25 A.D.)"
+msgstr ""
+
+#: 
+msgid "Kingdom is near"
+msgstr ""
+
+#: 
+msgid "Jesus"
+msgstr ""
+
+#: 
+msgid "(30 A.D.)"
+msgstr ""
+
+#: 
+msgid "Kingdom will come in the lifetime of some of the disciples"
+msgstr ""
+
+#: 
+msgid "Kingdom will come with power"
+msgstr ""
+
+#: 
+msgid "Kingdom entered by new birth - by water and the Spirit"
+msgstr ""
+
+#: 
+msgid "Kingdom is within you"
+msgstr ""
+
+#: 
+msgid "Peter has the keys"
+msgstr ""
+
+#: 
+msgid "Church and the Kingdom are the same and will be built on the truth that Jesus is the Christ"
+msgstr ""
+
+#: 
+msgid "Joseph of Arimathea was still waiting for the Kingdom when Jesus died."
+msgstr ""
+
+#: 
+msgid "Repentance and forgiveness of sins will be preached first in Jerusalem to all nations"
+msgstr ""
+
+#: 
+msgid "Fulfillment of the Old and New Testament Predictions,"
+msgstr ""
+
+#: 
+msgid "(33 A.D.)"
+msgstr ""
+
+#: 
+msgid "Eternal kingdom"
+msgstr ""
+
+#: 
+msgid "Date of coming approximately"
+msgstr ""
+
+#: 
+msgid "33 A.D."
+msgstr ""
+
+#: 
+msgid "Old Testament prophecy"
+msgstr ""
+
+#: 
+msgid "John the Baptist - \"is near\""
+msgstr ""
+
+#: 
+msgid "Jesus - \"is near\""
+msgstr ""
+
+#: 
+msgid "Lifetime"
+msgstr ""
+
+#: 
+msgid "Some\" - Judas die"
+msgstr ""
+
+#: 
+msgid "Power"
+msgstr ""
+
+#: 
+msgid "New birth"
+msgstr ""
+
+#: 
+msgid "Water and Spirit"
+msgstr ""
+
+#: 
+msgid "Kingdom within"
+msgstr ""
+
+#: 
+msgid "Peter with the keys"
+msgstr ""
+
+#: 
+msgid "Repentance and forgiveness of sin"
+msgstr ""
+
+#: 
+msgid "Conclusion"
+msgstr ""
+
+#: 
+msgid "The church is the Kingdom of God on earth, established in approximately"
+msgstr ""
+
+#: 
+msgid "As citizens of the Kingdom and members of the body (the church), we must be devoted to:"
+msgstr ""
+
+#: 
+msgid "Doctrine"
+msgstr ""
+
+#: 
+msgid "Fellowship"
+msgstr ""
+
+#: 
+msgid "Breaking Bread"
+msgstr ""
+
+#: 
+msgid "Prayer"
+msgstr ""
+
+#: 
+msgid "We must seek His Kingdom first.  Ask them to commit themselves to at least Sunday services and Midweek services."
+msgstr ""
+
+#: 
+msgid "It is often helpful to begin this study by constructing a \"spiritual timeline\" with the person whom you are helping to become a disciple."
+msgstr ""
+
+#: 
+msgid "Darkness"
+msgstr ""
+
+#: 
+msgid "Not a people of God"
+msgstr ""
+
+#: 
+msgid "No Mercy"
+msgstr ""
+
+#: 
+msgid "Light"
+msgstr ""
+
+#: 
+msgid "People of God"
+msgstr ""
+
+#: 
+msgid "Mercy"
+msgstr ""
+
+#: 
+msgid "Lost"
+msgstr ""
+
+#: 
+msgid "Not a Christian"
+msgstr ""
+
+#: 
+msgid "Not a Disciple"
+msgstr ""
+
+#: 
+msgid "Saved"
+msgstr ""
+
+#: 
+msgid "Christian"
+msgstr ""
+
+#: 
+msgid "Every person is either in the darkness or the light.  There is no twilight zone."
+msgstr ""
+
+#: 
+msgid "Where are you?"
+msgstr ""
+
+#: 
+msgid "Sin separates us from God."
+msgstr ""
+
+#: 
+msgid "WALL"
+msgstr ""
+
+#: 
+msgid "DARKNESS"
+msgstr ""
+
+#: 
+msgid "MAN"
+msgstr ""
+
+#: 
+msgid "LIGHT"
+msgstr ""
+
+#: 
+msgid "GOD"
+msgstr ""
+
+#: 
+msgid "SIN"
+msgstr ""
+
+#: 
+msgid "In order for a man to have a relationship with God the wall must be broken down - sin must be forgiven."
+msgstr ""
+
+#: 
+msgid "The point in time that sin is forgiven is the point in time a person is saved."
+msgstr ""
+
+#: 
+msgid "Who has sinned?  Everyone!"
+msgstr ""
+
+#: 
+msgid "Person A"
+msgstr ""
+
+#: 
+msgid "Person B"
+msgstr ""
+
+#: 
+msgid "Person C"
+msgstr ""
+
+#: 
+msgid "Who is further away from God:  a person who sins a little, or a person who sins a lot?  All are equal, all lost.  Therefore a good moral life does not save you.  You cannot earn your salvation by your good deeds."
+msgstr ""
+
+#: 
+msgid "Faith in the blood of Jesus saves you"
+msgstr ""
+
+#: 
+msgid "(v. 25)"
+msgstr ""
+
+#: 
+msgid "What is Sin?"
+msgstr ""
+
+#: 
+msgid "(sins of commission)"
+msgstr ""
+
+#: 
+msgid "(sins of omission)"
+msgstr ""
+
+#: 
+msgid "What is the eternal consequence of sin?"
+msgstr ""
+
+#: 
+msgid "WAGES OF SIN"
+msgstr ""
+
+#: 
+msgid "GIFT OF GOD"
+msgstr ""
+
+#: 
+msgid "Death"
+msgstr ""
+
+#: 
+msgid "Hell"
+msgstr ""
+
+#: 
+msgid "Eternal Life"
+msgstr ""
+
+#: 
+msgid "Heaven"
+msgstr ""
+
+#: 
+msgid "Born again (v. 3), born of water and Spirit (v. 5), born again. (v. 7)"
+msgstr ""
+
+#: 
+msgid "Personal decision as an adult"
+msgstr ""
+
+#: 
+msgid "What message must one believe to be in the light (to be saved)?"
+msgstr ""
+
+#: 
+msgid "Jesus is from God."
+msgstr ""
+
+#: 
+msgid "(v. 22)"
+msgstr ""
+
+#: 
+msgid "Jesus raised physically from the dead."
+msgstr ""
+
+#: 
+msgid "(v. 24)"
+msgstr ""
+
+#: 
+msgid "Everyone is responsible for the crucifixion of Christ."
+msgstr ""
+
+#: 
+msgid "(v. 23)"
+msgstr ""
+
+#: 
+msgid "All have sinned."
+msgstr ""
+
+#: 
+msgid "Response of people:"
+msgstr ""
+
+#: 
+msgid "Cut to the heart"
+msgstr ""
+
+#: 
+msgid "What shall we do?"
+msgstr ""
+
+#: 
+msgid "Once the people believed, what did they do?"
+msgstr ""
+
+#: 
+msgid "Repent (Greek = to turn)"
+msgstr ""
+
+#: 
+msgid "Be baptized (Greek = to be immersed)"
+msgstr ""
+
+#: 
+msgid "Sin forgiven. Therefore this is the point in time a person is saved."
+msgstr ""
+
+#: 
+msgid "Holy Spirit given to each who responded - power to live as God commands."
+msgstr ""
+
+#: 
+msgid "Baptism:"
+msgstr ""
+
+#: 
+msgid "Baptism is the sharing (a participation) in the death, burial and resurrection of Christ. (More than just a symbol.)"
+msgstr ""
+
+#: 
+msgid "JESUS"
+msgstr ""
+
+#: 
+msgid "DIED"
+msgstr ""
+
+#: 
+msgid "RESURRECTED"
+msgstr ""
+
+#: 
+msgid "BURIED"
+msgstr ""
+
+#: 
+msgid "OLD LIFE"
+msgstr ""
+
+#: 
+msgid "DIED WITH CHRIST"
+msgstr ""
+
+#: 
+msgid "RAISED TO A NEW LIFE"
+msgstr ""
+
+#: 
+msgid "BURIED WITH CHRIST"
+msgstr ""
+
+#: 
+msgid "Sin"
+msgstr ""
+
+#: 
+msgid "Separates us from God"
+msgstr ""
+
+#: 
+msgid "Sin is Forgiven"
+msgstr ""
+
+#: 
+msgid "Born Again of Water and Spirit"
+msgstr ""
+
+#: 
+msgid "Water = Baptism"
+msgstr ""
+
+#: 
+msgid "Spirit = Received at Baptism"
+msgstr ""
+
+#: 
+msgid "Faith in the Blood of Jesus Saves Us"
+msgstr ""
+
+#: 
+msgid "Jesus shed His blood when He died.  In baptism we share by faith in the death, burial and resurrection of Jesus.  Thus we contact the blood of baptism and are forgiven of our sins and SAVED!"
+msgstr ""
+
+#: 
+msgid "Traditions/False Doctrines -"
+msgstr ""
+
+#: 
+msgid "Infant Baptism"
+msgstr ""
+
+#: 
+msgid "Personal faith is needed"
+msgstr ""
+
+#: 
+msgid "Began approximately third century A.D."
+msgstr ""
+
+#: 
+msgid "Original sin"
+msgstr ""
+
+#: 
+msgid "Became \"church doctrine\" in 549 A.D."
+msgstr ""
+
+#: 
+msgid "Praying Jesus into your heart"
+msgstr ""
+
+#: 
+msgid "- taken out of context.  This verse is addressed to Christians."
+msgstr ""
+
+#: 
+msgid "Began in the early 1800s in America."
+msgstr ""
+
+#: 
+msgid "Sinful nature"
+msgstr ""
+
+#: 
+msgid "Suggest to the individual with whom you are studying that he or she write out and be specific about various sins that they have committed during their life.  This is so they might see the gravity and magnitude of their sin.  This is confidential and should only be shared with those who are studying with the person."
+msgstr ""
+
