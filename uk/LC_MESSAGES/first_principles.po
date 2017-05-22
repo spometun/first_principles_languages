@@ -49,7 +49,7 @@ msgstr "Шукати Бога потрібно всім серцем."
 
 #: 
 msgid "Seeking God means to \"keep His statutes\""
-msgstr ""
+msgstr "Шукати Бога - значить \"виконувати Його заповіді\""
 
 #: 
 msgid "Do not worry &mdash; ironic &mdash; can not add a single hour to your life"
