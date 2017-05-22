@@ -21,7 +21,7 @@ msgstr "Євангеліє від Івана"
 
 #: 
 msgid "Seeking God"
-msgstr "В пошуках Бога"
+msgstr "У пошуках Бога"
 
 #: 
 msgid "The Word of God"
@@ -37,15 +37,15 @@ msgstr "Додому"
 
 #: 
 msgid "Blessed means happy (superlatively happy)"
-msgstr ""
+msgstr "\"Блаженний\" означає \"щасливий\" (найвищий рівень щастя)"
 
 #: 
 msgid "Happiness is not the goal of one who seeks God but the \"by-product"
-msgstr ""
+msgstr "Ми маємо шукати Бога, а не щастя. А щастя отримаємо як \"побічний продукт\"."
 
 #: 
 msgid "To seek God you must do it with all your heart"
-msgstr ""
+msgstr "Шукати Бога потрібно всім серцем."
 
 #: 
 msgid "Seeking God means to \"keep His statutes\""
