@@ -1,57 +1,118 @@
-# First Principles translation
+#
+msgid ""
+msgstr ""
+
+#: 04_seeking_god.html:10
+msgctxt "04_seeking_god.html line:10"
 msgid "Seeking God"
 msgstr ""
+
+#: 04_seeking_god.html:21
+msgctxt "04_seeking_god.html line:21"
 msgid "Seeking God"
 msgstr ""
+
+#: 04_seeking_god.html:22
+msgctxt "04_seeking_god.html line:22"
 msgid "Home"
 msgstr ""
+
+#: 04_seeking_god.html:31
 msgid "Blessed means happy (superlatively happy)"
 msgstr ""
-msgid "Happiness is not the goal of one who seeks God but the "by-product""
+
+#: 04_seeking_god.html:32
+msgid "Happiness is not the goal of one who seeks God but the \"by-product\""
 msgstr ""
+
+#: 04_seeking_god.html:33
 msgid "To seek God you must do it with all your heart"
 msgstr ""
-msgid "Seeking God means to "keep His statutes""
+
+#: 04_seeking_god.html:34
+msgid "Seeking God means to \"keep His statutes\""
 msgstr ""
+
+#: 04_seeking_god.html:40
 msgid "Do not worry - ironic - can not add a single hour to your life"
 msgstr ""
+
+#: 04_seeking_god.html:41
 msgid "God knows your needs"
 msgstr ""
+
+#: 04_seeking_god.html:42
 msgid "Seek first His kingdom and righteousness"
 msgstr ""
+
+#: 04_seeking_god.html:43
 msgid "Then God will give you everything you need"
 msgstr ""
+
+#: 04_seeking_god.html:49
 msgid "God determines the times and places each person lives"
 msgstr ""
+
+#: 04_seeking_god.html:50
 msgid "He does this so men will seek Him, reach out for Him and find Him"
 msgstr ""
+
+#: 04_seeking_god.html:51
 msgid "He is not far from anyone"
 msgstr ""
+
+#: 04_seeking_god.html:52
 msgid "A Christian meeting you is not by chance - but of God"
 msgstr ""
+
+#: 04_seeking_god.html:58
 msgid "God seeks men (Acts 17 taught men must seek God"
 msgstr ""
+
+#: 04_seeking_god.html:59
 msgid "Men who want to worship Him in spirit and in truth"
 msgstr ""
+
+#: 04_seeking_god.html:65
 msgid "Read and study the Bible for your own convictions"
 msgstr ""
+
+#: 04_seeking_god.html:66
 msgid "Study daily"
 msgstr ""
+
+#: 04_seeking_god.html:72
 msgid "God has an individual plan for your life"
 msgstr ""
+
+#: 04_seeking_god.html:73
 msgid "A plan to prosper you - with hope and a future"
 msgstr ""
+
+#: 04_seeking_god.html:74
 msgid "You will find God when you seek Him with all your heart"
 msgstr ""
+
+#: 04_seeking_god.html:80
 msgid "The angels and the Holy Spirit are helping to get you to God"
 msgstr ""
+
+#: 04_seeking_god.html:81
 msgid "Do not be afraid to ask questions about life or the Bible - be humble"
 msgstr ""
+
+#: 04_seeking_god.html:82
 msgid "You need someone to explain the Bible to you"
 msgstr ""
-msgid "You will be "rejoicing" when you find God"
+
+#: 04_seeking_god.html:83
+msgid "You will be \"rejoicing\" when you find God"
 msgstr ""
+
+#: 04_seeking_god.html:89
 msgid "Seek and God guarantees you will find Him"
 msgstr ""
+
+#: 04_seeking_god.html:90
 msgid "Ask God for help"
 msgstr ""

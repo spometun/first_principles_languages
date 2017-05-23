@@ -1,0 +1,18 @@
+#
+msgid ""
+msgstr ""
+
+#: 03_book_of_john.html:10
+msgctxt "03_book_of_john.html line:10"
+msgid "The Book of John"
+msgstr ""
+
+#: 03_book_of_john.html:21
+msgctxt "03_book_of_john.html line:21"
+msgid "The Book of John"
+msgstr ""
+
+#: 03_book_of_john.html:22
+msgctxt "03_book_of_john.html line:22"
+msgid "Home"
+msgstr ""

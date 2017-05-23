@@ -1,0 +1,222 @@
+#
+msgid ""
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:10
+msgctxt "12_baptism_with_the_holy_spirit.html line:10"
+msgid "Baptism with the Holy Spirit"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:21
+msgctxt "12_baptism_with_the_holy_spirit.html line:21"
+msgid "Baptism with the Holy Spirit"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:22
+msgctxt "12_baptism_with_the_holy_spirit.html line:22"
+msgid "Home"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:27
+msgctxt "12_baptism_with_the_holy_spirit.html line:27"
+msgid "Introduction:"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:27
+msgid "Jesus was given the Spirit in full measure (RSV), no limit"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:29
+msgid "There are three measures of the Holy Spirit:"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:33
+msgid "The Indwelling of the Holy Spirit"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:37
+msgid "Terminology from"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:42
+msgid "(RSV)"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:46
+msgid "Received at baptism"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:57
+msgctxt "12_baptism_with_the_holy_spirit.html line:57"
+msgid "The Baptism with the Holy Spirit"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:61
+msgid "Characteristics in"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:67
+msgctxt "12_baptism_with_the_holy_spirit.html line:67"
+msgid "and"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:75
+msgid "Promise (not command):"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:83
+msgid "Predicted (prophesied)"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:86
+msgid "Came without warning. (People were not specifically praying for it)"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:89
+msgid "Languages"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:92
+msgid "Purpose:  to usher in the Kingdom with power"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:102
+msgid "Accounts of the Baptism with the Holy Spirit"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:105
+msgid "To the Jews — in Jerusalem"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:113
+msgid "To the Gentiles — begins with Cornelius"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:121
+msgid "Note:  Cornelius and his household were water baptized in"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:125
+msgid "saved at baptism"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:128
+msgid "Peter explained actions to the Jews"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:136
+msgid "\"At the beginning\""
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:144
+msgid "Peter gives the \"keys to the Kingdom\" to both Jews and Gentiles"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:151
+msgid "Does the Baptism with the Holy Spirit still exist today?"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:157
+msgid "There is one baptism — which one?"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:157
+msgid "Written about"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:159
+msgctxt "12_baptism_with_the_holy_spirit.html line:159"
+msgid "60-62 A.D."
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:161
+msgid "There are three options:"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:164
+msgid "John's baptism — Passed when the new covenant began"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:172
+msgctxt "12_baptism_with_the_holy_spirit.html line:172"
+msgid "The Baptism with the Holy Spirit"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:177
+msgctxt "12_baptism_with_the_holy_spirit.html line:177"
+msgid "and"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:182
+msgid "is no longer present as it was a prophecy/promise that has been fulfilled.  It was never a general command for all Christians"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:185
+msgid "Baptism with water in the name of Jesus Christ for the forgiveness of sins to receive the indwelling of the Holy Spirit"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:188
+msgid "Jesus commanded this baptism"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:196
+msgid "This baptism is recorded all the way through the book of Acts and the Epistles. In fact, Peter was present for all the baptisms:  John's baptism, both accounts of the Baptism of the Holy Spirit, and preached water baptism in the name of Jesus in Acts 2"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:198
+msgctxt "12_baptism_with_the_holy_spirit.html line:198"
+msgid "33 A.D."
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:200
+msgid "and in"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:206
+msgid "written around"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:208
+msgid "64 A.D."
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:210
+msgid "well after all the events of the book of Acts"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:213
+msgid "It had to be the one baptism of"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:219
+msgid "as it was the only one practiced by"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:221
+msgctxt "12_baptism_with_the_holy_spirit.html line:221"
+msgid "60-62 A.D."
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:223
+msgid "when Ephesians was written"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:233
+msgid "The"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:235
+msgid "miraculous gifts of the Holy Spirit"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:238
+msgid "(next lesson)"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:241
+msgid "Received by the apostles' laying on of hands"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:244
+msgid "No longer present today"
+msgstr ""
