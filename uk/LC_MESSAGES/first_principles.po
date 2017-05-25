@@ -15,101 +15,101 @@ msgstr ""
 #: 00_index.html:37
 msgctxt "00_index.html line:37"
 msgid "First Principles"
-msgstr ""
+msgstr "Перші принципи"
 
 #: 00_index.html:48
 msgctxt "00_index.html line:48"
 msgid "First Principles"
-msgstr ""
+msgstr "Перші принципи"
 
 #: 00_index.html:54
 msgctxt "00_index.html line:54"
 msgid "Introduction"
-msgstr ""
+msgstr "Вступ"
 
 #: 00_index.html:55
 msgctxt "00_index.html line:55"
 msgid "The Book of John"
-msgstr ""
+msgstr "Євангеліє від Івана"
 
 #: 00_index.html:56
 msgctxt "00_index.html line:56"
 msgid "Seeking God"
-msgstr ""
+msgstr "У пошуках Бога"
 
 #: 00_index.html:57
 msgctxt "00_index.html line:57"
 msgid "The Word of God"
-msgstr ""
+msgstr "Слово Бога"
 
 #: 00_index.html:58
 msgctxt "00_index.html line:58"
 msgid "Discipleship"
-msgstr ""
+msgstr "Учнівство"
 
 #: 00_index.html:59
 msgctxt "00_index.html line:59"
 msgid "The Coming of the Kingdom"
-msgstr ""
+msgstr "Прихід Царства Бога"
 
 #: 00_index.html:60
 msgctxt "00_index.html line:60"
 msgid "Light and Darkness"
-msgstr ""
+msgstr "Світло і Темрява"
 
 #: 00_index.html:61
 msgid "New Testament Conversion"
-msgstr ""
+msgstr "Навернення в Новому Заповіті"
 
 #: 00_index.html:62
 msgid "The Cross"
-msgstr ""
+msgstr "Розп‘яття"
 
 #: 00_index.html:63
 msgid "The Medical Account of the Crucifixion of Christ"
-msgstr ""
+msgstr "Опис смерті Христа з точки зору медицини"
 
 #: 00_index.html:64
 msgctxt "00_index.html line:64"
 msgid "Baptism with the Holy Spirit"
-msgstr ""
+msgstr "Хрещення Святим Духом"
 
 #: 00_index.html:65
 msgid "Miraculous Gifts of the Holy Spirit"
-msgstr ""
+msgstr "Чудесні Дари Святого Духа"
 
 #: 00_index.html:66
 msgid "The Church"
-msgstr ""
+msgstr "Церква"
 
 #: 00_index.html:67
 msgid "The Book of Acts"
-msgstr ""
+msgstr "Дії апостолів"
 
 #: 00_index.html:68
 msgctxt "00_index.html line:68"
 msgid "After Baptism, Now What?"
-msgstr ""
+msgstr "Після хрещення, що ж тепер?"
 
 #: 00_index.html:69
 msgid "Christ Is Your Life"
-msgstr ""
+msgstr "Христос - твоє життя"
 
 #: 00_index.html:70
 msgid "Best Friends of All Time"
-msgstr ""
+msgstr "Кращі друзі на всі часи"
 
 #: 00_index.html:71
 msgid "The Mission"
-msgstr ""
+msgstr "Місія"
 
 #: 00_index.html:72
 msgid "Persecution"
-msgstr ""
+msgstr "Переслідування"
 
 #: 00_index.html:73
 msgid "Memory Scriptures"
-msgstr ""
+msgstr "Уривки для запам‘ятовування"
 
 #: 01_introduction.html:10
 msgctxt "01_introduction.html line:10"
@@ -128,11 +128,11 @@ msgstr ""
 
 #: 01_introduction.html:28
 msgid "For when by reason of the time you ought to be teachers, you... need to have someone teach you the rudiments of the first principles of the oracles of God... Therefore leaving the doctrine of the first principles of Christ, let us press on to perfection - not laying again a foundation... of faith toward God, of the teaching of baptisms, of laying on of hands, of resurrection of the dead and of eternal judgment. This will we do!"
-msgstr ""
+msgstr "Вам би вже слід самим стати вчителями ... ви все потребуєте когось такого, хто навчив би вас найпростіших азів Божого ... тому облишмо найпростіші ази вчення про Христа й перейдемо до науки, що допомогає нам досягти зрілості. Не будемо знову повертатися до основоположних питань ... про віру в Бога, вчення про хрещення й рукопокладання, про воскресіння з мертвих і Вищий Суд. Ми зробимо й це..."
 
 #: 01_introduction.html:28
 msgid "Hebrews 5:12; 6:1-3"
-msgstr ""
+msgstr "Євреям 5:12; 6:1-3спо"
 
 #: 01_introduction.html:28
 msgid "WEV"
@@ -140,33 +140,33 @@ msgstr ""
 
 #: 01_introduction.html:30
 msgid "Originally, the First Principle Studies were written in 1980, while I served the Lord during the formative early days of the Boston Church of Christ. They were revised in 2003 and 2006 to meet the needs and to confront the challenges of the Portland International Church of Christ. In Los Angeles in 2009 and 2012, I made a few more modifications. As of today, these same First Principles Studies are being taught to all the new disciples of the"
-msgstr ""
+msgstr "Спочатку серія уроків “Перші принципи“ була написана в 1980 році, коли я служив Господу в ранні дні становлення Бостонської Церкви Христа. Уроки були переглянуто в 2003 та 2006 роках, щоб задовольнити виникнені потреби та відповісти на виклики, які постали перед Портлендською Міжнародною Церквою Христа. У Лос-Анжелесі в 2009 та 2012 роках я ввів ще декілька змін. На сьогоднішній день, саме по цій серії уроків вчать усіх нових учнів у"
 
 #: 01_introduction.html:31
 msgid "City of Angels International Christian Church"
-msgstr ""
+msgstr "Міжнародній Християнській Церкві Міста Ангелів"
 
 #: 01_introduction.html:32
 msgid "God has greatly blessed these lessons as they have been translated into over 20 languages around the world. May the Lord continue to \"solidify, unify and multiply\" sold-out disciples everywhere for the evangelization of all the nations in this generation! And to God be the glory!"
-msgstr ""
+msgstr "Бог сильно благословив ці уроки, так як вони були переведені більш ніж на 20 мов по всьому світу. Нехай же Господь продовжує “стверджувати, об‘єднувати та примножувати“ повністю відданих учнів всюди для навернення всіх народів у цьому поколінні! І нехай вся слава буде Богу!"
 
 #: 01_introduction.html:34
 msgid "Dr. Kip McKean"
-msgstr ""
+msgstr "Кіп Маккін"
 
 #: 01_introduction.html:35
 msgid "July 1, 2014"
-msgstr ""
+msgstr "1 липня 2014 року"
 
 #: 03_book_of_john.html:10
 msgctxt "03_book_of_john.html line:10"
 msgid "The Book of John"
-msgstr ""
+msgstr "Євангеліє від Івана"
 
 #: 03_book_of_john.html:21
 msgctxt "03_book_of_john.html line:21"
 msgid "The Book of John"
-msgstr ""
+msgstr "Євангеліє від Івана"
 
 #: 03_book_of_john.html:22
 msgctxt "03_book_of_john.html line:22"
@@ -176,12 +176,12 @@ msgstr ""
 #: 04_seeking_god.html:10
 msgctxt "04_seeking_god.html line:10"
 msgid "Seeking God"
-msgstr ""
+msgstr "У пошуках Бога"
 
 #: 04_seeking_god.html:21
 msgctxt "04_seeking_god.html line:21"
 msgid "Seeking God"
-msgstr ""
+msgstr "У пошуках Бога"
 
 #: 04_seeking_god.html:22
 msgctxt "04_seeking_god.html line:22"
@@ -194,11 +194,11 @@ msgstr "\"Блаженний\" означає \"щасливий\" (найвищ
 
 #: 04_seeking_god.html:32
 msgid "Happiness is not the goal of one who seeks God but the \"by-product\""
-msgstr ""
+msgstr "Щастя - це не ціль того, хто шукає Бога, а “бонус“"
 
 #: 04_seeking_god.html:33
 msgid "To seek God you must do it with all your heart"
-msgstr "Шукати Бога потрібно всім серцем."
+msgstr "Шукати Бога потрібно всім серцем"
 
 #: 04_seeking_god.html:34
 msgid "Seeking God means to \"keep His statutes\""
@@ -214,31 +214,31 @@ msgstr "Бог знає твої потреби"
 
 #: 04_seeking_god.html:42
 msgid "Seek first His kingdom and righteousness"
-msgstr ""
+msgstr "Шукай перш за все Царство Бога та Його правду"
 
 #: 04_seeking_god.html:43
 msgid "Then God will give you everything you need"
-msgstr ""
+msgstr "Тоді Бог дасть тобі все необхідне"
 
 #: 04_seeking_god.html:49
 msgid "God determines the times and places each person lives"
-msgstr ""
+msgstr "Бог визначив час і місце для життя кожної людини"
 
 #: 04_seeking_god.html:50
 msgid "He does this so men will seek Him, reach out for Him and find Him"
-msgstr ""
+msgstr "Він зробив це для того, щоб люди шукали Його, прагнули та знайшли Його"
 
 #: 04_seeking_god.html:51
 msgid "He is not far from anyone"
-msgstr ""
+msgstr "Він недалеко від кожного"
 
 #: 04_seeking_god.html:52
 msgid "A Christian meeting you is not by chance - but of God"
-msgstr ""
+msgstr "Те, що тебе зустріли християни - не випадковість, це від Бога"
 
 #: 04_seeking_god.html:58
 msgid "God seeks men (Acts 17 taught men must seek God"
-msgstr ""
+msgstr "Бог шукає людей (Дії 17 вчить, що люди мають шукати Бога"
 
 #: 04_seeking_god.html:59
 msgid "Men who want to worship Him in spirit and in truth"
@@ -402,12 +402,12 @@ msgstr ""
 #: 06_discipleship.html:10
 msgctxt "06_discipleship.html line:10"
 msgid "Discipleship"
-msgstr ""
+msgstr "Учнівство"
 
 #: 06_discipleship.html:21
 msgctxt "06_discipleship.html line:21"
 msgid "Discipleship"
-msgstr ""
+msgstr "Учнівство"
 
 #: 06_discipleship.html:22
 msgctxt "06_discipleship.html line:22"
@@ -421,27 +421,27 @@ msgstr ""
 
 #: 06_discipleship.html:31
 msgid "What does Jesus want everybody to become?"
-msgstr ""
+msgstr "Ким Ісус хоче, щоб всі люди стали?"
 
 #: 06_discipleship.html:32
 msgid "Which is the more popular term - \"Disciple\" or \"Christian?\" The word \"Christian\" only appears three times in the New Testament. It is the name those in the world gave the disciples, seven years after the church began"
-msgstr ""
+msgstr "Яке слово більш популярне: “учень Христа“ чи “християнин“? Слово “християнин“ зустрічається в Новому Заповіті лише три рази. Це кличка, яку мирські люди дали учням Христа через сім років після початку церкви"
 
 #: 06_discipleship.html:34
 msgid "The word \"Disciple\" occurs over 270 times in the New Testament"
-msgstr ""
+msgstr "Слово “учень Христа“ зустрічається в Новому Заповіті більше 270 разів"
 
 #: 06_discipleship.html:36
 msgid "SAVED = CHRISTIAN = DISCIPLE"
-msgstr ""
+msgstr "СПАСЕННИЙ = ХРИСТИЯНИН = УЧЕНЬ ХРИСТА"
 
 #: 06_discipleship.html:37
 msgid "Jesus came to make disciples. Only baptized disciples will be saved"
-msgstr ""
+msgstr "Ісус прийшов, щоб робити людей учнями. Лише хрещенні учні будуть спасенні"
 
 #: 06_discipleship.html:41
 msgid "Let's have Jesus define disciple, thus defining who is a true Christian"
-msgstr ""
+msgstr "Давайте подивимось, як Ісус визначає, хто такі учні, щоб зрозуміти хто такі істинні християни"
 
 #: 06_discipleship.html:50
 msgid "Calling of the first disciples"
@@ -449,132 +449,132 @@ msgstr ""
 
 #: 06_discipleship.html:51
 msgid "Come follow me (Christ)"
-msgstr ""
+msgstr "Ідіть за Мною (Христом)"
 
 #: 06_discipleship.html:52
 msgid "Fishers of men - Jesus gave these first disciples the real purpose for living"
-msgstr ""
+msgstr "Ловці людей - Ісус дав цим першим учням справжню ціль життя"
 
 #: 06_discipleship.html:53
 msgid "Immediately"
-msgstr ""
+msgstr "Відразу"
 
 #: 06_discipleship.html:61
 msgctxt "06_discipleship.html line:61"
 msgid "If any man..."
-msgstr ""
+msgstr "Якщо хто хоче..."
 
 #: 06_discipleship.html:62
 msgid "Deny self. Notice Christ in the garden"
-msgstr ""
+msgstr "Відріктися від себе. Зверніть увагу на Христа в Гефсиманському саду"
 
 #: 06_discipleship.html:65
 msgid "'Not my will, but your will'"
-msgstr ""
+msgstr "“...не те, чого Я хочу, а те, чого Ти бажаєш\""
 
 #: 06_discipleship.html:65
 msgid "Do not give in to moods"
-msgstr ""
+msgstr "Не можна піддаватись настрою"
 
 #: 06_discipleship.html:67
 msgid "Carry the cross - daily"
-msgstr ""
+msgstr "Нести хрест кожен день"
 
 #: 06_discipleship.html:68
 msgid "Gain the world ... forfeit soul. Lose your life for Jesus ... save it"
-msgstr ""
+msgstr "Придбати весь світ ... знищити самого себе. Загубити св"
 
 #: 06_discipleship.html:76
 msgctxt "06_discipleship.html line:76"
 msgid "If any man..."
-msgstr ""
+msgstr "Якщо хто-небудь..."
 
 #: 06_discipleship.html:77
 msgid "Count the cost (v. 28-30)"
-msgstr ""
+msgstr "Підрахувати витрати (в. 28-30)"
 
 #: 06_discipleship.html:78
 msgid "Consider the alternatives (v. 31-32)"
-msgstr ""
+msgstr "Продивитись інші варіанти (в. 31-32)"
 
 #: 06_discipleship.html:79
 msgid "Love Christ more than any person (v. 26)"
-msgstr ""
+msgstr "Любити Христа більше будь-кого іншого (в. 26)"
 
 #: 06_discipleship.html:80
 msgid "Persecutions (v. 27)"
-msgstr ""
+msgstr "Переслідування (в. 27)"
 
 #: 06_discipleship.html:81
 msgid "Everything, not just anything (v. 33)"
-msgstr ""
+msgstr "Все, а не якусь частину (в. 33)"
 
 #: 06_discipleship.html:89
 msgid "Must learn to pray - disciples saw the strength Jesus received from the Father"
-msgstr ""
+msgstr "Треба вчитись молитись - учні побачили, що Ісус брав сили у Отця"
 
 #: 06_discipleship.html:90
 msgid "Daily personal relationship with God (v. 3); daily prayer"
-msgstr ""
+msgstr "Кожен день мати особисті відносини з Богом (в. 3). Щоденна молитва"
 
 #: 06_discipleship.html:98
 msgid "Love one another"
-msgstr ""
+msgstr "Любити один одного"
 
 #: 06_discipleship.html:99
 msgid "Be an active part of the fellowship"
-msgstr ""
+msgstr "Приймай активну участь в житті учнів"
 
 #: 06_discipleship.html:107
 msgid "Command - make disciples (given to all)"
-msgstr ""
+msgstr "Заповідь - робити учнів (дана всім)"
 
 #: 06_discipleship.html:108
 msgid "Who is a candidate for baptism?  A person who makes the decision to be a disciple"
-msgstr ""
+msgstr "Хто може хреститись? Той, хто прийняв рішення бути учнем Христа"
 
 #: 06_discipleship.html:109
 msgid "You need someone to disciple you to maturity in Christ"
-msgstr ""
+msgstr "Тобі потрібна людина, яка буде тебе вчити, щоб ти дорослішав(-ла) у Христі"
 
 #: 06_discipleship.html:111
 msgid "This is the only way to save the world!"
-msgstr ""
+msgstr "Це єдиний шлях, щоб зберегти світ!"
 
 #: 06_discipleship.html:114
 msgid "Year"
-msgstr ""
+msgstr "Рік"
 
 #: 06_discipleship.html:115
 msgid "Preacher"
-msgstr ""
+msgstr "Проповідник"
 
 #: 06_discipleship.html:116
 msgctxt "06_discipleship.html line:116"
 msgid "Disciple"
-msgstr ""
+msgstr "Учень Христа"
 
 #: 06_discipleship.html:141
 msgid "the world, 10 billion plus"
-msgstr ""
+msgstr "Світ, більше мільярдів "
 
 #: 06_discipleship.html:150
 msgid "Conclusion Question:"
-msgstr ""
+msgstr "Підсумкові питання:"
 
 #: 06_discipleship.html:150
 msgid "Am I a disciple?  Am I a Christian?  Am I saved?  What do I need to do to become a disciple?"
-msgstr ""
+msgstr "Чи я учень? Чи я християнин? Чи я спасенний? Що мені необхідно зробити, щоб стати учнем?"
 
 #: 07_coming_of_the_kingdom.html:10
 msgctxt "07_coming_of_the_kingdom.html line:10"
 msgid "The Coming of the Kingdom"
-msgstr ""
+msgstr "Прихід Царства Бога"
 
 #: 07_coming_of_the_kingdom.html:21
 msgctxt "07_coming_of_the_kingdom.html line:21"
 msgid "The Coming of the Kingdom"
-msgstr ""
+msgstr "Прихід Царства Бога"
 
 #: 07_coming_of_the_kingdom.html:22
 msgctxt "07_coming_of_the_kingdom.html line:22"
@@ -587,34 +587,34 @@ msgstr ""
 
 #: 07_coming_of_the_kingdom.html:29
 msgid "Questions:  What is the Kingdom of God?  When did it come?"
-msgstr ""
+msgstr "Питання: Що таке Царство Бога? Коли воно прийшло, чи прийде?"
 
 #: 07_coming_of_the_kingdom.html:33
 msgid "Old Testament Predictions of the Kingdom (the height of Israel's glory was under the kingship of David, approximately 1000 B.C.)"
-msgstr ""
+msgstr "Пророцтва Старого Заповіту про Царство (найбільшу славу Ізраїль мав у часи царювання Давида приблизно в 1000 році до н.е.)"
 
 #: 07_coming_of_the_kingdom.html:36
 msgid "(750 B.C.)"
-msgstr ""
+msgstr "(750 р. до н.е.)"
 
 #: 07_coming_of_the_kingdom.html:38
 msgctxt "07_coming_of_the_kingdom.html line:38"
 msgid "Last days"
-msgstr ""
+msgstr "Останні дні"
 
 #: 07_coming_of_the_kingdom.html:39
 msgid "Mountains (Symbolizes kingdoms):  Mountain of the Lord, chief of the mountains"
-msgstr ""
+msgstr "Гори (символізують царства): Гора Господа найвища з гір"
 
 #: 07_coming_of_the_kingdom.html:40
 msgctxt "07_coming_of_the_kingdom.html line:40"
 msgid "All nations"
-msgstr ""
+msgstr "Всі народи"
 
 #: 07_coming_of_the_kingdom.html:41
 msgctxt "07_coming_of_the_kingdom.html line:41"
 msgid "Jerusalem"
-msgstr ""
+msgstr "Ієрусалим"
 
 #: 07_coming_of_the_kingdom.html:45
 msgid "(550 B.C.)"
@@ -626,64 +626,64 @@ msgstr ""
 
 #: 07_coming_of_the_kingdom.html:48
 msgid "Daniel interprets King Nebuchadnezzar's dream"
-msgstr ""
+msgstr "Даніїл пояснює царю Навуходоносору його сон"
 
 #: 07_coming_of_the_kingdom.html:50
 msgid "Empires"
-msgstr ""
+msgstr "Імперії"
 
 #: 07_coming_of_the_kingdom.html:52
 msgid "Babylonian:  gold"
-msgstr ""
+msgstr "Вавилонська: золото"
 
 #: 07_coming_of_the_kingdom.html:53
 msgid "Medo-Persian:  silver"
-msgstr ""
+msgstr "Мідо-Персидська: срібло"
 
 #: 07_coming_of_the_kingdom.html:54
 msgid "Alexander the Great:  bronze"
-msgstr ""
+msgstr "Олександра Македонського: бронза"
 
 #: 07_coming_of_the_kingdom.html:55
 msgid "Roman:  iron (iron and clay)"
-msgstr ""
+msgstr "Римська: залізо (залізо з глиною)"
 
 #: 07_coming_of_the_kingdom.html:58
 msgid "Rock - cut out not by human hands (therefore God)"
-msgstr ""
+msgstr "Камінь - відколовся без допомоги людських рук (з допомогою Бога)"
 
 #: 07_coming_of_the_kingdom.html:59
 msgid "Rock becomes huge mountain - filled the whole earth"
-msgstr ""
+msgstr "Камінь перетворився у величезну гору - і заповнив всю землю"
 
 #: 07_coming_of_the_kingdom.html:60
 msgid "Kingdom that will never be destroyed (v. 44)"
-msgstr ""
+msgstr "Царство, яке ніколи не буде зруйноване (в. 44)"
 
 #: 07_coming_of_the_kingdom.html:66
 msgid "New Testament Predictions of the Kingdom"
-msgstr ""
+msgstr "Пророцтва Нового Заповіту про Царство"
 
 #: 07_coming_of_the_kingdom.html:69
 msgid "John the Baptist"
-msgstr ""
+msgstr "Іван Хреститель"
 
 #: 07_coming_of_the_kingdom.html:69
 msgid "(25 A.D.)"
-msgstr ""
+msgstr "(25 р. н.е.)"
 
 #: 07_coming_of_the_kingdom.html:71
 msgctxt "07_coming_of_the_kingdom.html line:71"
 msgid "Kingdom is near"
-msgstr ""
+msgstr "Царство близько"
 
 #: 07_coming_of_the_kingdom.html:75
 msgid "Jesus"
-msgstr ""
+msgstr "Ісус"
 
 #: 07_coming_of_the_kingdom.html:75
 msgid "(30 A.D.)"
-msgstr ""
+msgstr "(30 р. н.е.)"
 
 #: 07_coming_of_the_kingdom.html:77
 msgctxt "07_coming_of_the_kingdom.html line:77"
