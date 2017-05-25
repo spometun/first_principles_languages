@@ -30,6 +30,10 @@ msgstr ""
 msgid "Share \"letter to God.\" If the new disciple has not had a chance to write one, encourage him/her to do so"
 msgstr ""
 
+#: 16_after_baptism_now_what.html:44
+msgid "Acts 2:36-47"
+msgstr ""
+
 #: 16_after_baptism_now_what.html:47
 msgid "The Conversion of the 3000"
 msgstr ""
@@ -78,13 +82,25 @@ msgstr ""
 msgid "Discuss the leadership's expectation to tithe on Sundays and give a benevolent offering at the Midweek Services.  Read together"
 msgstr ""
 
+#: 16_after_baptism_now_what.html:87
+msgid "Malachi 3:6-12"
+msgstr ""
+
 #: 16_after_baptism_now_what.html:90
 msgctxt "16_after_baptism_now_what.html line:90"
 msgid "and"
 msgstr ""
 
+#: 16_after_baptism_now_what.html:93
+msgid "Hebrews 13:17"
+msgstr ""
+
 #: 16_after_baptism_now_what.html:100
 msgid "Devoted to Breaking Bread — Communion"
+msgstr ""
+
+#: 16_after_baptism_now_what.html:103
+msgid "1 Corinthians 11:23-32"
 msgstr ""
 
 #: 16_after_baptism_now_what.html:108
@@ -99,6 +115,10 @@ msgstr ""
 msgid "sick:"
 msgstr ""
 
+#: 16_after_baptism_now_what.html:114
+msgid "Proverbs 13:12"
+msgstr ""
+
 #: 16_after_baptism_now_what.html:121
 msgid "Devoted to Prayer"
 msgstr ""
@@ -107,8 +127,16 @@ msgstr ""
 msgid "Discuss how prayer brings peace"
 msgstr ""
 
+#: 16_after_baptism_now_what.html:127
+msgid "Philippians 4:4-7"
+msgstr ""
+
 #: 16_after_baptism_now_what.html:132
 msgid "Share petitions and answered prayers"
+msgstr ""
+
+#: 16_after_baptism_now_what.html:141
+msgid "Acts 9:1-22"
 msgstr ""
 
 #: 16_after_baptism_now_what.html:144
@@ -133,6 +161,10 @@ msgstr ""
 
 #: 16_after_baptism_now_what.html:161
 msgid "Paul is persecuted"
+msgstr ""
+
+#: 16_after_baptism_now_what.html:168
+msgid "Hebrews 5:11-6:6"
 msgstr ""
 
 #: 16_after_baptism_now_what.html:171

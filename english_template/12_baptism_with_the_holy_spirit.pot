@@ -26,6 +26,10 @@ msgstr ""
 msgid "Jesus was given the Spirit in full measure (RSV), no limit"
 msgstr ""
 
+#: 12_baptism_with_the_holy_spirit.html:28
+msgid "John 3:34"
+msgstr ""
+
 #: 12_baptism_with_the_holy_spirit.html:29
 msgid "There are three measures of the Holy Spirit:"
 msgstr ""
@@ -38,12 +42,21 @@ msgstr ""
 msgid "Terminology from"
 msgstr ""
 
+#: 12_baptism_with_the_holy_spirit.html:40
+msgid "Romans 8:9"
+msgstr ""
+
 #: 12_baptism_with_the_holy_spirit.html:42
 msgid "(RSV)"
 msgstr ""
 
 #: 12_baptism_with_the_holy_spirit.html:46
 msgid "Received at baptism"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:49
+msgctxt "12_baptism_with_the_holy_spirit.html line:49"
+msgid "Acts 2:38"
 msgstr ""
 
 #: 12_baptism_with_the_holy_spirit.html:57
@@ -55,13 +68,27 @@ msgstr ""
 msgid "Characteristics in"
 msgstr ""
 
+#: 12_baptism_with_the_holy_spirit.html:64
+msgctxt "12_baptism_with_the_holy_spirit.html line:64"
+msgid "Acts 2"
+msgstr ""
+
 #: 12_baptism_with_the_holy_spirit.html:67
 msgctxt "12_baptism_with_the_holy_spirit.html line:67"
 msgid "and"
 msgstr ""
 
+#: 12_baptism_with_the_holy_spirit.html:70
+msgctxt "12_baptism_with_the_holy_spirit.html line:70"
+msgid "Acts 10"
+msgstr ""
+
 #: 12_baptism_with_the_holy_spirit.html:75
 msgid "Promise (not command):"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:78
+msgid "Acts 1:4-5"
 msgstr ""
 
 #: 12_baptism_with_the_holy_spirit.html:83
@@ -80,6 +107,11 @@ msgstr ""
 msgid "Purpose:  to usher in the Kingdom with power"
 msgstr ""
 
+#: 12_baptism_with_the_holy_spirit.html:95
+msgctxt "12_baptism_with_the_holy_spirit.html line:95"
+msgid "Acts 1:8"
+msgstr ""
+
 #: 12_baptism_with_the_holy_spirit.html:102
 msgid "Accounts of the Baptism with the Holy Spirit"
 msgstr ""
@@ -88,12 +120,26 @@ msgstr ""
 msgid "To the Jews — in Jerusalem"
 msgstr ""
 
+#: 12_baptism_with_the_holy_spirit.html:108
+msgctxt "12_baptism_with_the_holy_spirit.html line:108"
+msgid "Acts 2"
+msgstr ""
+
 #: 12_baptism_with_the_holy_spirit.html:113
 msgid "To the Gentiles — begins with Cornelius"
 msgstr ""
 
+#: 12_baptism_with_the_holy_spirit.html:116
+msgctxt "12_baptism_with_the_holy_spirit.html line:116"
+msgid "Acts 10"
+msgstr ""
+
 #: 12_baptism_with_the_holy_spirit.html:121
 msgid "Note:  Cornelius and his household were water baptized in"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:123
+msgid "Acts 10:48"
 msgstr ""
 
 #: 12_baptism_with_the_holy_spirit.html:125
@@ -104,8 +150,16 @@ msgstr ""
 msgid "Peter explained actions to the Jews"
 msgstr ""
 
+#: 12_baptism_with_the_holy_spirit.html:131
+msgid "Acts 11:1-18"
+msgstr ""
+
 #: 12_baptism_with_the_holy_spirit.html:136
 msgid "\"At the beginning\""
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:139
+msgid "Acts 11:15"
 msgstr ""
 
 #: 12_baptism_with_the_holy_spirit.html:144
@@ -114,6 +168,11 @@ msgstr ""
 
 #: 12_baptism_with_the_holy_spirit.html:151
 msgid "Does the Baptism with the Holy Spirit still exist today?"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:154
+msgctxt "12_baptism_with_the_holy_spirit.html line:154"
+msgid "Ephesians 4:4-6"
 msgstr ""
 
 #: 12_baptism_with_the_holy_spirit.html:157
@@ -137,14 +196,28 @@ msgstr ""
 msgid "John's baptism — Passed when the new covenant began"
 msgstr ""
 
+#: 12_baptism_with_the_holy_spirit.html:167
+msgid "Acts 19:1-5"
+msgstr ""
+
 #: 12_baptism_with_the_holy_spirit.html:172
 msgctxt "12_baptism_with_the_holy_spirit.html line:172"
 msgid "The Baptism with the Holy Spirit"
 msgstr ""
 
+#: 12_baptism_with_the_holy_spirit.html:175
+msgctxt "12_baptism_with_the_holy_spirit.html line:175"
+msgid "Acts 2"
+msgstr ""
+
 #: 12_baptism_with_the_holy_spirit.html:177
 msgctxt "12_baptism_with_the_holy_spirit.html line:177"
 msgid "and"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:179
+msgctxt "12_baptism_with_the_holy_spirit.html line:179"
+msgid "Acts 10"
 msgstr ""
 
 #: 12_baptism_with_the_holy_spirit.html:182
@@ -159,6 +232,11 @@ msgstr ""
 msgid "Jesus commanded this baptism"
 msgstr ""
 
+#: 12_baptism_with_the_holy_spirit.html:191
+msgctxt "12_baptism_with_the_holy_spirit.html line:191"
+msgid "Matthew 28:18-20"
+msgstr ""
+
 #: 12_baptism_with_the_holy_spirit.html:196
 msgid "This baptism is recorded all the way through the book of Acts and the Epistles. In fact, Peter was present for all the baptisms:  John's baptism, both accounts of the Baptism of the Holy Spirit, and preached water baptism in the name of Jesus in Acts 2"
 msgstr ""
@@ -170,6 +248,10 @@ msgstr ""
 
 #: 12_baptism_with_the_holy_spirit.html:200
 msgid "and in"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:203
+msgid "1 Peter 3:18-21"
 msgstr ""
 
 #: 12_baptism_with_the_holy_spirit.html:206
@@ -186,6 +268,11 @@ msgstr ""
 
 #: 12_baptism_with_the_holy_spirit.html:213
 msgid "It had to be the one baptism of"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:216
+msgctxt "12_baptism_with_the_holy_spirit.html line:216"
+msgid "Ephesians 4:4-6"
 msgstr ""
 
 #: 12_baptism_with_the_holy_spirit.html:219

@@ -22,12 +22,21 @@ msgctxt "06_discipleship.html line:28"
 msgid "Introduction:"
 msgstr ""
 
+#: 06_discipleship.html:28
+msgctxt "06_discipleship.html line:28"
+msgid "Matthew 28:18-20"
+msgstr ""
+
 #: 06_discipleship.html:31
 msgid "What does Jesus want everybody to become?"
 msgstr ""
 
 #: 06_discipleship.html:32
 msgid "Which is the more popular term - \"Disciple\" or \"Christian?\" The word \"Christian\" only appears three times in the New Testament. It is the name those in the world gave the disciples, seven years after the church began"
+msgstr ""
+
+#: 06_discipleship.html:33
+msgid "Acts 11:19-26"
 msgstr ""
 
 #: 06_discipleship.html:34
@@ -46,6 +55,10 @@ msgstr ""
 msgid "Let's have Jesus define disciple, thus defining who is a true Christian"
 msgstr ""
 
+#: 06_discipleship.html:47
+msgid "Mark 1:14-18"
+msgstr ""
+
 #: 06_discipleship.html:50
 msgid "Calling of the first disciples"
 msgstr ""
@@ -62,6 +75,10 @@ msgstr ""
 msgid "Immediately"
 msgstr ""
 
+#: 06_discipleship.html:58
+msgid "Luke 9:23-26"
+msgstr ""
+
 #: 06_discipleship.html:61
 msgctxt "06_discipleship.html line:61"
 msgid "If any man..."
@@ -69,6 +86,10 @@ msgstr ""
 
 #: 06_discipleship.html:62
 msgid "Deny self. Notice Christ in the garden"
+msgstr ""
+
+#: 06_discipleship.html:64
+msgid "Matthew 26:36-39"
 msgstr ""
 
 #: 06_discipleship.html:65
@@ -85,6 +106,10 @@ msgstr ""
 
 #: 06_discipleship.html:68
 msgid "Gain the world ... forfeit soul. Lose your life for Jesus ... save it"
+msgstr ""
+
+#: 06_discipleship.html:73
+msgid "Luke 14:25-33"
 msgstr ""
 
 #: 06_discipleship.html:76
@@ -112,6 +137,10 @@ msgstr ""
 msgid "Everything, not just anything (v. 33)"
 msgstr ""
 
+#: 06_discipleship.html:86
+msgid "Luke 11:1-4"
+msgstr ""
+
 #: 06_discipleship.html:89
 msgid "Must learn to pray - disciples saw the strength Jesus received from the Father"
 msgstr ""
@@ -120,12 +149,21 @@ msgstr ""
 msgid "Daily personal relationship with God (v. 3); daily prayer"
 msgstr ""
 
+#: 06_discipleship.html:95
+msgid "John 13:34-35"
+msgstr ""
+
 #: 06_discipleship.html:98
 msgid "Love one another"
 msgstr ""
 
 #: 06_discipleship.html:99
 msgid "Be an active part of the fellowship"
+msgstr ""
+
+#: 06_discipleship.html:104
+msgctxt "06_discipleship.html line:104"
+msgid "Matthew 28:18-20"
 msgstr ""
 
 #: 06_discipleship.html:107

@@ -26,6 +26,10 @@ msgctxt "08_light_and_darkness.html line:31"
 msgid "Introduction:"
 msgstr ""
 
+#: 08_light_and_darkness.html:31
+msgid "1 Peter 2:9-10"
+msgstr ""
+
 #: 08_light_and_darkness.html:36
 msgctxt "08_light_and_darkness.html line:36"
 msgid "Darkness"
@@ -90,6 +94,10 @@ msgctxt "08_light_and_darkness.html line:56"
 msgid "Darkness"
 msgstr ""
 
+#: 08_light_and_darkness.html:59
+msgid "Isaiah 59:1-2"
+msgstr ""
+
 #: 08_light_and_darkness.html:62
 msgid "Sin separates us from God"
 msgstr ""
@@ -127,6 +135,10 @@ msgstr ""
 
 #: 08_light_and_darkness.html:91
 msgid "The point in time that sin is forgiven is the point in time a person is saved"
+msgstr ""
+
+#: 08_light_and_darkness.html:95
+msgid "Romans 3:23-25"
 msgstr ""
 
 #: 08_light_and_darkness.html:98
@@ -177,8 +189,16 @@ msgid "What is Sin?"
 msgstr ""
 
 #: 08_light_and_darkness.html:133
+msgid "Galatians 5:19-21"
+msgstr ""
+
+#: 08_light_and_darkness.html:133
 msgctxt "08_light_and_darkness.html line:133"
 msgid "(sins of commission)"
+msgstr ""
+
+#: 08_light_and_darkness.html:134
+msgid "2 Timothy 3:1-5"
 msgstr ""
 
 #: 08_light_and_darkness.html:134
@@ -187,11 +207,19 @@ msgid "(sins of commission)"
 msgstr ""
 
 #: 08_light_and_darkness.html:135
+msgid "James 4:17"
+msgstr ""
+
+#: 08_light_and_darkness.html:135
 msgid "(sins of omission)"
 msgstr ""
 
 #: 08_light_and_darkness.html:139
 msgid "What is the eternal consequence of sin?"
+msgstr ""
+
+#: 08_light_and_darkness.html:139
+msgid "Romans 6:23"
 msgstr ""
 
 #: 08_light_and_darkness.html:144
@@ -234,6 +262,11 @@ msgid "Light"
 msgstr ""
 
 #: 08_light_and_darkness.html:162
+msgctxt "08_light_and_darkness.html line:162"
+msgid "John 3:1-7"
+msgstr ""
+
+#: 08_light_and_darkness.html:162
 msgid "Born again (v. 3), born of water and Spirit (v. 5), born again. (v. 7)"
 msgstr ""
 
@@ -243,6 +276,10 @@ msgstr ""
 
 #: 08_light_and_darkness.html:165
 msgid "What message must one believe to be in the light (to be saved)?"
+msgstr ""
+
+#: 08_light_and_darkness.html:165
+msgid "Acts 2:22-24"
 msgstr ""
 
 #: 08_light_and_darkness.html:167
@@ -273,8 +310,16 @@ msgstr ""
 msgid "All have sinned."
 msgstr ""
 
+#: 08_light_and_darkness.html:169
+msgid "Romans 3:23"
+msgstr ""
+
 #: 08_light_and_darkness.html:173
 msgid "Response of people:"
+msgstr ""
+
+#: 08_light_and_darkness.html:173
+msgid "Acts 2:36-37"
 msgstr ""
 
 #: 08_light_and_darkness.html:175
@@ -287,6 +332,10 @@ msgstr ""
 
 #: 08_light_and_darkness.html:180
 msgid "Once the people believed, what did they do?"
+msgstr ""
+
+#: 08_light_and_darkness.html:180
+msgid "Acts 2:38-42"
 msgstr ""
 
 #: 08_light_and_darkness.html:182
@@ -307,6 +356,10 @@ msgstr ""
 
 #: 08_light_and_darkness.html:191
 msgid "Baptism:"
+msgstr ""
+
+#: 08_light_and_darkness.html:191
+msgid "Romans 6:1-4"
 msgstr ""
 
 #: 08_light_and_darkness.html:192
@@ -363,6 +416,11 @@ msgstr ""
 msgid "Separates us from God"
 msgstr ""
 
+#: 08_light_and_darkness.html:244
+msgctxt "08_light_and_darkness.html line:244"
+msgid "Acts 2:38"
+msgstr ""
+
 #: 08_light_and_darkness.html:245
 msgid "Sin is Forgiven"
 msgstr ""
@@ -371,12 +429,25 @@ msgstr ""
 msgid "Born Again of Water and Spirit"
 msgstr ""
 
+#: 08_light_and_darkness.html:249
+msgid "John 3:5"
+msgstr ""
+
+#: 08_light_and_darkness.html:253
+msgctxt "08_light_and_darkness.html line:253"
+msgid "Acts 2:38"
+msgstr ""
+
 #: 08_light_and_darkness.html:254
 msgid "Water = Baptism"
 msgstr ""
 
 #: 08_light_and_darkness.html:254
 msgid "Spirit = Received at Baptism"
+msgstr ""
+
+#: 08_light_and_darkness.html:259
+msgid "Romans 3:25"
 msgstr ""
 
 #: 08_light_and_darkness.html:260
@@ -391,12 +462,20 @@ msgstr ""
 msgid "Traditions/False Doctrines -"
 msgstr ""
 
+#: 08_light_and_darkness.html:269
+msgid "Matthew 15:6-9"
+msgstr ""
+
 #: 08_light_and_darkness.html:272
 msgid "Infant Baptism"
 msgstr ""
 
 #: 08_light_and_darkness.html:274
 msgid "Personal faith is needed"
+msgstr ""
+
+#: 08_light_and_darkness.html:274
+msgid "Colossians 2:12"
 msgstr ""
 
 #: 08_light_and_darkness.html:275
@@ -407,12 +486,20 @@ msgstr ""
 msgid "Original sin"
 msgstr ""
 
+#: 08_light_and_darkness.html:279
+msgid "Ezekiel 18:20"
+msgstr ""
+
 #: 08_light_and_darkness.html:280
 msgid "Became \"church doctrine\" in 549 A.D."
 msgstr ""
 
 #: 08_light_and_darkness.html:286
 msgid "Praying Jesus into your heart"
+msgstr ""
+
+#: 08_light_and_darkness.html:288
+msgid "Revelation 3:20"
 msgstr ""
 
 #: 08_light_and_darkness.html:288
