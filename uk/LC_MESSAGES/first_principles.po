@@ -8,52 +8,38 @@ msgstr ""
 "Language: uk\n"
 
 #: 00_index.html:11
-msgctxt "index #1"
 msgid "First Principles"
 msgstr "Перші принципи Християнства"
 
-#: 00_index.html:22
-msgctxt "index #2"
-msgid "First Principles"
-msgstr "Перші принципи Християнства2"
-
 #: 00_index.html:23
-msgctxt "index #1"
 msgid "Home"
 msgstr "На домашню"
 
 #: 00_index.html:30
-msgctxt "index #1"
 msgid "Introduction"
 msgstr "Вступ"
 
 #: 00_index.html:31
-msgctxt "index #1"
 msgid "The Book of John"
-msgstr ""
+msgstr "Євангеліє від Івана"
 
 #: 00_index.html:32
-msgctxt "index #1"
 msgid "Seeking God"
-msgstr ""
+msgstr "В пошуках Бога"
 
 #: 00_index.html:33
-msgctxt "index #1"
 msgid "The Word of God"
 msgstr ""
 
 #: 00_index.html:34
-msgctxt "index #1"
 msgid "Discipleship"
-msgstr "Учнівство"
+msgstr ""
 
 #: 00_index.html:35
-msgctxt "index #1"
 msgid "The Coming of the Kingdom"
 msgstr ""
 
 #: 00_index.html:36
-msgctxt "index #1"
 msgid "Light and Darkness"
 msgstr ""
 
@@ -70,7 +56,6 @@ msgid "The Medical Account of the Crucifixion of Christ"
 msgstr "Опис смерті Христа з точки зору медицини"
 
 #: 00_index.html:40
-msgctxt "index #1"
 msgid "Baptism with the Holy Spirit"
 msgstr ""
 
@@ -87,7 +72,6 @@ msgid "The Book of Acts"
 msgstr "Дії апостолів"
 
 #: 00_index.html:44
-msgctxt "index #1"
 msgid "After Baptism, Now What?"
 msgstr ""
 
@@ -110,21 +94,6 @@ msgstr "Переслідування"
 #: 00_index.html:49
 msgid "Memory Scriptures"
 msgstr "Уривки для запам‘ятовування"
-
-#: 01_introduction.html:11
-msgctxt "introduction #1"
-msgid "Introduction"
-msgstr ""
-
-#: 01_introduction.html:22
-msgctxt "introduction #2"
-msgid "Introduction"
-msgstr ""
-
-#: 01_introduction.html:23
-msgctxt "introduction #1"
-msgid "Home"
-msgstr ""
 
 #: 01_introduction.html:29
 msgid "For when by reason of the time you ought to be teachers, you... need to have someone teach you the rudiments of the first principles of the oracles of God... Therefore leaving the doctrine of the first principles of Christ, let us press on to perfection - not laying again a foundation... of faith toward God, of the teaching of baptisms, of laying on of hands, of resurrection of the dead and of eternal judgment. This will we do!"
@@ -157,36 +126,6 @@ msgstr "Кіп Маккін"
 #: 01_introduction.html:36
 msgid "July 1, 2014"
 msgstr "1 липня 2014 року"
-
-#: 03_book_of_john.html:11
-msgctxt "book_of_john #1"
-msgid "The Book of John"
-msgstr ""
-
-#: 03_book_of_john.html:22
-msgctxt "book_of_john #2"
-msgid "The Book of John"
-msgstr ""
-
-#: 03_book_of_john.html:23
-msgctxt "book_of_john #1"
-msgid "Home"
-msgstr ""
-
-#: 04_seeking_god.html:11
-msgctxt "seeking_god #1"
-msgid "Seeking God"
-msgstr ""
-
-#: 04_seeking_god.html:22
-msgctxt "seeking_god #2"
-msgid "Seeking God"
-msgstr ""
-
-#: 04_seeking_god.html:23
-msgctxt "seeking_god #1"
-msgid "Home"
-msgstr ""
 
 #: 04_seeking_god.html:30
 msgid "Psalm 119:1-2"
@@ -321,21 +260,6 @@ msgstr ""
 msgid "Ask God for help"
 msgstr ""
 
-#: 05_word_of_god.html:11
-msgctxt "word_of_god #1"
-msgid "The Word of God"
-msgstr ""
-
-#: 05_word_of_god.html:22
-msgctxt "word_of_god #2"
-msgid "The Word of God"
-msgstr ""
-
-#: 05_word_of_god.html:23
-msgctxt "word_of_god #1"
-msgid "Home"
-msgstr ""
-
 #: 05_word_of_god.html:30
 msgid "2 Timothy 3:16-17"
 msgstr ""
@@ -467,21 +391,6 @@ msgstr ""
 
 #: 05_word_of_god.html:98
 msgid "Will I live by the Bible? Or will I live by my feelings, traditions, desires, etc.?"
-msgstr ""
-
-#: 06_discipleship.html:11
-msgctxt "discipleship #1"
-msgid "Discipleship"
-msgstr ""
-
-#: 06_discipleship.html:22
-msgctxt "discipleship #2"
-msgid "Discipleship"
-msgstr ""
-
-#: 06_discipleship.html:23
-msgctxt "discipleship #1"
-msgid "Home"
 msgstr ""
 
 #: 06_discipleship.html:29
@@ -673,21 +582,6 @@ msgstr "Підсумкові питання:"
 #: 06_discipleship.html:151
 msgid "Am I a disciple?  Am I a Christian?  Am I saved?  What do I need to do to become a disciple?"
 msgstr "Чи я учень? Чи я християнин? Чи я спасенний? Що мені необхідно зробити, щоб стати учнем?"
-
-#: 07_coming_of_the_kingdom.html:11
-msgctxt "coming_of_the_kingdom #1"
-msgid "The Coming of the Kingdom"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:22
-msgctxt "coming_of_the_kingdom #2"
-msgid "The Coming of the Kingdom"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:23
-msgctxt "coming_of_the_kingdom #1"
-msgid "Home"
-msgstr ""
 
 #: 07_coming_of_the_kingdom.html:29
 msgid "In this study you will see the continuity of the Old and New Testaments"
@@ -1144,21 +1038,6 @@ msgstr ""
 
 #: 07_coming_of_the_kingdom.html:179
 msgid "We must seek His Kingdom first.  Ask them to commit themselves to at least Sunday services and Midweek services"
-msgstr ""
-
-#: 08_light_and_darkness.html:11
-msgctxt "light_and_darkness #1"
-msgid "Light and Darkness"
-msgstr ""
-
-#: 08_light_and_darkness.html:22
-msgctxt "light_and_darkness #2"
-msgid "Light and Darkness"
-msgstr ""
-
-#: 08_light_and_darkness.html:23
-msgctxt "light_and_darkness #1"
-msgid "Home"
 msgstr ""
 
 #: 08_light_and_darkness.html:29
@@ -1662,21 +1541,6 @@ msgstr ""
 msgid "Suggest to the individual with whom you are studying that he or she write out and be specific about various sins that they have committed during their life.  This is so they might see the gravity and magnitude of their sin.  This is confidential and should only be shared with those who are studying with the person"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:11
-msgctxt "baptism_with_the_holy_spirit #1"
-msgid "Baptism with the Holy Spirit"
-msgstr ""
-
-#: 12_baptism_with_the_holy_spirit.html:22
-msgctxt "baptism_with_the_holy_spirit #2"
-msgid "Baptism with the Holy Spirit"
-msgstr ""
-
-#: 12_baptism_with_the_holy_spirit.html:23
-msgctxt "baptism_with_the_holy_spirit #1"
-msgid "Home"
-msgstr ""
-
 #: 12_baptism_with_the_holy_spirit.html:28
 msgctxt "baptism_with_the_holy_spirit #1"
 msgid "Introduction:"
@@ -1966,26 +1830,6 @@ msgstr ""
 
 #: 12_baptism_with_the_holy_spirit.html:245
 msgid "No longer present today"
-msgstr ""
-
-#: 16_after_baptism_now_what.html:11
-msgctxt "after_baptism_now_what #1"
-msgid "After Baptism, Now What?"
-msgstr ""
-
-#: 16_after_baptism_now_what.html:22
-msgctxt "after_baptism_now_what #2"
-msgid "After Baptism, Now What?"
-msgstr ""
-
-#: 16_after_baptism_now_what.html:23
-msgctxt "after_baptism_now_what #1"
-msgid "Home"
-msgstr ""
-
-#: 16_after_baptism_now_what.html:30
-msgctxt "after_baptism_now_what #1"
-msgid "Introduction"
 msgstr ""
 
 #: 16_after_baptism_now_what.html:34
