@@ -11,6 +11,8 @@ msgid "Hebrews 5:12; 6:1-3"
 msgstr ""
 
 #: 01_introduction.html:29
+#. For Translators: "WEV" means World English Version of the Bible (also known as World English Bible, "WEB")
+#. This is the translation where we found phrase "First Principles"
 msgid "WEV"
 msgstr ""
 
