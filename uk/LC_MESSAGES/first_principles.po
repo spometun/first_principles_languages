@@ -10,22 +10,22 @@ msgstr ""
 #: 00_index.html:11
 msgctxt "index #1"
 msgid "First Principles"
-msgstr ""
+msgstr "Перші принципи Християнства"
 
 #: 00_index.html:22
 msgctxt "index #2"
 msgid "First Principles"
-msgstr ""
+msgstr "Перші принципи Християнства"
 
 #: 00_index.html:23
 msgctxt "index #1"
 msgid "Home"
-msgstr ""
+msgstr "На домашню"
 
 #: 00_index.html:30
 msgctxt "index #1"
 msgid "Introduction"
-msgstr ""
+msgstr "Вступ"
 
 #: 00_index.html:31
 msgctxt "index #1"
@@ -45,7 +45,7 @@ msgstr ""
 #: 00_index.html:34
 msgctxt "index #1"
 msgid "Discipleship"
-msgstr ""
+msgstr "Учнівство"
 
 #: 00_index.html:35
 msgctxt "index #1"
