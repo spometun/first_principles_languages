@@ -2,179 +2,179 @@
 msgid ""
 msgstr ""
 
-#: 16_after_baptism_now_what.html:10
-msgctxt "16_after_baptism_now_what.html line:10"
-msgid "After Baptism, Now What?"
-msgstr ""
-
-#: 16_after_baptism_now_what.html:21
-msgctxt "16_after_baptism_now_what.html line:21"
+#: 16_after_baptism_now_what.html:11
+msgctxt "after_baptism_now_what #1"
 msgid "After Baptism, Now What?"
 msgstr ""
 
 #: 16_after_baptism_now_what.html:22
-msgctxt "16_after_baptism_now_what.html line:22"
+msgctxt "after_baptism_now_what #2"
+msgid "After Baptism, Now What?"
+msgstr ""
+
+#: 16_after_baptism_now_what.html:23
+msgctxt "after_baptism_now_what #1"
 msgid "Home"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:29
-msgctxt "16_after_baptism_now_what.html line:29"
+#: 16_after_baptism_now_what.html:30
+msgctxt "after_baptism_now_what #1"
 msgid "Introduction"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:33
+#: 16_after_baptism_now_what.html:34
 msgid "Discuss the young disciple's first few days as a Christian"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:36
+#: 16_after_baptism_now_what.html:37
 msgid "Share \"letter to God.\" If the new disciple has not had a chance to write one, encourage him/her to do so"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:44
+#: 16_after_baptism_now_what.html:45
 msgid "Acts 2:36-47"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:47
+#: 16_after_baptism_now_what.html:48
 msgid "The Conversion of the 3000"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:50
+#: 16_after_baptism_now_what.html:51
 msgid "Discuss Biblical conversion"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:53
+#: 16_after_baptism_now_what.html:54
 msgid "Review how to become a disciple"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:56
+#: 16_after_baptism_now_what.html:57
 msgid "Reinforce the joy of salvation and awe of God"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:61
+#: 16_after_baptism_now_what.html:62
 msgid "Devoted to the Apostles' Teaching — the Word"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:64
+#: 16_after_baptism_now_what.html:65
 msgid "For a quiet time, suggest a book or theme — reading a chapter a day"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:67
+#: 16_after_baptism_now_what.html:68
 msgid "For many, a quiet time journal is helpful"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:72
+#: 16_after_baptism_now_what.html:73
 msgid "Devoted to the Fellowship"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:75
+#: 16_after_baptism_now_what.html:76
 msgid "Discuss the purpose of each gathering:  Sunday Worship Services, Midweek Services — Men's Night Out / Women's Night Out, Bible Talks, Devotionals and discipleship partners"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:78
+#: 16_after_baptism_now_what.html:79
 msgid "Discuss the need to initiate relationships — to give, not just receive"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:81
+#: 16_after_baptism_now_what.html:82
 msgid "Discuss the importance of hospitality — invite people into your home for a meal"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:84
+#: 16_after_baptism_now_what.html:85
 msgid "Discuss the leadership's expectation to tithe on Sundays and give a benevolent offering at the Midweek Services.  Read together"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:87
+#: 16_after_baptism_now_what.html:88
 msgid "Malachi 3:6-12"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:90
-msgctxt "16_after_baptism_now_what.html line:90"
+#: 16_after_baptism_now_what.html:91
+msgctxt "after_baptism_now_what #1"
 msgid "and"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:93
+#: 16_after_baptism_now_what.html:94
 msgid "Hebrews 13:17"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:100
+#: 16_after_baptism_now_what.html:101
 msgid "Devoted to Breaking Bread — Communion"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:103
+#: 16_after_baptism_now_what.html:104
 msgid "1 Corinthians 11:23-32"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:108
+#: 16_after_baptism_now_what.html:109
 msgid "Discuss the purpose of bread and fruit of the vine"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:111
+#: 16_after_baptism_now_what.html:112
 msgid "Discuss what it means to become spiritually \"weak, sick and fallen asleep.\" How does communion prevent these conditions?"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:111
+#: 16_after_baptism_now_what.html:112
 msgid "sick:"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:114
+#: 16_after_baptism_now_what.html:115
 msgid "Proverbs 13:12"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:121
+#: 16_after_baptism_now_what.html:122
 msgid "Devoted to Prayer"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:124
+#: 16_after_baptism_now_what.html:125
 msgid "Discuss how prayer brings peace"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:127
+#: 16_after_baptism_now_what.html:128
 msgid "Philippians 4:4-7"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:132
+#: 16_after_baptism_now_what.html:133
 msgid "Share petitions and answered prayers"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:141
+#: 16_after_baptism_now_what.html:142
 msgid "Acts 9:1-22"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:144
+#: 16_after_baptism_now_what.html:145
 msgid "The Conversion of Paul"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:147
+#: 16_after_baptism_now_what.html:148
 msgid "Paul immediately begins to preach"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:150
+#: 16_after_baptism_now_what.html:151
 msgid "With whom have you shared your faith?"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:153
+#: 16_after_baptism_now_what.html:154
 msgid "List friends and family to share with this week"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:158
+#: 16_after_baptism_now_what.html:159
 msgid "Paul grows powerful"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:161
+#: 16_after_baptism_now_what.html:162
 msgid "Paul is persecuted"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:168
+#: 16_after_baptism_now_what.html:169
 msgid "Hebrews 5:11-6:6"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:171
+#: 16_after_baptism_now_what.html:172
 msgid "The First Principles"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:174
+#: 16_after_baptism_now_what.html:175
 msgid "Strive to learn the first principles (elementary teachings) and go on to maturity, so you can be fruitful and not fall away"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:177
+#: 16_after_baptism_now_what.html:178
 msgid "Discuss taking the First Principles Classes"
 msgstr ""

@@ -2,150 +2,150 @@
 msgid ""
 msgstr ""
 
-#: 04_seeking_god.html:10
-msgctxt "04_seeking_god.html line:10"
-msgid "Seeking God"
-msgstr ""
-
-#: 04_seeking_god.html:21
-msgctxt "04_seeking_god.html line:21"
+#: 04_seeking_god.html:11
+msgctxt "seeking_god #1"
 msgid "Seeking God"
 msgstr ""
 
 #: 04_seeking_god.html:22
-msgctxt "04_seeking_god.html line:22"
+msgctxt "seeking_god #2"
+msgid "Seeking God"
+msgstr ""
+
+#: 04_seeking_god.html:23
+msgctxt "seeking_god #1"
 msgid "Home"
 msgstr ""
 
-#: 04_seeking_god.html:29
+#: 04_seeking_god.html:30
 msgid "Psalm 119:1-2"
 msgstr ""
 
-#: 04_seeking_god.html:31
+#: 04_seeking_god.html:32
 msgid "Blessed means happy (superlatively happy)"
 msgstr ""
 
-#: 04_seeking_god.html:32
+#: 04_seeking_god.html:33
 msgid "Happiness is not the goal of one who seeks God but the \"by-product\""
 msgstr ""
 
-#: 04_seeking_god.html:33
+#: 04_seeking_god.html:34
 msgid "To seek God you must do it with all your heart"
 msgstr ""
 
-#: 04_seeking_god.html:34
+#: 04_seeking_god.html:35
 msgid "Seeking God means to \"keep His statutes\""
 msgstr ""
 
-#: 04_seeking_god.html:38
+#: 04_seeking_god.html:39
 msgid "Matthew 6:25-34"
 msgstr ""
 
-#: 04_seeking_god.html:40
+#: 04_seeking_god.html:41
 msgid "Do not worry - ironic - can not add a single hour to your life"
 msgstr ""
 
-#: 04_seeking_god.html:41
+#: 04_seeking_god.html:42
 msgid "God knows your needs"
 msgstr ""
 
-#: 04_seeking_god.html:42
+#: 04_seeking_god.html:43
 msgid "Seek first His kingdom and righteousness"
 msgstr ""
 
-#: 04_seeking_god.html:43
+#: 04_seeking_god.html:44
 msgid "Then God will give you everything you need"
 msgstr ""
 
-#: 04_seeking_god.html:47
+#: 04_seeking_god.html:48
 msgid "Acts 17:26-28"
 msgstr ""
 
-#: 04_seeking_god.html:49
+#: 04_seeking_god.html:50
 msgid "God determines the times and places each person lives"
 msgstr ""
 
-#: 04_seeking_god.html:50
+#: 04_seeking_god.html:51
 msgid "He does this so men will seek Him, reach out for Him and find Him"
 msgstr ""
 
-#: 04_seeking_god.html:51
+#: 04_seeking_god.html:52
 msgid "He is not far from anyone"
 msgstr ""
 
-#: 04_seeking_god.html:52
+#: 04_seeking_god.html:53
 msgid "A Christian meeting you is not by chance - but of God"
 msgstr ""
 
-#: 04_seeking_god.html:56
+#: 04_seeking_god.html:57
 msgid "John 4:23-24"
 msgstr ""
 
-#: 04_seeking_god.html:58
+#: 04_seeking_god.html:59
 msgid "God seeks men (Acts 17 taught men must seek God)"
 msgstr ""
 
-#: 04_seeking_god.html:59
+#: 04_seeking_god.html:60
 msgid "Men who want to worship Him in spirit and in truth"
 msgstr ""
 
-#: 04_seeking_god.html:63
-msgctxt "04_seeking_god.html line:63"
+#: 04_seeking_god.html:64
+msgctxt "seeking_god #1"
 msgid "Acts 17:10-12"
 msgstr ""
 
-#: 04_seeking_god.html:65
+#: 04_seeking_god.html:66
 msgid "Read and study the Bible for your own convictions"
 msgstr ""
 
-#: 04_seeking_god.html:66
+#: 04_seeking_god.html:67
 msgid "Study daily"
 msgstr ""
 
-#: 04_seeking_god.html:70
+#: 04_seeking_god.html:71
 msgid "Jeremiah 29:11-14"
 msgstr ""
 
-#: 04_seeking_god.html:72
+#: 04_seeking_god.html:73
 msgid "God has an individual plan for your life"
 msgstr ""
 
-#: 04_seeking_god.html:73
+#: 04_seeking_god.html:74
 msgid "A plan to prosper you - with hope and a future"
 msgstr ""
 
-#: 04_seeking_god.html:74
+#: 04_seeking_god.html:75
 msgid "You will find God when you seek Him with all your heart"
 msgstr ""
 
-#: 04_seeking_god.html:78
+#: 04_seeking_god.html:79
 msgid "Acts 8:26-39"
 msgstr ""
 
-#: 04_seeking_god.html:80
+#: 04_seeking_god.html:81
 msgid "The angels and the Holy Spirit are helping to get you to God"
 msgstr ""
 
-#: 04_seeking_god.html:81
+#: 04_seeking_god.html:82
 msgid "Do not be afraid to ask questions about life or the Bible - be humble"
 msgstr ""
 
-#: 04_seeking_god.html:82
+#: 04_seeking_god.html:83
 msgid "You need someone to explain the Bible to you"
 msgstr ""
 
-#: 04_seeking_god.html:83
+#: 04_seeking_god.html:84
 msgid "You will be \"rejoicing\" when you find God"
 msgstr ""
 
-#: 04_seeking_god.html:87
+#: 04_seeking_god.html:88
 msgid "Matthew 7:7-8"
 msgstr ""
 
-#: 04_seeking_god.html:89
+#: 04_seeking_god.html:90
 msgid "Seek and God guarantees you will find Him"
 msgstr ""
 
-#: 04_seeking_god.html:90
+#: 04_seeking_god.html:91
 msgid "Ask God for help"
 msgstr ""

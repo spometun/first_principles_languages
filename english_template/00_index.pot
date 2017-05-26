@@ -2,106 +2,106 @@
 msgid ""
 msgstr ""
 
-#: 00_index.html:10
-msgctxt "00_index.html line:10"
-msgid "First Principles"
-msgstr ""
-
-#: 00_index.html:21
-msgctxt "00_index.html line:21"
+#: 00_index.html:11
+msgctxt "index #1"
 msgid "First Principles"
 msgstr ""
 
 #: 00_index.html:22
-msgctxt "00_index.html line:22"
+msgctxt "index #2"
+msgid "First Principles"
+msgstr ""
+
+#: 00_index.html:23
+msgctxt "index #1"
 msgid "Home"
 msgstr ""
 
-#: 00_index.html:29
-msgctxt "00_index.html line:29"
+#: 00_index.html:30
+msgctxt "index #1"
 msgid "Introduction"
 msgstr ""
 
-#: 00_index.html:30
-msgctxt "00_index.html line:30"
+#: 00_index.html:31
+msgctxt "index #1"
 msgid "The Book of John"
 msgstr ""
 
-#: 00_index.html:31
-msgctxt "00_index.html line:31"
+#: 00_index.html:32
+msgctxt "index #1"
 msgid "Seeking God"
 msgstr ""
 
-#: 00_index.html:32
-msgctxt "00_index.html line:32"
+#: 00_index.html:33
+msgctxt "index #1"
 msgid "The Word of God"
 msgstr ""
 
-#: 00_index.html:33
-msgctxt "00_index.html line:33"
+#: 00_index.html:34
+msgctxt "index #1"
 msgid "Discipleship"
 msgstr ""
 
-#: 00_index.html:34
-msgctxt "00_index.html line:34"
+#: 00_index.html:35
+msgctxt "index #1"
 msgid "The Coming of the Kingdom"
 msgstr ""
 
-#: 00_index.html:35
-msgctxt "00_index.html line:35"
+#: 00_index.html:36
+msgctxt "index #1"
 msgid "Light and Darkness"
 msgstr ""
 
-#: 00_index.html:36
+#: 00_index.html:37
 msgid "New Testament Conversion"
 msgstr ""
 
-#: 00_index.html:37
+#: 00_index.html:38
 msgid "The Cross"
 msgstr ""
 
-#: 00_index.html:38
+#: 00_index.html:39
 msgid "The Medical Account of the Crucifixion of Christ"
 msgstr ""
 
-#: 00_index.html:39
-msgctxt "00_index.html line:39"
+#: 00_index.html:40
+msgctxt "index #1"
 msgid "Baptism with the Holy Spirit"
 msgstr ""
 
-#: 00_index.html:40
+#: 00_index.html:41
 msgid "Miraculous Gifts of the Holy Spirit"
 msgstr ""
 
-#: 00_index.html:41
+#: 00_index.html:42
 msgid "The Church"
 msgstr ""
 
-#: 00_index.html:42
+#: 00_index.html:43
 msgid "The Book of Acts"
 msgstr ""
 
-#: 00_index.html:43
-msgctxt "00_index.html line:43"
+#: 00_index.html:44
+msgctxt "index #1"
 msgid "After Baptism, Now What?"
 msgstr ""
 
-#: 00_index.html:44
+#: 00_index.html:45
 msgid "Christ Is Your Life"
 msgstr ""
 
-#: 00_index.html:45
+#: 00_index.html:46
 msgid "Best Friends of All Time"
 msgstr ""
 
-#: 00_index.html:46
+#: 00_index.html:47
 msgid "The Mission"
 msgstr ""
 
-#: 00_index.html:47
+#: 00_index.html:48
 msgid "Persecution"
 msgstr ""
 
-#: 00_index.html:48
+#: 00_index.html:49
 msgid "Memory Scriptures"
 msgstr ""

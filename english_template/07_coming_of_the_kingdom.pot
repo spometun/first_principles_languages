@@ -2,474 +2,474 @@
 msgid ""
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:10
-msgctxt "07_coming_of_the_kingdom.html line:10"
-msgid "The Coming of the Kingdom"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:21
-msgctxt "07_coming_of_the_kingdom.html line:21"
+#: 07_coming_of_the_kingdom.html:11
+msgctxt "coming_of_the_kingdom #1"
 msgid "The Coming of the Kingdom"
 msgstr ""
 
 #: 07_coming_of_the_kingdom.html:22
-msgctxt "07_coming_of_the_kingdom.html line:22"
+msgctxt "coming_of_the_kingdom #2"
+msgid "The Coming of the Kingdom"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:23
+msgctxt "coming_of_the_kingdom #1"
 msgid "Home"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:28
+#: 07_coming_of_the_kingdom.html:29
 msgid "In this study you will see the continuity of the Old and New Testaments"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:29
+#: 07_coming_of_the_kingdom.html:30
 msgid "Questions:  What is the Kingdom of God?  When did it come?"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:33
+#: 07_coming_of_the_kingdom.html:34
 msgid "Old Testament Predictions of the Kingdom (the height of Israel's glory was under the kingship of David, approximately 1000 B.C.)"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:36
+#: 07_coming_of_the_kingdom.html:37
 msgid "Isaiah 2:1-4"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:36
+#: 07_coming_of_the_kingdom.html:37
 msgid "(750 B.C.)"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:38
-msgctxt "07_coming_of_the_kingdom.html line:38"
-msgid "Last days"
-msgstr ""
-
 #: 07_coming_of_the_kingdom.html:39
-msgid "Mountains (Symbolizes kingdoms):  Mountain of the Lord, chief of the mountains"
+msgctxt "coming_of_the_kingdom #1"
+msgid "Last days"
 msgstr ""
 
 #: 07_coming_of_the_kingdom.html:40
-msgctxt "07_coming_of_the_kingdom.html line:40"
-msgid "All nations"
+msgid "Mountains (Symbolizes kingdoms):  Mountain of the Lord, chief of the mountains"
 msgstr ""
 
 #: 07_coming_of_the_kingdom.html:41
-msgctxt "07_coming_of_the_kingdom.html line:41"
-msgid "Jerusalem"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:45
-msgctxt "07_coming_of_the_kingdom.html line:45"
-msgid "Daniel 2:31-45"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:45
-msgid "(550 B.C.)"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:47
-msgid "Set up this passage by explaining that earlier in Daniel 2 King Nebuchadnezzer threatens death to all his astrologers and dream interpreters if they do not first tell him his dream, then interpret it"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:48
-msgid "Daniel interprets King Nebuchadnezzar's dream"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:50
-msgid "Empires"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:52
-msgid "Babylonian:  gold"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:53
-msgid "Medo-Persian:  silver"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:54
-msgid "Alexander the Great:  bronze"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:55
-msgid "Roman:  iron (iron and clay)"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:58
-msgid "Rock - cut out not by human hands (therefore God)"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:59
-msgid "Rock becomes huge mountain - filled the whole earth"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:60
-msgid "Kingdom that will never be destroyed (v. 44)"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:66
-msgid "New Testament Predictions of the Kingdom"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:69
-msgid "John the Baptist"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:69
-msgid "(25 A.D.)"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:71
-msgctxt "07_coming_of_the_kingdom.html line:71"
-msgid "Kingdom is near"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:71
-msgid "Matthew 3:1-6"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:75
-msgid "Jesus"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:75
-msgid "(30 A.D.)"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:77
-msgctxt "07_coming_of_the_kingdom.html line:77"
-msgid "Kingdom is near"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:77
-msgctxt "07_coming_of_the_kingdom.html line:77"
-msgid "Matthew 4:17"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:78
-msgid "Kingdom will come in the lifetime of some of the disciples"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:78
-msgctxt "07_coming_of_the_kingdom.html line:78"
-msgid "Mark 9:1"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:79
-msgid "Kingdom will come with power"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:79
-msgctxt "07_coming_of_the_kingdom.html line:79"
-msgid "Mark 9:1"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:80
-msgid "Kingdom entered by new birth - by water and the Spirit"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:80
-msgctxt "07_coming_of_the_kingdom.html line:80"
-msgid "John 3:1-7"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:81
-msgid "Kingdom is within you"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:81
-msgctxt "07_coming_of_the_kingdom.html line:81"
-msgid "Luke 17:20-21"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:82
-msgid "Peter has the keys"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:82
-msgid "Matthew 16:13-19"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:82
-msgid "Church and the Kingdom are the same and will be built on the truth that Jesus is the Christ"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:82
-msgid "1 Corinthians 3:11"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:83
-msgid "Joseph of Arimathea was still waiting for the Kingdom when Jesus died"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:83
-msgid "Luke 23:50-52"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:84
-msgid "Repentance and forgiveness of sins will be preached first in Jerusalem to all nations"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:84
-msgctxt "07_coming_of_the_kingdom.html line:84"
-msgid "Luke 24:44-49"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:90
-msgid "Fulfillment of the Old and New Testament Predictions,"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:90
-msgctxt "07_coming_of_the_kingdom.html line:90"
-msgid "Acts 1-2"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:90
-msgid "(33 A.D.)"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:93
-msgctxt "07_coming_of_the_kingdom.html line:93"
-msgid "Last days"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:93
-msgid "Acts 2:17"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:95
-msgctxt "07_coming_of_the_kingdom.html line:95"
-msgid "Isaiah 2:2"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:99
-msgctxt "07_coming_of_the_kingdom.html line:99"
+msgctxt "coming_of_the_kingdom #1"
 msgid "All nations"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:99
-msgctxt "07_coming_of_the_kingdom.html line:99"
-msgid "Acts 2:5"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:101
-msgctxt "07_coming_of_the_kingdom.html line:101"
-msgid "Isaiah 2:2"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:102
-msgid "Luke 24:47"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:106
-msgctxt "07_coming_of_the_kingdom.html line:106"
+#: 07_coming_of_the_kingdom.html:42
+msgctxt "coming_of_the_kingdom #1"
 msgid "Jerusalem"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:106
-msgctxt "07_coming_of_the_kingdom.html line:106"
-msgid "Acts 2:5"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:108
-msgid "Isaiah 2:3"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:109
-msgctxt "07_coming_of_the_kingdom.html line:109"
-msgid "Luke 24:44-49"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:113
-msgid "Eternal kingdom"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:113
-msgid "Acts 2:37-42"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:115
-msgctxt "07_coming_of_the_kingdom.html line:115"
+#: 07_coming_of_the_kingdom.html:46
+msgctxt "coming_of_the_kingdom #1"
 msgid "Daniel 2:31-45"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:119
-msgid "Date of coming approximately"
+#: 07_coming_of_the_kingdom.html:46
+msgid "(550 B.C.)"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:119
-msgctxt "07_coming_of_the_kingdom.html line:119"
-msgid "33 A.D."
+#: 07_coming_of_the_kingdom.html:48
+msgid "Set up this passage by explaining that earlier in Daniel 2 King Nebuchadnezzer threatens death to all his astrologers and dream interpreters if they do not first tell him his dream, then interpret it"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:119
-msgctxt "07_coming_of_the_kingdom.html line:119"
-msgid "Acts 1-2"
+#: 07_coming_of_the_kingdom.html:49
+msgid "Daniel interprets King Nebuchadnezzar's dream"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:121
-msgid "Old Testament prophecy"
+#: 07_coming_of_the_kingdom.html:51
+msgid "Empires"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:122
-msgid "John the Baptist - \"is near\""
+#: 07_coming_of_the_kingdom.html:53
+msgid "Babylonian:  gold"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:122
-msgid "Matthew 3:1-2"
+#: 07_coming_of_the_kingdom.html:54
+msgid "Medo-Persian:  silver"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:123
-msgid "Jesus - \"is near\""
+#: 07_coming_of_the_kingdom.html:55
+msgid "Alexander the Great:  bronze"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:123
-msgctxt "07_coming_of_the_kingdom.html line:123"
+#: 07_coming_of_the_kingdom.html:56
+msgid "Roman:  iron (iron and clay)"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:59
+msgid "Rock - cut out not by human hands (therefore God)"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:60
+msgid "Rock becomes huge mountain - filled the whole earth"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:61
+msgid "Kingdom that will never be destroyed (v. 44)"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:67
+msgid "New Testament Predictions of the Kingdom"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:70
+msgid "John the Baptist"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:70
+msgid "(25 A.D.)"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:72
+msgctxt "coming_of_the_kingdom #1"
+msgid "Kingdom is near"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:72
+msgid "Matthew 3:1-6"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:76
+msgid "Jesus"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:76
+msgid "(30 A.D.)"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:78
+msgctxt "coming_of_the_kingdom #2"
+msgid "Kingdom is near"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:78
+msgctxt "coming_of_the_kingdom #1"
 msgid "Matthew 4:17"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:127
-msgid "Lifetime"
+#: 07_coming_of_the_kingdom.html:79
+msgid "Kingdom will come in the lifetime of some of the disciples"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:127
-msgctxt "07_coming_of_the_kingdom.html line:127"
-msgid "Acts 2:14"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:129
-msgctxt "07_coming_of_the_kingdom.html line:129"
+#: 07_coming_of_the_kingdom.html:79
+msgctxt "coming_of_the_kingdom #1"
 msgid "Mark 9:1"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:130
-msgid "\"Some\" - Judas died"
+#: 07_coming_of_the_kingdom.html:80
+msgid "Kingdom will come with power"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:130
-msgid "Acts 1:18-19"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:134
-msgid "Power"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:134
-msgctxt "07_coming_of_the_kingdom.html line:134"
-msgid "Acts 1:8"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:134
-msgid "Acts 2:1-4"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:136
-msgctxt "07_coming_of_the_kingdom.html line:136"
+#: 07_coming_of_the_kingdom.html:80
+msgctxt "coming_of_the_kingdom #2"
 msgid "Mark 9:1"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:140
-msgid "New birth"
+#: 07_coming_of_the_kingdom.html:81
+msgid "Kingdom entered by new birth - by water and the Spirit"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:140
-msgctxt "07_coming_of_the_kingdom.html line:140"
-msgid "Acts 2:38"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:142
-msgid "Water and Spirit"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:142
-msgctxt "07_coming_of_the_kingdom.html line:142"
+#: 07_coming_of_the_kingdom.html:81
+msgctxt "coming_of_the_kingdom #1"
 msgid "John 3:1-7"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:146
-msgid "Kingdom within"
+#: 07_coming_of_the_kingdom.html:82
+msgid "Kingdom is within you"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:146
-msgid "Acts 2:37"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:148
-msgctxt "07_coming_of_the_kingdom.html line:148"
+#: 07_coming_of_the_kingdom.html:82
+msgctxt "coming_of_the_kingdom #1"
 msgid "Luke 17:20-21"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:152
-msgid "Peter with the keys"
+#: 07_coming_of_the_kingdom.html:83
+msgid "Peter has the keys"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:152
-msgctxt "07_coming_of_the_kingdom.html line:152"
-msgid "Acts 2:14"
+#: 07_coming_of_the_kingdom.html:83
+msgid "Matthew 16:13-19"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:152
-msgctxt "07_coming_of_the_kingdom.html line:152"
-msgid "Acts 2:38"
+#: 07_coming_of_the_kingdom.html:83
+msgid "Church and the Kingdom are the same and will be built on the truth that Jesus is the Christ"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:154
-msgid "Matthew 16:19"
+#: 07_coming_of_the_kingdom.html:83
+msgid "1 Corinthians 3:11"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:158
-msgid "Repentance and forgiveness of sin"
+#: 07_coming_of_the_kingdom.html:84
+msgid "Joseph of Arimathea was still waiting for the Kingdom when Jesus died"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:158
-msgctxt "07_coming_of_the_kingdom.html line:158"
-msgid "Acts 2:38"
+#: 07_coming_of_the_kingdom.html:84
+msgid "Luke 23:50-52"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:160
-msgctxt "07_coming_of_the_kingdom.html line:160"
+#: 07_coming_of_the_kingdom.html:85
+msgid "Repentance and forgiveness of sins will be preached first in Jerusalem to all nations"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:85
+msgctxt "coming_of_the_kingdom #1"
 msgid "Luke 24:44-49"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:166
-msgid "Conclusion"
+#: 07_coming_of_the_kingdom.html:91
+msgid "Fulfillment of the Old and New Testament Predictions,"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:168
-msgid "The church is the Kingdom of God on earth, established in approximately"
+#: 07_coming_of_the_kingdom.html:91
+msgctxt "coming_of_the_kingdom #1"
+msgid "Acts 1-2"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:168
-msgctxt "07_coming_of_the_kingdom.html line:168"
+#: 07_coming_of_the_kingdom.html:91
+msgid "(33 A.D.)"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:94
+msgctxt "coming_of_the_kingdom #2"
+msgid "Last days"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:94
+msgid "Acts 2:17"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:96
+msgctxt "coming_of_the_kingdom #1"
+msgid "Isaiah 2:2"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:100
+msgctxt "coming_of_the_kingdom #2"
+msgid "All nations"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:100
+msgctxt "coming_of_the_kingdom #1"
+msgid "Acts 2:5"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:102
+msgctxt "coming_of_the_kingdom #2"
+msgid "Isaiah 2:2"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:103
+msgid "Luke 24:47"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:107
+msgctxt "coming_of_the_kingdom #2"
+msgid "Jerusalem"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:107
+msgctxt "coming_of_the_kingdom #2"
+msgid "Acts 2:5"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:109
+msgid "Isaiah 2:3"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:110
+msgctxt "coming_of_the_kingdom #2"
+msgid "Luke 24:44-49"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:114
+msgid "Eternal kingdom"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:114
+msgid "Acts 2:37-42"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:116
+msgctxt "coming_of_the_kingdom #2"
+msgid "Daniel 2:31-45"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:120
+msgid "Date of coming approximately"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:120
+msgctxt "coming_of_the_kingdom #1"
 msgid "33 A.D."
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:170
+#: 07_coming_of_the_kingdom.html:120
+msgctxt "coming_of_the_kingdom #2"
+msgid "Acts 1-2"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:122
+msgid "Old Testament prophecy"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:123
+msgid "John the Baptist - \"is near\""
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:123
+msgid "Matthew 3:1-2"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:124
+msgid "Jesus - \"is near\""
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:124
+msgctxt "coming_of_the_kingdom #2"
+msgid "Matthew 4:17"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:128
+msgid "Lifetime"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:128
+msgctxt "coming_of_the_kingdom #1"
+msgid "Acts 2:14"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:130
+msgctxt "coming_of_the_kingdom #3"
+msgid "Mark 9:1"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:131
+msgid "\"Some\" - Judas died"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:131
+msgid "Acts 1:18-19"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:135
+msgid "Power"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:135
+msgctxt "coming_of_the_kingdom #1"
+msgid "Acts 1:8"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:135
+msgid "Acts 2:1-4"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:137
+msgctxt "coming_of_the_kingdom #4"
+msgid "Mark 9:1"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:141
+msgid "New birth"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:141
+msgctxt "coming_of_the_kingdom #1"
+msgid "Acts 2:38"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:143
+msgid "Water and Spirit"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:143
+msgctxt "coming_of_the_kingdom #2"
+msgid "John 3:1-7"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:147
+msgid "Kingdom within"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:147
+msgid "Acts 2:37"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:149
+msgctxt "coming_of_the_kingdom #2"
+msgid "Luke 17:20-21"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:153
+msgid "Peter with the keys"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:153
+msgctxt "coming_of_the_kingdom #2"
+msgid "Acts 2:14"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:153
+msgctxt "coming_of_the_kingdom #2"
+msgid "Acts 2:38"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:155
+msgid "Matthew 16:19"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:159
+msgid "Repentance and forgiveness of sin"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:159
+msgctxt "coming_of_the_kingdom #3"
+msgid "Acts 2:38"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:161
+msgctxt "coming_of_the_kingdom #3"
+msgid "Luke 24:44-49"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:167
+msgid "Conclusion"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:169
+msgid "The church is the Kingdom of God on earth, established in approximately"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:169
+msgctxt "coming_of_the_kingdom #2"
+msgid "33 A.D."
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:171
 msgid "Acts 2:42"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:170
+#: 07_coming_of_the_kingdom.html:171
 msgid "As citizens of the Kingdom and members of the body (the church), we must be devoted to:"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:172
+#: 07_coming_of_the_kingdom.html:173
 msgid "Doctrine"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:173
+#: 07_coming_of_the_kingdom.html:174
 msgid "Fellowship"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:174
+#: 07_coming_of_the_kingdom.html:175
 msgid "Breaking Bread"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:175
+#: 07_coming_of_the_kingdom.html:176
 msgid "Prayer"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:178
+#: 07_coming_of_the_kingdom.html:179
 msgid "Matthew 6:33"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:178
+#: 07_coming_of_the_kingdom.html:179
 msgid "We must seek His Kingdom first.  Ask them to commit themselves to at least Sunday services and Midweek services"
 msgstr ""
