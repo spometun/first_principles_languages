@@ -21,11 +21,11 @@ msgstr "Introduktion"
 
 #: 00_index.html:31
 msgid "The Book of John"
-msgstr "Johannes boken"
+msgstr "Johannesevangeliet"
 
 #: 00_index.html:32
 msgid "Seeking God"
-msgstr "Söker Gud"
+msgstr "Söka Gud"
 
 #: 00_index.html:33
 msgid "The Word of God"
@@ -33,11 +33,11 @@ msgstr "Guds ord"
 
 #: 00_index.html:34
 msgid "Discipleship"
-msgstr "lärjungaskap"
+msgstr "Lärjungaskap"
 
 #: 00_index.html:35
 msgid "The Coming of the Kingdom"
-msgstr "Konungens ankomst"
+msgstr "Himmelrikets ankomst till jorden"
 
 #: 00_index.html:36
 msgid "Light and Darkness"
@@ -45,7 +45,7 @@ msgstr "Ljus och mörker"
 
 #: 00_index.html:37
 msgid "New Testament Conversion"
-msgstr "Nya testamentet omvandling"
+msgstr "Omvändelse i Nya Testamentet"
 
 #: 00_index.html:38
 msgid "The Cross"
@@ -57,11 +57,11 @@ msgstr "Medicinsk redovisning av Kristi korsfästelse"
 
 #: 00_index.html:40
 msgid "Baptism with the Holy Spirit"
-msgstr "Dop med den Helige Ande"
+msgstr "Dop med den Helige Anden"
 
 #: 00_index.html:41
 msgid "Miraculous Gifts of the Holy Spirit"
-msgstr "Heliga Andes mirakulösa gåvor"
+msgstr "Den Heliga Andes mirakulösa gåvor"
 
 #: 00_index.html:42
 msgid "The Church"
@@ -69,11 +69,11 @@ msgstr "Kyrkan"
 
 #: 00_index.html:43
 msgid "The Book of Acts"
-msgstr "Handlingsboken"
+msgstr "Apostlagärningarna"
 
 #: 00_index.html:44
 msgid "After Baptism, Now What?"
-msgstr "Efter dopet, vad nu?"
+msgstr "Efter dopet, vad gör jag nu?"
 
 #: 00_index.html:45
 msgid "Christ Is Your Life"
@@ -81,7 +81,7 @@ msgstr "Kristus är ditt liv"
 
 #: 00_index.html:46
 msgid "Best Friends of All Time"
-msgstr "Bästa Vänner av All Time"
+msgstr "Bästa vänner någonsin"
 
 #: 00_index.html:47
 msgid "The Mission"
@@ -93,7 +93,7 @@ msgstr "Förföljelse"
 
 #: 00_index.html:49
 msgid "Memory Scriptures"
-msgstr "Minnesskrifterna"
+msgstr "Minnesverser"
 
 #: 00_index.html:55
 msgid "Contact Us"
@@ -111,6 +111,7 @@ msgstr "För när du, på grund av den tid du borde vara lärare, behöver ... b
 msgid "Hebrews 5:12; 6:1-3"
 msgstr "Hebreerbrevet 5:12; 6: 1-3"
 
+#. what is this?
 #: 01_introduction.html:29
 msgid "WEV"
 msgstr "WEV"
