@@ -1989,3 +1989,11 @@ msgstr ""
 msgid "Discuss taking the First Principles Classes"
 msgstr ""
 
+#: 00_index.html:55
+msgid "Contact Us"
+msgstr ""
+
+#: 00_index.html:66
+msgid "2017 International Christian Churches (SoldOut Discipling Movement)"
+msgstr ""
+
