@@ -2,21 +2,6 @@
 msgid ""
 msgstr ""
 
-#: 08_light_and_darkness.html:11
-msgctxt "light_and_darkness #1"
-msgid "Light and Darkness"
-msgstr ""
-
-#: 08_light_and_darkness.html:22
-msgctxt "light_and_darkness #2"
-msgid "Light and Darkness"
-msgstr ""
-
-#: 08_light_and_darkness.html:23
-msgctxt "light_and_darkness #1"
-msgid "Home"
-msgstr ""
-
 #: 08_light_and_darkness.html:29
 msgid "It is often helpful to begin this study by constructing a \"spiritual timeline\" with the person whom you are helping to become a disciple"
 msgstr ""

@@ -2,26 +2,6 @@
 msgid ""
 msgstr ""
 
-#: 16_after_baptism_now_what.html:11
-msgctxt "after_baptism_now_what #1"
-msgid "After Baptism, Now What?"
-msgstr ""
-
-#: 16_after_baptism_now_what.html:22
-msgctxt "after_baptism_now_what #2"
-msgid "After Baptism, Now What?"
-msgstr ""
-
-#: 16_after_baptism_now_what.html:23
-msgctxt "after_baptism_now_what #1"
-msgid "Home"
-msgstr ""
-
-#: 16_after_baptism_now_what.html:30
-msgctxt "after_baptism_now_what #1"
-msgid "Introduction"
-msgstr ""
-
 #: 16_after_baptism_now_what.html:34
 msgid "Discuss the young disciple's first few days as a Christian"
 msgstr ""

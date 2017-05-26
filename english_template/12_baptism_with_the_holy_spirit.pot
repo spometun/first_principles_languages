@@ -2,21 +2,6 @@
 msgid ""
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:11
-msgctxt "baptism_with_the_holy_spirit #1"
-msgid "Baptism with the Holy Spirit"
-msgstr ""
-
-#: 12_baptism_with_the_holy_spirit.html:22
-msgctxt "baptism_with_the_holy_spirit #2"
-msgid "Baptism with the Holy Spirit"
-msgstr ""
-
-#: 12_baptism_with_the_holy_spirit.html:23
-msgctxt "baptism_with_the_holy_spirit #1"
-msgid "Home"
-msgstr ""
-
 #: 12_baptism_with_the_holy_spirit.html:28
 msgctxt "baptism_with_the_holy_spirit #1"
 msgid "Introduction:"

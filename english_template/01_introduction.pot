@@ -2,21 +2,6 @@
 msgid ""
 msgstr ""
 
-#: 01_introduction.html:11
-msgctxt "introduction #1"
-msgid "Introduction"
-msgstr ""
-
-#: 01_introduction.html:22
-msgctxt "introduction #2"
-msgid "Introduction"
-msgstr ""
-
-#: 01_introduction.html:23
-msgctxt "introduction #1"
-msgid "Home"
-msgstr ""
-
 #: 01_introduction.html:29
 msgid "For when by reason of the time you ought to be teachers, you... need to have someone teach you the rudiments of the first principles of the oracles of God... Therefore leaving the doctrine of the first principles of Christ, let us press on to perfection - not laying again a foundation... of faith toward God, of the teaching of baptisms, of laying on of hands, of resurrection of the dead and of eternal judgment. This will we do!"
 msgstr ""

@@ -2,21 +2,6 @@
 msgid ""
 msgstr ""
 
-#: 05_word_of_god.html:11
-msgctxt "word_of_god #1"
-msgid "The Word of God"
-msgstr ""
-
-#: 05_word_of_god.html:22
-msgctxt "word_of_god #2"
-msgid "The Word of God"
-msgstr ""
-
-#: 05_word_of_god.html:23
-msgctxt "word_of_god #1"
-msgid "Home"
-msgstr ""
-
 #: 05_word_of_god.html:30
 msgid "2 Timothy 3:16-17"
 msgstr ""

@@ -3,52 +3,38 @@ msgid ""
 msgstr ""
 
 #: 00_index.html:11
-msgctxt "index #1"
-msgid "First Principles"
-msgstr ""
-
-#: 00_index.html:22
-msgctxt "index #2"
 msgid "First Principles"
 msgstr ""
 
 #: 00_index.html:23
-msgctxt "index #1"
 msgid "Home"
 msgstr ""
 
 #: 00_index.html:30
-msgctxt "index #1"
 msgid "Introduction"
 msgstr ""
 
 #: 00_index.html:31
-msgctxt "index #1"
 msgid "The Book of John"
 msgstr ""
 
 #: 00_index.html:32
-msgctxt "index #1"
 msgid "Seeking God"
 msgstr ""
 
 #: 00_index.html:33
-msgctxt "index #1"
 msgid "The Word of God"
 msgstr ""
 
 #: 00_index.html:34
-msgctxt "index #1"
 msgid "Discipleship"
 msgstr ""
 
 #: 00_index.html:35
-msgctxt "index #1"
 msgid "The Coming of the Kingdom"
 msgstr ""
 
 #: 00_index.html:36
-msgctxt "index #1"
 msgid "Light and Darkness"
 msgstr ""
 
@@ -65,7 +51,6 @@ msgid "The Medical Account of the Crucifixion of Christ"
 msgstr ""
 
 #: 00_index.html:40
-msgctxt "index #1"
 msgid "Baptism with the Holy Spirit"
 msgstr ""
 
@@ -82,7 +67,6 @@ msgid "The Book of Acts"
 msgstr ""
 
 #: 00_index.html:44
-msgctxt "index #1"
 msgid "After Baptism, Now What?"
 msgstr ""
 

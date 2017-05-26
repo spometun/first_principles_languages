@@ -2,21 +2,6 @@
 msgid ""
 msgstr ""
 
-#: 06_discipleship.html:11
-msgctxt "discipleship #1"
-msgid "Discipleship"
-msgstr ""
-
-#: 06_discipleship.html:22
-msgctxt "discipleship #2"
-msgid "Discipleship"
-msgstr ""
-
-#: 06_discipleship.html:23
-msgctxt "discipleship #1"
-msgid "Home"
-msgstr ""
-
 #: 06_discipleship.html:29
 msgctxt "discipleship #1"
 msgid "Introduction:"

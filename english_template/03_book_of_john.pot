@@ -1,18 +1,3 @@
 #
 msgid ""
 msgstr ""
-
-#: 03_book_of_john.html:11
-msgctxt "book_of_john #1"
-msgid "The Book of John"
-msgstr ""
-
-#: 03_book_of_john.html:22
-msgctxt "book_of_john #2"
-msgid "The Book of John"
-msgstr ""
-
-#: 03_book_of_john.html:23
-msgctxt "book_of_john #1"
-msgid "Home"
-msgstr ""

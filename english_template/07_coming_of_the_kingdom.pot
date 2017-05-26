@@ -2,21 +2,6 @@
 msgid ""
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:11
-msgctxt "coming_of_the_kingdom #1"
-msgid "The Coming of the Kingdom"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:22
-msgctxt "coming_of_the_kingdom #2"
-msgid "The Coming of the Kingdom"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:23
-msgctxt "coming_of_the_kingdom #1"
-msgid "Home"
-msgstr ""
-
 #: 07_coming_of_the_kingdom.html:29
 msgid "In this study you will see the continuity of the Old and New Testaments"
 msgstr ""
