@@ -15,7 +15,7 @@ msgstr "Перші принципи Християнства"
 #: 00_index.html:22
 msgctxt "index #2"
 msgid "First Principles"
-msgstr "Перші принципи Християнства"
+msgstr "Перші принципи Християнства2"
 
 #: 00_index.html:23
 msgctxt "index #1"
