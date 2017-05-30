@@ -140,277 +140,279 @@ msgstr "1 juli 2014"
 #: 02_course_information.html:11
 msgctxt "course_information #1"
 msgid "Course Information"
-msgstr ""
+msgstr "Kursinformation"
 
 #: 02_course_information.html:22
 msgctxt "course_information #2"
 msgid "Course Information"
-msgstr ""
+msgstr "Kursinformation"
 
 #: 02_course_information.html:31
 msgid "This course should take a high priority in your day as it is geared to help you grasp a\n"
 "      firmer hold on God’s Word and to deepen your understanding of His will for your life"
-msgstr ""
+msgstr "Denna kurs bör ha hög prioritet på din dag eftersom det är anpassat för att hjälpa dig att förstå en\n"
+"      Fastare hålla fast på Guds ord och fördjupa din förståelse av hans vilja för ditt liv"
 
 #: 02_course_information.html:33
 msgid "Each session two new Scriptures should be memorized for a quiz at the beginning of each class"
-msgstr ""
+msgstr "Varje session bör två nya skrifter vara memorerade för en frågesport i början av varje klass"
 
 #: 02_course_information.html:35
 msgid "Each study’s content and order of Scriptures should also be memorized for the quiz"
-msgstr ""
+msgstr "Varje studie innehåll och ordning i Skrifterna bör också memoreras för quiz"
 
 #: 02_course_information.html:37
 msgid "Each student is required to memorize the names of all the books of the Bible"
-msgstr ""
+msgstr "Varje elev måste memorera namnen på alla Bibelns böcker"
 
 #: 02_course_information.html:39
 msgid "Sign up"
-msgstr ""
+msgstr "Bli Medlem"
 
 #: 02_course_information.html:39
 msgid "for the Good News Emails at"
-msgstr ""
+msgstr "För Good News e-post på"
 
 #: 02_course_information.html:39
 msgid "CAICC.net"
-msgstr ""
+msgstr "CAICC.net"
 
 #: 02_course_information.html:39
 msgid "by Session 2"
-msgstr ""
+msgstr "Genom session 2"
 
 #: 02_course_information.html:41
 msgid "Read Ron Harding’s History of the Spread of Christianity in Modern Times"
-msgstr ""
+msgstr "Läs Ron Hardings historia om kristendomenes spridning i moderna tider"
 
 #: 02_course_information.html:41
 msgid "KipMcKean.com"
-msgstr ""
+msgstr "KipMcKean.com"
 
 #: 02_course_information.html:42
 msgid "by Session 8"
-msgstr ""
+msgstr "Genom session 8"
 
 #: 02_course_information.html:45
 msgid "An outline of the book of Acts will be turned in by Session 11. Each student is required to\n"
 "      memorize two points from each chapter in the book of Acts"
-msgstr ""
+msgstr "En översikt över boken av handlingar kommer att sättas in genom session 11. Varje elev är skyldig att\n"
+"      Memorera två punkter från varje kapitel i handlingen"
 
 #: 02_course_information.html:49
 msgid "Outline of Classes"
-msgstr ""
+msgstr "Översikt av klasser"
 
 #: 02_course_information.html:53
 msgid "Session 1"
-msgstr ""
+msgstr "Session 1"
 
 #: 02_course_information.html:55
 msgid "Introduction and Seeking God"
-msgstr ""
+msgstr "Introduktion och söker Gud"
 
 #: 02_course_information.html:58
 msgid "Session 2"
-msgstr ""
+msgstr "Session 2"
 
 #: 02_course_information.html:60
 msgid "The Word Of God"
-msgstr ""
+msgstr "Guds ord"
 
 #: 02_course_information.html:63
 msgid "Session 3"
-msgstr ""
+msgstr "Session 3"
 
 #: 02_course_information.html:68
 msgid "Session 4"
-msgstr ""
+msgstr "Session 4"
 
 #: 02_course_information.html:73
 msgid "Session 5"
-msgstr ""
+msgstr "Session 5"
 
 #: 02_course_information.html:78
 msgid "Session 6"
-msgstr ""
+msgstr "Session 6"
 
 #: 02_course_information.html:83
 msgid "Session 7"
-msgstr ""
+msgstr "Session 7"
 
 #: 02_course_information.html:88
 msgid "Session 8"
-msgstr ""
+msgstr "Session 8"
 
 #: 02_course_information.html:90
 msgid "The Baptism of the Holy Spirit"
-msgstr ""
+msgstr "Den Helige Andes dop"
 
 #: 02_course_information.html:93
 msgid "Session 9"
-msgstr ""
+msgstr "Session 9"
 
 #: 02_course_information.html:95
 msgid "The Miraculous Gifts of the Holy Spirit"
-msgstr ""
+msgstr "Den Heliga Andes mirakulösa gåvor"
 
 #: 02_course_information.html:98
 msgid "Session 10"
-msgstr ""
+msgstr "Session 10"
 
 #: 02_course_information.html:103
 msgid "Session 11"
-msgstr ""
+msgstr "Session 11"
 
 #: 02_course_information.html:105
 msgid "Acts 1 - 8"
-msgstr ""
+msgstr "Agerar 1 till 8"
 
 #: 02_course_information.html:108
 msgid "Session 12"
-msgstr ""
+msgstr "Session 12"
 
 #: 02_course_information.html:110
 msgid "Acts 9 - 15"
-msgstr ""
+msgstr "Akterna 9-15"
 
 #: 02_course_information.html:113
 msgid "Session 13"
-msgstr ""
+msgstr "Session 13"
 
 #: 02_course_information.html:115
 msgid "Acts 16 - 21"
-msgstr ""
+msgstr "Akterna 16-21"
 
 #: 02_course_information.html:118
 msgid "Session 14"
-msgstr ""
+msgstr "Session 14"
 
 #: 02_course_information.html:120
 msgid "Acts 21 - 28"
-msgstr ""
+msgstr "Akterna 21-28"
 
 #: 02_course_information.html:125
 msgid "Suggested Reading"
-msgstr ""
+msgstr "Föreslagen läsning"
 
 #: 02_course_information.html:126
 msgid "These books are recommended as thought-provoking and informative tools to be used in gaining insights into God’s Word. In no way are they suggested to be Biblically correct on all doctrinal points"
-msgstr ""
+msgstr "Dessa böcker rekommenderas som tankeväckande och informativa verktyg som kan användas för att få insikt i Guds Ord. På något sätt föreslås de att de är bibelsk korrekta på alla doktrinära punkter"
 
 #: 02_course_information.html:128
 msgid "The Five Love Languages"
-msgstr ""
+msgstr "De fem kärleksspråken"
 
 #: 02_course_information.html:128
 msgid "- Chapman"
-msgstr ""
+msgstr "- Chapman"
 
 #: 02_course_information.html:129
 msgid "The Master Plan of Evangelism"
-msgstr ""
+msgstr "Evangelismens huvudplan"
 
 #: 02_course_information.html:129
 msgid "- Coleman -"
-msgstr ""
+msgstr "- Coleman -"
 
 #: 02_course_information.html:129
 msgctxt "course_information #1"
 msgid "Audio"
-msgstr ""
+msgstr "Audio"
 
 #: 02_course_information.html:130
 msgid "The Tale of Three Kings"
-msgstr ""
+msgstr "Tales of Three Kings"
 
 #: 02_course_information.html:130
 msgid "- Edwards -"
-msgstr ""
+msgstr "- Edwards -"
 
 #: 02_course_information.html:130
 msgctxt "course_information #2"
 msgid "Audio"
-msgstr ""
+msgstr "Audio"
 
 #: 02_course_information.html:131
 msgid "Voice in the Wind"
-msgstr ""
+msgstr "Röst i vinden"
 
 #: 02_course_information.html:131
 msgid "- Rivers -"
-msgstr ""
+msgstr "- Floder -"
 
 #: 02_course_information.html:131
 msgctxt "course_information #3"
 msgid "Audio"
-msgstr ""
+msgstr "Audio"
 
 #: 02_course_information.html:132
 msgid "The Disciplined Life"
-msgstr ""
+msgstr "Det Disciplined Life"
 
 #: 02_course_information.html:132
 msgid "- Taylor"
-msgstr ""
+msgstr "- Taylor"
 
 #: 02_course_information.html:133
 msgid "Elevate"
-msgstr ""
+msgstr "Upphöja"
 
 #: 02_course_information.html:133
 msgid "- McKean"
-msgstr ""
+msgstr "- McKean"
 
 #: 02_course_information.html:135
 msgid "Overview of the Book of Acts"
-msgstr ""
+msgstr "Översikt av boken av handlingar"
 
 #: 02_course_information.html:139
 msgid "Sermon #1"
-msgstr ""
+msgstr "Predikan # 1"
 
 #: 02_course_information.html:141
 msgid "Acts 1-8"
-msgstr ""
+msgstr "Agerar 1-8"
 
 #: 02_course_information.html:143
 msgid "Building A Great Church"
-msgstr ""
+msgstr "Bygga en stor kyrka"
 
 #: 02_course_information.html:146
 msgid "Sermon #2"
-msgstr ""
+msgstr "Predikan # 2"
 
 #: 02_course_information.html:148
 msgid "Acts 9-15"
-msgstr ""
+msgstr "Apg 9-15"
 
 #: 02_course_information.html:150
 msgid "Forcefully Advancing The Kingdom"
-msgstr ""
+msgstr "Kraftfullt främja kungariket"
 
 #: 02_course_information.html:153
 msgid "Sermon #3"
-msgstr ""
+msgstr "Predikan # 3"
 
 #: 02_course_information.html:155
 msgid "Acts 16-21"
-msgstr ""
+msgstr "Akterna 16-21"
 
 #: 02_course_information.html:157
 msgid "Turning The World Upsidedown"
-msgstr ""
+msgstr "Vänder världen Upsidedown"
 
 #: 02_course_information.html:160
 msgid "Sermon #4"
-msgstr ""
+msgstr "Predikan # 4"
 
 #: 02_course_information.html:162
 msgid "Acts 21-28"
-msgstr ""
+msgstr "Apg 21-28"
 
 #: 02_course_information.html:164
 msgid "Evangelizing The World In A Generation"
-msgstr ""
+msgstr "Evangeliserande världen i en generation"
 
 #: 04_seeking_god.html:30
 msgid "Psalm 119:1-2"
@@ -516,7 +518,7 @@ msgstr "Du kommer att hitta Gud när du söker honom med hela ditt hjärta"
 #: 04_seeking_god.html:79
 msgctxt "seeking_god #1"
 msgid "Acts 8:26-39"
-msgstr ""
+msgstr "Apg 8: 26-39"
 
 #: 04_seeking_god.html:81
 msgid "The angels and the Holy Spirit are helping to get you to God"
@@ -589,7 +591,7 @@ msgstr "Den Helige Ande inspirerade männen som skrev Bibelns böcker"
 #: 05_word_of_god.html:52
 msgctxt "word_of_god #1"
 msgid "John 8:31-32"
-msgstr ""
+msgstr "John 8: 31-32"
 
 #: 05_word_of_god.html:54
 msgid "Intellectual belief is not enough - nor can we go by our feelings"
@@ -622,7 +624,7 @@ msgstr "Tillbedjan av traditioner - de som strider mot Guds ord - är dyrkan fö
 #: 05_word_of_god.html:68
 msgctxt "word_of_god #1"
 msgid "1 Timothy 4:16"
-msgstr ""
+msgstr "1 Timoteus 4:16"
 
 #: 05_word_of_god.html:70
 msgid "Watch your life and doctrine closely - they are inseparable"
@@ -816,7 +818,7 @@ msgstr "Dagligt personligt förhållande till Gud (v. 3); Daglig bön"
 #: 06_discipleship.html:96
 msgctxt "discipleship #1"
 msgid "John 13:34-35"
-msgstr ""
+msgstr "Johannes 13: 34-35"
 
 #: 06_discipleship.html:99
 msgid "Love one another"
@@ -1287,7 +1289,7 @@ msgstr "Lukas 24: 44-49"
 #: 07_coming_of_the_kingdom.html:167
 msgctxt "coming_of_the_kingdom #1"
 msgid "Conclusion"
-msgstr ""
+msgstr "Slutsats"
 
 #: 07_coming_of_the_kingdom.html:169
 msgid "The church is the Kingdom of God on earth, established in approximately"
@@ -1309,7 +1311,7 @@ msgstr "Som medborgare i kungariket och medlemmarna i kroppen (kyrkan) måste vi
 #: 07_coming_of_the_kingdom.html:173
 msgctxt "coming_of_the_kingdom #1"
 msgid "Doctrine"
-msgstr ""
+msgstr "Lära"
 
 #: 07_coming_of_the_kingdom.html:174
 msgid "Fellowship"
@@ -1326,7 +1328,7 @@ msgstr "Bön"
 #: 07_coming_of_the_kingdom.html:179
 msgctxt "coming_of_the_kingdom #1"
 msgid "Matthew 6:33"
-msgstr ""
+msgstr "Matteus 6:33"
 
 #: 07_coming_of_the_kingdom.html:179
 msgid "We must seek His Kingdom first.  Ask them to commit themselves to at least Sunday services and Midweek services"
@@ -1390,7 +1392,7 @@ msgstr "sparad"
 #: 08_light_and_darkness.html:45
 msgctxt "light_and_darkness #1"
 msgid "Christian"
-msgstr ""
+msgstr "kristen"
 
 #: 08_light_and_darkness.html:45
 msgctxt "light_and_darkness #1"
@@ -1413,7 +1415,7 @@ msgstr "Mörker"
 #: 08_light_and_darkness.html:60
 msgctxt "light_and_darkness #1"
 msgid "Isaiah 59:1-2"
-msgstr ""
+msgstr "Jesaja 59: 1-2"
 
 #: 08_light_and_darkness.html:63
 msgid "Sin separates us from God"
@@ -1440,7 +1442,7 @@ msgstr "LJUS"
 #: 08_light_and_darkness.html:80
 msgctxt "light_and_darkness #1"
 msgid "GOD"
-msgstr ""
+msgstr "GUD"
 
 #: 08_light_and_darkness.html:86
 msgctxt "light_and_darkness #1"
@@ -1615,7 +1617,7 @@ msgstr "Jesus väckte fysiskt från de döda"
 #: 08_light_and_darkness.html:169
 msgctxt "light_and_darkness #1"
 msgid "v. 24"
-msgstr ""
+msgstr "V. 24"
 
 #: 08_light_and_darkness.html:170
 msgid "Everyone is responsible for the crucifixion of Christ"
@@ -1624,7 +1626,7 @@ msgstr "Alla är ansvariga för Kristi korsfästelse"
 #: 08_light_and_darkness.html:170
 msgctxt "light_and_darkness #1"
 msgid "v. 23"
-msgstr ""
+msgstr "V. 23"
 
 #: 08_light_and_darkness.html:170
 msgid "All have sinned."
@@ -1633,7 +1635,7 @@ msgstr "Alla har syndat."
 #: 08_light_and_darkness.html:170
 msgctxt "light_and_darkness #1"
 msgid "Romans 3:23"
-msgstr ""
+msgstr "Romarbrevet 3:23"
 
 #: 08_light_and_darkness.html:174
 msgid "Response of people:"
@@ -1753,7 +1755,7 @@ msgstr "Född igen av vatten och ande"
 #: 08_light_and_darkness.html:250
 msgctxt "light_and_darkness #1"
 msgid "John 3:5"
-msgstr ""
+msgstr "John 3: 5"
 
 #: 08_light_and_darkness.html:254
 msgctxt "light_and_darkness #2"
@@ -1787,7 +1789,7 @@ msgstr "Traditioner / Falska läror -"
 #: 08_light_and_darkness.html:270
 msgctxt "light_and_darkness #1"
 msgid "Matthew 15:6-9"
-msgstr ""
+msgstr "Matteus 15: 6-9"
 
 #: 08_light_and_darkness.html:273
 msgid "Infant Baptism"
@@ -1800,7 +1802,7 @@ msgstr "Personlig tro behövs"
 #: 08_light_and_darkness.html:275
 msgctxt "light_and_darkness #1"
 msgid "Colossians 2:12"
-msgstr ""
+msgstr "Colossians 2:12"
 
 #: 08_light_and_darkness.html:276
 msgid "Began approximately third century A.D."
@@ -1813,7 +1815,7 @@ msgstr "Arvsynd"
 #: 08_light_and_darkness.html:280
 msgctxt "light_and_darkness #1"
 msgid "Ezekiel 18:20"
-msgstr ""
+msgstr "Esekiel 18:20"
 
 #: 08_light_and_darkness.html:281
 msgid "Became \"church doctrine\" in 549 A.D."
@@ -1826,7 +1828,7 @@ msgstr "Be Jesus i ditt hjärta"
 #: 08_light_and_darkness.html:289
 msgctxt "light_and_darkness #1"
 msgid "Revelation 3:20"
-msgstr ""
+msgstr "Uppenbarelseboken 3:20"
 
 #: 08_light_and_darkness.html:289
 msgid "- taken out of context.  This verse is addressed to Christians"
@@ -1846,666 +1848,666 @@ msgstr "Föreslå personen med vilken du studerar att han eller hon skriver ut o
 
 #: 09_new_testament_conversion.html:30
 msgid "The Major Conversions in Acts"
-msgstr ""
+msgstr "De stora omvandlingarna i handlingar"
 
 #: 09_new_testament_conversion.html:33
 msgid "Conversions"
-msgstr ""
+msgstr "omvandlingar"
 
 #: 09_new_testament_conversion.html:42
 msgctxt "new_testament_conversion #1"
 msgid "Acts 2:36-47"
-msgstr ""
+msgstr "Apg 2: 36-47"
 
 #: 09_new_testament_conversion.html:47
 msgid "First Christian in Jerusalem"
-msgstr ""
+msgstr "Första kristen i Jerusalem"
 
 #: 09_new_testament_conversion.html:57
 msgctxt "new_testament_conversion #1"
 msgid "Acts 8:26-39"
-msgstr ""
+msgstr "Apg 8: 26-39"
 
 #: 09_new_testament_conversion.html:62
 msgid "Ethiopian Eunich"
-msgstr ""
+msgstr "Etiopiska Eunich"
 
 #: 09_new_testament_conversion.html:72
 msgid "Acts 16:22-34"
-msgstr ""
+msgstr "Apg 16: 22-34"
 
 #: 09_new_testament_conversion.html:77
 msgid "Philippian jailer and his family"
-msgstr ""
+msgstr "Filippinska fängelse och hans familj"
 
 #: 09_new_testament_conversion.html:87
 msgctxt "new_testament_conversion #1"
 msgid "Acts 9:1-22"
-msgstr ""
+msgstr "Apg 9: 1-22"
 
 #: 09_new_testament_conversion.html:92
 msgctxt "new_testament_conversion #1"
 msgid "Paul"
-msgstr ""
+msgstr "Paul"
 
 #: 09_new_testament_conversion.html:99
 msgid "Acts 22:3-16"
-msgstr ""
+msgstr "Apg 22: 3-16"
 
 #: 09_new_testament_conversion.html:104
 msgctxt "new_testament_conversion #2"
 msgid "Paul"
-msgstr ""
+msgstr "Paul"
 
 #: 09_new_testament_conversion.html:114
 msgid "Acts 18:24-26"
-msgstr ""
+msgstr "Apg 18: 24-26"
 
 #: 09_new_testament_conversion.html:119
 msgid "Apollos"
-msgstr ""
+msgstr "Apollos"
 
 #: 09_new_testament_conversion.html:129
 msgctxt "new_testament_conversion #1"
 msgid "Acts 19:1-5"
-msgstr ""
+msgstr "Apostlagärningarna 19: 1-5"
 
 #: 09_new_testament_conversion.html:134
 msgid "Ephesians"
-msgstr ""
+msgstr "Efesierbrevet"
 
 #: 09_new_testament_conversion.html:140
 msgid "Questions concerning Conversions"
-msgstr ""
+msgstr "Frågor om omvandlingar"
 
 #: 09_new_testament_conversion.html:143
 msgid "What was preached?"
-msgstr ""
+msgstr "Vad förkunnades?"
 
 #: 09_new_testament_conversion.html:146
 msgid "What was the person's (people's) response to the message?"
-msgstr ""
+msgstr "Vad var personens (människors) svar på meddelandet?"
 
 #: 09_new_testament_conversion.html:149
 msgid "How long did the person (people) take to make the decision?"
-msgstr ""
+msgstr "Hur lång tid tog personen (personer) för att fatta beslutet?"
 
 #: 09_new_testament_conversion.html:152
 msgid "What was their response after baptism?"
-msgstr ""
+msgstr "Vad var deras svar efter dopet?"
 
 #: 09_new_testament_conversion.html:160
 msgid "Refuting False Doctrines"
-msgstr ""
+msgstr "Åsidosätta falska läror"
 
 #: 09_new_testament_conversion.html:165
 msgid "\"Pray Jesus into your heart\":"
-msgstr ""
+msgstr "\"Bön Jesus i ditt hjärta\":"
 
 #: 09_new_testament_conversion.html:168
 msgid "This phrase is never mentioned in the Bible.  People may use"
-msgstr ""
+msgstr "Denna fras nämns aldrig i Bibeln. Folk kan använda"
 
 #: 09_new_testament_conversion.html:171
 msgctxt "new_testament_conversion #1"
 msgid "Revelation 3:20"
-msgstr ""
+msgstr "Uppenbarelseboken 3:20"
 
 #: 09_new_testament_conversion.html:174
 msgid "about Jesus knocking at the door.  However, you must examine the Scripture in context.  This scripture does not teach how to become a Christian and be saved, but how to come back to God after becoming lukewarm.  It is addressed to disciples who already responded to Christ in faith, repentance, confession and baptism"
-msgstr ""
+msgstr "Om Jesus knackar på dörren. Men du måste undersöka Skriften i sammanhang. Detta skrifter lär inte hur man blir kristen och blir rädd, men hur man kommer tillbaka till Gud efter att bli ljummet. Det är riktat till lärjungar som redan svarat på Kristus i tro, omvändelse, bekännelse och dop"
 
 #: 09_new_testament_conversion.html:178
 msgid "\"Accept Jesus into your heart\":"
-msgstr ""
+msgstr "\"Acceptera Jesus i ditt hjärta\":"
 
 #: 09_new_testament_conversion.html:181
 msgid "(Same teaching as praying Jesus into your heart, just different terminology)  Based on"
-msgstr ""
+msgstr "(Samma undervisning som att be Jesus i ditt hjärta, bara annan terminologi) Baserat på"
 
 #: 09_new_testament_conversion.html:184
 msgid "Romans 10:9"
-msgstr ""
+msgstr "Romerbrevet 10: 9"
 
 #: 09_new_testament_conversion.html:187
 msgid "You must look at Scripture in context.  Paul is addressing the problem of the Israelites:  unbelief that Jesus was the Christ, the Son of God.  Read further on to"
-msgstr ""
+msgstr "Du måste titta på Skriften i ett sammanhang. Paulus tar itu med problemet med israeliterna: otro, att Jesus var Kristus, Guds Son. Läs vidare vidare till"
 
 #: 09_new_testament_conversion.html:190
 msgid "Romans 10:13"
-msgstr ""
+msgstr "Romarbrevet 10:13"
 
 #: 09_new_testament_conversion.html:193
 msgid "When do you call on the name of the Lord?  At baptism"
-msgstr ""
+msgstr "När ringer du på Herrens namn? Vid dopet"
 
 #: 09_new_testament_conversion.html:196
 msgctxt "new_testament_conversion #1"
 msgid "Acts 22:16"
-msgstr ""
+msgstr "Apg 22:16"
 
 #: 09_new_testament_conversion.html:202
 msgid "Infant baptism:"
-msgstr ""
+msgstr "Spädbarnsdop:"
 
 #: 09_new_testament_conversion.html:205
 msgid "A baby cannot have faith, and since we are baptized through faith in the power of God"
-msgstr ""
+msgstr "En baby kan inte ha tro, och eftersom vi är döpta genom tro på Guds kraft"
 
 #: 09_new_testament_conversion.html:208
 msgctxt "new_testament_conversion #1"
 msgid "Colossians 2:12"
-msgstr ""
+msgstr "Colossians 2:12"
 
 #: 09_new_testament_conversion.html:211
 msgid "babies cannot be baptized.  Original sin:"
-msgstr ""
+msgstr "Spädbarn kan inte döpa Arvsynd:"
 
 #: 09_new_testament_conversion.html:214
 msgctxt "new_testament_conversion #1"
 msgid "Ezekiel 18:20"
-msgstr ""
+msgstr "Esekiel 18:20"
 
 #: 09_new_testament_conversion.html:217
 msgid "teaches that there is no original sin; each person is responsible for his own actions and will be judged accordingly.  Therefore babies are born sinless and will be saved if they die"
-msgstr ""
+msgstr "Lär ut att det inte finns någon original synd Varje person ansvarar för sina egna handlingar och kommer att bedömas i enlighet med detta. Därför är barn födda syndfria och kommer att räddas om de dör"
 
 #: 09_new_testament_conversion.html:221
 msgid "\"Baptism does not save you\":"
-msgstr ""
+msgstr "\"Dopet räddar inte dig\":"
 
 #: 09_new_testament_conversion.html:226
 msgctxt "new_testament_conversion #1"
 msgid "1 Peter 3:18-21"
-msgstr ""
+msgstr "1 Peter 3: 18-21"
 
 #: 09_new_testament_conversion.html:229
 msgid "says that baptism does save you through the resurrection of Jesus Christ"
-msgstr ""
+msgstr "Säger att dopet räddar dig genom Jesu Kristi uppståndelse"
 
 #: 09_new_testament_conversion.html:232
 msgctxt "new_testament_conversion #1"
 msgid "Acts 2:38"
-msgstr ""
+msgstr "Apg 2:38"
 
 #: 09_new_testament_conversion.html:235
 msgid "teaches that sin is forgiven at baptism — one is saved at the point that sin is forgiven"
-msgstr ""
+msgstr "Lär ut att synden är förlåtad vid dopet - en räddas vid den punkt som synden förlåtits"
 
 #: 09_new_testament_conversion.html:239
 msgid "\"Baptism is a work — yet we are saved by faith:\""
-msgstr ""
+msgstr "\"Dopet är ett jobb - men vi är rädda av tro:\""
 
 #: 09_new_testament_conversion.html:245
 msgid "Ephesians 2:8"
-msgstr ""
+msgstr "Efesierna 2: 8"
 
 #: 09_new_testament_conversion.html:251
 msgid "Colossians 2:11-15"
-msgstr ""
+msgstr "Colossians 2: 11-15"
 
 #: 09_new_testament_conversion.html:254
 msgid "teaches that we are saved by faith — in the working of God at baptism"
-msgstr ""
+msgstr "Lär oss att vi är räddade av tro - i Guds verk vid dopet"
 
 #: 09_new_testament_conversion.html:260
 msgid "This passage also teaches that circumcision as an eight-day-old baby under the old covenant has its spiritual parallel in the new covenant to baptism, as this is the time that Christ cuts away your old life.  At baptism one enters a \"covenant\" with God — salvation"
-msgstr ""
+msgstr "Denna passage lär också om omskärelsen som en åtta dagar gammal bebis under det gamla förbundet har sin andliga parallell i det nya dopet, eftersom det här är den tid då Kristus skär bort ditt gamla liv. Vid dop går man in i ett \"förbund\" med Gud - frälsning"
 
 #: 09_new_testament_conversion.html:264
 msgid "\"Baptism is an outward sign of an inward grace:\""
-msgstr ""
+msgstr "\"Dopet är ett yttre tecken på en inre nåd:\""
 
 #: 09_new_testament_conversion.html:269
 msgctxt "new_testament_conversion #1"
 msgid "Romans 6:2-4"
-msgstr ""
+msgstr "Romerbrevet 6: 2-4"
 
 #: 09_new_testament_conversion.html:272
 msgid "states that baptism is an actual participation in the death, burial and resurrection of Christ.  It is not merely a sign, seal or symbol"
-msgstr ""
+msgstr "Säger att dopet är ett verkligt deltagande i Kristi död, begravning och uppståndelse. Det är inte bara ett tecken, en försegling eller en symbol"
 
 #: 09_new_testament_conversion.html:276
 msgid "\"Baptism isn't important. After all, look at what Paul said about it in"
-msgstr ""
+msgstr "\"Dop är inte viktigt. Titta på vad Paulus sa om det i"
 
 #: 09_new_testament_conversion.html:278
 msgid "1 Corinthians 1:17"
-msgstr ""
+msgstr "1 Korintierna 1:17"
 
 #: 09_new_testament_conversion.html:283
 msgid "Paul does not diminish the importance of baptism here.  (Paul himself was baptized to have his sins forgiven in"
-msgstr ""
+msgstr "Paulus minskar inte dopets betydelse här. (Paulus själv blev döpt för att få sina synder förlåtna"
 
 #: 09_new_testament_conversion.html:286
 msgctxt "new_testament_conversion #2"
 msgid "Acts 22:16"
-msgstr ""
+msgstr "Apg 22:16"
 
 #: 09_new_testament_conversion.html:289
 msgid "In context (read"
-msgstr ""
+msgstr "I sammanhang (läs"
 
 #: 09_new_testament_conversion.html:292
 msgid "1 Corinthians 1:10-17"
-msgstr ""
+msgstr "1 Korintierbrevet 1: 10-17"
 
 #: 09_new_testament_conversion.html:295
 msgid "he makes the point that he does not want people following men (denominationalism).  He mentions baptism several times in the passage"
-msgstr ""
+msgstr "Han poängterar att han inte vill att människor följer män (denominationalism). Han nämner dop flera gånger i passagen"
 
 #: 09_new_testament_conversion.html:299
 msgid "\"The thief on the cross was not baptized and Jesus told him that they would see each other in paradise:\""
-msgstr ""
+msgstr "\"Tjuven på korset blev inte döpt och Jesus berättade för honom att de skulle se varandra i paradiset:\""
 
 #: 09_new_testament_conversion.html:302
 msgid "Jesus had not even died yet, and baptism is participating in his death"
-msgstr ""
+msgstr "Jesus hade inte ens dött ännu, och dopet deltar i hans död"
 
 #: 09_new_testament_conversion.html:305
 msgctxt "new_testament_conversion #2"
 msgid "Romans 6:2-4"
-msgstr ""
+msgstr "Romerbrevet 6: 2-4"
 
 #: 09_new_testament_conversion.html:308
 msgid "also on earth, he had the power to forgive sins"
-msgstr ""
+msgstr "Även på jorden hade han makt att förlåta synder"
 
 #: 09_new_testament_conversion.html:311
 msgid "Matthew 9:2-6"
-msgstr ""
+msgstr "Matteus 9: 2-6"
 
 #: 09_new_testament_conversion.html:317
 msgid "\"Believers baptism:\""
-msgstr ""
+msgstr "\"Troende dop:\""
 
 #: 09_new_testament_conversion.html:320
 msgid "This is baptism as an adult, but is not done in conjunction with the understanding that one is being saved at this point in time"
-msgstr ""
+msgstr "Detta är dop som vuxen, men görs inte i samband med förståelsen att man räddas vid denna tidpunkt"
 
 #: 09_new_testament_conversion.html:323
 msgctxt "new_testament_conversion #1"
 msgid "John 3:5"
-msgstr ""
+msgstr "John 3: 5"
 
 #: 09_new_testament_conversion.html:327
 msgctxt "new_testament_conversion #2"
 msgid "Acts 2:38"
-msgstr ""
+msgstr "Apg 2:38"
 
 #: 09_new_testament_conversion.html:330
 msgid "\"Retroactive understanding\" is not sufficient for salvation"
-msgstr ""
+msgstr "\"Retroaktiv förståelse\" räcker inte för frälsning"
 
 #: 10_cross.html:30
 msgid "Passion Account"
-msgstr ""
+msgstr "Passion konto"
 
 #: 10_cross.html:31
 msgid "Read"
-msgstr ""
+msgstr "Läsa"
 
 #: 10_cross.html:31
 msgid "Matthew 26:31-28:10"
-msgstr ""
+msgstr "Matteus 26: 31-28: 10"
 
 #: 10_cross.html:33
 msgid "Suggested Reading Intervals:"
-msgstr ""
+msgstr "Föreslagna läsintervaller:"
 
 #: 10_cross.html:34
 msgid "26:31-35"
-msgstr ""
+msgstr "26: 31-35"
 
 #: 10_cross.html:35
 msgid "26:36-46"
-msgstr ""
+msgstr "26: 36-46"
 
 #: 10_cross.html:36
 msgid "26:47-56"
-msgstr ""
+msgstr "26: 47-56"
 
 #: 10_cross.html:37
 msgid "26:57-68"
-msgstr ""
+msgstr "26: 57-68"
 
 #: 10_cross.html:38
 msgid "26:69-75"
-msgstr ""
+msgstr "26: 69-75"
 
 #: 10_cross.html:39
 msgid "27:1-10"
-msgstr ""
+msgstr "27: 1-10"
 
 #: 10_cross.html:40
 msgid "27:11-26"
-msgstr ""
+msgstr "27: 11-26"
 
 #: 10_cross.html:41
 msgid "27:27-31"
-msgstr ""
+msgstr "27: 27-31"
 
 #: 10_cross.html:42
 msgid "27:32-44"
-msgstr ""
+msgstr "27: 32-44"
 
 #: 10_cross.html:43
 msgid "27:45-56"
-msgstr ""
+msgstr "27: 45-56"
 
 #: 10_cross.html:44
 msgid "27:57-61"
-msgstr ""
+msgstr "27: 57-61"
 
 #: 10_cross.html:45
 msgid "27:62-66"
-msgstr ""
+msgstr "27: 62-66"
 
 #: 10_cross.html:46
 msgid "28:1-10"
-msgstr ""
+msgstr "28: 1-10"
 
 #: 10_cross.html:50
 msgid "Physical Death"
-msgstr ""
+msgstr "Fysisk död"
 
 #: 10_cross.html:51
 msgid "Read the"
-msgstr ""
+msgstr "Läs"
 
 #: 10_cross.html:51
 msgid "medical account"
-msgstr ""
+msgstr "Medicinska kontot"
 
 #: 10_cross.html:51
 msgid "of Jesus' physical death"
-msgstr ""
+msgstr "Av Jesu fysiska död"
 
 #: 10_cross.html:54
 msgid "Personal Responsibility"
-msgstr ""
+msgstr "Personligt ansvar"
 
 #: 10_cross.html:56
 msgid "Remember that there were many others who died by crucifixion in the first century.  It was not that Jesus was physically crucified that makes Him unique; it was that He was crucified for you, in your place.  He died on the cross for you"
-msgstr ""
+msgstr "Kom ihåg att det fanns många andra som dog vid korsfästelsen under första århundradet. Det var inte så att Jesus fysiskt korsfästes som gör honom unik; Det var att han korsfästes för dig, i din plats. Han dog på korset för dig"
 
 #: 10_cross.html:57
 msgctxt "cross #1"
 msgid "Romans 3:23"
-msgstr ""
+msgstr "Romarbrevet 3:23"
 
 #: 10_cross.html:58
 msgctxt "cross #1"
 msgid "Isaiah 59:1-2"
-msgstr ""
+msgstr "Jesaja 59: 1-2"
 
 #: 10_cross.html:59
 msgid "Matthew 27:46"
-msgstr ""
+msgstr "Matteus 27:46"
 
 #: 10_cross.html:60
 msgid "Share the sins that you committed before being baptized and your feelings of being forgiven at baptism.  Ask the person with whom you are studying to share and confess their sins"
-msgstr ""
+msgstr "Dela de synder du begått innan du döpades och dina känslor av att bli förlåtna vid dopet. Fråga personen med vilken du studerar för att dela och bekänna sina synder"
 
 #: 10_cross.html:61
 msgid "Isaiah 53:4-6"
-msgstr ""
+msgstr "Jesaja 53: 4-6"
 
 #: 10_cross.html:61
 msgid "(substitute your name)"
-msgstr ""
+msgstr "(Ersätt ditt namn)"
 
 #: 10_cross.html:62
 msgid "If possible immediately after this study watch either"
-msgstr ""
+msgstr "Om möjligt omedelbart efter denna studie titta antingen"
 
 #: 10_cross.html:62
 msgid "or"
-msgstr ""
+msgstr "eller"
 
 #: 10_cross.html:62
 msgid "The Passion"
-msgstr ""
+msgstr "Passionen"
 
 #: 10_cross.html:62
 msgid "video"
-msgstr ""
+msgstr "video-"
 
 #: 11_medical_account.html:29
 msgid "Dr. C. Truman Davis"
-msgstr ""
+msgstr "Dr. C. Truman Davis"
 
 #: 11_medical_account.html:30
 msgid "A Physician Analyzes the Crucifixion"
-msgstr ""
+msgstr "En läkare analyserar korsfästelsen"
 
 #: 11_medical_account.html:34
 msgid "In this paper, I shall discuss some of the physical aspects of the passion, or suffering, of Jesus Christ. We shall follow Him from Gethsemane, through His trial, His scourging, His path along the Via Dolorosa, to His last dying hours on the cross..."
-msgstr ""
+msgstr "I detta dokument ska jag diskutera några av de fysiska aspekterna av Jesu Kristi passion eller lidande. Vi kommer att följa honom från Gethsemane genom hans rättegång, hans skurvning, hans väg längs Via Dolorosa, till hans sista döende timmar på korset ..."
 
 #: 11_medical_account.html:38
 msgid "This led me first to a study of the practice of crucifixion itself; that is, torture and execution by fixation to a cross. Apparently, the first known practice of crucifixion was by the Persians. Alexander and his generals brought it back to the Mediterranean world - to Egypt and to Carthage. The Romans apparently learned the practice from the Carthaginians and (as with almost everything the Romans did) rapidly developed a very high degree of efficiency and skill at it. A number of Roman authors (Livy, Cicero, Tacitus) comment on crucifixion, and several innovations, modifications, and variations are described in the ancient literature."
-msgstr ""
+msgstr "Detta ledde mig först till en studie av själva korsfästelsen, Det vill säga tortyr och utförande genom fixering till ett kors. Tydligen var den första kända krossfästelsen av perserna. Alexander och hans generaler tog det tillbaka till Medelhavsvärlden - till Egypten och Carthage. Romarna lärde sig uppenbarligen praktiken från karthaginierna och (som med nästan allt som romarna gjorde) snabbt utvecklat en mycket hög grad av effektivitet och skicklighet på den. Ett antal romerska författare (Livy, Cicero, Tacitus) kommenterar korsfästelsen och flera innovationer, modifikationer och variationer beskrivs i den gamla litteraturen."
 
 #: 11_medical_account.html:42
 msgid "For instance, the upright portion of the cross (or stipes) could have the cross-arm (or patibulum) attached two or three feet below its top in what we commonly think of as the Latin cross. The most common form used in our Lord's day, however, was the Tau cross, shaped like our T. In this cross the patibulum was placed in a notch at the top of the stipes. There is archeological evidence that it was on this type of cross that Jesus was crucified."
-msgstr ""
+msgstr "Exempelvis kan den upprepa delen av korset (eller stipendierna) ha tvärbenet (eller patibulen) fäst två eller tre fot under sin topp i vad vi allmänt anser som det latinska korset. Den vanligaste formen som användes på vår Herres dag var dock Tau-korset, format som vårt T. I detta kors var patibulatet placerat i en hack på toppen av punkten. Det finns arkeologiska bevis för att det var på denna typ av kors som Jesus korsfästes."
 
 #: 11_medical_account.html:46
 msgid "Without any historical or Biblical proof, Medieval and Renaissance painters have given us our picture of Christ carrying the entire cross. But the upright post, or stipes, was generally fixed permanently in the ground at the site of execution and the condemned man was forced to carry the patibulum, weighing about 110 pounds, from the prison to the place of execution."
-msgstr ""
+msgstr "Utan historiska eller bibelsk bevis har medeltida och renässansmålare givit oss vår bild av Kristus som bär hela korset. Men den upprättliga posten eller stipendierna fastgjordes i allmänhet permanent i marken på verkställighetsplatsen och den fördömde mannen tvingades att bära patibulan med en vikt av ca 110 pund, från fängelset till platsen för utförandet."
 
 #: 11_medical_account.html:50
 msgid "Many of the painters and most of the sculptors of crucifixion, also show the nails through the palms. Historical Roman accounts and experimental work have established that the nails were driven between the small bones of the wrists (radius and ulna) and not through the palms. Nails driven through the palms will strip out between the fingers when made to support the weight of the human body. The misconception may have come about through a misunderstanding of Jesus' words to Thomas\""
-msgstr ""
+msgstr "Många av målarna och de flesta korsfästarnas skulptörer visar också naglarna genom palmerna. Historiska romerska räkenskaper och experimentella arbeten har visat att naglarna drivits mellan handledsens små ben (radie och ulna) och inte genom palmerna. Naglar som drivs genom palmerna kommer att riva ut mellan fingrarna när de är gjorda för att stödja människokroppens vikt. Missuppfattningen kan ha skett genom ett missförstånd om Jesu ord till Thomas \""
 
 #: 11_medical_account.html:52
 msgid "Observe my hands"
-msgstr ""
+msgstr "Observera mina händer"
 
 #: 11_medical_account.html:53
 msgid "Anatomists, both modern and ancient, have always considered the wrist as part of the hand."
-msgstr ""
+msgstr "Anatomister, både moderna och gamla, har alltid betraktat handleden som en del av handen."
 
 #: 11_medical_account.html:57
 msgid "A titulus, or small sign, stating the victim's crime was usually placed on a staff, carried at the front of the procession from the prison, and later nailed to the cross so that it extended above the head. This sign with its staff nailed to the top of the cross would have given it somewhat the characteristic form of the Latin cross."
-msgstr ""
+msgstr "Ett titulus eller litet tecken, som angav offrets brott, placerades vanligtvis på en personal som bar på framsidan av processionen från fängelset och senare spikade på korset så att det sträckte sig över huvudet. Det här tecknet med sin personal som spikades överst på korset skulle ha gett det något den karaktäristiska formen av det latinska korset."
 
 #: 11_medical_account.html:61
 msgid "But, of course, the physical passion of the Christ began in Gethsemane. Of the many aspects of this initial suffering, the one of greatest physiological interest is the bloody sweat. It is interesting that St. Luke, the physician, is the only one to mention this. He says"
-msgstr ""
+msgstr "Men naturligtvis började Kristi fysiska passion i Getsemane. Av de många aspekterna av detta initiala lidande är det av största fysiologiska intresset den blodiga svetten. Det är intressant att St. Luke, läkaren, är den enda som nämner detta. Han säger"
 
 #: 11_medical_account.html:63
 msgid "And being in agony, He prayed the longer. And His sweat became as drops of blood, trickling down upon the ground."
-msgstr ""
+msgstr "Och han var i plåga, bad han längre. Och hans svett blev som bloddroppar och sipprade ner på marken."
 
 #: 11_medical_account.html:68
 msgid "Every ruse (trick) imaginable has been used by modern scholars to explain away this description, apparently under the mistaken impression that this just doesn't happen. A great deal of effort could have been saved had the doubters consulted the medical literature. Though very rare, the phenomenon of"
-msgstr ""
+msgstr "Varje ruse (trick) som kan tänkas har använts av moderna forskare för att förklara bort denna beskrivning, tydligen under det felaktiga intrycket att detta bara inte händer. En stor ansträngning kunde ha blivit rädd om tvivlarna rådfrågade medicinsk litteratur. Även om det är mycket sällsynt, fenomenet"
 
 #: 11_medical_account.html:69
 msgid "Hematidrosis"
-msgstr ""
+msgstr "Hematidrosis"
 
 #: 11_medical_account.html:70
 msgid "or bloody sweat, is well documented. Under great emotional stress of the kind our Lord suffered, tiny capillaries in the sweat glands can break, thus mixing blood with sweat. This process might well have produced marked weakness and possible shock."
-msgstr ""
+msgstr "Eller blodig svett, är väl dokumenterad. Under stor emotionell stress av det slag som vår Herre led, kan små kapillärer i svettkörtna bryta, så att blodet blandas med svett. Denna process kan väl ha producerat markerad svaghet och möjlig chock."
 
 #: 11_medical_account.html:74
 msgid "After the arrest in the middle of the night, Jesus was next brought before the Sanhedrin and Caiphus, the High Priest; it is here that the first physical trauma was inflicted. A soldier struck Jesus across the face for remaining silent when questioned by Caiphus. The palace guards then blind-folded Him and mockingly taunted Him to identify them as they each passed by, spat upon Him, and struck Him in the face."
-msgstr ""
+msgstr "Efter arresteringen i mitten av natten kom Jesus därefter fram för högprästen Sanhedrin och Caiphus; Det är här som det första fysiska traumet påfördes. En soldat slog Jesus över ansiktet för att vara tyst när han ifrågasattes av Caiphus. Slottvakterna blindade sedan honom och spottade honom med häftighet för att identifiera dem, som de var förbi, sprutade över honom och slog honom i ansiktet."
 
 #: 11_medical_account.html:78
 msgid "In the early morning, battered and bruised, dehydrated, and exhausted from a sleepless night, Jesus is taken across the Praetorium of the Fortress Antonia, the seat of government of the Procurator of Judea, Pontius Pilate. You are, of course, familiar with Pilate's action in attempting to pass responsibility to Herod Antipas, the Tetrarch of Judea. Jesus apparently suffered no physical mistreatment at the hands of Herod and was returned to Pilate. It was then, in response to the cries of the mob, that Pilate ordered Bar-Abbas released and condemned Jesus to scourging and crucifixion."
-msgstr ""
+msgstr "Tidigt på morgonen, är han smadrad och mördad, uttorkad och uttömd från en sömnlös natt, taget över prästinjen i fästningen Antonia, regeringsstället för Judeas förkämpare, Pontius Pilatus. Du är självklart bekant med Pilatus handling i att försöka överlåta ansvaret till Herodes Antipas, Judetans Tetrarch. Jesus ledde uppenbarligen ingen fysisk misshandel i Herodes händer och återvände till Pilatus. Det var då, som svar på mobbens skrik, som Pilatus beordrade Bar Abbas släppt och fördömde Jesus att scourging och korsfästelse."
 
 #: 11_medical_account.html:82
 msgid "There is much disagreement among authorities about the unusual scourging as a prelude to crucifixion. Most Roman writers from this period do not associate the two. Many scholars believe that Pilate originally ordered Jesus scourged as his full punishment and that the death sentence by crucifixion came only in response to the taunt by the mob that the Procurator was not properly defending Caesar against this pretender who allegedly claimed to be the King of the Jews."
-msgstr ""
+msgstr "Det finns stor oenighet mellan myndigheterna om den ovanliga scourging som en förspel mot korsfästelsen. De flesta romerska författare från denna period associerar inte de två. Många forskare tror att Pilatus ursprungligen beordrade Jesus som sin fulla bestraffning och att dödsdom genom korsfästelsen kom enbart som en följd av mobben, att Procuratorn inte korrekt försvarade Caesar mot denna pretender som påstod att han var kungen av judar."
 
 #: 11_medical_account.html:86
 msgid "Preparations for the scourging were carried out when the Prisoner was stripped of His clothing and His hands tied to a post above His head. It is doubtful the Romans would have made any attempt to follow the Jewish law in this matter, but the Jews had an ancient law prohibiting more than forty lashes."
-msgstr ""
+msgstr "Förberedelserna för scourging utfördes när Fångaren avtog hans kläder och hans händer bundna till ett stolpe över hans huvud. Det är tveksamt att romarna skulle ha gjort något försök att följa den judiska lagen i den här frågan, men judarna hade en gammal lag som förbjuder mer än fyrtio fransar."
 
 #: 11_medical_account.html:90
 msgid "The Roman legionnaire steps forward with the flagrum (or flagellum) in his hand. This is a short whip consisting of several heavy, leather thongs with two small balls of lead attached near the ends of each. The heavy whip is brought down with full force again and again across Jesus' shoulders, back, and legs. At first the thongs cut through the skin only. Then, as the blows continue, they cut deeper into the subcutaneous tissues, producing first an oozing of blood from the capillaries and veins of the skin, and finally spurting arterial bleeding from vessels in the underlying muscles."
-msgstr ""
+msgstr "Det romerska legionäret går framåt med flagrumet (eller flagellumet) i handen. Det här är en kort pisk som består av flera tunga läderstänger med två små bollar av bly fastsatt nära ändarna av vardera. Den tunga piska sätts ner med full kraft igen och igen över Jesu axlar, rygg och ben. Vid första skuren tångarna bara genom huden. Sedan, som slag fortsätter, skär de djupare in i de subkutana vävnaderna och producerar först en blodsöppning från kapillärerna och venerna i huden, och slutligen sprutar arteriell blödning från kärl i de underliggande musklerna."
 
 #: 11_medical_account.html:94
 msgid "The small balls of lead first produce large, deep bruises which are broken open by subsequent blows. Finally the skin of the back is hanging in long ribbons and the entire area is an unrecognizable mass of torn, bleeding tissue. When it is determined by the centurion in charge that the prisoner is near death, the beating is finally stopped."
-msgstr ""
+msgstr "De små blybollarna producerar först stora, djupa blåmärken som bryts upp av efterföljande slag. Slutligen hänger ryggen på baksidan i långa band och hela området är en oigenkännlig massa av sönderdelad blödande vävnad. När det bestäms av centurionen som ansvarar för att fångaren är nära döden, slås slutligen slaget."
 
 #: 11_medical_account.html:98
 msgid "The half-fainting Jesus is then untied and allowed to slump to the stone pavement, wet with His own blood. The Roman soldiers see a great joke in this provincial Jew claiming to be king. They throw a robe across His shoulders and place a stick in His hand for a scepter. They still need a crown to make their travesty complete. Flexible branches covered with long thorns (commonly used in bundles for firewood) are plaited into the shape of a crown and this is pressed into His scalp. Again there is copious bleeding, the scalp being one of the most vascular areas of the body."
-msgstr ""
+msgstr "Halvbesväret Jesus är då förbunden och tillåtet att slumpa sig till stenbeläggningen, våt med sitt eget blod. De romerska soldaterna ser ett stort skämt i denna provinsiella jud som hävdar att han är kung. De kastar en mantel över sina axlar och lägger en pinne i handen för en scepter. De behöver fortfarande en krona för att göra sin travesty komplett. Flexibla grenar täckta med långa taggar (vanligtvis används i buntar för ved) flätas i form av en krona och detta pressas in i hans hårbotten. Återigen finns det riklig blödning, hårbotten är en av kroppens mest vaskulära områden."
 
 #: 11_medical_account.html:102
 msgid "After mocking Him and striking Him across the face, the soldiers take the stick from His hand and strike Him across the head, driving the thorns deeper into His scalp. Finally, they tire of their sadistic sport and the robe is torn from His back. Already having adhered to the clots of blood and serum in the wounds, its removal causes excruciating pain just as in the careless removal of a surgical bandage, and almost as though He were again being whipped the wounds once more begin to bleed."
-msgstr ""
+msgstr "Efter att ha spotat honom och slog honom över ansiktet tar soldaterna pinnen från handen och slår honom över huvudet och driver törnen djupare in i hans hårbotten. Slutligen tröttnar de på sin sadistiska sport och kappan är sliten från hans rygg. Genom att ha tagit sig till blodproppens blod och serum i såren, orsakar borttagningen ojämn smärta, precis som vid ett obehagligt avlägsnande av ett kirurgiskt bandage, och nästan som om han åter piskades, börjar såren åter blöda."
 
 #: 11_medical_account.html:106
 msgid "In deference to Jewish custom, the Romans return His garments. The heavy patibulum of the cross is tied across His shoulders, and the procession of the condemned Christ, two thieves, and the execution detail of Roman soldiers headed by a centurion begins its slow journey along the Via Dolorosa. In spite of His efforts to walk erect, the weight of the heavy wooden beam, together with the shock produced by copious blood loss, is too much. He stumbles and falls. The rough wood of the beam gouges into the lacerated skin and muscles of the shoulders. He tries to rise, but human muscles have been pushed beyond their endurance."
-msgstr ""
+msgstr "Med hänsyn till den judiska sedvanen returnerar romarna sina kläder. Korsets tunga korsband är knutet över hans axlar, och den fördömde Kristi procession, två tjuvar och utförandet av romerska soldater som leds av en centurion börjar sin långsamma resa längs Via Dolorosa. Trots hans ansträngningar att gå uppåt är tyngden av den tunga trästrålen, tillsammans med chocken som orsakas av riklig blodförlust, för mycket. Han snubblar och faller. Halvbjälkens hårda trä spärras i hårets skarpa hud och muskler. Han försöker stiga, men mänskliga muskler har drivits utöver deras uthållighet."
 
 #: 11_medical_account.html:110
 msgid "The centurion, anxious to get on with the crucifixion, selects a stalwart North African onlooker, Simon of Cyrene, to carry the cross. Jesus follows, still bleeding and sweating the cold, clammy sweat of shock, until the 650 yard journey from the fortress Antonia to Golgotha is finally completed."
-msgstr ""
+msgstr "Centurionen, angelägen om att fortsätta med korsfästelsen, väljer en stalwart nordafrikansk åskådare, Simon of Cyrene, för att bära korset. Jesus följer, blöder fortfarande och svettar den kalla, klumpiga svettningen av chock, tills 650 gårdsresan från fästningen Antonia till Golgotha ​​är slutfört."
 
 #: 11_medical_account.html:114
 msgid "Jesus is offered wine mixed with myrrh, a mild analgesic mixture. He refuses to drink. Simon is ordered to place the patibulum on the ground and Jesus quickly thrown backward with His shoulders against the wood. The legionnaire feels for the depression at the front of the wrist. He drives a heavy, square, wrought-iron nail through the wrist and deep into the wood. Quickly, he moves to the other side and repeats the action being careful not to pull the arms too tightly, but to allow some flexion and movement. The patibulum is then lifted in place at the top of the stipes and the titulus reading \"Jesus of Nazareth, King of the Jews\" is nailed in place."
-msgstr ""
+msgstr "Jesus erbjuds vin blandat med myrra, en mild analgetisk blandning. Han vägrar att dricka. Simon beordras att placera patibulet på marken och Jesus kastade snabbt bakåt med sina axlar mot träet. Legionäret känns för depression på framsidan av handleden. Han driver en tung, fyrkantig smidesjärnspik genom handleden och djupt in i träet. Snabbt flyttar han till andra sidan och upprepar åtgärden att vara noga med att inte dra armarna för hårt, men för att tillåta viss flexion och rörelse. Patibulen lyfts sedan på plats överst på pungen och titulusläsningen \"Jesus of Nazareth, King of the Jews\" är spikad på plats."
 
 #: 11_medical_account.html:118
 msgid "The left foot is now pressed backward against the right foot, and with both feet extended, toes down, a nail is driven through the arch of each, leaving the knees moderately flexed. The victim is now crucified. As He slowly sags down with more weight on the nails in the wrists excruciating pain shoots along the fingers and up the arms to explode in the brain. As He pushes Himself upward to avoid this stretching torment, He places His full weight on the nail through His feet. Again there is the searing agony of the nail tearing through the nerves between the metatarsal bones of the feet."
-msgstr ""
+msgstr "Den vänstra foten pressas nu bakåt mot den högra foten, och med båda fötterna utsträckt, tårna ner, drivs en spik genom var och en av bågarna, vilket gör att knäna är måttligt böjda. Offret är nu korsfäst. När han långsamt lägger sig ner med mer vikt på naglarna i handlederna skottar smärtsam smärta längs fingrarna och upp armarna för att explodera i hjärnan. När han skjuter upp sig själv för att undvika denna sträckande plåga lägger han sin fulla vikt på nageln genom hans fötter. Återigen finns naglarna som sårar i naglarna genom nerverna mellan fotens metatarsala ben."
 
 #: 11_medical_account.html:122
 msgid "At this point, as the arms fatigue, great waves of cramps sweep over the muscles, knotting them in deep, relentless, throbbing pain. With these cramps comes the inability to push Himself upward. Hanging by His arms, the pectoral muscles are paralyzed and the intercostal muscles are unable to act. Air can be drawn into the lungs, but cannot be exhaled. Jesus fights to raise Himself in order to get even one short breath. Finally, carbon dioxide builds up in the lungs and in the blood stream and the cramps partially subside. Spasmodically, He is able to push Himself upward to exhale and bring in the life-giving oxygen. It was undoubtedly during these periods that He uttered the seven short sentences recorded:"
-msgstr ""
+msgstr "Vid den här tiden, som armarna trötthet, bromsar stora vågor av kramper över musklerna och knyter dem i djup, obeveklig, smärtsam smärta. Med dessa kramper kommer oförmågan att driva sig uppåt. Hängande i hans armar, är pectoralmusklerna förlamade och de interostala musklerna kan inte agera. Luft kan dras in i lungorna, men kan inte utandas. Jesus kämpar för att höja sig för att få ett kort andetag. Slutligen bygger koldioxid upp i lungorna och i blodflödet och kramperna sänker sig delvis. Spasmodiskt kan han skjuta upp sig själv för att andas ut och ta in det livsgivande syret. Det var utan tvekan under dessa perioder att han yttrade de sju korta meningarna som spelades in:"
 
 #: 11_medical_account.html:126
 msgid "The first, looking down at the Roman soldiers throwing dice for His seamless garment"
-msgstr ""
+msgstr "Den första ser ner på de romerska soldaterna som kastar tärningar för sitt sömlösa plagg"
 
 #: 11_medical_account.html:128
 msgid "Father, forgive them for they know not what they do."
-msgstr ""
+msgstr "Fader, förlåta dem för att de inte vet vad de gör."
 
 #: 11_medical_account.html:133
 msgid "The second, to the penitent thief"
-msgstr ""
+msgstr "Den andra, till den straffande tjuven"
 
 #: 11_medical_account.html:135
 msgid "Today thou shalt be with me in Paradise."
-msgstr ""
+msgstr "Idag ska du vara med mig i paradiset."
 
 #: 11_medical_account.html:140
 msgid "The third, looking down at the terrified, grief-stricken adolescent John - the beloved Apostle - he said"
-msgstr ""
+msgstr "Den tredje tittar ner på den skrämmande, sorgslyckade tonåren John - den älskade aposteln - sa han"
 
 #: 11_medical_account.html:143
 msgid "Behold thy mother."
-msgstr ""
+msgstr "Se din mamma."
 
 #: 11_medical_account.html:145
 msgid "Then, looking to His mother Mary"
-msgstr ""
+msgstr "Sedan tittar han på sin mor Mary"
 
 #: 11_medical_account.html:147
 msgid "Woman behold thy son."
-msgstr ""
+msgstr "Kvinna ser din son."
 
 #: 11_medical_account.html:152
 msgid "The fourth cry is from the beginning of the 22nd Psalm"
-msgstr ""
+msgstr "Det fjärde skriet är från början av den 22: e psalmen"
 
 #: 11_medical_account.html:154
 msgid "My God, my God, why has thou forsaken me?"
-msgstr ""
+msgstr "Min Gud, min Gud, varför har du övergett mig?"
 
 #: 11_medical_account.html:159
 msgid "Hours of limitless pain, cycles of twisting, joint-rending cramps, intermittent partial asphyxiation, searing pain where tissue is torn from His lacerated back as He moves up and down against the rough timber. Then another agony begins... A terrible crushing pain deep in the chest as the pericardium slowly fills with serum and begins to compress the heart."
-msgstr ""
+msgstr "Timmar av obegränsad smärta, vridningscykler, sammandragande kramper, intermittent partiell kvävning, sårande smärta där vävnad slits från hans lacererade rygg när han rör sig upp och ner mot grovt virke. Då börjar en annan ångest ... En fruktansvärd krossande smärta djupt i bröstet, eftersom perikardiet fylls långsamt med serum och börjar komprimera hjärtat."
 
 #: 11_medical_account.html:163
 msgid "One remembers again the 22nd Psalm, the 14th verse:"
-msgstr ""
+msgstr "Man minns återigen den 22: e Psalmen, den 14: e versen:"
 
 #: 11_medical_account.html:165
 msgid "I am poured out like water, and all my bones are out of joint; my heart is like wax; it is melted in the midst of my bowels."
-msgstr ""
+msgstr "Jag är uthälld som vatten, och alla mina ben är ur gemensamma. Mitt hjärta är som vax; Det smälter mitt i mina tarmar."
 
 #: 11_medical_account.html:170
 msgid "It is now almost over. The loss of tissue fluids has reached a critical level; the compressed heart is struggling to pump heavy, thick, sluggish blood into the tissue; the tortured lungs are making a frantic effort to gasp in small gulps of air. The markedly dehydrated tissues send their flood of stimuli to the brain."
-msgstr ""
+msgstr "Det är nu nästan över. Förlusten av vävnadsvätskor har nått en kritisk nivå; Det komprimerade hjärtat kämpar för att pumpa tungt, tjockt, trögt blod i vävnaden; De torterade lungorna gör en häftig ansträngning för att gasa i små luftflugor. De markant dehydrerade vävnaderna skickar sin flod av stimuli till hjärnan."
 
 #: 11_medical_account.html:174
 msgid "Jesus gasps His fifth cry"
-msgstr ""
+msgstr "Jesus hämtar sitt femte gråta"
 
 #: 11_medical_account.html:176
 msgid "I thirst."
-msgstr ""
+msgstr "Jag törstar"
 
 #: 11_medical_account.html:181
 msgid "One remembers another verse from the prophetic 22nd Psalm:"
-msgstr ""
+msgstr "Man kommer ihåg en annan vers från den profetiska 22: e Psalmen:"
 
 #: 11_medical_account.html:183
 msgid "My strength is dried up like a potsherd; and my tongue cleaveth to my jaws; and thou has brought me into the dust of death."
-msgstr ""
+msgstr "Min styrka är upptorkad som en krukherde; Och min tunga klämmer i mina käkar; Och du har fört mig i dödens damm."
 
 #: 11_medical_account.html:188
 msgid "A sponge soaked in posca, the cheap, sour wine which is the staple drink of the Roman legionaries, is lifted to His lips. He apparently doesn't take any of the liquid. The body of Jesus is now in extremis, and He can feel the chill of death creeping through His tissues. This realization brings out His sixth words, possibly little more than a tortured whisper"
-msgstr ""
+msgstr "En svamp fuktad i posca lyftes det billiga, sura vinet, som är de romerska legionärernas häftdryck, till sina läppar. Han tar uppenbarligen inte någon av vätskan. Jesu kropp är nu i extremis, och han kan känna dödens chill genom sina vävnader. Denna förverkligande ger ut sina sjätte ord, eventuellt lite mer än en torterad viskning"
 
 #: 11_medical_account.html:190
 msgid "It is finished."
-msgstr ""
+msgstr "Det är avslutat."
 
 #: 11_medical_account.html:192
 msgid "His mission of atonement has completed. Finally He can allow his body to die."
-msgstr ""
+msgstr "Hans försörjningsbrev har slutfört. Till sist kan han låta sin kropp dö."
 
 #: 11_medical_account.html:196
 msgid "With one last surge of strength, He once again presses His torn feet against the nail, straightens His legs, takes a deeper breath, and utters His seventh and last cry"
-msgstr ""
+msgstr "Med en sista styrka ökar han än en gång sina tornade fötter mot nageln, räter ut benen, tar ett djupare andetag och uttrycker sitt sjunde och sista gråt"
 
 #: 11_medical_account.html:198
 msgid "Father! Into thy hands I commit my spirit."
-msgstr ""
+msgstr "Far! I dina händer begår jag min ande."
 
 #: 11_medical_account.html:203
 msgid "The rest you know. In order that the Sabbath not be profaned, the Jews asked that the condemned men be dispatched and removed from the crosses. The common method of ending a crucifixion was by crucifracture, the breaking of the bones of the legs. This prevented the victim from pushing himself upward; thus the tension could not be relieved from the muscles of the chest and rapid suffocation occurred. The legs of the two thieves were broken, but when the soldiers came to Jesus they saw that this was unnecessary."
-msgstr ""
+msgstr "Resten du vet. För att sabbaten inte skulle bli förvirrad, bad judarna att de fördömde männen skulle skickas och avlägsnas från korsen. Den gemensamma metoden att avsluta en korsfästelse var genom korsfraktur, brytningen av benens ben. Detta förhindrade offeret att trycka sig uppåt; Spänningen kunde således inte lindras från bröstets muskler och snabb kvävning uppstod. Benen på de två tjuvarna var brutna, men när soldaterna kom till Jesus såg de att detta var onödigt."
 
 #: 11_medical_account.html:207
 msgid "Apparently to make doubly sure of death, the legionnaire drove his lance through the fifth interspace between the ribs, upward through the pericardium and into the heart. The 34th verse of the 19th chapter of the Gospel according to St. John reports:"
-msgstr ""
+msgstr "Uppenbarligen för att göra dubbelt säker på döden, körde legionären sin lans genom det femte mellanrummet mellan revbenen, uppåt genom perikardiet och in i hjärtat. Den 34: e versen av 19: e kapitlet i evangeliet enligt St John-rapporterna:"
 
 #: 11_medical_account.html:209
 msgid "And immediately there came out blood and water."
-msgstr ""
+msgstr "Och omedelbart kom ut blod och vatten."
 
 #: 11_medical_account.html:211
 msgid "That is, there was an escape of water fluid from the sac surrounding the heart, giving postmortem evidence that our Lord died not the usual crucifixion death by suffocation, but of heart failure due to shock and constriction of the heart by fluid in the pericardium."
-msgstr ""
+msgstr "Det var att det fanns en flykt av vattenfluid från saken som omger hjärtat, vilket ger eftermortem bevis för att vår Herre dog inte den vanliga korsfästelsedöden genom kvävning, men av hjärtsvikt på grund av chock och förträngning av hjärtat med vätska i perikardiet."
 
 #: 11_medical_account.html:215
 msgid "Thus we have had our glimpse - including the medical evidence - of that epitome of evil which man has exhibited toward man and toward God. It has been a terrible sight, and more than enough to leave us despondent and depressed. How grateful we can be that we have the great sequel in the infinite mercy of God toward man - at once the miracle of the atonement and the expectation of the triumphant Easter morning."
-msgstr ""
+msgstr "Således har vi haft vår glimt - inklusive de medicinska bevisen - om den illamående som människan har uppvisat mot människan och mot Gud. Det har varit en fruktansvärd syn och mer än nog att lämna oss despondent och deprimerad. Hur tacksam vi kan vara att vi har den stora uppföljaren i Guds oändliga barmhärtighet gentemot människan - omedelbart försoningen och förväntan om den triumferande påskmorgonen."
 
 #: 11_medical_account.html:219
 msgid "From"
-msgstr ""
+msgstr "Från"
 
 #: 11_medical_account.html:221
 msgid "New Wine Magazine, April 1982"
-msgstr ""
+msgstr "New Wine Magazine, april 1982"
 
 #: 11_medical_account.html:223
 msgid "Originally published in Arizona Medicine, March 1965, Arizona Medical Association."
-msgstr ""
+msgstr "Ursprungligen publicerad i Arizona Medicine, mars 1965, Arizona Medical Association."
 
 #: 12_baptism_with_the_holy_spirit.html:28
 msgctxt "baptism_with_the_holy_spirit #1"
@@ -2689,7 +2691,7 @@ msgstr "Johannes dop - Passed när det nya förbundet började"
 #: 12_baptism_with_the_holy_spirit.html:168
 msgctxt "baptism_with_the_holy_spirit #1"
 msgid "Acts 19:1-5"
-msgstr ""
+msgstr "Apostlagärningarna 19: 1-5"
 
 #: 12_baptism_with_the_holy_spirit.html:173
 msgctxt "baptism_with_the_holy_spirit #2"
@@ -2744,7 +2746,7 @@ msgstr "och i"
 #: 12_baptism_with_the_holy_spirit.html:204
 msgctxt "baptism_with_the_holy_spirit #1"
 msgid "1 Peter 3:18-21"
-msgstr ""
+msgstr "1 Peter 3: 18-21"
 
 #: 12_baptism_with_the_holy_spirit.html:207
 msgid "written around"
@@ -2802,730 +2804,730 @@ msgstr "Inte längre närvarande idag"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:31
 msgid "Types of Miraculous Gifts"
-msgstr ""
+msgstr "Typer av Mirakulösa gåvor"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:37
 msgid "1 Corinthians 12:8-10"
-msgstr ""
+msgstr "1 Korinthierna 12: 8-10"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:42
 msgid "Wisdom"
-msgstr ""
+msgstr "Visdom"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:45
 msgid "Knowledge"
-msgstr ""
+msgstr "Kunskap"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:48
 msgid "Faith"
-msgstr ""
+msgstr "Tro"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:51
 msgctxt "miraculous_gifts_of_the_holy_spirit #1"
 msgid "Healing"
-msgstr ""
+msgstr "healing"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:54
 msgid "Miracles"
-msgstr ""
+msgstr "mirakel"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:57
 msgid "Prophecy"
-msgstr ""
+msgstr "Profetia"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:60
 msgid "Distinguishing Spirits"
-msgstr ""
+msgstr "Distinguishing Spirits"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:63
 msgid "Tongues"
-msgstr ""
+msgstr "tungor"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:66
 msgid "Interpretation"
-msgstr ""
+msgstr "tolkning"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:74
 msgid "Mark 16:16-18"
-msgstr ""
+msgstr "Mark 16: 16-18"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:77
 msgid "Some will be able to:"
-msgstr ""
+msgstr "Vissa kommer att kunna:"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:80
 msgid "Drink poison and not die"
-msgstr ""
+msgstr "Drick gift och inte dö"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:83
 msgid "Be bitten by snakes and not die"
-msgstr ""
+msgstr "Bli bitad av ormar och inte dö"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:86
 msgid "Acts 28:5"
-msgstr ""
+msgstr "Apg 28: 5"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:97
 msgid "Types of \"Laying on of Hands\""
-msgstr ""
+msgstr "Typer av \"lägga på händer\""
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:101
 msgid "Blessing"
-msgstr ""
+msgstr "Välsignelse"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:104
 msgid "Acts 13:3"
-msgstr ""
+msgstr "Apg 13: 3"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:110
 msgctxt "miraculous_gifts_of_the_holy_spirit #2"
 msgid "Healing"
-msgstr ""
+msgstr "healing"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:113
 msgid "Ananias heals Paul's blindness"
-msgstr ""
+msgstr "Ananias läker Paulus blindhet"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:116
 msgid "Acts 9:17-18"
-msgstr ""
+msgstr "Apg 9: 17-18"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:122
 msgid "Paul heals Publius' father on Malta"
-msgstr ""
+msgstr "Paul healer Publius fader på Malta"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:125
 msgid "Acts 28:8"
-msgstr ""
+msgstr "Apg 28: 8"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:133
 msgid "Passing on the Gifts"
-msgstr ""
+msgstr "Passerar på gåvorna"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:136
 msgid "Apostles pass on the gifts"
-msgstr ""
+msgstr "Apostlarna vidarebefordrar gåvorna"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:139
 msgctxt "miraculous_gifts_of_the_holy_spirit #1"
 msgid "Acts 8:18"
-msgstr ""
+msgstr "Apostagärningarna 8:18"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:145
 msgid "These people could not pass on the gifts that they received"
-msgstr ""
+msgstr "Dessa människor kunde inte vidarebefordra de gåvor som de fick"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:152
 msgctxt "miraculous_gifts_of_the_holy_spirit #1"
 msgid "Acts 6:1-8"
-msgstr ""
+msgstr "Apostlarna 6: 1-8"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:155
 msgid "Context is the choosing of \"The Seven.\"  This is the first occasion that the gifts were passed.  Stephen immediately starts to perform miraculous signs among the people with God's power (v.8)"
-msgstr ""
+msgstr "Kontext är valet av \"The Seven.\" Detta är det första tillfället att gåvorna passerade. Stephen börjar genast utföra mirakulösa tecken bland folket med Guds kraft (v.8)"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:160
 msgid "Acts 8:1-25"
-msgstr ""
+msgstr "Apostlarna 8: 1-25"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:163
 msgid "Context is after Stephen's martyrdom.  Great persecution breaks out.  Many leave, but apostles stay in Jerusalem.  Philip, one of \"The Seven\" who had received the gifts in"
-msgstr ""
+msgstr "Kontext är efter Stephens martyrdom. Stor förföljelse bryter ut. Många lämnar, men apostlarna bor i Jerusalem. Philip, en av \"de sju\" som hade fått gåvorna i"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:166
 msgctxt "miraculous_gifts_of_the_holy_spirit #2"
 msgid "Acts 6:1-8"
-msgstr ""
+msgstr "Apostlarna 6: 1-8"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:169
 msgid "goes to Samaria.  He performs many miraculous signs and healings to get people to believe"
-msgstr ""
+msgstr "Går till Samaria. Han utför många mirakulösa tecken och läkning för att få folk att tro"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:175
 msgid "including Simon the Sorcerer"
-msgstr ""
+msgstr "Inklusive Simon the Sorcerer"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:181
 msgid "and they are baptized.  (They became Christians and thus receive the forgiveness of sins and the gift (indwelling) of the Holy Spirit"
-msgstr ""
+msgstr "Och de döps. (De blev kristna och får sålunda syndernas förlåtelse och den Helige Andes gåva (inbäddning)"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:184
 msgctxt "miraculous_gifts_of_the_holy_spirit #1"
 msgid "Acts 2:38"
-msgstr ""
+msgstr "Apg 2:38"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:187
 msgid "When apostles come to Samaria, Simon saw that the Spirit's gifts were only given by apostles' laying on of hands and offers them money for this ability"
-msgstr ""
+msgstr "När apostlarna kom till Samaria såg Simon att andens gåvor endast gavs av apostlarnas handhänder och ger dem pengar för denna förmåga"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:190
 msgctxt "miraculous_gifts_of_the_holy_spirit #2"
 msgid "Acts 8:18"
-msgstr ""
+msgstr "Apostagärningarna 8:18"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:193
 msgid "Note:  Simon didn't ask Philip for the gifts because Philip could not pass them on.  Simon is rebuked for having the wrong motivation"
-msgstr ""
+msgstr "Obs! Simon frågade inte Philip för gåvorna eftersom Philip inte kunde ge dem vidare. Simon är bestridd för att ha fel motivation"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:198
 msgid "Acts 19:1-6"
-msgstr ""
+msgstr "Apostlagärningarna 19: 1-6"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:201
 msgid "Paul finds disciples in Ephesus who didn't know what the Holy Spirit was because they had only received John's baptism of repentance.  Then they were baptized into the name of Jesus Christ to receive the forgiveness of their sins and the indwelling of the Holy Spirit"
-msgstr ""
+msgstr "Paulus finner lärjungar i Efesos som inte visste vad den Helige Ande var för att de bara hade fått Johannes omvänd dop. Därefter döptes de i Jesu Kristi namn för att få förlåtelse av deras synder och Heliga Andes inbäddning"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:207
 msgid "Then they receive the miraculous gifts of prophecy and speaking in tongues by the laying on of Paul's hands"
-msgstr ""
+msgstr "Då får de profetiens mirakulösa gåvor och talar i tungor genom att Paulus lägger på"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:213
 msgid "Paul is an apostle"
-msgstr ""
+msgstr "Paulus är en apostel"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:221
 msgid "General Observations"
-msgstr ""
+msgstr "Allmänna observationer"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:225
 msgid "Apostles were able to pass on the gifts because they were apostles.  The Apostles possessed the ability to perform miracles even during the ministry of Christ"
-msgstr ""
+msgstr "Apostlarna kunde vidarebefordra gåvorna eftersom de var apostlar. Apostlarna hade förmågan att utföra mirakel även under Kristi tjänst"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:228
 msgid "Luke 9:1"
-msgstr ""
+msgstr "Lukas 9: 1"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:231
 msgid "This ability to pass and perform the gifts was not given at Pentecost"
-msgstr ""
+msgstr "Denna förmåga att överträffa och utföra gåvorna gavs inte vid pinsna"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:235
 msgid "1 Corinthians"
-msgstr ""
+msgstr "1 Korintierna"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:240
 msgctxt "miraculous_gifts_of_the_holy_spirit #1"
 msgid "and"
-msgstr ""
+msgstr "och"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:246
 msgid "are not the directives on how to receive tongues (the church there had already received them), but rather the correctives on how to use them because everyone was speaking at the same time and misusing the tongues"
-msgstr ""
+msgstr "Är inte direktiven om hur man tar emot tungor (kyrkan hade redan fått dem), men snarare korrigeringarna om hur man använder dem eftersom alla talade samtidigt och missbrukade tungan"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:249
 msgid "1 Corinthians 12:28-30"
-msgstr ""
+msgstr "1 Korinthierna 12: 28-30"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:252
 msgid "shows that tongues as a gift were not given to everyone in the church.  Thus the concept of a \"Pentecostal church\" (every member speaking in tongues) is contrary to Scripture"
-msgstr ""
+msgstr "Visar att tungor som gåva inte gavs till alla i kyrkan. Således strider begreppet \"Pentecostal Church\" (varje medlem som talar i tungan) mot Skriften"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:257
 msgid "1 Corinthians 13:8-10"
-msgstr ""
+msgstr "1 Korinthierna 13: 8-10"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:260
 msgid "\"Perfection\" here could not mean the coming of Christ because it is in the neuter gender in Greek, not the masculine gender.  When perfection comes probably refers to the canonization of the Bible some time after the first century.  At that time, all the miraculous gifts would be gone because all the apostles and those to whom they passed the gifts would have died"
-msgstr ""
+msgstr "\"Perfektion\" här kunde inte innebära Kristi ankomst eftersom det är i det genuera könet på grekiska, inte det maskulina könet. När fulländning kommer sannolikt hänvisar till kanoniseringen av Bibeln någon gång efter det första århundradet. Vid den tiden skulle alla de mirakulösa gåvorna vara borta eftersom alla apostlarna och de till vilka de passerade gåvorna skulle ha dött"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:263
 msgid "The purpose of the miraculous gifts from"
-msgstr ""
+msgstr "Syftet med de mirakulösa gåvorna från"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:266
 msgid "1 Corinthians 14:20-22"
-msgstr ""
+msgstr "1 Korinthierna 14: 20-22"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:272
 msgid "To get non-believers to believe (tongues were only to be used to bring non-believers to faith)"
-msgstr ""
+msgstr "Att få icke-troende att tro (tungor skulle bara användas för att föra icke-troende till tro)"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:275
 msgid "To edify the Christians and strengthen their faith"
-msgstr ""
+msgstr "Att bygga upp de kristna och stärka sin tro"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:278
 msgid "Now the Bible fulfills these needs — thus the church today does not need apostles or miraculous gifts"
-msgstr ""
+msgstr "Bibeln uppfyller nu dessa behov, så kyrkan behöver idag inte apostlar eller mirakulösa gåvor"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:285
 msgid "2 Thessalonians 2:9-12"
-msgstr ""
+msgstr "2 Tessalonikerna 2: 9-12"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:288
 msgid "shows that there can be miracles by Satan today.  Satan's purpose is to deceive people about the truth, so they will not be saved"
-msgstr ""
+msgstr "Visar att det kan finnas mirakel av Satan idag. Satans syfte är att lura människor om sanningen, så att de inte kommer att räddas"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:291
 msgid "Speaking in \"tongues\" is common in many religions (Mormon, Catholic, Islam, etc.), because religion gets dried and staid.  These are also called \"ecstatic utterances\" — non-understandable sounds and fragments of speech"
-msgstr ""
+msgstr "Att tala i \"tungor\" är vanligt i många religioner (Mormon, Katolska, Islam, etc.), eftersom religionen blir torkad och staid. Dessa kallas också \"extatic expressions\" - oförståliga ljud och fragment av tal"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:294
 msgid "A person can be filled with the Spirit without speaking in tongues"
-msgstr ""
+msgstr "En person kan fyllas med Anden utan att tala i tungor"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:297
 msgid "Ephesians 5:18-20"
-msgstr ""
+msgstr "Efesierna 5: 18-20"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:303
 msgid "Jesus never spoke in tongues and he was accorded the full-measure of the Spirit"
-msgstr ""
+msgstr "Jesus talade aldrig i tungor och han tilldelades Andens fullmått"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:306
 msgid "John 3:34-36"
-msgstr ""
+msgstr "John 3: 34-36"
 
 #: 14_church.html:32
 msgid "Colossians 1:15-18"
-msgstr ""
+msgstr "Colossians 1: 15-18"
 
 #: 14_church.html:36
 msgid "The church is the body of Christ.  The body needs the head.  The church is essential to Christianity"
-msgstr ""
+msgstr "Kyrkan är Kristi kropp. Kroppen behöver huvudet. Kyrkan är väsentlig för kristendomen"
 
 #: 14_church.html:41
 msgid "HEAD"
-msgstr ""
+msgstr "HUVUD"
 
 #: 14_church.html:53
 msgid "CHRIST"
-msgstr ""
+msgstr "KRISTUS"
 
 #: 14_church.html:59
 msgid "BODY"
-msgstr ""
+msgstr "KROPP"
 
 #: 14_church.html:70
 msgid "CHURCH"
-msgstr ""
+msgstr "KYRKA"
 
 #: 14_church.html:79
 msgid "Ephesians 2:19-21"
-msgstr ""
+msgstr "Efesierna 2: 19-21"
 
 #: 14_church.html:84
 msgid "The church is the family of God"
-msgstr ""
+msgstr "Kyrkan är Guds familj"
 
 #: 14_church.html:95
 msgctxt "church #1"
 msgid "GOD"
-msgstr ""
+msgstr "GUD"
 
 #: 14_church.html:98
 msgid "(Father)"
-msgstr ""
+msgstr "(Far)"
 
 #: 14_church.html:121
 msgctxt "church #1"
 msgid "Christian"
-msgstr ""
+msgstr "kristen"
 
 #: 14_church.html:123
 msgctxt "church #1"
 msgid "(Son)"
-msgstr ""
+msgstr "(Son)"
 
 #: 14_church.html:129
 msgid "Brothers"
-msgstr ""
+msgstr "Brothers"
 
 #: 14_church.html:135
 msgctxt "church #2"
 msgid "Christian"
-msgstr ""
+msgstr "kristen"
 
 #: 14_church.html:137
 msgctxt "church #2"
 msgid "(Son)"
-msgstr ""
+msgstr "(Son)"
 
 #: 14_church.html:145
 msgctxt "church #1"
 msgid "1 Corinthians 12:12-13"
-msgstr ""
+msgstr "1 Kor 12: 12-13"
 
 #: 14_church.html:148
 msgid "teaches that we are baptized into the body of Christ, the church"
-msgstr ""
+msgstr "Lär ut att vi är döpta i Kristi kropp, kyrkan"
 
 #: 14_church.html:153
 msgid "Romans 6:3-4"
-msgstr ""
+msgstr "Romarbrevet 6: 3-4"
 
 #: 14_church.html:156
 msgid "teaches that we are also baptized into Christ.  Baptism is when we become Christian, a son of God, and at that same point we become members of the church, the family of God"
-msgstr ""
+msgstr "Lär ut att vi också är döpta till Kristus. Dopet är när vi blir kristna, Guds son, och vid samma tidpunkt blir vi medlemmar i kyrkan, Guds familj"
 
 #: 14_church.html:163
 msgid "Ephesians 2:20"
-msgstr ""
+msgstr "Efesierna 2:20"
 
 #: 14_church.html:168
 msgid "Cornerstone:  Christ"
-msgstr ""
+msgstr "Hörnsten: Kristus"
 
 #: 14_church.html:171
 msgid "Foundation:  Apostles and Prophets"
-msgstr ""
+msgstr "Stiftelsen: Apostlar och Profeter"
 
 #: 14_church.html:174
 msgid "Apostles = New Testament Bible"
-msgstr ""
+msgstr "Apostlarna = Nya testamentet Bibeln"
 
 #: 14_church.html:177
 msgid "Prophets = Old Testament"
-msgstr ""
+msgstr "Profeterna = Gamla testamentet"
 
 #: 14_church.html:182
 msgid "The church is based on the Word of God only"
-msgstr ""
+msgstr "Kyrkan är endast baserad på Guds ord"
 
 #: 14_church.html:188
 msgid "Have you ever wondered why there are so many denominations — divisions?"
-msgstr ""
+msgstr "Har du någonsin undrat varför det finns så många valörer - divisions?"
 
 #: 14_church.html:190
 msgid "(450 or more exist in the U.S. alone)"
-msgstr ""
+msgstr "(450 eller mer existerar endast i USA)"
 
 #: 14_church.html:193
 msgid "The Bible teaches that there is one church"
-msgstr ""
+msgstr "Bibeln lär ut att det finns en kyrka"
 
 #: 14_church.html:198
 msgctxt "church #1"
 msgid "Ephesians 4:4-6"
-msgstr ""
+msgstr "Efesierna 4: 4-6"
 
 #: 14_church.html:201
 msgctxt "church #1"
 msgid "— one body"
-msgstr ""
+msgstr "- en kropp"
 
 #: 14_church.html:206
 msgid "Romans 12:4-5"
-msgstr ""
+msgstr "Romarbrevet 12: 4-5"
 
 #: 14_church.html:209
 msgctxt "church #2"
 msgid "— one body"
-msgstr ""
+msgstr "- en kropp"
 
 #: 14_church.html:214
 msgctxt "church #2"
 msgid "1 Corinthians 12:12-13"
-msgstr ""
+msgstr "1 Kor 12: 12-13"
 
 #: 14_church.html:217
 msgctxt "church #3"
 msgid "— one body"
-msgstr ""
+msgstr "- en kropp"
 
 #: 14_church.html:222
 msgid "Divisions in Christendom are either of Satan or of God"
-msgstr ""
+msgstr "Avdelningar i kristendomen är antingen Satan eller Guds"
 
 #: 14_church.html:227
 msgid "1 Corinthians 1:10-13"
-msgstr ""
+msgstr "1 Korintierna 1: 10-13"
 
 #: 14_church.html:230
 msgid "Division is sin, when following personalities and in time their writings (traditions of men that contradict the Word — false doctrines)"
-msgstr ""
+msgstr "Division är synd, när man följer personligheter och i tid sina skrifter (traditioner för män som strider mot ordet - falska läror)"
 
 #: 14_church.html:233
 msgctxt "church #1"
 msgid "Matthew 15:6-9"
-msgstr ""
+msgstr "Matteus 15: 6-9"
 
 #: 14_church.html:240
 msgid "Luke 12:51-53"
-msgstr ""
+msgstr "Lukas 12: 51-53"
 
 #: 14_church.html:244
 msgctxt "church #1"
 msgid "John 10:19-21"
-msgstr ""
+msgstr "John 10: 19-21"
 
 #: 14_church.html:247
 msgid "Division will occur and is righteous, when an individual, church or movement aligns themselves with the Word of God.  The Jews considered themselves \"God's people,\" yet Jesus' words (the truth) divided them into two groups — those who opposed Him and those who obeyed Him"
-msgstr ""
+msgstr "Uppdelning kommer att ske och är rättfärdig, när en individ, kyrka eller rörelse anpassar sig till Guds ord. Judarna ansåg sig själva \"Guds folk\", men Jesu ord (sanningen) delade dem in i två grupper - de som motsatte sig honom och de som lydde honom"
 
 #: 14_church.html:252
 msgid "The following are the major historical divisions in Christendom — some were formed by a noble stand for the truth (though not a complete return), while others were departures from the truth"
-msgstr ""
+msgstr "Följande är de stora historiska uppdelningarna i kristendomen - några bildades av en ädel ställning för sanningen (men inte en fullständig återkomst), medan andra var avvikelser från sanningen"
 
 #: 14_church.html:255
 msgid "Through the centuries the church was corrupted by traditions of men — false doctrines, such as: infant baptism, original sin, perpetual virginity of Mary, priests as clergy, papal infallibility, etc… This becomes the"
-msgstr ""
+msgstr "Genom århundradena var kyrkan skadad av människans traditioner - falska läror, såsom barndop, original synd, evig oskuld av Maria, präster som prästerskap, pappel ofelbarhet osv. ... Det blir den"
 
 #: 14_church.html:257
 msgid "Catholic Church"
-msgstr ""
+msgstr "Katolsk kyrka"
 
 #: 14_church.html:259
 msgid "In 364 AD the Roman Empire is split into two parts. This division leads to a split in Christianity — the eastern portion becomes the"
-msgstr ""
+msgstr "I 364 e.Kr. är det romerska riket uppdelat i två delar. Denna uppdelning leder till en splittring i kristendomen - den östra delen blir"
 
 #: 14_church.html:261
 msgid "Eastern Orthodox Church"
-msgstr ""
+msgstr "Östra ortodoxa kyrkan"
 
 #: 14_church.html:263
 msgid "and the western part becomes the"
-msgstr ""
+msgstr "Och den västra delen blir"
 
 #: 14_church.html:265
 msgid "Roman Catholic Church"
-msgstr ""
+msgstr "Romersk katolsk kyrka"
 
 #: 14_church.html:267
 msgid "Practices diverge, for example — Orthodox has married priests, Roman Catholic priests are celibate. The \"Great Schism\" occurs in 1054 AD, as the leaders of \"each church\" excommunicate each other"
-msgstr ""
+msgstr "Praktiken avviker, till exempel - ortodoxa har gifte präster, romersk-katolska präster är celibat. \"Stor Schism\" inträffar i 1054 e.Kr., eftersom ledarna för \"varje kyrka\" exkluderar varandra"
 
 #: 14_church.html:271
 msgid "1500's Reformation Movement"
-msgstr ""
+msgstr "1500: s reformationsrörelse"
 
 #: 14_church.html:273
 msgid "— Martin Luther (Lutheran Church) He takes a stand against the Roman Catholic Church on these convictions: Bible authority over church authority, salvation by faith not works, and the priesthood of all believers, yet still baptizes infants. Other noted reformers were John Calvin (Presbyterian Church), Ulrich Zwingli and Conrad Grebel (Anabaptists). Anabaptists were heavily persecuted by Catholics and some reformers, because of their stand for adult baptism. Henry VIII (Anglican Church / Church of England) He breaks from the Catholic Church over his right to divorce his wife. He appoints himself head of the church. Later in the United States, the Anglican Church becomes the Episcopalian Church, since members will not follow the king of England"
-msgstr ""
+msgstr "- Martin Luther (Lutherska kyrkan) Han tar ställning mot den romersk-katolska kyrkan om dessa övertygelser: Bibelns auktoritet över kyrklig auktoritet, frälsning genom troen verkar inte, och alla troendes prästadöme, men döper fortfarande barn. Andra noterade reformatorer var John Calvin (Presbyterian Church), Ulrich Zwingli och Conrad Grebel (Anabaptists). Anabaptisterna förföljdes kraftigt av katoliker och några reformatorer på grund av deras ställning för vuxna dop. Henry VIII (Anglican Church / England) Han bryter från den katolska kyrkan över sin rätt att skilja sig från sin fru. Han utser sig som kyrkans huvud. Senare i USA blir den anglikanska kyrkan den episkopala kyrkan, eftersom medlemmarna inte följer kungen i England"
 
 #: 14_church.html:277
 msgid "1700's Great Awakening Movement"
-msgstr ""
+msgstr "1700s stora uppvaknande rörelse"
 
 #: 14_church.html:279
 msgid "— John and Charles Wesley (Methodist Church). Followers divide from Church of England over: personal transforming decision for Christ not state religion, high accountability of members, and preaching to the \"unchurched;\" also practiced infant baptism"
-msgstr ""
+msgstr "- John och Charles Wesley (Methodist Church). Följare delar sig från kyrkan i England över: personligt omvandlingsbeslut för Kristus, inte statlig religion, medlemmarnas höga ansvar och predikar till \"oskadade\" Övade också barndop"
 
 #: 14_church.html:283
 msgid "1800's Restoration Movement"
-msgstr ""
+msgstr "1800-restaurationsrörelsen"
 
 #: 14_church.html:285
 msgid "— Alexander Campbell and Barton Stone (Mainline Church of Christ and Conservative Christian Church) Take a stand against both Catholic and Protestant doctrines of salvation. They preach to be saved one must have personal faith in Christ, repentance and baptism (immersion) for the forgiveness of sin to receive the Holy Spirit. In reaction to Catholicism, their congregations are autonomous — self-governing. (1906 is the formal split between Mainline Church of Christ, which is non-instrumental, and the Conservative Christian Church, which is instrumental.) Joseph Smith (Mormon Church) divides from Restoration Movement in 1830 over \"new revelation\" — the Book of Mormon"
-msgstr ""
+msgstr "- Alexander Campbell och Barton Stone (Mainline Church of Christ och konservativ kristen kyrka) Ta ställning mot både katolska och protestantiska frälsningsdådor. De predikar för att bli frälsta. Man måste ha personlig tro på Kristus, omvändelse och dop (nedsänkning) för syndens förlåtelse för att ta emot den Helige Ande. I en reaktion på katolicismen är deras församlingar autonoma - självstyrande. (1906 är den formella splittringen mellan Mainline Church of Christ, som är icke-instrumental och den konservativa kristna kyrkan, som är instrumental.) Joseph Smith (Mormon Church) delar sig från restaurationsrörelsen 1830 över \"ny uppenbarelse\" - boken av mormon"
 
 #: 14_church.html:289
 msgid "1967 Crossroads Movement"
-msgstr ""
+msgstr "1967 Crossroads Movement"
 
 #: 14_church.html:291
 msgid "(Total Commitment Movement) — Controversial, though never departing from the Mainline Church of Christ, the Crossroads Church near the University of Florida pioneers evangelizing the secular campuses of United States, \"counting the cost\" with each person that desires to be baptized, and the shepherding of new converts"
-msgstr ""
+msgstr "(Total engagemangsrörelse) - Kontroversiell, men aldrig avgår från Kristi Mainline-kyrka, Crossroads Church nära University of Florida-pionjärer som evangeliserar USAs sekulära campus, \"räknar kostnaden\" med varje person som önskar bli döpt, och Herding av nya omvända"
 
 #: 14_church.html:295
 msgid "1979 Boston Movement"
-msgstr ""
+msgstr "1979 Boston Movement"
 
 #: 14_church.html:297
 msgid "(International Church of Christ) — Kip McKean — Baptized at the University of Florida in 1972, divides from Mainline Churches of Christ and Crossroads Movement over: Bible Church not just New Testament Church, only disciples are true Christians, each and every member of church must be a disciple, each member should be in discipling relationships, vision to evangelize the nations in a generation, the planting of new churches to achieve this vision, central leadership not autonomous congregations, and the role of women. In 2002, the International Churches of Christ return to a more Mainline Church of Christ theology — each congregation becomes autonomous (self-governing), calling a central leadership and the vision to evangelize the nations in a generation \"unbiblical.\" Around the world, thousands fall away"
-msgstr ""
+msgstr "(Internationella kyrkan av Kristus) - Kip McKean - Dopad vid University of Florida 1972, skiljer sig från Mainline Churches of Christ och Crossroads rörelse över: Bibelskyrkan inte bara Nya Testamentets kyrka, bara lärjungar är sanna kristna, varje medlem av kyrkan Måste vara en lärjunge, varje medlem borde vara i lärjungande relationer, vision att evangelisera nationerna i en generation, plantering av nya kyrkor för att uppnå denna vision, centrala ledarskap inte autonoma församlingar och kvinnors roll. År 2002 återvänder Kristi internationella kyrkor till en mer mainline kyrka av Kristi teologi - varje församling blir autonom (självstyrande), kallar ett centralt ledarskap och visionen att evangelisera nationerna i en generation \"obebisk\". Runt om i världen faller tusentals bort"
 
 #: 14_church.html:301
 msgid "2006 SoldOut Movement"
-msgstr ""
+msgstr "2006 SoldOut Movement"
 
 #: 14_church.html:303
 msgid "(Portland Movement / International Christian Church): Begins in Portland, Oregon as a revival movement within the International Churches of Christ. The International Church of Christ separates from the SoldOut Movement, because of the new movement's stand on these convictions: Bible Church not just New Testament Church, only disciples are true Christians, each and every member of church must be a disciple, each member should be in discipling relationships, vision to evangelize the nations in a generation, the planting of new churches to achieve this vision, central leadership not autonomous congregations, and the role of women"
-msgstr ""
+msgstr "(Portland Movement / International Christian Church): Börjar i Portland, Oregon som en väckelsebevakning inom de internationella kyrkorna i Kristus. Kristi Internationella Kyrka skiljer sig från SoldOut Movement på grund av den nya rörelsens ställning på dessa övertygelser: Bibelskyrkan, inte bara Nya Testamentet, men endast lärjungar är sanna kristna, varje medlem i kyrkan måste vara en lärjunge, varje medlem borde vara I lärande relationer, vision att evangelisera nationerna i en generation, plantering av nya kyrkor för att uppnå denna vision, centralt ledarskap inte autonoma församlingar och kvinnors roll"
 
 #: 14_church.html:311
 msgid "What is the \"one church?\""
-msgstr ""
+msgstr "Vad är \"en kyrka?\""
 
 #: 14_church.html:317
 msgid "Acts 11:25-26"
-msgstr ""
+msgstr "Apg 11: 25-26"
 
 #: 14_church.html:319
 msgid "Church = Disciples = Christians"
-msgstr ""
+msgstr "Kyrka = Disciples = Christians"
 
 #: 14_church.html:321
 msgid "When God looks down from heaven, He sees one church — all the baptized disciples around the world, who are \"sold-out\" in obeying his Word.  This is called the \"church universal\" — the one true church"
-msgstr ""
+msgstr "När Gud ser ner från himlen ser han en kyrka - alla de döpta lärjungarna runt om i världen, som är \"utsålda\" för att lyda hans Ord. Detta kallas \"kyrkans universella\" - den enda sanna kyrkan"
 
 #: 14_church.html:324
 msgctxt "church #2"
 msgid "Ephesians 4:4-6"
-msgstr ""
+msgstr "Efesierna 4: 4-6"
 
 #: 14_church.html:330
 msgid "A local congregation is called the \"visible church.\"  In the first century, all the \"visible churches\" made up the \"church universal.\"  However, since so many \"visible churches\" have departed from true doctrine and because all sold-out baptized disciples are not in one fellowship, we should strive to be a member of a local congregation"
-msgstr ""
+msgstr "En lokal församling kallas den \"synliga kyrkan\". Under det första århundradet gjorde alla \"synliga kyrkor\" upp \"kyrkans universella\". Men eftersom så många \"synliga kyrkor\" har avstått från sanna lära och eftersom alla utsålda döpta lärjungar inte är i ett gemenskap bör vi sträva efter att vara medlem i en lokal församling"
 
 #: 14_church.html:333
 msgid "The Greek word for church is \"ekklesia\" which means \"assembly\" or \"called out\" (\"Ek\" meaning 'out' and \"kaleo\" meaning 'to call').  To be a disciple is to be \"called out\" from the world.  Therefore, the church in the Bible was the \"assembly\" of the \"called out\""
-msgstr ""
+msgstr "Det grekiska ordet för kyrkan är \"ekklesia\", vilket betyder \"montering\" eller \"utrop\" (\"ek\" som betyder \"ut\" och \"kaleo\" som betyder \"att ringa\"). Att vara en lärjunge är att \"utropas\" från världen. Därför var kyrkan i Bibeln \"sammansättningen\" av \"utropade\""
 
 #: 14_church.html:336
 msgid "There are several names in the Bible for God's Church: Disciples, Christians, Church of God, Church of Christ, The Way, Church of the Firstborn, Saints, etc...  Since we are free to choose any name for our fellowship, since our fellowship goes around the world, and because our churches are composed of only sold-out disciples, we call ourselves the \"International Christian Church\""
-msgstr ""
+msgstr "Det finns flera namn i Bibeln för Guds kyrka: Disciples, Christians, Guds Kyrka, Kristi Kyrka, Väg, Förstaföddes, Heligas, etc. ... Eftersom vi är fria att välja något namn för vårt gemenskap sedan Vårt samhälle går runt om i världen, och eftersom våra kyrkor består av bara utsålda lärjungar, kallar vi oss själva för \"den internationella kristna kyrkan\""
 
 #: 14_church.html:342
 msgid "What distinguishes the International Christian Churches? (What separates or \"divides\" us from mainstream Christendom?)"
-msgstr ""
+msgstr "Vad skiljer de internationella kristna kyrkorna? (Vad skiljer eller \"skiljer\" oss från den vanliga kristendomen?)"
 
 #: 14_church.html:347
 msgid "We believe God physically resurrected Jesus from the dead"
-msgstr ""
+msgstr "Vi tror att Gud fysiskt uppståndde Jesus från de döda"
 
 #: 14_church.html:352
 msgid "We believe the Bible is inspired by God and is our sole authority"
-msgstr ""
+msgstr "Vi tror att Bibeln är inspirerad av Gud och är vår enda auktoritet"
 
 #: 14_church.html:354
 msgid " Therefore, since we have not departed (divided) from the truth, we consider ourselves non-denominational"
-msgstr ""
+msgstr " Därför, eftersom vi inte har avstått (delat) från sanningen, anser vi oss vara icke-religiösa"
 
 #: 14_church.html:358
 msgid "We are a Bible Church, not simply a New Testament Church"
-msgstr ""
+msgstr "Vi är en bibelkyrka, inte bara en ny testamentskyrka"
 
 #: 14_church.html:360
 msgid "2 Timothy 3:14-17"
-msgstr ""
+msgstr "2 Timoteus 3: 14-17"
 
 #: 14_church.html:363
 msgid "The context of the word \"Scripture\" is referring to the Old Testament.  We believe the Old Testament applies to our lives — as much as the New Testament — except for the Mosaic Law and any teaching in the New Testament that supercedes the Old Testament (Example: grounds for divorce)"
-msgstr ""
+msgstr "Sammanhanget av ordet \"Skriften\" hänvisar till Gamla testamentet. Vi tror att Gamla testamentet gäller för våra liv - lika mycket som Nya Testamentet - förutom Mosaic Law och någon undervisning i Nya Testamentet som övertygar Gamla testamentet (Exempel: Skäl för skilsmässa)"
 
 #: 14_church.html:367
 msgid "We believe — as in the book of Acts — the visible church should be composed of only sold-out baptized disciples"
-msgstr ""
+msgstr "Vi tror - som i Handlingsboken - att den synliga kyrkan ska bestå av endast utsålda döpta lärjungar"
 
 #: 14_church.html:372
 msgid "\"Be silent where the Bible speaks, and speak where the Bible is silent\""
-msgstr ""
+msgstr "\"Var tyst där Bibeln talar och tala där Bibeln är tyst\""
 
 #: 14_church.html:374
 msgid "In applying Scriptural principles to build the visible church, we believe we must obey God's Word, but where the Bible does not prohibit a practice or name, we are free to use our God-given creativity"
-msgstr ""
+msgstr "När vi tillämpar bibliska principer för att bygga den synliga kyrkan, tror vi att vi måste lyda Guds Ord, men där Bibeln inte förbjuder en övning eller ett namn, är vi fria att använda vår Guds givna kreativitet"
 
 #: 14_church.html:377
 msgid "Genesis 2:19"
-msgstr ""
+msgstr "Genesis 2:19"
 
 #: 14_church.html:380
 msgid "(Examples: The principles for \"Bible Talks,\" \"Lead Evangelist,\" \"Discipleship Partners\" and \"Regions\" are in the Scriptures, though these terms are not.  However, nowhere are they prohibited.  Also instrumental music and paid Women's Ministry Leaders are not prohibited in the Scriptures)"
-msgstr ""
+msgstr "(Exempel: Principerna för \"Bibeln talar\", \"Lead Evangelist\", \"Discipleship Partners\" och \"Regions\" finns i Skriften, även om dessa villkor inte är. Men ingenstans är de förbjudna. Även instrumentalmusik och betalda kvinnors ministeriets ledare Är inte förbjudna i skrifterna)"
 
 #: 14_church.html:384
 msgid "We believe in a Central Leadership"
-msgstr ""
+msgstr "Vi tror på ett centralt ledarskap"
 
 #: 14_church.html:386
 msgid "Throughout God's Word, when His people were unified, there was a strong central leadership and godly central leader.  (Examples:  Moses, Joshua, David and of course Jesus and the Apostles)"
-msgstr ""
+msgstr "Genom Guds ord, när hans folk var förenade, fanns det ett starkt centralt ledarskap och gudomlig central ledare. (Exempel: Moses, Joshua, David och självklart Jesus och apostlarna)"
 
 #: 14_church.html:389
 msgid "1 Corinthians 4:15-17"
-msgstr ""
+msgstr "1 Kor 4: 15-17"
 
 #: 14_church.html:392
 msgctxt "church #1"
 msgid "and"
-msgstr ""
+msgstr "och"
 
 #: 14_church.html:395
 msgid "Titus 1:5"
-msgstr ""
+msgstr "Titus 1: 5"
 
 #: 14_church.html:398
 msgid "teaches that local congregations had an overseeing evangelist, who unified the disciples \"everywhere in every church.\" In the first century, congregations were a collective movement — not autonomous, not self-governing)"
-msgstr ""
+msgstr "Lär ut att lokala församlingar hade en övervakande evangelist, som förenade lärjungarna \"överallt i varje kyrka.\" Under första århundradet var församlingar en kollektiv rörelse - inte autonom, inte självstyrande)"
 
 #: 14_church.html:403
 msgctxt "church #1"
 msgid "Matthew 28:19-20"
-msgstr ""
+msgstr "Matteus 28: 19-20"
 
 #: 14_church.html:405
 msgid "Our vision — the evangelization of all nations in this generation —"
-msgstr ""
+msgstr "Vår vision - evangelisering av alla nationer i denna generation -"
 
 #: 14_church.html:407
 msgid "will be accomplished through every disciple making disciples and every disciple having discipling relationships"
-msgstr ""
+msgstr "Kommer att uppnås genom varje lärjunge som gör lärjungar och alla lärjungar har disciplande relationer"
 
 #: 14_church.html:414
 msgid "1 Corinthians 12:14-27"
-msgstr ""
+msgstr "1 Korinthierna 12: 14-27"
 
 #: 14_church.html:419
 msgid "We need the body.  The body needs us"
-msgstr ""
+msgstr "Vi behöver kroppen. Kroppen behöver oss"
 
 #: 14_church.html:422
 msgid "v. 21"
-msgstr ""
+msgstr "V. 21"
 
 #: 14_church.html:428
 msgid "Be involved on a relationship level in the church"
-msgstr ""
+msgstr "Var involverad på en relationsnivå i kyrkan"
 
 #: 14_church.html:431
 msgid "v. 26"
-msgstr ""
+msgstr "V. 26"
 
 #: 14_church.html:441
 msgid "Hebrews 10:23-25"
-msgstr ""
+msgstr "Hebreerbrevet 10: 23-25"
 
 #: 14_church.html:446
 msgid "Do not miss church"
-msgstr ""
+msgstr "Missa inte kyrkan"
 
 #: 14_church.html:449
 msgid "The fellowship helps us to be unswerving in our commitment"
-msgstr ""
+msgstr "Samhället hjälper oss att vara oroande i vårt engagemang"
 
 #: 14_church.html:452
 msgctxt "church #1"
 msgid "v. 23"
-msgstr ""
+msgstr "V. 23"
 
 #: 14_church.html:458
 msgid "Another purpose of fellowship is to encourage each other so we will remain faithful"
-msgstr ""
+msgstr "Ett annat syfte med gemenskap är att uppmuntra varandra så att vi kommer att förbli trogna"
 
 #: 14_church.html:460
 msgctxt "church #1"
 msgid "v. 24"
-msgstr ""
+msgstr "V. 24"
 
 #: 14_church.html:465
 msgid "Must come to all meetings of the body:  Sunday and Midweek Services, Bible Talks, special devotionals, Jubilees, retreats, etc...  Begin to rearrange schedule to come to all the meetings of the body"
-msgstr ""
+msgstr "Måste komma till alla möten i kroppen: söndag och midweek tjänster, bibel talar, speciella hängivenheter, jubileer, retreats, etc. ... Börja omarrangera schema för att komma till alla möten i kroppen"
 
 #: 14_church.html:471
 msgid "Contribution"
-msgstr ""
+msgstr "Bidrag"
 
 #: 14_church.html:477
 msgctxt "church #1"
 msgid "Malachi 3:6-12"
-msgstr ""
+msgstr "Malachi 3: 6-12"
 
 #: 14_church.html:480
 msgid "Do not rob God in your tithes and offerings.  Tithing is the guideline of our sacrifice on Sundays to meet the ministry needs.  Benevolent offerings are given at Midweek Services"
-msgstr ""
+msgstr "Räd inte Gud i dina tioton och erbjudanden. Tiende är riktlinjen för vårt offer på söndagar för att möta ministerens behov. Välgörenhetserbjudanden erbjuds vid Midweek Services"
 
 #: 14_church.html:485
 msgid "2 Corinthians 9:6-8"
-msgstr ""
+msgstr "2 Korinthierna 9: 6-8"
 
 #: 14_church.html:488
 msgid "Giving should be from a \"cheerful\" heart — not under compulsion"
-msgstr ""
+msgstr "Att ge bör vara från ett \"glatt\" hjärta - inte under tvång"
 
 #: 14_church.html:491
 msgid "God blesses you when you sacrifice"
-msgstr ""
+msgstr "Gud välsignar dig när du offrar"
 
 #: 16_after_baptism_now_what.html:34
 msgid "Discuss the young disciple's first few days as a Christian"
@@ -3538,7 +3540,7 @@ msgstr "Dela \"brev till Gud\". Om den nya lärjungen inte har haft chans att sk
 #: 16_after_baptism_now_what.html:45
 msgctxt "after_baptism_now_what #1"
 msgid "Acts 2:36-47"
-msgstr ""
+msgstr "Apg 2: 36-47"
 
 #: 16_after_baptism_now_what.html:48
 msgid "The Conversion of the 3000"
@@ -3591,7 +3593,7 @@ msgstr "Diskutera ledarens förväntningar att tithe på söndagar och ge ett v�
 #: 16_after_baptism_now_what.html:88
 msgctxt "after_baptism_now_what #1"
 msgid "Malachi 3:6-12"
-msgstr ""
+msgstr "Malachi 3: 6-12"
 
 #: 16_after_baptism_now_what.html:91
 msgctxt "after_baptism_now_what #1"
@@ -3601,7 +3603,7 @@ msgstr "och"
 #: 16_after_baptism_now_what.html:94
 msgctxt "after_baptism_now_what #1"
 msgid "Hebrews 13:17"
-msgstr ""
+msgstr "Hebreerbrevet 13:17"
 
 #: 16_after_baptism_now_what.html:101
 msgid "Devoted to Breaking Bread — Communion"
@@ -3646,7 +3648,7 @@ msgstr "Dela framställningar och svarade böner"
 #: 16_after_baptism_now_what.html:142
 msgctxt "after_baptism_now_what #1"
 msgid "Acts 9:1-22"
-msgstr ""
+msgstr "Apg 9: 1-22"
 
 #: 16_after_baptism_now_what.html:145
 msgid "The Conversion of Paul"
@@ -3690,954 +3692,954 @@ msgstr "Diskutera att du tar de första principerna"
 
 #: 17_christ_is_your_life.html:33
 msgid "Discuss:"
-msgstr ""
+msgstr "Diskutera:"
 
 #: 17_christ_is_your_life.html:36
 msgid "Did you have daily quiet times this past week?"
-msgstr ""
+msgstr "Har du haft dagliga tysta tider den senaste veckan?"
 
 #: 17_christ_is_your_life.html:39
 msgid "Who did you share with and invite?"
-msgstr ""
+msgstr "Vem har du delat med och bjudit in?"
 
 #: 17_christ_is_your_life.html:44
 msgid "Discuss the impact of communion on Sunday"
-msgstr ""
+msgstr "Diskutera gemenskapens inverkan på söndagen"
 
 #: 17_christ_is_your_life.html:52
 msgid "Colossians 3:1-4"
-msgstr ""
+msgstr "Colossians 3: 1-4"
 
 #: 17_christ_is_your_life.html:55
 msgid "Raised to a new life"
-msgstr ""
+msgstr "Ökad till ett nytt liv"
 
 #: 17_christ_is_your_life.html:58
 msgid "Raised with Christ in baptism"
-msgstr ""
+msgstr "Upphöjt med Kristus i dopet"
 
 #: 17_christ_is_your_life.html:61
 msgctxt "christ_is_your_life #1"
 msgid "Colossians 2:12"
-msgstr ""
+msgstr "Colossians 2:12"
 
 #: 17_christ_is_your_life.html:67
 msgid "The Holy Spirit, received at baptism, gives you the power to set your mind (thoughts) and set your heart (emotions) on things above"
-msgstr ""
+msgstr "Den Helige Ande, mottagen vid dopet, ger dig makt att ställa dig (tankar) och ställa ditt hjärta (känslor) på saker över"
 
 #: 17_christ_is_your_life.html:70
 msgid "Christ is your life"
-msgstr ""
+msgstr "Kristus är ditt liv"
 
 #: 17_christ_is_your_life.html:77
 msgid "Colossians 3:5-11"
-msgstr ""
+msgstr "Colossians 3: 5-11"
 
 #: 17_christ_is_your_life.html:80
 msgid "Put to death"
-msgstr ""
+msgstr "Avlivad"
 
 #: 17_christ_is_your_life.html:83
 msgid "Discuss and be open about your struggles this week"
-msgstr ""
+msgstr "Diskutera och vara öppen om dina kampar i veckan"
 
 #: 17_christ_is_your_life.html:86
 msgid "Discuss any financial challenges — pledge to God, rent, bills, salary, etc..."
-msgstr ""
+msgstr "Diskutera alla ekonomiska utmaningar - lova Gud, hyra, räkningar, lön etc ..."
 
 #: 17_christ_is_your_life.html:89
 msgid "Discuss practical ways to crucify your sinful nature"
-msgstr ""
+msgstr "Diskutera praktiska sätt att korsfästa din syndiga natur"
 
 #: 17_christ_is_your_life.html:96
 msgid "Colossians 3:12-14"
-msgstr ""
+msgstr "Colossians 3: 12-14"
 
 #: 17_christ_is_your_life.html:99
 msgid "Put on — clothe yourself"
-msgstr ""
+msgstr "Sätt på - klä dig själv"
 
 #: 17_christ_is_your_life.html:102
 msgid "Compassion"
-msgstr ""
+msgstr "Medlidande"
 
 #: 17_christ_is_your_life.html:105
 msgid "Kindness"
-msgstr ""
+msgstr "Vänlighet"
 
 #: 17_christ_is_your_life.html:108
 msgid "Humility"
-msgstr ""
+msgstr "Ödmjukhet"
 
 #: 17_christ_is_your_life.html:111
 msgid "Gentleness"
-msgstr ""
+msgstr "Mildhet"
 
 #: 17_christ_is_your_life.html:114
 msgid "Patience"
-msgstr ""
+msgstr "Tålamod"
 
 #: 17_christ_is_your_life.html:117
 msgid "Forgiveness"
-msgstr ""
+msgstr "Förlåtelse"
 
 #: 17_christ_is_your_life.html:124
 msgid "Colossians 3:15-24"
-msgstr ""
+msgstr "Colossians 3: 15-24"
 
 #: 17_christ_is_your_life.html:127
 msgid "New attitudes"
-msgstr ""
+msgstr "Nya attityder"
 
 #: 17_christ_is_your_life.html:130
 msgid "Peace"
-msgstr ""
+msgstr "Fred"
 
 #: 17_christ_is_your_life.html:133
 msgid "Thankful"
-msgstr ""
+msgstr "Tacksam"
 
 #: 17_christ_is_your_life.html:136
 msgid "Wholehearted"
-msgstr ""
+msgstr "Helhjärtad"
 
 #: 17_christ_is_your_life.html:139
 msgid "Family Interactions"
-msgstr ""
+msgstr "Familjeinteraktioner"
 
 #: 17_christ_is_your_life.html:142
 msgid "v. 18-21"
-msgstr ""
+msgstr "V. 18-21"
 
 #: 17_christ_is_your_life.html:148
 msgid "Employer/employee relationships"
-msgstr ""
+msgstr "Arbetsgivare / anställningsrelationer"
 
 #: 17_christ_is_your_life.html:151
 msgctxt "christ_is_your_life #1"
 msgid "v. 22-24"
-msgstr ""
+msgstr "V. 22-24"
 
 #: 17_christ_is_your_life.html:157
 msgid "Teacher/student relationships"
-msgstr ""
+msgstr "Lärare / studentrelationer"
 
 #: 17_christ_is_your_life.html:160
 msgctxt "christ_is_your_life #2"
 msgid "v. 22-24"
-msgstr ""
+msgstr "V. 22-24"
 
 #: 18_best_friends_of_all_time.html:33
 msgid "Share about your closest relationships during your life — God and spiritual family in comparison to your physical family and old friends"
-msgstr ""
+msgstr "Dela om dina närmaste relationer under ditt liv - Gud och andlig familj i jämförelse med din fysiska familj och gamla vänner"
 
 #: 18_best_friends_of_all_time.html:36
 msgid "Ask the young Christian, \"Who are your closest friends?\""
-msgstr ""
+msgstr "Fråga den unga kristen: \"Vem är dina närmaste vänner?\""
 
 #: 18_best_friends_of_all_time.html:43
 msgid "One Another Scriptures"
-msgstr ""
+msgstr "En annan skrifter"
 
 #: 18_best_friends_of_all_time.html:49
 msgctxt "best_friends_of_all_time #1"
 msgid "John 13:34-35"
-msgstr ""
+msgstr "Johannes 13: 34-35"
 
 #: 18_best_friends_of_all_time.html:52
 msgid "Love one another.  Jesus teaches that Christians should have closer and better relationships than people in the world. Set your mind to make disciples your best friends"
-msgstr ""
+msgstr "Älska varandra. Jesus lär ut att kristna borde ha närmare och bättre relationer än människor i världen. Ställ ditt sinne för att göra lärjungar till dina bästa vänner"
 
 #: 18_best_friends_of_all_time.html:57
 msgid "Hebrews 3:12-14"
-msgstr ""
+msgstr "Hebreerbrevet 3: 12-14"
 
 #: 18_best_friends_of_all_time.html:60
 msgid "Daily encouragement of one another"
-msgstr ""
+msgstr "Daglig uppmuntran av varandra"
 
 #: 18_best_friends_of_all_time.html:65
 msgid "Ephesians 5:19-20"
-msgstr ""
+msgstr "Efesierna 5: 19-20"
 
 #: 18_best_friends_of_all_time.html:68
 msgid "Worship God with one another — sing out to God and each other with psalms, hymns and spiritual songs"
-msgstr ""
+msgstr "Gud Gud med varandra - sjunger ut till Gud och varandra med psalmer, psalmer och andliga låtar"
 
 #: 18_best_friends_of_all_time.html:73
 msgid "Colossians 1:28-29"
-msgstr ""
+msgstr "Colossians 1: 28-29"
 
 #: 18_best_friends_of_all_time.html:76
 msgid "Disciple one another.  This is essential in God's plan to become mature.  As we mature, we learn to instruct one another"
-msgstr ""
+msgstr "Dissipelera varandra. Detta är viktigt i Guds plan att bli mogen. När vi mognar lär vi oss att instruera varandra"
 
 #: 18_best_friends_of_all_time.html:79
 msgid "Romans 15:14"
-msgstr ""
+msgstr "Roman 15:14"
 
 #: 18_best_friends_of_all_time.html:87
 msgid "Galatians 6:1-2"
-msgstr ""
+msgstr "Galaterna 6: 1-2"
 
 #: 18_best_friends_of_all_time.html:90
 msgid "Gently restore one another and bear one another's burdens"
-msgstr ""
+msgstr "Återställ försiktigt varandra och bära varandras bördor"
 
 #: 18_best_friends_of_all_time.html:95
 msgid "James 5:16"
-msgstr ""
+msgstr "James 5:16"
 
 #: 18_best_friends_of_all_time.html:98
 msgid "Confess sins to one another.  Discuss openness and transparency, remembering that \"openness breeds openness,\" so share your struggles"
-msgstr ""
+msgstr "Bekänn synden mot varandra. Diskutera öppenhet och öppenhet, kom ihåg att \"öppenhet ökar öppenhet\", så dela dina kampar"
 
 #: 18_best_friends_of_all_time.html:103
 msgid "James 5:16-18"
-msgstr ""
+msgstr "James 5: 16-18"
 
 #: 18_best_friends_of_all_time.html:106
 msgid "Pray for one another.  It makes a difference!"
-msgstr ""
+msgstr "Be för varandra. Det gör skillnad!"
 
 #: 18_best_friends_of_all_time.html:111
 msgid "Hebrews 12:14-15"
-msgstr ""
+msgstr "Hebreerbrevet 12: 14-15"
 
 #: 18_best_friends_of_all_time.html:114
 msgid "Be holy and prevent \"bad attitudes\" in one another"
-msgstr ""
+msgstr "Var helig och förhindra \"dåliga attityder\" i varandra"
 
 #: 18_best_friends_of_all_time.html:119
 msgid "1 Thessalonians 5:12-14"
-msgstr ""
+msgstr "1 Tessaloniker 5: 12-14"
 
 #: 18_best_friends_of_all_time.html:122
 msgid "Outlook toward one another"
-msgstr ""
+msgstr "Outlook mot varandra"
 
 #: 18_best_friends_of_all_time.html:127
 msgid "John 17:20-23"
-msgstr ""
+msgstr "Johannes 17: 20-23"
 
 #: 18_best_friends_of_all_time.html:130
 msgid "The ultimate goal of love and unity — world evangelism!"
-msgstr ""
+msgstr "Det ultimata målet för kärlek och enhet - världsevangelism!"
 
 #: 18_best_friends_of_all_time.html:136
 msgid "Date and marry only disciples"
-msgstr ""
+msgstr "Datum och gifta dig med bara lärjungar"
 
 #: 18_best_friends_of_all_time.html:142
 msgid "1 Corinthians 7:39"
-msgstr ""
+msgstr "1 Korinthierna 7:39"
 
 #: 18_best_friends_of_all_time.html:145
 msgid "Marriage must only be in the Lord"
-msgstr ""
+msgstr "Äktenskapet måste bara vara i Herren"
 
 #: 18_best_friends_of_all_time.html:150
 msgid "2 Corinthians 6:14-7:1"
-msgstr ""
+msgstr "2 Korinthierna 6: 14-7: 1"
 
 #: 18_best_friends_of_all_time.html:153
 msgid "Dating, as in marriage, is a partnership in which you are \"yoked together.\"  Disciples must separate from unbelievers to receive the promises of God"
-msgstr ""
+msgstr "Dating, som i äktenskapet, är ett partnerskap där du är \"yoked together.\" Dissiplar måste skilja sig från oförtrogen för att ta emot Guds löften"
 
 #: 18_best_friends_of_all_time.html:158
 msgid "1 Kings 11:1-10"
-msgstr ""
+msgstr "1 Kings 11: 1-10"
 
 #: 18_best_friends_of_all_time.html:162
 msgid "Nehemiah 13:23-27"
-msgstr ""
+msgstr "Nehemiah 13: 23-27"
 
 #: 18_best_friends_of_all_time.html:165
 msgid "Study this principle in the Old Testament.  To date or marry outside of the faith is to be unfaithful to God.  If you are single, have you gone on a Christian date?"
-msgstr ""
+msgstr "Studera denna princip i Gamla testamentet. Hittills eller gifta sig utanför troen är att vara otrogen mot Gud. Om du är singel, har du gått på ett kristent datum?"
 
 #: 18_best_friends_of_all_time.html:170
 msgid "1 Peter 3:1-7"
-msgstr ""
+msgstr "1 Peter 3: 1-7"
 
 #: 18_best_friends_of_all_time.html:173
 msgid "If you are married, are you winning your spouse?"
-msgstr ""
+msgstr "Om du är gift, vinner du din make?"
 
 #: 18_best_friends_of_all_time.html:179
 msgid "Reconcile with one another"
-msgstr ""
+msgstr "Förena med varandra"
 
 #: 18_best_friends_of_all_time.html:185
 msgid "Matthew 18:15-17"
-msgstr ""
+msgstr "Matteus 18: 15-17"
 
 #: 18_best_friends_of_all_time.html:188
 msgid "Christians will sin against each other.  When someone sins against you, do not gossip by going to someone else.  Talk to the person who hurt you, so you can win him/her over as a friend"
-msgstr ""
+msgstr "Kristna kommer synd mot varandra. När någon synder mot dig, skvaller inte genom att gå till någon annan. Prata med personen som skadade dig, så du kan vinna honom / henne som vän"
 
 #: 18_best_friends_of_all_time.html:191
 msgid "Church discipline begins one-on-one and rarely should go to step 2, 3 and 4"
-msgstr ""
+msgstr "Kyrkans disciplin börjar en-mot-en och bör sällan gå till steg 2, 3 och 4"
 
 #: 19_mission.html:34
 msgid "Share about the visitors you most recently brought to church or Bible Talk"
-msgstr ""
+msgstr "Dela om de besökare som du nyligen tillbringade i kyrkan eller Bibeln"
 
 #: 19_mission.html:37
 msgid "Ask the young disciple about their evangelism"
-msgstr ""
+msgstr "Fråga den unga lärjungen om deras evangelisering"
 
 #: 19_mission.html:44
 msgid "Jesus' Mission"
-msgstr ""
+msgstr "Jesu uppdrag"
 
 #: 19_mission.html:50
 msgctxt "mission #1"
 msgid "Luke 19:10"
-msgstr ""
+msgstr "Lukas 19:10"
 
 #: 19_mission.html:57
 msgid "1 Timothy 1:15"
-msgstr ""
+msgstr "1 Timoteus 1:15"
 
 #: 19_mission.html:64
 msgctxt "mission #1"
 msgid "Matthew 28:19-20"
-msgstr ""
+msgstr "Matteus 28: 19-20"
 
 #: 19_mission.html:71
 msgid "Acts 20:24"
-msgstr ""
+msgstr "Apg 20:24"
 
 #: 19_mission.html:76
 msgid "What was Jesus' mission?"
-msgstr ""
+msgstr "Vad var Jesu uppgift?"
 
 #: 19_mission.html:79
 msgid "What is each disciple's mission?"
-msgstr ""
+msgstr "Vad är varje lärjungas uppdrag?"
 
 #: 19_mission.html:87
 msgid "Disciples' Mission"
-msgstr ""
+msgstr "Disciples Mission"
 
 #: 19_mission.html:93
 msgid "John 15:1-16"
-msgstr ""
+msgstr "Johannes 15: 1-16"
 
 #: 19_mission.html:98
 msgid "Glorifying God in"
-msgstr ""
+msgstr "Förhärligande Gud i"
 
 #: 19_mission.html:101
 msgid "John 15"
-msgstr ""
+msgstr "John 15"
 
 #: 19_mission.html:104
 msgid "is bearing the fruit of making disciples, not simply baptizing"
-msgstr ""
+msgstr "Bär frukt av att göra lärjungar, inte bara döpa"
 
 #: 19_mission.html:107
 msgid "Matthew 28:19"
-msgstr ""
+msgstr "Matteus 28:19"
 
 #: 19_mission.html:110
 msgid "commands us to \"go and make disciples;\""
-msgstr ""
+msgstr "Befaller oss att \"gå och göra lärjungar\""
 
 #: 19_mission.html:113
 msgid "John 15:16"
-msgstr ""
+msgstr "John 15:16"
 
 #: 19_mission.html:116
 msgid "commands us to \"go and bear fruit that will last\""
-msgstr ""
+msgstr "Beordrar oss att \"gå och bära frukt som kommer att vara\""
 
 #: 19_mission.html:119
 msgid "To bear fruit, one must be \"in the vine,\" otherwise we will be cut off"
-msgstr ""
+msgstr "För att bära frukt måste man vara \"i vinstocken\", annars kommer vi att bli avskurna"
 
 #: 19_mission.html:122
 msgid "Jesus is the perfect discipler, but He is also the perfect disciple of God"
-msgstr ""
+msgstr "Jesus är den perfekta lärjungen, men han är också Guds fullkomliga lärjunge"
 
 #: 19_mission.html:125
 msgid "To love God is to obey His commands.  Discipling helps our hearts to want to obey His commands"
-msgstr ""
+msgstr "Att älska Gud är att lyda hans bud. Discipling hjälper våra hjärtan att vilja lyda hans bud"
 
 #: 19_mission.html:128
 msgid "Matthew 28:20"
-msgstr ""
+msgstr "Matteus 28:20"
 
 #: 19_mission.html:131
 msgid "Therefore, we must love one another, even to the point of laying down our lives for each other"
-msgstr ""
+msgstr "Därför måste vi älska varandra, till och med till att lägga ner våra liv för varandra"
 
 #: 19_mission.html:136
 msgid "The Book of Acts records the 30 years from the beginning of the church on the day of Pentecost to Paul's arrival in Rome — signaling that the gospel has gone to the known world.  The church in the first century was a movement.  Discuss the growth of the first century church when all Christians were striving to be fruitful — making disciples"
-msgstr ""
+msgstr "Handlingsboken registrerar de 30 år från början av kyrkan på pinsedagen till Paulus ankomst till Rom - som visar att evangeliet har gått till den kända världen. Kyrkan i det första århundradet var en rörelse. Diskutera tillväxten i kyrkan från första århundradet när alla kristna strävat efter att vara fruktbara - att göra lärjungar"
 
 #: 19_mission.html:141
 msgid "Acts 2:41"
-msgstr ""
+msgstr "Apostlarna 2:41"
 
 #: 19_mission.html:148
 msgid "Acts 2:47"
-msgstr ""
+msgstr "Apostlagärningarna 2:47"
 
 #: 19_mission.html:155
 msgid "Acts 4:4"
-msgstr ""
+msgstr "Apg 4: 4"
 
 #: 19_mission.html:162
 msgid "Acts 5:14"
-msgstr ""
+msgstr "Apg 5:14"
 
 #: 19_mission.html:169
 msgid "Acts 6:1"
-msgstr ""
+msgstr "Apg 6: 1"
 
 #: 19_mission.html:176
 msgid "Acts 6:7"
-msgstr ""
+msgstr "Apg 6: 7"
 
 #: 19_mission.html:183
 msgid "Acts 8:4"
-msgstr ""
+msgstr "Apostlarna 8: 4"
 
 #: 19_mission.html:190
 msgid "Acts 9:31"
-msgstr ""
+msgstr "Apg 9:31"
 
 #: 19_mission.html:197
 msgid "Acts 11:21"
-msgstr ""
+msgstr "Apg 11:21"
 
 #: 19_mission.html:204
 msgid "Acts 12:24"
-msgstr ""
+msgstr "Apostlagärningarna 12:24"
 
 #: 19_mission.html:211
 msgid "Acts 13:49"
-msgstr ""
+msgstr "Apg 13:49"
 
 #: 19_mission.html:218
 msgid "Acts 14:1"
-msgstr ""
+msgstr "Apg 14: 1"
 
 #: 19_mission.html:225
 msgid "Acts 14:21"
-msgstr ""
+msgstr "Apg 14:21"
 
 #: 19_mission.html:232
 msgid "Acts 16:5"
-msgstr ""
+msgstr "Apg 16: 5"
 
 #: 19_mission.html:239
 msgid "Acts 17:4"
-msgstr ""
+msgstr "Apg 17: 4"
 
 #: 19_mission.html:246
 msgid "Acts 17:6"
-msgstr ""
+msgstr "Apg 17: 6"
 
 #: 19_mission.html:249
 msgid "(RSV):  \"These men who have turned the world upside-down have come here also...\""
-msgstr ""
+msgstr "(RSV): \"Dessa män som har förvandlat världen upp och ner har kommit hit också ...\""
 
 #: 19_mission.html:254
 msgid "Colossians 1:6, 23"
-msgstr ""
+msgstr "Colossians 1: 6, 23"
 
 #: 19_mission.html:257
 msgid "The known world was evangelized by 61 A.D., in a generation!  Paul is in prison when he writes Colossians —"
-msgstr ""
+msgstr "Den kända världen evangeliserades av 61 A.D., i en generation! Paul är i fängelse när han skriver Colossians -"
 
 #: 19_mission.html:260
 msgid "Acts 28"
-msgstr ""
+msgstr "Akterna 28"
 
 #: 19_mission.html:263
 msgid "Therefore, Jesus' vision became a reality — \"the evangelization of the nations in a generation!\""
-msgstr ""
+msgstr "Därför blev Jesu vision en verklighet - \"nationernas evangelisering i en generation!\""
 
 #: 19_mission.html:269
 msgid "Discuss and pray for:"
-msgstr ""
+msgstr "Diskutera och be för:"
 
 #: 19_mission.html:273
 msgid "World Evangelism"
-msgstr ""
+msgstr "World Evangelism"
 
 #: 19_mission.html:276
 msgid "Missions Teams"
-msgstr ""
+msgstr "Uppdrag Team"
 
 #: 19_mission.html:279
 msgid "Your Kingdom dreams... how can you use your talents for God?"
-msgstr ""
+msgstr "Ditt rike drömmar ... hur kan du använda dina talanger för Gud?"
 
 #: 20_persecution.html:30
 msgid "2 Timothy 3:12"
-msgstr ""
+msgstr "2 Timoteus 3:12"
 
 #: 20_persecution.html:31
 msgid "Everyone who wants to live as a disciple will be persecuted"
-msgstr ""
+msgstr "Alla som vill leva som en lärjunge kommer att förföljas"
 
 #: 20_persecution.html:36
 msgid "Jesus was persecuted"
-msgstr ""
+msgstr "Jesus förföljdes"
 
 #: 20_persecution.html:41
 msgid "Family"
-msgstr ""
+msgstr "Familj"
 
 #: 20_persecution.html:47
 msgid "Mark 3:20-21"
-msgstr ""
+msgstr "Markus 3: 20-21"
 
 #: 20_persecution.html:50
 msgid "Jesus' family thought that he was out of His mind (brain washed; mind-control)"
-msgstr ""
+msgstr "Jesu familj trodde att han var ur hans sinnen (hjärnvattnet, sinnekontroll)"
 
 #: 20_persecution.html:55
 msgid "Mark 3:31-35"
-msgstr ""
+msgstr "Mark 3: 31-35"
 
 #: 20_persecution.html:58
 msgid "Jesus prioritized His spiritual family above His physical family"
-msgstr ""
+msgstr "Jesus prioriterade sin andliga familj ovanför sin fysiska familj"
 
 #: 20_persecution.html:63
 msgid "Acts 1:12-14"
-msgstr ""
+msgstr "Apg 1: 12-14"
 
 #: 20_persecution.html:66
 msgid "This conviction produces conflict.  However, after His resurrection and ascension, His mother and brothers were disciples"
-msgstr ""
+msgstr "Denna övertygelse ger upphov till konflikter. Men efter hans uppståndelse och uppståndelse var hans mor och bröder lärjungar"
 
 #: 20_persecution.html:72
 msgid "Gossip and slander"
-msgstr ""
+msgstr "Skvaller och förtal"
 
 #: 20_persecution.html:78
 msgid "John 7:12-13"
-msgstr ""
+msgstr "John 7: 12-13"
 
 #: 20_persecution.html:81
 msgid "Jesus was accused of deceiving people"
-msgstr ""
+msgstr "Jesus anklagades för att lura människor"
 
 #: 20_persecution.html:86
 msgctxt "persecution #1"
 msgid "John 10:19-21"
-msgstr ""
+msgstr "John 10: 19-21"
 
 #: 20_persecution.html:89
 msgid "The Jews — religious people — intensely persecuted Jesus through name-calling and character assassination.  Jesus' teaching always divided His listeners"
-msgstr ""
+msgstr "Judarna - religiösa människor - förföljde intensivt Jesus genom namnkallning och karaktärsmord. Jesu lärdom delade alltid sina lyssnare"
 
 #: 20_persecution.html:95
 msgid "Scope of persecution"
-msgstr ""
+msgstr "Förföljelsens omfattning"
 
 #: 20_persecution.html:101
 msgid "Luke 23:1-3"
-msgstr ""
+msgstr "Lukas 23: 1-3"
 
 #: 20_persecution.html:104
 msgid "Jesus is condemned to a death by crucifixion through half-truths"
-msgstr ""
+msgstr "Jesus är fördömd till en död genom korsfästelse genom halv sanningar"
 
 #: 20_persecution.html:107
 msgid "Jesus — who was perfect — was falsely accused and misunderstood by His family and killed by religious leaders.  What do you think will happen to you if you follow Jesus?"
-msgstr ""
+msgstr "Jesus - som var perfekt - blev falskt anklagad och missförstått av Hans familj och dödad av religiösa ledare. Vad tror du kommer att hända med dig om du följer Jesus?"
 
 #: 20_persecution.html:115
 msgid "The First Century Church was persecuted"
-msgstr ""
+msgstr "Första århundradekyrkan förföljdes"
 
 #: 20_persecution.html:121
 msgid "Acts 5:17-18, 38-42"
-msgstr ""
+msgstr "Apg 5: 17-18, 38-42"
 
 #: 20_persecution.html:126
 msgid "The Jewish leadership arrested the apostles for preaching the Word, because of jealousy"
-msgstr ""
+msgstr "Det judiska ledarskapet arresterade apostlarna för att predika Ordet på grund av svartsjuka"
 
 #: 20_persecution.html:129
 msgid "Those who persecuted the Christians thought that they were doing this for God, though in fact they were fighting against Him"
-msgstr ""
+msgstr "De som förföljde de kristna trodde att de gjorde det för Gud, men i själva verket kämpade de mot honom"
 
 #: 20_persecution.html:132
 msgid "The apostles suffered physical mistreatment"
-msgstr ""
+msgstr "Apostlarna lidit fysisk misshandel"
 
 #: 20_persecution.html:135
 msgid "Persecution did not stop the disciples from daily proclamation"
-msgstr ""
+msgstr "Förföljelse hindrade inte lärjungarna från dagliga proklamationer"
 
 #: 20_persecution.html:142
 msgid "Acts 28:21-22"
-msgstr ""
+msgstr "Apg 28: 21-22"
 
 #: 20_persecution.html:147
 msgid "Everywhere, the church was highly controversial"
-msgstr ""
+msgstr "Överallt var kyrkan mycket kontroversiell"
 
 #: 20_persecution.html:150
 msgid "The church was called a \"sect\" (cult)"
-msgstr ""
+msgstr "Kyrkan kallades en \"sekt\" (kult)"
 
 #: 20_persecution.html:153
 msgid "Since the International Christian Churches have the goal of imitating Jesus and the first century church, what will happen to us?  If a church is not being persecuted, what does that imply?"
-msgstr ""
+msgstr "Eftersom de internationella kristna kyrkorna har som mål att imitera Jesus och kyrkan från första århundradet, vad händer vi? Om en kyrka inte förföljas, vad betyder det?"
 
 #: 20_persecution.html:161
 msgid "Causes of persecution.  "
-msgstr ""
+msgstr "Orsaker till förföljelse."
 
 #: 20_persecution.html:163
 msgctxt "persecution #1"
 msgid "1 Timothy 4:16"
-msgstr ""
+msgstr "1 Timoteus 4:16"
 
 #: 20_persecution.html:165
 msgid "— Life and Doctrine"
-msgstr ""
+msgstr "- Liv och läran"
 
 #: 20_persecution.html:170
 msgid "Life"
-msgstr ""
+msgstr "Liv"
 
 #: 20_persecution.html:176
 msgid "1 Peter 4:3-4"
-msgstr ""
+msgstr "1 Peter 4: 3-4"
 
 #: 20_persecution.html:179
 msgid "The world feels condemned by those who no longer participate in its sin"
-msgstr ""
+msgstr "Världen känner sig fördömd av dem som inte längre deltar i sin synd"
 
 #: 20_persecution.html:184
 msgid "1 Peter 4:12-16"
-msgstr ""
+msgstr "1 Peter 4: 12-16"
 
 #: 20_persecution.html:187
 msgid "Do not be surprised or ashamed by persecution, but be sure you are persecuted for righteousness' sake"
-msgstr ""
+msgstr "Bli inte förvånad eller skäms av förföljelse, men var säker på att du förföljs för rättfärdighetens skull"
 
 #: 20_persecution.html:193
 msgctxt "persecution #1"
 msgid "Doctrine"
-msgstr ""
+msgstr "Lära"
 
 #: 20_persecution.html:197
 msgid "Preaching the Word —"
-msgstr ""
+msgstr "Predikar ordet"
 
 #: 20_persecution.html:200
 msgid "John 15:18-20, 16:1-4"
-msgstr ""
+msgstr "John 15: 18-20, 16: 1-4"
 
 #: 20_persecution.html:205
 msgid "Jesus warns that persecution comes to those who preach the same message as Him"
-msgstr ""
+msgstr "Jesus varnar för att förföljelse kommer till de som predikar samma budskap som han"
 
 #: 20_persecution.html:208
 msgid "Jesus warns that the price of hatred is certain, and perhaps even death"
-msgstr ""
+msgstr "Jesus varnar för att priset på hat är säkert och kanske till och med döden"
 
 #: 20_persecution.html:213
 msgid "Narrow Road of Salvation —"
-msgstr ""
+msgstr "Smal väg av frälsning -"
 
 #: 20_persecution.html:216
 msgid "Matthew 7:13-14"
-msgstr ""
+msgstr "Matteus 7: 13-14"
 
 #: 20_persecution.html:223
 msgid "Acts 4:12"
-msgstr ""
+msgstr "Apg 4:12"
 
 #: 20_persecution.html:226
 msgid "Only an individual who believes in Jesus is saved.  (This truth condemns atheists, polytheists, Jews, Muslims, Hindus, Buddhists, etc...)"
-msgstr ""
+msgstr "Endast en person som tror på Jesus är rädd. (Denna sanning fördömer ateister, polytheister, judar, muslimer, hinduer, buddhister, etc ...)"
 
 #: 20_persecution.html:231
 msgid "Acts 2:36-38"
-msgstr ""
+msgstr "Apg 2: 36-38"
 
 #: 20_persecution.html:234
 msgid "Only an adult who is water baptized for the forgiveness of sins is saved.  (This truth condemns those who practice infant baptism and \"praying Jesus into your heart\" as doctrines of salvation)"
-msgstr ""
+msgstr "Endast en vuxen som är döpt för syndens förlåtelse är räddad. (Den här sanningen fördömer dem som utövar spädbarns dop och \"ber Jesus i ditt hjärta\" som frälsningens läror)"
 
 #: 20_persecution.html:239
 msgctxt "persecution #1"
 msgid "Matthew 28:19-20"
-msgstr ""
+msgstr "Matteus 28: 19-20"
 
 #: 20_persecution.html:242
 msgid "Only the person who makes the decision to be baptized as a disciple is saved.  (This truth condemns those who may baptize for remission of sins, but are not made into disciples before and after baptism)"
-msgstr ""
+msgstr "Endast den person som fattar beslutet att bli döpt som en lärjunge är räddad. (Denna sanning fördömer dem som kan döpa för synders förlåtelse, men är inte gjorda till lärjungar före och efter dopet)"
 
 #: 20_persecution.html:245
 msgid "We do not condemn the lost; they are condemned already.  However, when the lost are confronted doctrinally about their condition before God, they will repent, run or persecute"
-msgstr ""
+msgstr "Vi fördömer inte den förlorade; De är redan dömda. Men när de förlorade konfronteras doktrinärt om sitt tillstånd inför Gud, kommer de att ångra sig, springa eller förfölja"
 
 #: 20_persecution.html:250
 msgid "Doctrine of discipling"
-msgstr ""
+msgstr "Läran om disciplin"
 
 #: 20_persecution.html:255
 msgctxt "persecution #2"
 msgid "Matthew 28:19-20"
-msgstr ""
+msgstr "Matteus 28: 19-20"
 
 #: 20_persecution.html:258
 msgid "Discipling, calling people to obey the Word of God, is often viewed by the world as controlling"
-msgstr ""
+msgstr "Discipling, som kallar människor att lyda Guds ord, ses ofta av världen som kontrollerande"
 
 #: 20_persecution.html:268
 msgid "Our attitude about persecution"
-msgstr ""
+msgstr "Vår inställning till förföljelse"
 
 #: 20_persecution.html:274
 msgid "Matthew 5:10-12"
-msgstr ""
+msgstr "Matteus 5: 10-12"
 
 #: 20_persecution.html:279
 msgid "Do not fear persecution.  Do not care what men think about you, only God"
-msgstr ""
+msgstr "Var inte rädd för förföljelse. Bryr dig inte vad män tycker om dig, bara Gud"
 
 #: 20_persecution.html:282
 msgid "Rejoice!  You are not alone, since they persecuted both Jesus and the prophets"
-msgstr ""
+msgstr "Glädjas! Du är inte ensam, eftersom de förföljde både Jesus och profeterna"
 
 #: 20_persecution.html:289
 msgid "Ephesians 6:10-18"
-msgstr ""
+msgstr "Efesierna 6: 10-18"
 
 #: 20_persecution.html:294
 msgid "Satan is behind all persecution.  Only God and His spiritual armor will give you the victory over the world"
-msgstr ""
+msgstr "Satan står bakom all förföljelse. Endast Gud och hans andliga rustning kommer att ge dig segern över världen"
 
 #: 20_persecution.html:302
 msgctxt "persecution #1"
 msgid "Conclusion"
-msgstr ""
+msgstr "Slutsats"
 
 #: 20_persecution.html:304
 msgid "— The International Christian Churches are a controversial Christian movement.  Some call us a cult and accuse us of both brain-washing and mind-control.  Many false rumors and half-truths have been spread.  Newspaper articles, television shows and especially the internet have slandered the ICC, and yet, the facts are that lives have been radically changed, marriages have been healed, drug addicts have been freed, the poor have been fed and cared for, and this rapidly growing movement — The SoldOut Movement — is spreading around the world in this generation!  Just like the first century!"
-msgstr ""
+msgstr "- De internationella kristna kyrkorna är en kontroversiell kristen rörelse. Vissa kallar oss en kult och anklagar oss för både hjärntvätt och mind-control. Många falska rykten och halv sanningar har spridits. Tidningsartiklar, tv-program och särskilt internet har förtalat ICC, men fakta är att livet har förändrats radikalt, äktenskap har blivit läka, narkomaner har blivit befriade, de fattiga har fått mat och vårdats, och det här snabbt Växande rörelse - The SoldOut Movement - sprider sig över hela världen i denna generation! Precis som det första århundradet!"
 
 #: 20_persecution.html:308
 msgid "* The Persecution study has been proven to be most helpful after the"
-msgstr ""
+msgstr "* Förföljelsen har visat sig vara till stor hjälp efter det"
 
 #: 20_persecution.html:308
 msgid "study"
-msgstr ""
+msgstr "studie"
 
 #: 20_persecution.html:309
 msgid "See"
-msgstr ""
+msgstr "Se"
 
 #: 20_persecution.html:309
 msgid "caicc.net"
-msgstr ""
+msgstr "caicc.net"
 
 #: 20_persecution.html:309
 msgid "usd21.org"
-msgstr ""
+msgstr "usd21.org"
 
 #: 20_persecution.html:309
 msgctxt "persecution #1"
 msgid "and"
-msgstr ""
+msgstr "och"
 
 #: 20_persecution.html:309
 msgid "KipMcKean.org"
-msgstr ""
+msgstr "KipMcKean.org"
 
 #: 21_memory_scriptures.html:31
 msgid "\"For I know the plans I have for you,\" declares the LORD, \"plans to prosper you and not to harm you, plans to give you hope and a future\""
-msgstr ""
+msgstr "\"För jag känner till de planer jag har för dig\", säger Herren, \"planerar att lycka dig och inte skada dig, planerar att ge dig hopp och en framtid\""
 
 #: 21_memory_scriptures.html:33
 msgid "Jeremiah 29:11"
-msgstr ""
+msgstr "Jeremia 29:11"
 
 #: 21_memory_scriptures.html:38
 msgid "But seek first his kingdom and his righteousness, and all these things will be given to you as well"
-msgstr ""
+msgstr "Men söka först hans rike och hans rättfärdighet, och allt detta kommer också att ges till dig"
 
 #: 21_memory_scriptures.html:40
 msgctxt "memory_scriptures #1"
 msgid "Matthew 6:33"
-msgstr ""
+msgstr "Matteus 6:33"
 
 #: 21_memory_scriptures.html:45
 msgid "To the Jews who had believed him, Jesus said, \"If you hold to my teaching, you are really my disciples. Then you will know the truth, and the truth will set you free\""
-msgstr ""
+msgstr "Till de judar som hade trott honom, sade Jesus: \"Om du håller fast vid min undervisning, är du verkligen mina lärjungar. Då kommer du att veta sanningen och sanningen kommer att frigöra dig\""
 
 #: 21_memory_scriptures.html:47
 msgctxt "memory_scriptures #1"
 msgid "John 8:31-32"
-msgstr ""
+msgstr "John 8: 31-32"
 
 #: 21_memory_scriptures.html:52
 msgid "I can do everything through him who gives me strength"
-msgstr ""
+msgstr "Jag kan göra allt genom honom som ger mig styrka"
 
 #: 21_memory_scriptures.html:54
 msgid "Philippians 4:13"
-msgstr ""
+msgstr "Filippinerna 4:13"
 
 #: 21_memory_scriptures.html:59
 msgid "\"Come, follow me,\" Jesus said, \"and I will make you fishers of men\""
-msgstr ""
+msgstr "\"Kom och följ mig,\" sade Jesus, \"och jag ska göra dig fiskare av män\""
 
 #: 21_memory_scriptures.html:61
 msgid "Mark 1:17"
-msgstr ""
+msgstr "Markus 1:17"
 
 #: 21_memory_scriptures.html:66
 msgid "A new command I give you: Love one another. As I have loved you, so you must love one another.  By this all men will know that you are my disciples, if you love one another"
-msgstr ""
+msgstr "Ett nytt kommando jag ger dig: Älska varandra. Som jag har älskat dig, så måste du älska varandra. Genom detta kommer alla män att veta att du är mina lärjungar, om du älskar varandra"
 
 #: 21_memory_scriptures.html:68
 msgctxt "memory_scriptures #1"
 msgid "John 13:34-35"
-msgstr ""
+msgstr "Johannes 13: 34-35"
 
 #: 21_memory_scriptures.html:73
 msgid "Peter replied, 'Repent and be baptized, every one of you, in the name of Jesus Christ for the forgiveness of your sins. And you will receive the gift of the Holy Spirit"
-msgstr ""
+msgstr "Petrus svarade: \"Ångra sig och bli döpta, var och en av er, i Jesu Kristi namn, för din synds förlåtelse. Och du kommer att få den Helige Andes gåva"
 
 #: 21_memory_scriptures.html:75
 msgctxt "memory_scriptures #1"
 msgid "Acts 2:38"
-msgstr ""
+msgstr "Apg 2:38"
 
 #: 21_memory_scriptures.html:80
 msgid "Rejoice in the Lord always. I will say it again: Rejoice!"
-msgstr ""
+msgstr "Gläd dig alltid i Herren. Jag ska säga det igen: Gläd dig!"
 
 #: 21_memory_scriptures.html:82
 msgid "Philippians 4:4"
-msgstr ""
+msgstr "Philippians 4: 4"
 
 #: 21_memory_scriptures.html:87
 msgid "The soul who sins is the one who will die. The son will not share the guilt of the father, nor will the father share the guilt of the son. The righteousness of the righteous man will be credited to him, and the wickedness of the wicked will be charged against him"
-msgstr ""
+msgstr "Själen som syndar är den som kommer att dö. Sonen delar inte faderns skuld, och inte heller kommer fadern att dela med sig av sonens skuld. Den rättfärdiga människans rättfärdighet kommer att krediteras honom, och de onda gudarna kommer att bli anklagade mot honom"
 
 #: 21_memory_scriptures.html:89
 msgctxt "memory_scriptures #1"
 msgid "Ezekiel 18:20"
-msgstr ""
+msgstr "Esekiel 18:20"
 
 #: 21_memory_scriptures.html:94
 msgid "But even if we or an angel from heaven should preach a gospel other than the one we preached to you, let him be eternally condemned!"
-msgstr ""
+msgstr "Men även om vi eller en ängel från himmelen skulle predika ett annat evangelium än det vi predikade för er, låt honom evigt fördömas!"
 
 #: 21_memory_scriptures.html:96
 msgid "Galatians 1:8"
-msgstr ""
+msgstr "Galaterna 1: 8"
 
 #: 21_memory_scriptures.html:101
 msgid "Jesus replied: \"Love the Lord your God with all your heart and with all your soul and with all your mind.\" This is the first and greatest commandment. And the second is like it: \"Love your neighbor as yourself\""
-msgstr ""
+msgstr "Jesus svarade: \"Älska Herren din Gud med hela ditt hjärta och med hela din själ och med hela ditt sinne.\" Detta är det första och största budet. Och den andra är som den: \"Älska din nästa som dig själv\""
 
 #: 21_memory_scriptures.html:103
 msgid "Matthew 22:37-39"
-msgstr ""
+msgstr "Matteus 22: 37-39"
 
 #: 21_memory_scriptures.html:108
 msgid "This is to my Father's glory, that you bear much fruit, showing yourselves to be my disciples"
-msgstr ""
+msgstr "Det här är min Faders ära, att du bär mycket frukt och visar dig att vara mina lärjungar"
 
 #: 21_memory_scriptures.html:110
 msgid "John 15:8"
-msgstr ""
+msgstr "John 15: 8"
 
 #: 21_memory_scriptures.html:115
 msgid "Then Jesus came to them and said, \"All authority in heaven and on earth has been given to me. Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age\""
-msgstr ""
+msgstr "Då kom Jesus till dem och sade: \"All auktoritet i himlen och på jorden har givits mig. Gå därför och gör alla nations lärjungar och döpa dem i Faderns, Sonens och Helige Andes namn och Lära dem att lyda allt jag har befallt dig. Och jag är alltid med dig, ända till slutet av tiden \""
 
 #: 21_memory_scriptures.html:117
 msgctxt "memory_scriptures #1"
 msgid "Matthew 28:18-20"
-msgstr ""
+msgstr "Matteus 28: 18-20"
 
 #: 21_memory_scriptures.html:122
 msgid "For the Son of Man came to seek and to save the lost"
-msgstr ""
+msgstr "Ty Människosonen kom för att söka och rädda de förlorade"
 
 #: 21_memory_scriptures.html:124
 msgctxt "memory_scriptures #1"
 msgid "Luke 19:10"
-msgstr ""
+msgstr "Lukas 19:10"
 
 #: 21_memory_scriptures.html:129
 msgid "And let us consider how we may spur one another on toward love and good deeds. Let us not give up meeting together, as some are in the habit of doing, but let us encourage one another — and all the more as you see the Day approaching"
-msgstr ""
+msgstr "Och låt oss överväga hur vi kan sporra varandra mot kärlek och goda gärningar. Låt oss inte ge upp möte tillsammans, som vissa brukar göra, men låt oss uppmuntra varandra - och allt mer som ni ser att dagen närmar sig"
 
 #: 21_memory_scriptures.html:131
 msgid "Hebrews 10:24-25"
-msgstr ""
+msgstr "Hebreerbrevet 10: 24-25"
 
 #: 21_memory_scriptures.html:136
 msgid "If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness"
-msgstr ""
+msgstr "Om vi ​​bekänner våra synder är han trogen och rättvis och förlåt oss våra synder och renar oss från all orättfärdighet"
 
 #: 21_memory_scriptures.html:138
 msgid "1 John 1:9"
-msgstr ""
+msgstr "1 John 1: 9"
 
 #: 21_memory_scriptures.html:143
 msgid "See to it that no one misses the grace of God and that no bitter root grows up to cause trouble and defile many"
-msgstr ""
+msgstr "Se till att ingen saknar Guds nåd och att ingen bitter rot växer upp för att orsaka problem och smita många"
 
 #: 21_memory_scriptures.html:145
 msgid "Hebrews 12:15"
-msgstr ""
+msgstr "Hebreerbrevet 12:15"
 
 #: 21_memory_scriptures.html:150
 msgid "Obey your leaders and submit to their authority. They keep watch over you as men who must give an account. Obey them so that their work will be a joy, not a burden, for that would be of no advantage to you"
-msgstr ""
+msgstr "Lyssna på dina ledare och skicka till deras auktoritet. De håller koll på dig som män som måste ge ett konto. Lyda dem så att deras arbete blir en glädje, inte en börda, för det skulle inte vara till nytta för dig"
 
 #: 21_memory_scriptures.html:152
 msgctxt "memory_scriptures #1"
 msgid "Hebrews 13:17"
-msgstr ""
+msgstr "Hebreerbrevet 13:17"
 
 #: 22_contact_us.html:28
 msgid "Do you have feedback, suggestions or questions regarding this mobile application or the First Principles study series?  Please let us know!"
-msgstr ""
+msgstr "Har du feedback, förslag eller frågor angående denna mobilapplikation eller studieprincipen för första principerna? Vänligen meddela oss!"
 
 #: 22_contact_us.html:30
 msgid "To contact us regarding technical questions, such as improving this application on mobile devices, send an e-mail to:"
-msgstr ""
+msgstr "För att kontakta oss om tekniska frågor, till exempel att förbättra den här applikationen på mobila enheter, skicka ett mail till:"
 
 #: 22_contact_us.html:31
 msgid "support"
-msgstr ""
+msgstr "Stöd"
 
 #: 22_contact_us.html:33
 msgid "To contact us regarding the Biblical content of these First Principles studies, visit our:"
-msgstr ""
+msgstr "För att kontakta oss angående det bibliska innehållet i dessa förstudier, besök vår:"
 
 #: 22_contact_us.html:34
 msgid "Movement Website"
-msgstr ""
+msgstr "Rörelse webbplats"
 
 #: 22_contact_us.html:35
 msgid "and locate Church in nation/city you want to contact to"
-msgstr ""
+msgstr "Och lokalisera kyrkan i den land / stad du vill kontakta"
 
 #: 22_contact_us.html:37
 msgid "We look forward to hearing from you!  We strive to respond promptly to all correspondence."
-msgstr ""
+msgstr "Vi ser fram emot att höra av dig! Vi strävar efter att reagera snabbt på all korrespondens."
 
