@@ -95,6 +95,14 @@ msgstr "Persecution"
 msgid "Memory Scriptures"
 msgstr "Memory Scriptures"
 
+#: 00_index.html:55
+msgid "Contact Us"
+msgstr "Contact Us"
+
+#: 00_index.html:66
+msgid "2017 International Christian Churches (SoldOut Discipling Movement)"
+msgstr "2017 International Christian Churches (SoldOut Discipling Movement)"
+
 #: 01_introduction.html:29
 msgid "For when by reason of the time you ought to be teachers, you... need to have someone teach you the rudiments of the first principles of the oracles of God... Therefore leaving the doctrine of the first principles of Christ, let us press on to perfection - not laying again a foundation... of faith toward God, of the teaching of baptisms, of laying on of hands, of resurrection of the dead and of eternal judgment. This will we do!"
 msgstr "For when by reason of the time you ought to be teachers, you... need to have someone teach you the rudiments of the first principles of the oracles of God... Therefore leaving the doctrine of the first principles of Christ, let us press on to perfection - not laying again a foundation... of faith toward God, of the teaching of baptisms, of laying on of hands, of resurrection of the dead and of eternal judgment. This will we do!"
@@ -1988,12 +1996,4 @@ msgstr "Strive to learn the first principles (elementary teachings) and go on to
 #: 16_after_baptism_now_what.html:178
 msgid "Discuss taking the First Principles Classes"
 msgstr "Discuss taking the First Principles Classes"
-
-#: 00_index.html:55
-msgid "Contact Us"
-msgstr "Contact Us"
-
-#: 00_index.html:66
-msgid "2017 International Christian Churches (SoldOut Discipling Movement)"
-msgstr "2017 International Christian Churches (SoldOut Discipling Movement)"
 

@@ -1842,7 +1842,7 @@ msgstr ""
 
 #: 16_after_baptism_now_what.html:34
 msgid "Discuss the young disciple's first few days as a Christian"
-msgstr ""
+msgstr "Обговоріть з новим учнем його перші дні як Християнина"
 
 #: 16_after_baptism_now_what.html:37
 msgid "Share \"letter to God.\" If the new disciple has not had a chance to write one, encourage him/her to do so"
