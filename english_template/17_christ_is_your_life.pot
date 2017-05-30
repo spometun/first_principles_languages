@@ -1,0 +1,142 @@
+#
+msgid ""
+msgstr ""
+
+#: 17_christ_is_your_life.html:33
+msgid "Discuss:"
+msgstr ""
+
+#: 17_christ_is_your_life.html:36
+msgid "Did you have daily quiet times this past week?"
+msgstr ""
+
+#: 17_christ_is_your_life.html:39
+msgid "Who did you share with and invite?"
+msgstr ""
+
+#: 17_christ_is_your_life.html:44
+msgid "Discuss the impact of communion on Sunday"
+msgstr ""
+
+#: 17_christ_is_your_life.html:52
+msgid "Colossians 3:1-4"
+msgstr ""
+
+#: 17_christ_is_your_life.html:55
+msgid "Raised to a new life"
+msgstr ""
+
+#: 17_christ_is_your_life.html:58
+msgid "Raised with Christ in baptism"
+msgstr ""
+
+#: 17_christ_is_your_life.html:61
+msgctxt "christ_is_your_life #1"
+msgid "Colossians 2:12"
+msgstr ""
+
+#: 17_christ_is_your_life.html:67
+msgid "The Holy Spirit, received at baptism, gives you the power to set your mind (thoughts) and set your heart (emotions) on things above"
+msgstr ""
+
+#: 17_christ_is_your_life.html:70
+msgid "Christ is your life"
+msgstr ""
+
+#: 17_christ_is_your_life.html:77
+msgid "Colossians 3:5-11"
+msgstr ""
+
+#: 17_christ_is_your_life.html:80
+msgid "Put to death"
+msgstr ""
+
+#: 17_christ_is_your_life.html:83
+msgid "Discuss and be open about your struggles this week"
+msgstr ""
+
+#: 17_christ_is_your_life.html:86
+msgid "Discuss any financial challenges — pledge to God, rent, bills, salary, etc..."
+msgstr ""
+
+#: 17_christ_is_your_life.html:89
+msgid "Discuss practical ways to crucify your sinful nature"
+msgstr ""
+
+#: 17_christ_is_your_life.html:96
+msgid "Colossians 3:12-14"
+msgstr ""
+
+#: 17_christ_is_your_life.html:99
+msgid "Put on — clothe yourself"
+msgstr ""
+
+#: 17_christ_is_your_life.html:102
+msgid "Compassion"
+msgstr ""
+
+#: 17_christ_is_your_life.html:105
+msgid "Kindness"
+msgstr ""
+
+#: 17_christ_is_your_life.html:108
+msgid "Humility"
+msgstr ""
+
+#: 17_christ_is_your_life.html:111
+msgid "Gentleness"
+msgstr ""
+
+#: 17_christ_is_your_life.html:114
+msgid "Patience"
+msgstr ""
+
+#: 17_christ_is_your_life.html:117
+msgid "Forgiveness"
+msgstr ""
+
+#: 17_christ_is_your_life.html:124
+msgid "Colossians 3:15-24"
+msgstr ""
+
+#: 17_christ_is_your_life.html:127
+msgid "New attitudes"
+msgstr ""
+
+#: 17_christ_is_your_life.html:130
+msgid "Peace"
+msgstr ""
+
+#: 17_christ_is_your_life.html:133
+msgid "Thankful"
+msgstr ""
+
+#: 17_christ_is_your_life.html:136
+msgid "Wholehearted"
+msgstr ""
+
+#: 17_christ_is_your_life.html:139
+msgid "Family Interactions"
+msgstr ""
+
+#: 17_christ_is_your_life.html:142
+msgid "v. 18-21"
+msgstr ""
+
+#: 17_christ_is_your_life.html:148
+msgid "Employer/employee relationships"
+msgstr ""
+
+#: 17_christ_is_your_life.html:151
+msgctxt "christ_is_your_life #1"
+msgid "v. 22-24"
+msgstr ""
+
+#: 17_christ_is_your_life.html:157
+msgid "Teacher/student relationships"
+msgstr ""
+
+#: 17_christ_is_your_life.html:160
+msgctxt "christ_is_your_life #2"
+msgid "v. 22-24"
+msgstr ""

@@ -11,6 +11,7 @@ msgid "Share \"letter to God.\" If the new disciple has not had a chance to writ
 msgstr ""
 
 #: 16_after_baptism_now_what.html:45
+msgctxt "after_baptism_now_what #1"
 msgid "Acts 2:36-47"
 msgstr ""
 
@@ -63,6 +64,7 @@ msgid "Discuss the leadership's expectation to tithe on Sundays and give a benev
 msgstr ""
 
 #: 16_after_baptism_now_what.html:88
+msgctxt "after_baptism_now_what #1"
 msgid "Malachi 3:6-12"
 msgstr ""
 
@@ -72,6 +74,7 @@ msgid "and"
 msgstr ""
 
 #: 16_after_baptism_now_what.html:94
+msgctxt "after_baptism_now_what #1"
 msgid "Hebrews 13:17"
 msgstr ""
 
@@ -116,6 +119,7 @@ msgid "Share petitions and answered prayers"
 msgstr ""
 
 #: 16_after_baptism_now_what.html:142
+msgctxt "after_baptism_now_what #1"
 msgid "Acts 9:1-22"
 msgstr ""
 

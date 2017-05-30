@@ -182,6 +182,7 @@ msgid "John's baptism — Passed when the new covenant began"
 msgstr ""
 
 #: 12_baptism_with_the_holy_spirit.html:168
+msgctxt "baptism_with_the_holy_spirit #1"
 msgid "Acts 19:1-5"
 msgstr ""
 
@@ -236,6 +237,7 @@ msgid "and in"
 msgstr ""
 
 #: 12_baptism_with_the_holy_spirit.html:204
+msgctxt "baptism_with_the_holy_spirit #1"
 msgid "1 Peter 3:18-21"
 msgstr ""
 

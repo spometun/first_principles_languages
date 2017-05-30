@@ -58,6 +58,7 @@ msgid "Saved"
 msgstr ""
 
 #: 08_light_and_darkness.html:45
+msgctxt "light_and_darkness #1"
 msgid "Christian"
 msgstr ""
 
@@ -80,6 +81,7 @@ msgid "Darkness"
 msgstr ""
 
 #: 08_light_and_darkness.html:60
+msgctxt "light_and_darkness #1"
 msgid "Isaiah 59:1-2"
 msgstr ""
 
@@ -106,6 +108,7 @@ msgid "LIGHT"
 msgstr ""
 
 #: 08_light_and_darkness.html:80
+msgctxt "light_and_darkness #1"
 msgid "GOD"
 msgstr ""
 
@@ -280,6 +283,7 @@ msgid "Jesus raised physically from the dead"
 msgstr ""
 
 #: 08_light_and_darkness.html:169
+msgctxt "light_and_darkness #1"
 msgid "v. 24"
 msgstr ""
 
@@ -288,6 +292,7 @@ msgid "Everyone is responsible for the crucifixion of Christ"
 msgstr ""
 
 #: 08_light_and_darkness.html:170
+msgctxt "light_and_darkness #1"
 msgid "v. 23"
 msgstr ""
 
@@ -296,6 +301,7 @@ msgid "All have sinned."
 msgstr ""
 
 #: 08_light_and_darkness.html:170
+msgctxt "light_and_darkness #1"
 msgid "Romans 3:23"
 msgstr ""
 
@@ -415,6 +421,7 @@ msgid "Born Again of Water and Spirit"
 msgstr ""
 
 #: 08_light_and_darkness.html:250
+msgctxt "light_and_darkness #1"
 msgid "John 3:5"
 msgstr ""
 
@@ -448,6 +455,7 @@ msgid "Traditions/False Doctrines -"
 msgstr ""
 
 #: 08_light_and_darkness.html:270
+msgctxt "light_and_darkness #1"
 msgid "Matthew 15:6-9"
 msgstr ""
 
@@ -460,6 +468,7 @@ msgid "Personal faith is needed"
 msgstr ""
 
 #: 08_light_and_darkness.html:275
+msgctxt "light_and_darkness #1"
 msgid "Colossians 2:12"
 msgstr ""
 
@@ -472,6 +481,7 @@ msgid "Original sin"
 msgstr ""
 
 #: 08_light_and_darkness.html:280
+msgctxt "light_and_darkness #1"
 msgid "Ezekiel 18:20"
 msgstr ""
 
@@ -484,6 +494,7 @@ msgid "Praying Jesus into your heart"
 msgstr ""
 
 #: 08_light_and_darkness.html:289
+msgctxt "light_and_darkness #1"
 msgid "Revelation 3:20"
 msgstr ""
 

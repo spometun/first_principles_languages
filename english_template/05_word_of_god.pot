@@ -43,6 +43,7 @@ msgid "The Holy Spirit inspired the men who wrote the books of the Bible"
 msgstr ""
 
 #: 05_word_of_god.html:52
+msgctxt "word_of_god #1"
 msgid "John 8:31-32"
 msgstr ""
 
@@ -75,6 +76,7 @@ msgid "Worship by traditions - those which contradict the Word of God - is worsh
 msgstr ""
 
 #: 05_word_of_god.html:68
+msgctxt "word_of_god #1"
 msgid "1 Timothy 4:16"
 msgstr ""
 

@@ -1,0 +1,31 @@
+#
+msgid ""
+msgstr ""
+
+#: 22_contact_us.html:28
+msgid "Do you have feedback, suggestions or questions regarding this mobile application or the First Principles study series?  Please let us know!"
+msgstr ""
+
+#: 22_contact_us.html:30
+msgid "To contact us regarding technical questions, such as improving this application on mobile devices, send an e-mail to:"
+msgstr ""
+
+#: 22_contact_us.html:31
+msgid "support"
+msgstr ""
+
+#: 22_contact_us.html:33
+msgid "To contact us regarding the Biblical content of these First Principles studies, visit our:"
+msgstr ""
+
+#: 22_contact_us.html:34
+msgid "Movement Website"
+msgstr ""
+
+#: 22_contact_us.html:35
+msgid "and locate Church in nation/city you want to contact to"
+msgstr ""
+
+#: 22_contact_us.html:37
+msgid "We look forward to hearing from you!  We strive to respond promptly to all correspondence."
+msgstr ""

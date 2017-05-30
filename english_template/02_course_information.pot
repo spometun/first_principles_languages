@@ -1,0 +1,280 @@
+#
+msgid ""
+msgstr ""
+
+#: 02_course_information.html:11
+msgctxt "course_information #1"
+msgid "Course Information"
+msgstr ""
+
+#: 02_course_information.html:22
+msgctxt "course_information #2"
+msgid "Course Information"
+msgstr ""
+
+#: 02_course_information.html:31
+msgid ""
+"This course should take a high priority in your day as it is geared to help you grasp a\n"
+"      firmer hold on God’s Word and to deepen your understanding of His will for your life"
+msgstr ""
+
+#: 02_course_information.html:33
+msgid "Each session two new Scriptures should be memorized for a quiz at the beginning of each class"
+msgstr ""
+
+#: 02_course_information.html:35
+msgid "Each study’s content and order of Scriptures should also be memorized for the quiz"
+msgstr ""
+
+#: 02_course_information.html:37
+msgid "Each student is required to memorize the names of all the books of the Bible"
+msgstr ""
+
+#: 02_course_information.html:39
+msgid "Sign up"
+msgstr ""
+
+#: 02_course_information.html:39
+msgid "for the Good News Emails at"
+msgstr ""
+
+#: 02_course_information.html:39
+msgid "CAICC.net"
+msgstr ""
+
+#: 02_course_information.html:39
+msgid "by Session 2"
+msgstr ""
+
+#: 02_course_information.html:41
+msgid "Read Ron Harding’s History of the Spread of Christianity in Modern Times"
+msgstr ""
+
+#: 02_course_information.html:41
+msgid "KipMcKean.com"
+msgstr ""
+
+#: 02_course_information.html:42
+msgid "by Session 8"
+msgstr ""
+
+#: 02_course_information.html:45
+msgid ""
+"An outline of the book of Acts will be turned in by Session 11. Each student is required to\n"
+"      memorize two points from each chapter in the book of Acts"
+msgstr ""
+
+#: 02_course_information.html:49
+msgid "Outline of Classes"
+msgstr ""
+
+#: 02_course_information.html:53
+msgid "Session 1"
+msgstr ""
+
+#: 02_course_information.html:55
+msgid "Introduction and Seeking God"
+msgstr ""
+
+#: 02_course_information.html:58
+msgid "Session 2"
+msgstr ""
+
+#: 02_course_information.html:60
+msgid "The Word Of God"
+msgstr ""
+
+#: 02_course_information.html:63
+msgid "Session 3"
+msgstr ""
+
+#: 02_course_information.html:68
+msgid "Session 4"
+msgstr ""
+
+#: 02_course_information.html:73
+msgid "Session 5"
+msgstr ""
+
+#: 02_course_information.html:78
+msgid "Session 6"
+msgstr ""
+
+#: 02_course_information.html:83
+msgid "Session 7"
+msgstr ""
+
+#: 02_course_information.html:88
+msgid "Session 8"
+msgstr ""
+
+#: 02_course_information.html:90
+msgid "The Baptism of the Holy Spirit"
+msgstr ""
+
+#: 02_course_information.html:93
+msgid "Session 9"
+msgstr ""
+
+#: 02_course_information.html:95
+msgid "The Miraculous Gifts of the Holy Spirit"
+msgstr ""
+
+#: 02_course_information.html:98
+msgid "Session 10"
+msgstr ""
+
+#: 02_course_information.html:103
+msgid "Session 11"
+msgstr ""
+
+#: 02_course_information.html:105
+msgid "Acts 1 - 8"
+msgstr ""
+
+#: 02_course_information.html:108
+msgid "Session 12"
+msgstr ""
+
+#: 02_course_information.html:110
+msgid "Acts 9 - 15"
+msgstr ""
+
+#: 02_course_information.html:113
+msgid "Session 13"
+msgstr ""
+
+#: 02_course_information.html:115
+msgid "Acts 16 - 21"
+msgstr ""
+
+#: 02_course_information.html:118
+msgid "Session 14"
+msgstr ""
+
+#: 02_course_information.html:120
+msgid "Acts 21 - 28"
+msgstr ""
+
+#: 02_course_information.html:125
+msgid "Suggested Reading"
+msgstr ""
+
+#: 02_course_information.html:126
+msgid "These books are recommended as thought-provoking and informative tools to be used in gaining insights into God’s Word. In no way are they suggested to be Biblically correct on all doctrinal points"
+msgstr ""
+
+#: 02_course_information.html:128
+msgid "The Five Love Languages"
+msgstr ""
+
+#: 02_course_information.html:128
+msgid "- Chapman"
+msgstr ""
+
+#: 02_course_information.html:129
+msgid "The Master Plan of Evangelism"
+msgstr ""
+
+#: 02_course_information.html:129
+msgid "- Coleman -"
+msgstr ""
+
+#: 02_course_information.html:129
+msgctxt "course_information #1"
+msgid "Audio"
+msgstr ""
+
+#: 02_course_information.html:130
+msgid "The Tale of Three Kings"
+msgstr ""
+
+#: 02_course_information.html:130
+msgid "- Edwards -"
+msgstr ""
+
+#: 02_course_information.html:130
+msgctxt "course_information #2"
+msgid "Audio"
+msgstr ""
+
+#: 02_course_information.html:131
+msgid "Voice in the Wind"
+msgstr ""
+
+#: 02_course_information.html:131
+msgid "- Rivers -"
+msgstr ""
+
+#: 02_course_information.html:131
+msgctxt "course_information #3"
+msgid "Audio"
+msgstr ""
+
+#: 02_course_information.html:132
+msgid "The Disciplined Life"
+msgstr ""
+
+#: 02_course_information.html:132
+msgid "- Taylor"
+msgstr ""
+
+#: 02_course_information.html:133
+msgid "Elevate"
+msgstr ""
+
+#: 02_course_information.html:133
+msgid "- McKean"
+msgstr ""
+
+#: 02_course_information.html:135
+msgid "Overview of the Book of Acts"
+msgstr ""
+
+#: 02_course_information.html:139
+msgid "Sermon #1"
+msgstr ""
+
+#: 02_course_information.html:141
+msgid "Acts 1-8"
+msgstr ""
+
+#: 02_course_information.html:143
+msgid "Building A Great Church"
+msgstr ""
+
+#: 02_course_information.html:146
+msgid "Sermon #2"
+msgstr ""
+
+#: 02_course_information.html:148
+msgid "Acts 9-15"
+msgstr ""
+
+#: 02_course_information.html:150
+msgid "Forcefully Advancing The Kingdom"
+msgstr ""
+
+#: 02_course_information.html:153
+msgid "Sermon #3"
+msgstr ""
+
+#: 02_course_information.html:155
+msgid "Acts 16-21"
+msgstr ""
+
+#: 02_course_information.html:157
+msgid "Turning The World Upsidedown"
+msgstr ""
+
+#: 02_course_information.html:160
+msgid "Sermon #4"
+msgstr ""
+
+#: 02_course_information.html:162
+msgid "Acts 21-28"
+msgstr ""
+
+#: 02_course_information.html:164
+msgid "Evangelizing The World In A Generation"
+msgstr ""

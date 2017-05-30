@@ -1,0 +1,156 @@
+#
+msgid ""
+msgstr ""
+
+#: 18_best_friends_of_all_time.html:33
+msgid "Share about your closest relationships during your life — God and spiritual family in comparison to your physical family and old friends"
+msgstr ""
+
+#: 18_best_friends_of_all_time.html:36
+msgid "Ask the young Christian, \"Who are your closest friends?\""
+msgstr ""
+
+#: 18_best_friends_of_all_time.html:43
+msgid "One Another Scriptures"
+msgstr ""
+
+#: 18_best_friends_of_all_time.html:49
+msgctxt "best_friends_of_all_time #1"
+msgid "John 13:34-35"
+msgstr ""
+
+#: 18_best_friends_of_all_time.html:52
+msgid "Love one another.  Jesus teaches that Christians should have closer and better relationships than people in the world. Set your mind to make disciples your best friends"
+msgstr ""
+
+#: 18_best_friends_of_all_time.html:57
+msgid "Hebrews 3:12-14"
+msgstr ""
+
+#: 18_best_friends_of_all_time.html:60
+msgid "Daily encouragement of one another"
+msgstr ""
+
+#: 18_best_friends_of_all_time.html:65
+msgid "Ephesians 5:19-20"
+msgstr ""
+
+#: 18_best_friends_of_all_time.html:68
+msgid "Worship God with one another — sing out to God and each other with psalms, hymns and spiritual songs"
+msgstr ""
+
+#: 18_best_friends_of_all_time.html:73
+msgid "Colossians 1:28-29"
+msgstr ""
+
+#: 18_best_friends_of_all_time.html:76
+msgid "Disciple one another.  This is essential in God's plan to become mature.  As we mature, we learn to instruct one another"
+msgstr ""
+
+#: 18_best_friends_of_all_time.html:79
+msgid "Romans 15:14"
+msgstr ""
+
+#: 18_best_friends_of_all_time.html:87
+msgid "Galatians 6:1-2"
+msgstr ""
+
+#: 18_best_friends_of_all_time.html:90
+msgid "Gently restore one another and bear one another's burdens"
+msgstr ""
+
+#: 18_best_friends_of_all_time.html:95
+msgid "James 5:16"
+msgstr ""
+
+#: 18_best_friends_of_all_time.html:98
+msgid "Confess sins to one another.  Discuss openness and transparency, remembering that \"openness breeds openness,\" so share your struggles"
+msgstr ""
+
+#: 18_best_friends_of_all_time.html:103
+msgid "James 5:16-18"
+msgstr ""
+
+#: 18_best_friends_of_all_time.html:106
+msgid "Pray for one another.  It makes a difference!"
+msgstr ""
+
+#: 18_best_friends_of_all_time.html:111
+msgid "Hebrews 12:14-15"
+msgstr ""
+
+#: 18_best_friends_of_all_time.html:114
+msgid "Be holy and prevent \"bad attitudes\" in one another"
+msgstr ""
+
+#: 18_best_friends_of_all_time.html:119
+msgid "1 Thessalonians 5:12-14"
+msgstr ""
+
+#: 18_best_friends_of_all_time.html:122
+msgid "Outlook toward one another"
+msgstr ""
+
+#: 18_best_friends_of_all_time.html:127
+msgid "John 17:20-23"
+msgstr ""
+
+#: 18_best_friends_of_all_time.html:130
+msgid "The ultimate goal of love and unity — world evangelism!"
+msgstr ""
+
+#: 18_best_friends_of_all_time.html:136
+msgid "Date and marry only disciples"
+msgstr ""
+
+#: 18_best_friends_of_all_time.html:142
+msgid "1 Corinthians 7:39"
+msgstr ""
+
+#: 18_best_friends_of_all_time.html:145
+msgid "Marriage must only be in the Lord"
+msgstr ""
+
+#: 18_best_friends_of_all_time.html:150
+msgid "2 Corinthians 6:14-7:1"
+msgstr ""
+
+#: 18_best_friends_of_all_time.html:153
+msgid "Dating, as in marriage, is a partnership in which you are \"yoked together.\"  Disciples must separate from unbelievers to receive the promises of God"
+msgstr ""
+
+#: 18_best_friends_of_all_time.html:158
+msgid "1 Kings 11:1-10"
+msgstr ""
+
+#: 18_best_friends_of_all_time.html:162
+msgid "Nehemiah 13:23-27"
+msgstr ""
+
+#: 18_best_friends_of_all_time.html:165
+msgid "Study this principle in the Old Testament.  To date or marry outside of the faith is to be unfaithful to God.  If you are single, have you gone on a Christian date?"
+msgstr ""
+
+#: 18_best_friends_of_all_time.html:170
+msgid "1 Peter 3:1-7"
+msgstr ""
+
+#: 18_best_friends_of_all_time.html:173
+msgid "If you are married, are you winning your spouse?"
+msgstr ""
+
+#: 18_best_friends_of_all_time.html:179
+msgid "Reconcile with one another"
+msgstr ""
+
+#: 18_best_friends_of_all_time.html:185
+msgid "Matthew 18:15-17"
+msgstr ""
+
+#: 18_best_friends_of_all_time.html:188
+msgid "Christians will sin against each other.  When someone sins against you, do not gossip by going to someone else.  Talk to the person who hurt you, so you can win him/her over as a friend"
+msgstr ""
+
+#: 18_best_friends_of_all_time.html:191
+msgid "Church discipline begins one-on-one and rarely should go to step 2, 3 and 4"
+msgstr ""

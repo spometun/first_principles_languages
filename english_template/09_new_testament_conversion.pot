@@ -1,0 +1,296 @@
+#
+msgid ""
+msgstr ""
+
+#: 09_new_testament_conversion.html:30
+msgid "The Major Conversions in Acts"
+msgstr ""
+
+#: 09_new_testament_conversion.html:33
+msgid "Conversions"
+msgstr ""
+
+#: 09_new_testament_conversion.html:42
+msgctxt "new_testament_conversion #1"
+msgid "Acts 2:36-47"
+msgstr ""
+
+#: 09_new_testament_conversion.html:47
+msgid "First Christian in Jerusalem"
+msgstr ""
+
+#: 09_new_testament_conversion.html:57
+msgctxt "new_testament_conversion #1"
+msgid "Acts 8:26-39"
+msgstr ""
+
+#: 09_new_testament_conversion.html:62
+msgid "Ethiopian Eunich"
+msgstr ""
+
+#: 09_new_testament_conversion.html:72
+msgid "Acts 16:22-34"
+msgstr ""
+
+#: 09_new_testament_conversion.html:77
+msgid "Philippian jailer and his family"
+msgstr ""
+
+#: 09_new_testament_conversion.html:87
+msgctxt "new_testament_conversion #1"
+msgid "Acts 9:1-22"
+msgstr ""
+
+#: 09_new_testament_conversion.html:92
+msgctxt "new_testament_conversion #1"
+msgid "Paul"
+msgstr ""
+
+#: 09_new_testament_conversion.html:99
+msgid "Acts 22:3-16"
+msgstr ""
+
+#: 09_new_testament_conversion.html:104
+msgctxt "new_testament_conversion #2"
+msgid "Paul"
+msgstr ""
+
+#: 09_new_testament_conversion.html:114
+msgid "Acts 18:24-26"
+msgstr ""
+
+#: 09_new_testament_conversion.html:119
+msgid "Apollos"
+msgstr ""
+
+#: 09_new_testament_conversion.html:129
+msgctxt "new_testament_conversion #1"
+msgid "Acts 19:1-5"
+msgstr ""
+
+#: 09_new_testament_conversion.html:134
+msgid "Ephesians"
+msgstr ""
+
+#: 09_new_testament_conversion.html:140
+msgid "Questions concerning Conversions"
+msgstr ""
+
+#: 09_new_testament_conversion.html:143
+msgid "What was preached?"
+msgstr ""
+
+#: 09_new_testament_conversion.html:146
+msgid "What was the person's (people's) response to the message?"
+msgstr ""
+
+#: 09_new_testament_conversion.html:149
+msgid "How long did the person (people) take to make the decision?"
+msgstr ""
+
+#: 09_new_testament_conversion.html:152
+msgid "What was their response after baptism?"
+msgstr ""
+
+#: 09_new_testament_conversion.html:160
+msgid "Refuting False Doctrines"
+msgstr ""
+
+#: 09_new_testament_conversion.html:165
+msgid "\"Pray Jesus into your heart\":"
+msgstr ""
+
+#: 09_new_testament_conversion.html:168
+msgid "This phrase is never mentioned in the Bible.  People may use"
+msgstr ""
+
+#: 09_new_testament_conversion.html:171
+msgctxt "new_testament_conversion #1"
+msgid "Revelation 3:20"
+msgstr ""
+
+#: 09_new_testament_conversion.html:174
+msgid "about Jesus knocking at the door.  However, you must examine the Scripture in context.  This scripture does not teach how to become a Christian and be saved, but how to come back to God after becoming lukewarm.  It is addressed to disciples who already responded to Christ in faith, repentance, confession and baptism"
+msgstr ""
+
+#: 09_new_testament_conversion.html:178
+msgid "\"Accept Jesus into your heart\":"
+msgstr ""
+
+#: 09_new_testament_conversion.html:181
+msgid "(Same teaching as praying Jesus into your heart, just different terminology)  Based on"
+msgstr ""
+
+#: 09_new_testament_conversion.html:184
+msgid "Romans 10:9"
+msgstr ""
+
+#: 09_new_testament_conversion.html:187
+msgid "You must look at Scripture in context.  Paul is addressing the problem of the Israelites:  unbelief that Jesus was the Christ, the Son of God.  Read further on to"
+msgstr ""
+
+#: 09_new_testament_conversion.html:190
+msgid "Romans 10:13"
+msgstr ""
+
+#: 09_new_testament_conversion.html:193
+msgid "When do you call on the name of the Lord?  At baptism"
+msgstr ""
+
+#: 09_new_testament_conversion.html:196
+msgctxt "new_testament_conversion #1"
+msgid "Acts 22:16"
+msgstr ""
+
+#: 09_new_testament_conversion.html:202
+msgid "Infant baptism:"
+msgstr ""
+
+#: 09_new_testament_conversion.html:205
+msgid "A baby cannot have faith, and since we are baptized through faith in the power of God"
+msgstr ""
+
+#: 09_new_testament_conversion.html:208
+msgctxt "new_testament_conversion #1"
+msgid "Colossians 2:12"
+msgstr ""
+
+#: 09_new_testament_conversion.html:211
+msgid "babies cannot be baptized.  Original sin:"
+msgstr ""
+
+#: 09_new_testament_conversion.html:214
+msgctxt "new_testament_conversion #1"
+msgid "Ezekiel 18:20"
+msgstr ""
+
+#: 09_new_testament_conversion.html:217
+msgid "teaches that there is no original sin; each person is responsible for his own actions and will be judged accordingly.  Therefore babies are born sinless and will be saved if they die"
+msgstr ""
+
+#: 09_new_testament_conversion.html:221
+msgid "\"Baptism does not save you\":"
+msgstr ""
+
+#: 09_new_testament_conversion.html:226
+msgctxt "new_testament_conversion #1"
+msgid "1 Peter 3:18-21"
+msgstr ""
+
+#: 09_new_testament_conversion.html:229
+msgid "says that baptism does save you through the resurrection of Jesus Christ"
+msgstr ""
+
+#: 09_new_testament_conversion.html:232
+msgctxt "new_testament_conversion #1"
+msgid "Acts 2:38"
+msgstr ""
+
+#: 09_new_testament_conversion.html:235
+msgid "teaches that sin is forgiven at baptism — one is saved at the point that sin is forgiven"
+msgstr ""
+
+#: 09_new_testament_conversion.html:239
+msgid "\"Baptism is a work — yet we are saved by faith:\""
+msgstr ""
+
+#: 09_new_testament_conversion.html:245
+msgid "Ephesians 2:8"
+msgstr ""
+
+#: 09_new_testament_conversion.html:251
+msgid "Colossians 2:11-15"
+msgstr ""
+
+#: 09_new_testament_conversion.html:254
+msgid "teaches that we are saved by faith — in the working of God at baptism"
+msgstr ""
+
+#: 09_new_testament_conversion.html:260
+msgid "This passage also teaches that circumcision as an eight-day-old baby under the old covenant has its spiritual parallel in the new covenant to baptism, as this is the time that Christ cuts away your old life.  At baptism one enters a \"covenant\" with God — salvation"
+msgstr ""
+
+#: 09_new_testament_conversion.html:264
+msgid "\"Baptism is an outward sign of an inward grace:\""
+msgstr ""
+
+#: 09_new_testament_conversion.html:269
+msgctxt "new_testament_conversion #1"
+msgid "Romans 6:2-4"
+msgstr ""
+
+#: 09_new_testament_conversion.html:272
+msgid "states that baptism is an actual participation in the death, burial and resurrection of Christ.  It is not merely a sign, seal or symbol"
+msgstr ""
+
+#: 09_new_testament_conversion.html:276
+msgid "\"Baptism isn't important. After all, look at what Paul said about it in"
+msgstr ""
+
+#: 09_new_testament_conversion.html:278
+msgid "1 Corinthians 1:17"
+msgstr ""
+
+#: 09_new_testament_conversion.html:283
+msgid "Paul does not diminish the importance of baptism here.  (Paul himself was baptized to have his sins forgiven in"
+msgstr ""
+
+#: 09_new_testament_conversion.html:286
+msgctxt "new_testament_conversion #2"
+msgid "Acts 22:16"
+msgstr ""
+
+#: 09_new_testament_conversion.html:289
+msgid "In context (read"
+msgstr ""
+
+#: 09_new_testament_conversion.html:292
+msgid "1 Corinthians 1:10-17"
+msgstr ""
+
+#: 09_new_testament_conversion.html:295
+msgid "he makes the point that he does not want people following men (denominationalism).  He mentions baptism several times in the passage"
+msgstr ""
+
+#: 09_new_testament_conversion.html:299
+msgid "\"The thief on the cross was not baptized and Jesus told him that they would see each other in paradise:\""
+msgstr ""
+
+#: 09_new_testament_conversion.html:302
+msgid "Jesus had not even died yet, and baptism is participating in his death"
+msgstr ""
+
+#: 09_new_testament_conversion.html:305
+msgctxt "new_testament_conversion #2"
+msgid "Romans 6:2-4"
+msgstr ""
+
+#: 09_new_testament_conversion.html:308
+msgid "also on earth, he had the power to forgive sins"
+msgstr ""
+
+#: 09_new_testament_conversion.html:311
+msgid "Matthew 9:2-6"
+msgstr ""
+
+#: 09_new_testament_conversion.html:317
+msgid "\"Believers baptism:\""
+msgstr ""
+
+#: 09_new_testament_conversion.html:320
+msgid "This is baptism as an adult, but is not done in conjunction with the understanding that one is being saved at this point in time"
+msgstr ""
+
+#: 09_new_testament_conversion.html:323
+msgctxt "new_testament_conversion #1"
+msgid "John 3:5"
+msgstr ""
+
+#: 09_new_testament_conversion.html:327
+msgctxt "new_testament_conversion #2"
+msgid "Acts 2:38"
+msgstr ""
+
+#: 09_new_testament_conversion.html:330
+msgid "\"Retroactive understanding\" is not sufficient for salvation"
+msgstr ""

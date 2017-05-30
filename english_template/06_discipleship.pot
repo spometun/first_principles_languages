@@ -135,6 +135,7 @@ msgid "Daily personal relationship with God (v. 3); daily prayer"
 msgstr ""
 
 #: 06_discipleship.html:96
+msgctxt "discipleship #1"
 msgid "John 13:34-35"
 msgstr ""
 

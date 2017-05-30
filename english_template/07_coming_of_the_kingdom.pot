@@ -415,6 +415,7 @@ msgid "Luke 24:44-49"
 msgstr ""
 
 #: 07_coming_of_the_kingdom.html:167
+msgctxt "coming_of_the_kingdom #1"
 msgid "Conclusion"
 msgstr ""
 
@@ -436,6 +437,7 @@ msgid "As citizens of the Kingdom and members of the body (the church), we must 
 msgstr ""
 
 #: 07_coming_of_the_kingdom.html:173
+msgctxt "coming_of_the_kingdom #1"
 msgid "Doctrine"
 msgstr ""
 
@@ -452,6 +454,7 @@ msgid "Prayer"
 msgstr ""
 
 #: 07_coming_of_the_kingdom.html:179
+msgctxt "coming_of_the_kingdom #1"
 msgid "Matthew 6:33"
 msgstr ""
 
