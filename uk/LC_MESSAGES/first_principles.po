@@ -29,7 +29,7 @@ msgstr "В пошуках Бога"
 
 #: 00_index.html:33
 msgid "The Word of God"
-msgstr "В пошуках Бога"
+msgstr "Слово Бога"
 
 #: 00_index.html:34
 msgid "Discipleship"
