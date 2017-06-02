@@ -97,7 +97,7 @@ msgstr "Уривки для запам‘ятовування"
 
 #: 00_index.html:55
 msgid "Contact Us"
-msgstr ""
+msgstr "Наші контакти"
 
 #: 00_index.html:66
 msgid "2017 International Christian Churches (SoldOut Discipling Movement)"
@@ -140,21 +140,21 @@ msgstr "1 липня 2014 року"
 #: 02_course_information.html:11
 msgctxt "course_information #1"
 msgid "Course Information"
-msgstr ""
+msgstr "Інформація про курс вивчення"
 
 #: 02_course_information.html:22
 msgctxt "course_information #2"
 msgid "Course Information"
-msgstr ""
+msgstr "Інформація про курс вивчення"
 
 #: 02_course_information.html:31
 msgid "This course should take a high priority in your day as it is geared to help you grasp a\n"
 "      firmer hold on God’s Word and to deepen your understanding of His will for your life"
-msgstr ""
+msgstr "Ці уроки мають стати дуже важливою частиною кожного вашого дня, оскільки призначені для того, щоб допомогти вам більше фокусуватись на Слові Бога і поглибити розуміння Його волі для вашого життя"
 
 #: 02_course_information.html:33
 msgid "Each session two new Scriptures should be memorized for a quiz at the beginning of each class"
-msgstr ""
+msgstr "Кожен урок містить два нових відривки для запам‘ятовування, які необхідно перевірити перед початком наступного урока"
 
 #: 02_course_information.html:35
 msgid "Each study’s content and order of Scriptures should also be memorized for the quiz"
@@ -162,7 +162,7 @@ msgstr ""
 
 #: 02_course_information.html:37
 msgid "Each student is required to memorize the names of all the books of the Bible"
-msgstr ""
+msgstr "Кожен, хто вивчає ці уроки, має запам‘ятати назви всіх книг Біблії"
 
 #: 02_course_information.html:39
 msgid "Sign up"
@@ -174,7 +174,7 @@ msgstr ""
 
 #: 02_course_information.html:39
 msgid "CAICC.net"
-msgstr ""
+msgstr "C"
 
 #: 02_course_information.html:39
 msgid "by Session 2"
@@ -186,7 +186,7 @@ msgstr ""
 
 #: 02_course_information.html:41
 msgid "KipMcKean.com"
-msgstr ""
+msgstr "KipMcKean.com"
 
 #: 02_course_information.html:42
 msgid "by Session 8"
@@ -207,7 +207,7 @@ msgstr ""
 
 #: 02_course_information.html:55
 msgid "Introduction and Seeking God"
-msgstr ""
+msgstr "Вступ та в пошуках Бога"
 
 #: 02_course_information.html:58
 msgid "Session 2"
@@ -215,7 +215,7 @@ msgstr ""
 
 #: 02_course_information.html:60
 msgid "The Word Of God"
-msgstr ""
+msgstr "Слово Бога"
 
 #: 02_course_information.html:63
 msgid "Session 3"
@@ -243,7 +243,7 @@ msgstr ""
 
 #: 02_course_information.html:90
 msgid "The Baptism of the Holy Spirit"
-msgstr ""
+msgstr "Хрещення Святим Духом"
 
 #: 02_course_information.html:93
 msgid "Session 9"
@@ -251,7 +251,7 @@ msgstr ""
 
 #: 02_course_information.html:95
 msgid "The Miraculous Gifts of the Holy Spirit"
-msgstr ""
+msgstr "Чудесні Дари Святого Духа"
 
 #: 02_course_information.html:98
 msgid "Session 10"
@@ -263,7 +263,7 @@ msgstr ""
 
 #: 02_course_information.html:105
 msgid "Acts 1 - 8"
-msgstr ""
+msgstr "Дії 1-8"
 
 #: 02_course_information.html:108
 msgid "Session 12"
@@ -271,7 +271,7 @@ msgstr ""
 
 #: 02_course_information.html:110
 msgid "Acts 9 - 15"
-msgstr ""
+msgstr "Дії 9-15"
 
 #: 02_course_information.html:113
 msgid "Session 13"
@@ -279,7 +279,7 @@ msgstr ""
 
 #: 02_course_information.html:115
 msgid "Acts 16 - 21"
-msgstr ""
+msgstr "Дії 16-21"
 
 #: 02_course_information.html:118
 msgid "Session 14"
@@ -287,7 +287,7 @@ msgstr ""
 
 #: 02_course_information.html:120
 msgid "Acts 21 - 28"
-msgstr ""
+msgstr "Дії 21-28"
 
 #: 02_course_information.html:125
 msgid "Suggested Reading"
@@ -299,11 +299,11 @@ msgstr ""
 
 #: 02_course_information.html:128
 msgid "The Five Love Languages"
-msgstr ""
+msgstr "П‘ять мов любові"
 
 #: 02_course_information.html:128
 msgid "- Chapman"
-msgstr ""
+msgstr "- Чепмен"
 
 #: 02_course_information.html:129
 msgid "The Master Plan of Evangelism"
@@ -316,7 +316,7 @@ msgstr ""
 #: 02_course_information.html:129
 msgctxt "course_information #1"
 msgid "Audio"
-msgstr ""
+msgstr "Аудіо"
 
 #: 02_course_information.html:130
 msgid "The Tale of Three Kings"
@@ -329,7 +329,7 @@ msgstr ""
 #: 02_course_information.html:130
 msgctxt "course_information #2"
 msgid "Audio"
-msgstr ""
+msgstr "Аудіо"
 
 #: 02_course_information.html:131
 msgid "Voice in the Wind"
@@ -342,11 +342,11 @@ msgstr ""
 #: 02_course_information.html:131
 msgctxt "course_information #3"
 msgid "Audio"
-msgstr ""
+msgstr "Аудіо"
 
 #: 02_course_information.html:132
 msgid "The Disciplined Life"
-msgstr ""
+msgstr "Учнівське життя"
 
 #: 02_course_information.html:132
 msgid "- Taylor"
@@ -354,11 +354,11 @@ msgstr ""
 
 #: 02_course_information.html:133
 msgid "Elevate"
-msgstr ""
+msgstr "Elevate"
 
 #: 02_course_information.html:133
 msgid "- McKean"
-msgstr ""
+msgstr "- МакКін"
 
 #: 02_course_information.html:135
 msgid "Overview of the Book of Acts"
@@ -370,7 +370,7 @@ msgstr ""
 
 #: 02_course_information.html:141
 msgid "Acts 1-8"
-msgstr ""
+msgstr "Дії 1-8"
 
 #: 02_course_information.html:143
 msgid "Building A Great Church"
@@ -382,7 +382,7 @@ msgstr ""
 
 #: 02_course_information.html:148
 msgid "Acts 9-15"
-msgstr ""
+msgstr "Дії 9-15"
 
 #: 02_course_information.html:150
 msgid "Forcefully Advancing The Kingdom"
@@ -394,7 +394,7 @@ msgstr ""
 
 #: 02_course_information.html:155
 msgid "Acts 16-21"
-msgstr ""
+msgstr "Дії 16-21"
 
 #: 02_course_information.html:157
 msgid "Turning The World Upsidedown"
@@ -406,11 +406,11 @@ msgstr ""
 
 #: 02_course_information.html:162
 msgid "Acts 21-28"
-msgstr ""
+msgstr "Дії 21-28"
 
 #: 02_course_information.html:164
 msgid "Evangelizing The World In A Generation"
-msgstr ""
+msgstr "Євангелізація світу в одному поколінні"
 
 #: 04_seeking_god.html:30
 msgid "Psalm 119:1-2"
@@ -516,7 +516,7 @@ msgstr "Ти знайдеш Бога, якщо будеш шукати Його 
 #: 04_seeking_god.html:79
 msgctxt "seeking_god #1"
 msgid "Acts 8:26-39"
-msgstr ""
+msgstr "Дії 8:26-39"
 
 #: 04_seeking_god.html:81
 msgid "The angels and the Holy Spirit are helping to get you to God"
@@ -589,7 +589,7 @@ msgstr "Святий Дух надихнув людей, які писали к�
 #: 05_word_of_god.html:52
 msgctxt "word_of_god #1"
 msgid "John 8:31-32"
-msgstr ""
+msgstr "Івана 8:31-32"
 
 #: 05_word_of_god.html:54
 msgid "Intellectual belief is not enough - nor can we go by our feelings"
@@ -622,7 +622,7 @@ msgstr "Поклоніння Богу, основою якого є традиц
 #: 05_word_of_god.html:68
 msgctxt "word_of_god #1"
 msgid "1 Timothy 4:16"
-msgstr ""
+msgstr "1 Тимофію 4:16"
 
 #: 05_word_of_god.html:70
 msgid "Watch your life and doctrine closely - they are inseparable"
@@ -816,7 +816,7 @@ msgstr "Кожен день мати особисті відносини з Бо
 #: 06_discipleship.html:96
 msgctxt "discipleship #1"
 msgid "John 13:34-35"
-msgstr ""
+msgstr "Івана 13:34-35"
 
 #: 06_discipleship.html:99
 msgid "Love one another"
@@ -3078,7 +3078,7 @@ msgstr ""
 
 #: 14_church.html:32
 msgid "Colossians 1:15-18"
-msgstr ""
+msgstr "Колосянам 1:15-18"
 
 #: 14_church.html:36
 msgid "The church is the body of Christ.  The body needs the head.  The church is essential to Christianity"
@@ -3990,7 +3990,7 @@ msgstr ""
 
 #: 19_mission.html:44
 msgid "Jesus' Mission"
-msgstr ""
+msgstr "Місія Ісуса"
 
 #: 19_mission.html:50
 msgctxt "mission #1"
