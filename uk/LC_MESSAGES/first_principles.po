@@ -2151,7 +2151,7 @@ msgstr "Від Матфія 26:31-28:10"
 
 #: 10_cross.html:33
 msgid "Suggested Reading Intervals:"
-msgstr ""
+msgstr "Запропоновані до читання уривки"
 
 #: 10_cross.html:34
 msgid "26:31-35"
