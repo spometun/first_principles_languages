@@ -2147,7 +2147,7 @@ msgstr "Прочитай"
 
 #: 10_cross.html:31
 msgid "Matthew 26:31-28:10"
-msgstr ""
+msgstr "Від Матфія 26:31-28:10"
 
 #: 10_cross.html:33
 msgid "Suggested Reading Intervals:"
