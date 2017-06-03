@@ -2143,7 +2143,7 @@ msgstr ""
 
 #: 10_cross.html:31
 msgid "Read"
-msgstr ""
+msgstr "Прочитай"
 
 #: 10_cross.html:31
 msgid "Matthew 26:31-28:10"
