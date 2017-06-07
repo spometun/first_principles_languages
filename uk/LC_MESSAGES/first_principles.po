@@ -2151,7 +2151,7 @@ msgstr "Від Матфія 26:31-28:10"
 
 #: 10_cross.html:33
 msgid "Suggested Reading Intervals:"
-msgstr "Запропоновані до читання уривки"
+msgstr "Запропоновані до читання уривки:"
 
 #: 10_cross.html:34
 msgid "26:31-35"
@@ -4180,7 +4180,7 @@ msgstr ""
 
 #: 20_persecution.html:30
 msgid "2 Timothy 3:12"
-msgstr ""
+msgstr "2 Тимофію 3:12"
 
 #: 20_persecution.html:31
 msgid "Everyone who wants to live as a disciple will be persecuted"
@@ -4594,7 +4594,7 @@ msgstr ""
 
 #: 21_memory_scriptures.html:138
 msgid "1 John 1:9"
-msgstr ""
+msgstr "1 Івана 1:9"
 
 #: 21_memory_scriptures.html:143
 msgid "See to it that no one misses the grace of God and that no bitter root grows up to cause trouble and defile many"
@@ -4602,7 +4602,7 @@ msgstr ""
 
 #: 21_memory_scriptures.html:145
 msgid "Hebrews 12:15"
-msgstr ""
+msgstr "Євреям 12:15"
 
 #: 21_memory_scriptures.html:150
 msgid "Obey your leaders and submit to their authority. They keep watch over you as men who must give an account. Obey them so that their work will be a joy, not a burden, for that would be of no advantage to you"
