@@ -2,4636 +2,4636 @@
 msgid ""
 msgstr ""
 
-#: 00_index.html:11
+#: 00_index.html:17
 msgid "First Principles"
 msgstr ""
 
-#: 00_index.html:23
+#: 00_index.html:29
 msgid "Home"
 msgstr ""
 
-#: 00_index.html:30
+#: 00_index.html:37
 msgid "Introduction"
 msgstr ""
 
-#: 00_index.html:31
+#: 00_index.html:38
 msgid "The Book of John"
 msgstr ""
 
-#: 00_index.html:32
+#: 00_index.html:39
 msgid "Seeking God"
 msgstr ""
 
-#: 00_index.html:33
+#: 00_index.html:40
 msgid "The Word of God"
 msgstr ""
 
-#: 00_index.html:34
+#: 00_index.html:41
 msgid "Discipleship"
 msgstr ""
 
-#: 00_index.html:35
+#: 00_index.html:42
 msgid "The Coming of the Kingdom"
 msgstr ""
 
-#: 00_index.html:36
+#: 00_index.html:43
 msgid "Light and Darkness"
 msgstr ""
 
-#: 00_index.html:37
+#: 00_index.html:44
 msgid "New Testament Conversion"
 msgstr ""
 
-#: 00_index.html:38
+#: 00_index.html:45
 msgid "The Cross"
 msgstr ""
 
-#: 00_index.html:39
+#: 00_index.html:46
 msgid "The Medical Account of the Crucifixion of Christ"
 msgstr ""
 
-#: 00_index.html:40
+#: 00_index.html:47
 msgid "Baptism with the Holy Spirit"
 msgstr ""
 
-#: 00_index.html:41
+#: 00_index.html:48
 msgid "Miraculous Gifts of the Holy Spirit"
 msgstr ""
 
-#: 00_index.html:42
+#: 00_index.html:49
 msgid "The Church"
 msgstr ""
 
-#: 00_index.html:43
+#: 00_index.html:50
 msgid "The Book of Acts"
 msgstr ""
 
-#: 00_index.html:44
+#: 00_index.html:51
 msgid "After Baptism, Now What?"
 msgstr ""
 
-#: 00_index.html:45
+#: 00_index.html:52
 msgid "Christ Is Your Life"
 msgstr ""
 
-#: 00_index.html:46
+#: 00_index.html:53
 msgid "Best Friends of All Time"
 msgstr ""
 
-#: 00_index.html:47
+#: 00_index.html:54
 msgid "The Mission"
 msgstr ""
 
-#: 00_index.html:48
+#: 00_index.html:55
 msgid "Persecution"
 msgstr ""
 
-#: 00_index.html:49
+#: 00_index.html:56
 msgid "Memory Scriptures"
 msgstr ""
 
-#: 00_index.html:55
+#: 00_index.html:62
 msgid "Contact Us"
 msgstr ""
 
-#: 00_index.html:66
+#: 00_index.html:73
 msgid "2017 International Christian Churches (SoldOut Discipling Movement)"
 msgstr ""
 
-#: 01_introduction.html:29
+#: 01_introduction.html:36
 msgid "For when by reason of the time you ought to be teachers, you... need to have someone teach you the rudiments of the first principles of the oracles of God... Therefore leaving the doctrine of the first principles of Christ, let us press on to perfection - not laying again a foundation... of faith toward God, of the teaching of baptisms, of laying on of hands, of resurrection of the dead and of eternal judgment. This will we do!"
 msgstr ""
 
-#: 01_introduction.html:29
+#: 01_introduction.html:36
 msgid "Hebrews 5:12; 6:1-3"
 msgstr ""
 
-#: 01_introduction.html:29
+#: 01_introduction.html:36
 msgid "WEV"
 msgstr ""
 
-#: 01_introduction.html:31
+#: 01_introduction.html:38
 msgid "Originally, the First Principle Studies were written in 1980, while I served the Lord during the formative early days of the Boston Church of Christ. They were revised in 2003 and 2006 to meet the needs and to confront the challenges of the Portland International Church of Christ. In Los Angeles in 2009 and 2012, I made a few more modifications. As of today, these same First Principles Studies are being taught to all the new disciples of the"
 msgstr ""
 
-#: 01_introduction.html:32
+#: 01_introduction.html:39
 msgid "City of Angels International Christian Church"
 msgstr ""
 
-#: 01_introduction.html:33
+#: 01_introduction.html:40
 msgid "God has greatly blessed these lessons as they have been translated into over 20 languages around the world. May the Lord continue to \"solidify, unify and multiply\" sold-out disciples everywhere for the evangelization of all the nations in this generation! And to God be the glory!"
 msgstr ""
 
-#: 01_introduction.html:35
+#: 01_introduction.html:42
 msgid "Dr. Kip McKean"
 msgstr ""
 
-#: 01_introduction.html:36
+#: 01_introduction.html:43
 msgid "July 1, 2014"
 msgstr ""
 
-#: 02_course_information.html:11
+#: 02_course_information.html:17
 msgctxt "course_information #1"
 msgid "Course Information"
 msgstr ""
 
-#: 02_course_information.html:22
+#: 02_course_information.html:28
 msgctxt "course_information #2"
 msgid "Course Information"
 msgstr ""
 
-#: 02_course_information.html:31
+#: 02_course_information.html:38
 msgid ""
 "This course should take a high priority in your day as it is geared to help you grasp a\n"
 "      firmer hold on God’s Word and to deepen your understanding of His will for your life"
 msgstr ""
 
-#: 02_course_information.html:33
+#: 02_course_information.html:40
 msgid "Each session two new Scriptures should be memorized for a quiz at the beginning of each class"
 msgstr ""
 
-#: 02_course_information.html:35
+#: 02_course_information.html:42
 msgid "Each study’s content and order of Scriptures should also be memorized for the quiz"
 msgstr ""
 
-#: 02_course_information.html:37
+#: 02_course_information.html:44
 msgid "Each student is required to memorize the names of all the books of the Bible"
 msgstr ""
 
-#: 02_course_information.html:39
+#: 02_course_information.html:46
 msgid "Sign up"
 msgstr ""
 
-#: 02_course_information.html:39
+#: 02_course_information.html:46
 msgid "for the Good News Emails at"
 msgstr ""
 
-#: 02_course_information.html:39
+#: 02_course_information.html:46
 msgid "CAICC.net"
 msgstr ""
 
-#: 02_course_information.html:39
+#: 02_course_information.html:46
 msgid "by Session 2"
 msgstr ""
 
-#: 02_course_information.html:41
+#: 02_course_information.html:48
 msgid "Read Ron Harding’s History of the Spread of Christianity in Modern Times"
 msgstr ""
 
-#: 02_course_information.html:41
+#: 02_course_information.html:48
 msgid "KipMcKean.com"
 msgstr ""
 
-#: 02_course_information.html:42
+#: 02_course_information.html:49
 msgid "by Session 8"
 msgstr ""
 
-#: 02_course_information.html:45
+#: 02_course_information.html:52
 msgid ""
 "An outline of the book of Acts will be turned in by Session 11. Each student is required to\n"
 "      memorize two points from each chapter in the book of Acts"
 msgstr ""
 
-#: 02_course_information.html:49
+#: 02_course_information.html:56
 msgid "Outline of Classes"
 msgstr ""
 
-#: 02_course_information.html:53
+#: 02_course_information.html:60
 msgid "Session 1"
 msgstr ""
 
-#: 02_course_information.html:55
+#: 02_course_information.html:62
 msgid "Introduction and Seeking God"
 msgstr ""
 
-#: 02_course_information.html:58
+#: 02_course_information.html:65
 msgid "Session 2"
 msgstr ""
 
-#: 02_course_information.html:60
+#: 02_course_information.html:67
 msgid "The Word Of God"
 msgstr ""
 
-#: 02_course_information.html:63
+#: 02_course_information.html:70
 msgid "Session 3"
 msgstr ""
 
-#: 02_course_information.html:68
+#: 02_course_information.html:75
 msgid "Session 4"
 msgstr ""
 
-#: 02_course_information.html:73
+#: 02_course_information.html:80
 msgid "Session 5"
 msgstr ""
 
-#: 02_course_information.html:78
+#: 02_course_information.html:85
 msgid "Session 6"
 msgstr ""
 
-#: 02_course_information.html:83
+#: 02_course_information.html:90
 msgid "Session 7"
 msgstr ""
 
-#: 02_course_information.html:88
+#: 02_course_information.html:95
 msgid "Session 8"
 msgstr ""
 
-#: 02_course_information.html:90
+#: 02_course_information.html:97
 msgid "The Baptism of the Holy Spirit"
 msgstr ""
 
-#: 02_course_information.html:93
+#: 02_course_information.html:100
 msgid "Session 9"
 msgstr ""
 
-#: 02_course_information.html:95
+#: 02_course_information.html:102
 msgid "The Miraculous Gifts of the Holy Spirit"
 msgstr ""
 
-#: 02_course_information.html:98
+#: 02_course_information.html:105
 msgid "Session 10"
 msgstr ""
 
-#: 02_course_information.html:103
+#: 02_course_information.html:110
 msgid "Session 11"
 msgstr ""
 
-#: 02_course_information.html:105
+#: 02_course_information.html:112
 msgid "Acts 1 - 8"
 msgstr ""
 
-#: 02_course_information.html:108
+#: 02_course_information.html:115
 msgid "Session 12"
 msgstr ""
 
-#: 02_course_information.html:110
+#: 02_course_information.html:117
 msgid "Acts 9 - 15"
 msgstr ""
 
-#: 02_course_information.html:113
+#: 02_course_information.html:120
 msgid "Session 13"
 msgstr ""
 
-#: 02_course_information.html:115
+#: 02_course_information.html:122
 msgid "Acts 16 - 21"
 msgstr ""
 
-#: 02_course_information.html:118
+#: 02_course_information.html:125
 msgid "Session 14"
 msgstr ""
 
-#: 02_course_information.html:120
+#: 02_course_information.html:127
 msgid "Acts 21 - 28"
 msgstr ""
 
-#: 02_course_information.html:125
+#: 02_course_information.html:132
 msgid "Suggested Reading"
 msgstr ""
 
-#: 02_course_information.html:126
+#: 02_course_information.html:133
 msgid "These books are recommended as thought-provoking and informative tools to be used in gaining insights into God’s Word. In no way are they suggested to be Biblically correct on all doctrinal points"
 msgstr ""
 
-#: 02_course_information.html:128
+#: 02_course_information.html:135
 msgid "The Five Love Languages"
 msgstr ""
 
-#: 02_course_information.html:128
+#: 02_course_information.html:135
 msgid "- Chapman"
 msgstr ""
 
-#: 02_course_information.html:129
+#: 02_course_information.html:136
 msgid "The Master Plan of Evangelism"
 msgstr ""
 
-#: 02_course_information.html:129
+#: 02_course_information.html:136
 msgid "- Coleman -"
 msgstr ""
 
-#: 02_course_information.html:129
+#: 02_course_information.html:136
 msgctxt "course_information #1"
 msgid "Audio"
 msgstr ""
 
-#: 02_course_information.html:130
+#: 02_course_information.html:137
 msgid "The Tale of Three Kings"
 msgstr ""
 
-#: 02_course_information.html:130
+#: 02_course_information.html:137
 msgid "- Edwards -"
 msgstr ""
 
-#: 02_course_information.html:130
+#: 02_course_information.html:137
 msgctxt "course_information #2"
 msgid "Audio"
 msgstr ""
 
-#: 02_course_information.html:131
+#: 02_course_information.html:138
 msgid "Voice in the Wind"
 msgstr ""
 
-#: 02_course_information.html:131
+#: 02_course_information.html:138
 msgid "- Rivers -"
 msgstr ""
 
-#: 02_course_information.html:131
+#: 02_course_information.html:138
 msgctxt "course_information #3"
 msgid "Audio"
 msgstr ""
 
-#: 02_course_information.html:132
+#: 02_course_information.html:139
 msgid "The Disciplined Life"
 msgstr ""
 
-#: 02_course_information.html:132
+#: 02_course_information.html:139
 msgid "- Taylor"
 msgstr ""
 
-#: 02_course_information.html:133
+#: 02_course_information.html:140
 msgid "Elevate"
 msgstr ""
 
-#: 02_course_information.html:133
+#: 02_course_information.html:140
 msgid "- McKean"
 msgstr ""
 
-#: 02_course_information.html:135
+#: 02_course_information.html:142
 msgid "Overview of the Book of Acts"
 msgstr ""
 
-#: 02_course_information.html:139
+#: 02_course_information.html:146
 msgid "Sermon #1"
 msgstr ""
 
-#: 02_course_information.html:141
+#: 02_course_information.html:148
 msgid "Acts 1-8"
 msgstr ""
 
-#: 02_course_information.html:143
+#: 02_course_information.html:150
 msgid "Building A Great Church"
 msgstr ""
 
-#: 02_course_information.html:146
+#: 02_course_information.html:153
 msgid "Sermon #2"
 msgstr ""
 
-#: 02_course_information.html:148
+#: 02_course_information.html:155
 msgid "Acts 9-15"
 msgstr ""
 
-#: 02_course_information.html:150
+#: 02_course_information.html:157
 msgid "Forcefully Advancing The Kingdom"
 msgstr ""
 
-#: 02_course_information.html:153
+#: 02_course_information.html:160
 msgid "Sermon #3"
 msgstr ""
 
-#: 02_course_information.html:155
+#: 02_course_information.html:162
 msgid "Acts 16-21"
 msgstr ""
 
-#: 02_course_information.html:157
+#: 02_course_information.html:164
 msgid "Turning The World Upsidedown"
 msgstr ""
 
-#: 02_course_information.html:160
+#: 02_course_information.html:167
 msgid "Sermon #4"
 msgstr ""
 
-#: 02_course_information.html:162
+#: 02_course_information.html:169
 msgid "Acts 21-28"
 msgstr ""
 
-#: 02_course_information.html:164
+#: 02_course_information.html:171
 msgid "Evangelizing The World In A Generation"
 msgstr ""
 
-#: 04_seeking_god.html:30
+#: 04_seeking_god.html:37
 msgid "Psalm 119:1-2"
 msgstr ""
 
-#: 04_seeking_god.html:32
+#: 04_seeking_god.html:39
 msgid "Blessed means happy (superlatively happy)"
 msgstr ""
 
-#: 04_seeking_god.html:33
+#: 04_seeking_god.html:40
 msgid "Happiness is not the goal of one who seeks God but the \"by-product\""
 msgstr ""
 
-#: 04_seeking_god.html:34
+#: 04_seeking_god.html:41
 msgid "To seek God you must do it with all your heart"
 msgstr ""
 
-#: 04_seeking_god.html:35
+#: 04_seeking_god.html:42
 msgid "Seeking God means to \"keep His statutes\""
 msgstr ""
 
-#: 04_seeking_god.html:39
+#: 04_seeking_god.html:46
 msgid "Matthew 6:25-34"
 msgstr ""
 
-#: 04_seeking_god.html:41
+#: 04_seeking_god.html:48
 msgid "Do not worry - ironic - can not add a single hour to your life"
 msgstr ""
 
-#: 04_seeking_god.html:42
+#: 04_seeking_god.html:49
 msgid "God knows your needs"
 msgstr ""
 
-#: 04_seeking_god.html:43
+#: 04_seeking_god.html:50
 msgid "Seek first His kingdom and righteousness"
 msgstr ""
 
-#: 04_seeking_god.html:44
+#: 04_seeking_god.html:51
 msgid "Then God will give you everything you need"
 msgstr ""
 
-#: 04_seeking_god.html:48
+#: 04_seeking_god.html:55
 msgid "Acts 17:26-28"
 msgstr ""
 
-#: 04_seeking_god.html:50
+#: 04_seeking_god.html:57
 msgid "God determines the times and places each person lives"
 msgstr ""
 
-#: 04_seeking_god.html:51
+#: 04_seeking_god.html:58
 msgid "He does this so men will seek Him, reach out for Him and find Him"
 msgstr ""
 
-#: 04_seeking_god.html:52
+#: 04_seeking_god.html:59
 msgid "He is not far from anyone"
 msgstr ""
 
-#: 04_seeking_god.html:53
+#: 04_seeking_god.html:60
 msgid "A Christian meeting you is not by chance - but of God"
 msgstr ""
 
-#: 04_seeking_god.html:57
+#: 04_seeking_god.html:64
 msgid "John 4:23-24"
 msgstr ""
 
-#: 04_seeking_god.html:59
+#: 04_seeking_god.html:66
 msgid "God seeks men (Acts 17 taught men must seek God)"
 msgstr ""
 
-#: 04_seeking_god.html:60
+#: 04_seeking_god.html:67
 msgid "Men who want to worship Him in spirit and in truth"
 msgstr ""
 
-#: 04_seeking_god.html:64
+#: 04_seeking_god.html:71
 msgctxt "seeking_god #1"
 msgid "Acts 17:10-12"
 msgstr ""
 
-#: 04_seeking_god.html:66
+#: 04_seeking_god.html:73
 msgid "Read and study the Bible for your own convictions"
 msgstr ""
 
-#: 04_seeking_god.html:67
+#: 04_seeking_god.html:74
 msgid "Study daily"
 msgstr ""
 
-#: 04_seeking_god.html:71
+#: 04_seeking_god.html:78
 msgid "Jeremiah 29:11-14"
 msgstr ""
 
-#: 04_seeking_god.html:73
+#: 04_seeking_god.html:80
 msgid "God has an individual plan for your life"
 msgstr ""
 
-#: 04_seeking_god.html:74
+#: 04_seeking_god.html:81
 msgid "A plan to prosper you - with hope and a future"
 msgstr ""
 
-#: 04_seeking_god.html:75
+#: 04_seeking_god.html:82
 msgid "You will find God when you seek Him with all your heart"
 msgstr ""
 
-#: 04_seeking_god.html:79
+#: 04_seeking_god.html:86
 msgctxt "seeking_god #1"
 msgid "Acts 8:26-39"
 msgstr ""
 
-#: 04_seeking_god.html:81
+#: 04_seeking_god.html:88
 msgid "The angels and the Holy Spirit are helping to get you to God"
 msgstr ""
 
-#: 04_seeking_god.html:82
+#: 04_seeking_god.html:89
 msgid "Do not be afraid to ask questions about life or the Bible - be humble"
 msgstr ""
 
-#: 04_seeking_god.html:83
+#: 04_seeking_god.html:90
 msgid "You need someone to explain the Bible to you"
 msgstr ""
 
-#: 04_seeking_god.html:84
+#: 04_seeking_god.html:91
 msgid "You will be \"rejoicing\" when you find God"
 msgstr ""
 
-#: 04_seeking_god.html:88
+#: 04_seeking_god.html:95
 msgid "Matthew 7:7-8"
 msgstr ""
 
-#: 04_seeking_god.html:90
+#: 04_seeking_god.html:97
 msgid "Seek and God guarantees you will find Him"
 msgstr ""
 
-#: 04_seeking_god.html:91
+#: 04_seeking_god.html:98
 msgid "Ask God for help"
 msgstr ""
 
-#: 05_word_of_god.html:30
+#: 05_word_of_god.html:37
 msgid "2 Timothy 3:16-17"
 msgstr ""
 
-#: 05_word_of_god.html:32
+#: 05_word_of_god.html:39
 msgid "All Scripture is inspired by God"
 msgstr ""
 
-#: 05_word_of_god.html:33
+#: 05_word_of_god.html:40
 msgid "It is to be applied to our lives"
 msgstr ""
 
-#: 05_word_of_god.html:37
+#: 05_word_of_god.html:44
 msgid "Hebrews 4:12-13"
 msgstr ""
 
-#: 05_word_of_god.html:39
+#: 05_word_of_god.html:46
 msgid "The Word is relevant"
 msgstr ""
 
-#: 05_word_of_god.html:40
+#: 05_word_of_god.html:47
 msgid "The Word cuts (hurts)"
 msgstr ""
 
-#: 05_word_of_god.html:41
+#: 05_word_of_god.html:48
 msgid "Learn that it is good to be \"cut,\" because a scalpel (God's Word) \"cuts\" the cancer (sin) out!"
 msgstr ""
 
-#: 05_word_of_god.html:45
+#: 05_word_of_god.html:52
 msgid "2 Peter 1:20-21"
 msgstr ""
 
-#: 05_word_of_god.html:47
+#: 05_word_of_god.html:54
 msgid "There is no private interpretation of the Bible"
 msgstr ""
 
-#: 05_word_of_god.html:48
+#: 05_word_of_god.html:55
 msgid "The Holy Spirit inspired the men who wrote the books of the Bible"
 msgstr ""
 
-#: 05_word_of_god.html:52
+#: 05_word_of_god.html:59
 msgctxt "word_of_god #1"
 msgid "John 8:31-32"
 msgstr ""
 
-#: 05_word_of_god.html:54
+#: 05_word_of_god.html:61
 msgid "Intellectual belief is not enough - nor can we go by our feelings"
 msgstr ""
 
-#: 05_word_of_god.html:55
+#: 05_word_of_god.html:62
 msgid "Everyone must hold on to and follow the teachings of Jesus to be a true disciple"
 msgstr ""
 
-#: 05_word_of_god.html:56
+#: 05_word_of_god.html:63
 msgid "Sincerity does not equal truth"
 msgstr ""
 
-#: 05_word_of_god.html:57
+#: 05_word_of_god.html:64
 msgid "Religious people can be wrong"
 msgstr ""
 
-#: 05_word_of_god.html:61
+#: 05_word_of_god.html:68
 msgid "Matthew 15:1-9"
 msgstr ""
 
-#: 05_word_of_god.html:63
+#: 05_word_of_god.html:70
 msgid "Do not go by traditions or creeds"
 msgstr ""
 
-#: 05_word_of_god.html:64
+#: 05_word_of_god.html:71
 msgid "Worship by traditions - those which contradict the Word of God - is worship in vain"
 msgstr ""
 
-#: 05_word_of_god.html:68
+#: 05_word_of_god.html:75
 msgctxt "word_of_god #1"
 msgid "1 Timothy 4:16"
 msgstr ""
 
-#: 05_word_of_god.html:70
+#: 05_word_of_god.html:77
 msgid "Watch your life and doctrine closely - they are inseparable"
 msgstr ""
 
-#: 05_word_of_god.html:71
+#: 05_word_of_god.html:78
 msgid "Which is more important:  life or doctrine?  Neither - an airplane with only one wing cannot fly"
 msgstr ""
 
-#: 05_word_of_god.html:72
+#: 05_word_of_god.html:79
 msgid "Why is it so important to learn and to teach and to live the right doctrine?  To save yourself and those who hear you"
 msgstr ""
 
-#: 05_word_of_god.html:76
+#: 05_word_of_god.html:83
 msgctxt "word_of_god #1"
 msgid "Acts 17:10-12"
 msgstr ""
 
-#: 05_word_of_god.html:78
+#: 05_word_of_god.html:85
 msgid "A noble character in God's eyes: great eagerness in receiving the message; examine Scriptures; daily; and believe - make decisions based on the Scriptures"
 msgstr ""
 
-#: 05_word_of_god.html:79
+#: 05_word_of_god.html:86
 msgid "Must check what religious leaders say"
 msgstr ""
 
-#: 05_word_of_god.html:80
+#: 05_word_of_god.html:87
 msgid "Your challenge: Read and study the Bible every day!"
 msgstr ""
 
-#: 05_word_of_god.html:84
+#: 05_word_of_god.html:91
 msgid "James 1:22-25"
 msgstr ""
 
-#: 05_word_of_god.html:86
+#: 05_word_of_god.html:93
 msgid "The Word of God is a mirror"
 msgstr ""
 
-#: 05_word_of_god.html:87
+#: 05_word_of_god.html:94
 msgid "Do not forget what you see - \"do what it says\""
 msgstr ""
 
-#: 05_word_of_god.html:91
+#: 05_word_of_god.html:98
 msgid "John 12:48"
 msgstr ""
 
-#: 05_word_of_god.html:93
+#: 05_word_of_god.html:100
 msgid "Why study the Bible? The Word will judge us"
 msgstr ""
 
-#: 05_word_of_god.html:98
+#: 05_word_of_god.html:105
 msgid "Decision:"
 msgstr ""
 
-#: 05_word_of_god.html:98
+#: 05_word_of_god.html:105
 msgid "Will I live by the Bible? Or will I live by my feelings, traditions, desires, etc.?"
 msgstr ""
 
-#: 06_discipleship.html:29
+#: 06_discipleship.html:36
 msgctxt "discipleship #1"
 msgid "Introduction:"
 msgstr ""
 
-#: 06_discipleship.html:29
+#: 06_discipleship.html:36
 msgctxt "discipleship #1"
 msgid "Matthew 28:18-20"
 msgstr ""
 
-#: 06_discipleship.html:32
+#: 06_discipleship.html:39
 msgid "What does Jesus want everybody to become?"
 msgstr ""
 
-#: 06_discipleship.html:33
+#: 06_discipleship.html:40
 msgid "Which is the more popular term - \"Disciple\" or \"Christian?\" The word \"Christian\" only appears three times in the New Testament. It is the name those in the world gave the disciples, seven years after the church began"
 msgstr ""
 
-#: 06_discipleship.html:34
+#: 06_discipleship.html:41
 msgid "Acts 11:19-26"
 msgstr ""
 
-#: 06_discipleship.html:35
+#: 06_discipleship.html:42
 msgid "The word \"Disciple\" occurs over 270 times in the New Testament"
 msgstr ""
 
-#: 06_discipleship.html:37
+#: 06_discipleship.html:44
 msgid "SAVED = CHRISTIAN = DISCIPLE"
 msgstr ""
 
-#: 06_discipleship.html:38
+#: 06_discipleship.html:45
 msgid "Jesus came to make disciples. Only baptized disciples will be saved"
 msgstr ""
 
-#: 06_discipleship.html:42
+#: 06_discipleship.html:49
 msgid "Let's have Jesus define disciple, thus defining who is a true Christian"
 msgstr ""
 
-#: 06_discipleship.html:48
+#: 06_discipleship.html:55
 msgid "Mark 1:14-18"
 msgstr ""
 
-#: 06_discipleship.html:51
+#: 06_discipleship.html:58
 msgid "Calling of the first disciples"
 msgstr ""
 
-#: 06_discipleship.html:52
+#: 06_discipleship.html:59
 msgid "Come follow me (Christ)"
 msgstr ""
 
-#: 06_discipleship.html:53
+#: 06_discipleship.html:60
 msgid "Fishers of men - Jesus gave these first disciples the real purpose for living"
 msgstr ""
 
-#: 06_discipleship.html:54
+#: 06_discipleship.html:61
 msgid "Immediately"
 msgstr ""
 
-#: 06_discipleship.html:59
+#: 06_discipleship.html:66
 msgid "Luke 9:23-26"
 msgstr ""
 
-#: 06_discipleship.html:62
+#: 06_discipleship.html:69
 msgctxt "discipleship #1"
 msgid "If any man..."
 msgstr ""
 
-#: 06_discipleship.html:63
+#: 06_discipleship.html:70
 msgid "Deny self. Notice Christ in the garden"
 msgstr ""
 
-#: 06_discipleship.html:65
+#: 06_discipleship.html:72
 msgid "Matthew 26:36-39"
 msgstr ""
 
-#: 06_discipleship.html:66
+#: 06_discipleship.html:73
 msgid "'Not my will, but your will'"
 msgstr ""
 
-#: 06_discipleship.html:66
+#: 06_discipleship.html:73
 msgid "Do not give in to moods"
 msgstr ""
 
-#: 06_discipleship.html:68
+#: 06_discipleship.html:75
 msgid "Carry the cross - daily"
 msgstr ""
 
-#: 06_discipleship.html:69
+#: 06_discipleship.html:76
 msgid "Gain the world ... forfeit soul. Lose your life for Jesus ... save it"
 msgstr ""
 
-#: 06_discipleship.html:74
+#: 06_discipleship.html:81
 msgid "Luke 14:25-33"
 msgstr ""
 
-#: 06_discipleship.html:77
+#: 06_discipleship.html:84
 msgctxt "discipleship #2"
 msgid "If any man..."
 msgstr ""
 
-#: 06_discipleship.html:78
+#: 06_discipleship.html:85
 msgid "Count the cost (v. 28-30)"
 msgstr ""
 
-#: 06_discipleship.html:79
+#: 06_discipleship.html:86
 msgid "Consider the alternatives (v. 31-32)"
 msgstr ""
 
-#: 06_discipleship.html:80
+#: 06_discipleship.html:87
 msgid "Love Christ more than any person (v. 26)"
 msgstr ""
 
-#: 06_discipleship.html:81
+#: 06_discipleship.html:88
 msgid "Persecutions (v. 27)"
 msgstr ""
 
-#: 06_discipleship.html:82
+#: 06_discipleship.html:89
 msgid "Everything, not just anything (v. 33)"
 msgstr ""
 
-#: 06_discipleship.html:87
+#: 06_discipleship.html:94
 msgid "Luke 11:1-4"
 msgstr ""
 
-#: 06_discipleship.html:90
+#: 06_discipleship.html:97
 msgid "Must learn to pray - disciples saw the strength Jesus received from the Father"
 msgstr ""
 
-#: 06_discipleship.html:91
+#: 06_discipleship.html:98
 msgid "Daily personal relationship with God (v. 3); daily prayer"
 msgstr ""
 
-#: 06_discipleship.html:96
+#: 06_discipleship.html:103
 msgctxt "discipleship #1"
 msgid "John 13:34-35"
 msgstr ""
 
-#: 06_discipleship.html:99
+#: 06_discipleship.html:106
 msgid "Love one another"
 msgstr ""
 
-#: 06_discipleship.html:100
+#: 06_discipleship.html:107
 msgid "Be an active part of the fellowship"
 msgstr ""
 
-#: 06_discipleship.html:105
+#: 06_discipleship.html:112
 msgctxt "discipleship #2"
 msgid "Matthew 28:18-20"
 msgstr ""
 
-#: 06_discipleship.html:108
+#: 06_discipleship.html:115
 msgid "Command - make disciples (given to all)"
 msgstr ""
 
-#: 06_discipleship.html:109
+#: 06_discipleship.html:116
 msgid "Who is a candidate for baptism?  A person who makes the decision to be a disciple"
 msgstr ""
 
-#: 06_discipleship.html:110
+#: 06_discipleship.html:117
 msgid "You need someone to disciple you to maturity in Christ"
 msgstr ""
 
-#: 06_discipleship.html:112
+#: 06_discipleship.html:119
 msgid "This is the only way to save the world!"
 msgstr ""
 
-#: 06_discipleship.html:115
+#: 06_discipleship.html:122
 msgid "Year"
 msgstr ""
 
-#: 06_discipleship.html:116
+#: 06_discipleship.html:123
 msgid "Preacher"
 msgstr ""
 
-#: 06_discipleship.html:117
+#: 06_discipleship.html:124
 msgctxt "discipleship #1"
 msgid "Disciple"
 msgstr ""
 
-#: 06_discipleship.html:142
+#: 06_discipleship.html:149
 msgid "the world, 10 billion plus"
 msgstr ""
 
-#: 06_discipleship.html:151
+#: 06_discipleship.html:158
 msgid "Conclusion Question:"
 msgstr ""
 
-#: 06_discipleship.html:151
+#: 06_discipleship.html:158
 msgid "Am I a disciple?  Am I a Christian?  Am I saved?  What do I need to do to become a disciple?"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:29
+#: 07_coming_of_the_kingdom.html:36
 msgid "In this study you will see the continuity of the Old and New Testaments"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:30
+#: 07_coming_of_the_kingdom.html:37
 msgid "Questions:  What is the Kingdom of God?  When did it come?"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:34
+#: 07_coming_of_the_kingdom.html:41
 msgid "Old Testament Predictions of the Kingdom (the height of Israel's glory was under the kingship of David, approximately 1000 B.C.)"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:37
+#: 07_coming_of_the_kingdom.html:44
 msgid "Isaiah 2:1-4"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:37
+#: 07_coming_of_the_kingdom.html:44
 msgid "(750 B.C.)"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:39
+#: 07_coming_of_the_kingdom.html:46
 msgctxt "coming_of_the_kingdom #1"
 msgid "Last days"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:40
+#: 07_coming_of_the_kingdom.html:47
 msgid "Mountains (Symbolizes kingdoms):  Mountain of the Lord, chief of the mountains"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:41
+#: 07_coming_of_the_kingdom.html:48
 msgctxt "coming_of_the_kingdom #1"
 msgid "All nations"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:42
+#: 07_coming_of_the_kingdom.html:49
 msgctxt "coming_of_the_kingdom #1"
 msgid "Jerusalem"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:46
+#: 07_coming_of_the_kingdom.html:53
 msgctxt "coming_of_the_kingdom #1"
 msgid "Daniel 2:31-45"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:46
+#: 07_coming_of_the_kingdom.html:53
 msgid "(550 B.C.)"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:48
+#: 07_coming_of_the_kingdom.html:55
 msgid "Set up this passage by explaining that earlier in Daniel 2 King Nebuchadnezzer threatens death to all his astrologers and dream interpreters if they do not first tell him his dream, then interpret it"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:49
+#: 07_coming_of_the_kingdom.html:56
 msgid "Daniel interprets King Nebuchadnezzar's dream"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:51
+#: 07_coming_of_the_kingdom.html:58
 msgid "Empires"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:53
+#: 07_coming_of_the_kingdom.html:60
 msgid "Babylonian:  gold"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:54
+#: 07_coming_of_the_kingdom.html:61
 msgid "Medo-Persian:  silver"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:55
+#: 07_coming_of_the_kingdom.html:62
 msgid "Alexander the Great:  bronze"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:56
+#: 07_coming_of_the_kingdom.html:63
 msgid "Roman:  iron (iron and clay)"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:59
+#: 07_coming_of_the_kingdom.html:66
 msgid "Rock - cut out not by human hands (therefore God)"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:60
+#: 07_coming_of_the_kingdom.html:67
 msgid "Rock becomes huge mountain - filled the whole earth"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:61
+#: 07_coming_of_the_kingdom.html:68
 msgid "Kingdom that will never be destroyed (v. 44)"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:67
+#: 07_coming_of_the_kingdom.html:74
 msgid "New Testament Predictions of the Kingdom"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:70
+#: 07_coming_of_the_kingdom.html:77
 msgid "John the Baptist"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:70
+#: 07_coming_of_the_kingdom.html:77
 msgid "(25 A.D.)"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:72
+#: 07_coming_of_the_kingdom.html:79
 msgctxt "coming_of_the_kingdom #1"
 msgid "Kingdom is near"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:72
+#: 07_coming_of_the_kingdom.html:79
 msgid "Matthew 3:1-6"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:76
+#: 07_coming_of_the_kingdom.html:83
 msgid "Jesus"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:76
+#: 07_coming_of_the_kingdom.html:83
 msgid "(30 A.D.)"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:78
+#: 07_coming_of_the_kingdom.html:85
 msgctxt "coming_of_the_kingdom #2"
 msgid "Kingdom is near"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:78
+#: 07_coming_of_the_kingdom.html:85
 msgctxt "coming_of_the_kingdom #1"
 msgid "Matthew 4:17"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:79
+#: 07_coming_of_the_kingdom.html:86
 msgid "Kingdom will come in the lifetime of some of the disciples"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:79
+#: 07_coming_of_the_kingdom.html:86
 msgctxt "coming_of_the_kingdom #1"
 msgid "Mark 9:1"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:80
+#: 07_coming_of_the_kingdom.html:87
 msgid "Kingdom will come with power"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:80
+#: 07_coming_of_the_kingdom.html:87
 msgctxt "coming_of_the_kingdom #2"
 msgid "Mark 9:1"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:81
+#: 07_coming_of_the_kingdom.html:88
 msgid "Kingdom entered by new birth - by water and the Spirit"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:81
+#: 07_coming_of_the_kingdom.html:88
 msgctxt "coming_of_the_kingdom #1"
 msgid "John 3:1-7"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:82
+#: 07_coming_of_the_kingdom.html:89
 msgid "Kingdom is within you"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:82
+#: 07_coming_of_the_kingdom.html:89
 msgctxt "coming_of_the_kingdom #1"
 msgid "Luke 17:20-21"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:83
+#: 07_coming_of_the_kingdom.html:90
 msgid "Peter has the keys"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:83
+#: 07_coming_of_the_kingdom.html:90
 msgid "Matthew 16:13-19"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:83
+#: 07_coming_of_the_kingdom.html:90
 msgid "Church and the Kingdom are the same and will be built on the truth that Jesus is the Christ"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:83
+#: 07_coming_of_the_kingdom.html:90
 msgid "1 Corinthians 3:11"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:84
+#: 07_coming_of_the_kingdom.html:91
 msgid "Joseph of Arimathea was still waiting for the Kingdom when Jesus died"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:84
+#: 07_coming_of_the_kingdom.html:91
 msgid "Luke 23:50-52"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:85
+#: 07_coming_of_the_kingdom.html:92
 msgid "Repentance and forgiveness of sins will be preached first in Jerusalem to all nations"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:85
+#: 07_coming_of_the_kingdom.html:92
 msgctxt "coming_of_the_kingdom #1"
 msgid "Luke 24:44-49"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:91
+#: 07_coming_of_the_kingdom.html:98
 msgid "Fulfillment of the Old and New Testament Predictions,"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:91
+#: 07_coming_of_the_kingdom.html:98
 msgctxt "coming_of_the_kingdom #1"
 msgid "Acts 1-2"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:91
+#: 07_coming_of_the_kingdom.html:98
 msgid "(33 A.D.)"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:94
+#: 07_coming_of_the_kingdom.html:101
 msgctxt "coming_of_the_kingdom #2"
 msgid "Last days"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:94
+#: 07_coming_of_the_kingdom.html:101
 msgid "Acts 2:17"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:96
+#: 07_coming_of_the_kingdom.html:103
 msgctxt "coming_of_the_kingdom #1"
 msgid "Isaiah 2:2"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:100
+#: 07_coming_of_the_kingdom.html:107
 msgctxt "coming_of_the_kingdom #2"
 msgid "All nations"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:100
+#: 07_coming_of_the_kingdom.html:107
 msgctxt "coming_of_the_kingdom #1"
-msgid "Acts 2:5"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:102
-msgctxt "coming_of_the_kingdom #2"
-msgid "Isaiah 2:2"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:103
-msgid "Luke 24:47"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:107
-msgctxt "coming_of_the_kingdom #2"
-msgid "Jerusalem"
-msgstr ""
-
-#: 07_coming_of_the_kingdom.html:107
-msgctxt "coming_of_the_kingdom #2"
 msgid "Acts 2:5"
 msgstr ""
 
 #: 07_coming_of_the_kingdom.html:109
-msgid "Isaiah 2:3"
+msgctxt "coming_of_the_kingdom #2"
+msgid "Isaiah 2:2"
 msgstr ""
 
 #: 07_coming_of_the_kingdom.html:110
+msgid "Luke 24:47"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:114
+msgctxt "coming_of_the_kingdom #2"
+msgid "Jerusalem"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:114
+msgctxt "coming_of_the_kingdom #2"
+msgid "Acts 2:5"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:116
+msgid "Isaiah 2:3"
+msgstr ""
+
+#: 07_coming_of_the_kingdom.html:117
 msgctxt "coming_of_the_kingdom #2"
 msgid "Luke 24:44-49"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:114
+#: 07_coming_of_the_kingdom.html:121
 msgid "Eternal kingdom"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:114
+#: 07_coming_of_the_kingdom.html:121
 msgid "Acts 2:37-42"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:116
+#: 07_coming_of_the_kingdom.html:123
 msgctxt "coming_of_the_kingdom #2"
 msgid "Daniel 2:31-45"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:120
+#: 07_coming_of_the_kingdom.html:127
 msgid "Date of coming approximately"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:120
+#: 07_coming_of_the_kingdom.html:127
 msgctxt "coming_of_the_kingdom #1"
 msgid "33 A.D."
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:120
+#: 07_coming_of_the_kingdom.html:127
 msgctxt "coming_of_the_kingdom #2"
 msgid "Acts 1-2"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:122
+#: 07_coming_of_the_kingdom.html:129
 msgid "Old Testament prophecy"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:123
+#: 07_coming_of_the_kingdom.html:130
 msgid "John the Baptist - \"is near\""
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:123
+#: 07_coming_of_the_kingdom.html:130
 msgid "Matthew 3:1-2"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:124
+#: 07_coming_of_the_kingdom.html:131
 msgid "Jesus - \"is near\""
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:124
+#: 07_coming_of_the_kingdom.html:131
 msgctxt "coming_of_the_kingdom #2"
 msgid "Matthew 4:17"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:128
+#: 07_coming_of_the_kingdom.html:135
 msgid "Lifetime"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:128
+#: 07_coming_of_the_kingdom.html:135
 msgctxt "coming_of_the_kingdom #1"
 msgid "Acts 2:14"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:130
+#: 07_coming_of_the_kingdom.html:137
 msgctxt "coming_of_the_kingdom #3"
 msgid "Mark 9:1"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:131
+#: 07_coming_of_the_kingdom.html:138
 msgid "\"Some\" - Judas died"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:131
+#: 07_coming_of_the_kingdom.html:138
 msgid "Acts 1:18-19"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:135
+#: 07_coming_of_the_kingdom.html:142
 msgid "Power"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:135
+#: 07_coming_of_the_kingdom.html:142
 msgctxt "coming_of_the_kingdom #1"
 msgid "Acts 1:8"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:135
+#: 07_coming_of_the_kingdom.html:142
 msgid "Acts 2:1-4"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:137
+#: 07_coming_of_the_kingdom.html:144
 msgctxt "coming_of_the_kingdom #4"
 msgid "Mark 9:1"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:141
+#: 07_coming_of_the_kingdom.html:148
 msgid "New birth"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:141
+#: 07_coming_of_the_kingdom.html:148
 msgctxt "coming_of_the_kingdom #1"
 msgid "Acts 2:38"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:143
+#: 07_coming_of_the_kingdom.html:150
 msgid "Water and Spirit"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:143
+#: 07_coming_of_the_kingdom.html:150
 msgctxt "coming_of_the_kingdom #2"
 msgid "John 3:1-7"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:147
+#: 07_coming_of_the_kingdom.html:154
 msgid "Kingdom within"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:147
+#: 07_coming_of_the_kingdom.html:154
 msgid "Acts 2:37"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:149
+#: 07_coming_of_the_kingdom.html:156
 msgctxt "coming_of_the_kingdom #2"
 msgid "Luke 17:20-21"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:153
+#: 07_coming_of_the_kingdom.html:160
 msgid "Peter with the keys"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:153
+#: 07_coming_of_the_kingdom.html:160
 msgctxt "coming_of_the_kingdom #2"
 msgid "Acts 2:14"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:153
+#: 07_coming_of_the_kingdom.html:160
 msgctxt "coming_of_the_kingdom #2"
 msgid "Acts 2:38"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:155
+#: 07_coming_of_the_kingdom.html:162
 msgid "Matthew 16:19"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:159
+#: 07_coming_of_the_kingdom.html:166
 msgid "Repentance and forgiveness of sin"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:159
+#: 07_coming_of_the_kingdom.html:166
 msgctxt "coming_of_the_kingdom #3"
 msgid "Acts 2:38"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:161
+#: 07_coming_of_the_kingdom.html:168
 msgctxt "coming_of_the_kingdom #3"
 msgid "Luke 24:44-49"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:167
+#: 07_coming_of_the_kingdom.html:174
 msgctxt "coming_of_the_kingdom #1"
 msgid "Conclusion"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:169
+#: 07_coming_of_the_kingdom.html:176
 msgid "The church is the Kingdom of God on earth, established in approximately"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:169
+#: 07_coming_of_the_kingdom.html:176
 msgctxt "coming_of_the_kingdom #2"
 msgid "33 A.D."
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:171
+#: 07_coming_of_the_kingdom.html:178
 msgid "Acts 2:42"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:171
+#: 07_coming_of_the_kingdom.html:178
 msgid "As citizens of the Kingdom and members of the body (the church), we must be devoted to:"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:173
+#: 07_coming_of_the_kingdom.html:180
 msgctxt "coming_of_the_kingdom #1"
 msgid "Doctrine"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:174
+#: 07_coming_of_the_kingdom.html:181
 msgid "Fellowship"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:175
+#: 07_coming_of_the_kingdom.html:182
 msgid "Breaking Bread"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:176
+#: 07_coming_of_the_kingdom.html:183
 msgid "Prayer"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:179
+#: 07_coming_of_the_kingdom.html:186
 msgctxt "coming_of_the_kingdom #1"
 msgid "Matthew 6:33"
 msgstr ""
 
-#: 07_coming_of_the_kingdom.html:179
+#: 07_coming_of_the_kingdom.html:186
 msgid "We must seek His Kingdom first.  Ask them to commit themselves to at least Sunday services and Midweek services"
 msgstr ""
 
-#: 08_light_and_darkness.html:29
+#: 08_light_and_darkness.html:36
 msgid "It is often helpful to begin this study by constructing a \"spiritual timeline\" with the person whom you are helping to become a disciple"
 msgstr ""
 
-#: 08_light_and_darkness.html:32
+#: 08_light_and_darkness.html:39
 msgctxt "light_and_darkness #1"
 msgid "Introduction:"
 msgstr ""
 
-#: 08_light_and_darkness.html:32
+#: 08_light_and_darkness.html:39
 msgid "1 Peter 2:9-10"
 msgstr ""
 
-#: 08_light_and_darkness.html:37
+#: 08_light_and_darkness.html:44
 msgctxt "light_and_darkness #1"
 msgid "Darkness"
 msgstr ""
 
-#: 08_light_and_darkness.html:37
+#: 08_light_and_darkness.html:44
 msgid "Not a people of God"
 msgstr ""
 
-#: 08_light_and_darkness.html:37
+#: 08_light_and_darkness.html:44
 msgid "No Mercy"
 msgstr ""
 
-#: 08_light_and_darkness.html:39
+#: 08_light_and_darkness.html:46
 msgctxt "light_and_darkness #1"
 msgid "Light"
 msgstr ""
 
-#: 08_light_and_darkness.html:39
+#: 08_light_and_darkness.html:46
 msgid "People of God"
 msgstr ""
 
-#: 08_light_and_darkness.html:39
+#: 08_light_and_darkness.html:46
 msgid "Mercy"
 msgstr ""
 
-#: 08_light_and_darkness.html:43
+#: 08_light_and_darkness.html:50
 msgid "Lost"
 msgstr ""
 
-#: 08_light_and_darkness.html:43
+#: 08_light_and_darkness.html:50
 msgid "Not a Christian"
 msgstr ""
 
-#: 08_light_and_darkness.html:43
+#: 08_light_and_darkness.html:50
 msgid "Not a Disciple"
 msgstr ""
 
-#: 08_light_and_darkness.html:45
+#: 08_light_and_darkness.html:52
 msgid "Saved"
 msgstr ""
 
-#: 08_light_and_darkness.html:45
+#: 08_light_and_darkness.html:52
 msgctxt "light_and_darkness #1"
 msgid "Christian"
 msgstr ""
 
-#: 08_light_and_darkness.html:45
+#: 08_light_and_darkness.html:52
 msgctxt "light_and_darkness #1"
 msgid "Disciple"
 msgstr ""
 
-#: 08_light_and_darkness.html:51
+#: 08_light_and_darkness.html:58
 msgid "Every person is either in the darkness or the light.  There is no twilight zone"
 msgstr ""
 
-#: 08_light_and_darkness.html:52
+#: 08_light_and_darkness.html:59
 msgid "Where are you?"
 msgstr ""
 
-#: 08_light_and_darkness.html:57
+#: 08_light_and_darkness.html:64
 msgctxt "light_and_darkness #2"
 msgid "Darkness"
 msgstr ""
 
-#: 08_light_and_darkness.html:60
+#: 08_light_and_darkness.html:67
 msgctxt "light_and_darkness #1"
 msgid "Isaiah 59:1-2"
 msgstr ""
 
-#: 08_light_and_darkness.html:63
+#: 08_light_and_darkness.html:70
 msgid "Sin separates us from God"
 msgstr ""
 
-#: 08_light_and_darkness.html:68
+#: 08_light_and_darkness.html:75
 msgid "WALL"
 msgstr ""
 
-#: 08_light_and_darkness.html:73
+#: 08_light_and_darkness.html:80
 msgctxt "light_and_darkness #1"
 msgid "DARKNESS"
 msgstr ""
 
-#: 08_light_and_darkness.html:73
+#: 08_light_and_darkness.html:80
 msgid "MAN"
 msgstr ""
 
-#: 08_light_and_darkness.html:80
+#: 08_light_and_darkness.html:87
 msgctxt "light_and_darkness #1"
 msgid "LIGHT"
 msgstr ""
 
-#: 08_light_and_darkness.html:80
+#: 08_light_and_darkness.html:87
 msgctxt "light_and_darkness #1"
 msgid "GOD"
 msgstr ""
 
-#: 08_light_and_darkness.html:86
+#: 08_light_and_darkness.html:93
 msgctxt "light_and_darkness #1"
 msgid "SIN"
 msgstr ""
 
-#: 08_light_and_darkness.html:91
+#: 08_light_and_darkness.html:98
 msgid "In order for a man to have a relationship with God the wall must be broken down - sin must be forgiven"
 msgstr ""
 
-#: 08_light_and_darkness.html:92
+#: 08_light_and_darkness.html:99
 msgid "The point in time that sin is forgiven is the point in time a person is saved"
 msgstr ""
 
-#: 08_light_and_darkness.html:96
+#: 08_light_and_darkness.html:103
 msgid "Romans 3:23-25"
 msgstr ""
 
-#: 08_light_and_darkness.html:99
+#: 08_light_and_darkness.html:106
 msgid "Who has sinned?  Everyone!"
 msgstr ""
 
-#: 08_light_and_darkness.html:103
+#: 08_light_and_darkness.html:110
 msgctxt "light_and_darkness #2"
 msgid "SIN"
 msgstr ""
 
-#: 08_light_and_darkness.html:107
+#: 08_light_and_darkness.html:114
 msgctxt "light_and_darkness #3"
 msgid "SIN"
 msgstr ""
 
-#: 08_light_and_darkness.html:111
+#: 08_light_and_darkness.html:118
 msgctxt "light_and_darkness #4"
 msgid "SIN"
 msgstr ""
 
-#: 08_light_and_darkness.html:116
+#: 08_light_and_darkness.html:123
 msgid "Person A"
 msgstr ""
 
-#: 08_light_and_darkness.html:119
+#: 08_light_and_darkness.html:126
 msgid "Person B"
 msgstr ""
 
-#: 08_light_and_darkness.html:122
+#: 08_light_and_darkness.html:129
 msgid "Person C"
 msgstr ""
 
-#: 08_light_and_darkness.html:127
+#: 08_light_and_darkness.html:134
 msgid "Who is further away from God:  a person who sins a little, or a person who sins a lot?  All are equal, all lost.  Therefore a good moral life does not save you.  You cannot earn your salvation by your good deeds"
 msgstr ""
 
-#: 08_light_and_darkness.html:128
+#: 08_light_and_darkness.html:135
 msgid "Faith in the blood of Jesus saves you"
 msgstr ""
 
-#: 08_light_and_darkness.html:128
+#: 08_light_and_darkness.html:135
 msgid "v. 25"
 msgstr ""
 
-#: 08_light_and_darkness.html:132
+#: 08_light_and_darkness.html:139
 msgid "What is Sin?"
 msgstr ""
 
-#: 08_light_and_darkness.html:134
+#: 08_light_and_darkness.html:141
 msgid "Galatians 5:19-21"
 msgstr ""
 
-#: 08_light_and_darkness.html:134
+#: 08_light_and_darkness.html:141
 msgctxt "light_and_darkness #1"
 msgid "(sins of commission)"
 msgstr ""
 
-#: 08_light_and_darkness.html:135
+#: 08_light_and_darkness.html:142
 msgid "2 Timothy 3:1-5"
 msgstr ""
 
-#: 08_light_and_darkness.html:135
+#: 08_light_and_darkness.html:142
 msgctxt "light_and_darkness #2"
 msgid "(sins of commission)"
 msgstr ""
 
-#: 08_light_and_darkness.html:136
+#: 08_light_and_darkness.html:143
 msgid "James 4:17"
 msgstr ""
 
-#: 08_light_and_darkness.html:136
+#: 08_light_and_darkness.html:143
 msgid "(sins of omission)"
 msgstr ""
 
-#: 08_light_and_darkness.html:140
+#: 08_light_and_darkness.html:147
 msgid "What is the eternal consequence of sin?"
 msgstr ""
 
-#: 08_light_and_darkness.html:140
+#: 08_light_and_darkness.html:147
 msgid "Romans 6:23"
 msgstr ""
 
-#: 08_light_and_darkness.html:145
+#: 08_light_and_darkness.html:152
 msgid "WAGES OF SIN"
 msgstr ""
 
-#: 08_light_and_darkness.html:146
+#: 08_light_and_darkness.html:153
 msgid "GIFT OF GOD"
 msgstr ""
 
-#: 08_light_and_darkness.html:149
+#: 08_light_and_darkness.html:156
 msgid "Death"
 msgstr ""
 
-#: 08_light_and_darkness.html:149
+#: 08_light_and_darkness.html:156
 msgid "Hell"
 msgstr ""
 
-#: 08_light_and_darkness.html:149
+#: 08_light_and_darkness.html:156
 msgctxt "light_and_darkness #3"
 msgid "Darkness"
 msgstr ""
 
-#: 08_light_and_darkness.html:152
+#: 08_light_and_darkness.html:159
 msgid "Eternal Life"
 msgstr ""
 
-#: 08_light_and_darkness.html:152
+#: 08_light_and_darkness.html:159
 msgid "Heaven"
 msgstr ""
 
-#: 08_light_and_darkness.html:152
+#: 08_light_and_darkness.html:159
 msgctxt "light_and_darkness #2"
 msgid "Light"
 msgstr ""
 
-#: 08_light_and_darkness.html:161
+#: 08_light_and_darkness.html:168
 msgctxt "light_and_darkness #3"
 msgid "Light"
 msgstr ""
 
-#: 08_light_and_darkness.html:163
+#: 08_light_and_darkness.html:170
 msgctxt "light_and_darkness #1"
 msgid "John 3:1-7"
 msgstr ""
 
-#: 08_light_and_darkness.html:163
+#: 08_light_and_darkness.html:170
 msgid "Born again (v. 3), born of water and Spirit (v. 5), born again. (v. 7)"
 msgstr ""
 
-#: 08_light_and_darkness.html:164
+#: 08_light_and_darkness.html:171
 msgid "Personal decision as an adult"
 msgstr ""
 
-#: 08_light_and_darkness.html:166
+#: 08_light_and_darkness.html:173
 msgid "What message must one believe to be in the light (to be saved)?"
 msgstr ""
 
-#: 08_light_and_darkness.html:166
+#: 08_light_and_darkness.html:173
 msgid "Acts 2:22-24"
 msgstr ""
 
-#: 08_light_and_darkness.html:168
+#: 08_light_and_darkness.html:175
 msgid "Jesus is from God"
 msgstr ""
 
-#: 08_light_and_darkness.html:168
+#: 08_light_and_darkness.html:175
 msgid "v. 22"
 msgstr ""
 
-#: 08_light_and_darkness.html:169
+#: 08_light_and_darkness.html:176
 msgid "Jesus raised physically from the dead"
 msgstr ""
 
-#: 08_light_and_darkness.html:169
+#: 08_light_and_darkness.html:176
 msgctxt "light_and_darkness #1"
 msgid "v. 24"
 msgstr ""
 
-#: 08_light_and_darkness.html:170
+#: 08_light_and_darkness.html:177
 msgid "Everyone is responsible for the crucifixion of Christ"
 msgstr ""
 
-#: 08_light_and_darkness.html:170
+#: 08_light_and_darkness.html:177
 msgctxt "light_and_darkness #1"
 msgid "v. 23"
 msgstr ""
 
-#: 08_light_and_darkness.html:170
+#: 08_light_and_darkness.html:177
 msgid "All have sinned."
 msgstr ""
 
-#: 08_light_and_darkness.html:170
+#: 08_light_and_darkness.html:177
 msgctxt "light_and_darkness #1"
 msgid "Romans 3:23"
 msgstr ""
 
-#: 08_light_and_darkness.html:174
+#: 08_light_and_darkness.html:181
 msgid "Response of people:"
 msgstr ""
 
-#: 08_light_and_darkness.html:174
+#: 08_light_and_darkness.html:181
 msgid "Acts 2:36-37"
 msgstr ""
 
-#: 08_light_and_darkness.html:176
+#: 08_light_and_darkness.html:183
 msgid "Cut to the heart"
 msgstr ""
 
-#: 08_light_and_darkness.html:177
+#: 08_light_and_darkness.html:184
 msgid "What shall we do?"
 msgstr ""
 
-#: 08_light_and_darkness.html:181
+#: 08_light_and_darkness.html:188
 msgid "Once the people believed, what did they do?"
 msgstr ""
 
-#: 08_light_and_darkness.html:181
+#: 08_light_and_darkness.html:188
 msgid "Acts 2:38-42"
 msgstr ""
 
-#: 08_light_and_darkness.html:183
+#: 08_light_and_darkness.html:190
 msgid "Repent (Greek = to turn)"
 msgstr ""
 
-#: 08_light_and_darkness.html:185
+#: 08_light_and_darkness.html:192
 msgid "Be baptized (Greek = to be immersed)"
 msgstr ""
 
-#: 08_light_and_darkness.html:187
+#: 08_light_and_darkness.html:194
 msgid "Sin forgiven. Therefore this is the point in time a person is saved"
 msgstr ""
 
-#: 08_light_and_darkness.html:188
+#: 08_light_and_darkness.html:195
 msgid "Holy Spirit given to each who responded - power to live as God commands"
 msgstr ""
 
-#: 08_light_and_darkness.html:192
+#: 08_light_and_darkness.html:199
 msgid "Baptism:"
 msgstr ""
 
-#: 08_light_and_darkness.html:192
+#: 08_light_and_darkness.html:199
 msgid "Romans 6:1-4"
 msgstr ""
 
-#: 08_light_and_darkness.html:193
+#: 08_light_and_darkness.html:200
 msgid "Baptism is the sharing (a participation) in the death, burial and resurrection of Christ. (More than just a symbol)"
 msgstr ""
 
-#: 08_light_and_darkness.html:201
+#: 08_light_and_darkness.html:208
 msgid "JESUS"
 msgstr ""
 
-#: 08_light_and_darkness.html:203
+#: 08_light_and_darkness.html:210
 msgid "DIED"
 msgstr ""
 
-#: 08_light_and_darkness.html:205
+#: 08_light_and_darkness.html:212
 msgid "RESURRECTED"
 msgstr ""
 
-#: 08_light_and_darkness.html:211
+#: 08_light_and_darkness.html:218
 msgid "BURIED"
 msgstr ""
 
-#: 08_light_and_darkness.html:219
+#: 08_light_and_darkness.html:226
 msgid "OLD LIFE"
 msgstr ""
 
-#: 08_light_and_darkness.html:221
+#: 08_light_and_darkness.html:228
 msgid "\"DIED WITH CHRIST\""
 msgstr ""
 
-#: 08_light_and_darkness.html:223
+#: 08_light_and_darkness.html:230
 msgid "\"RAISED TO A NEW LIFE\""
 msgstr ""
 
-#: 08_light_and_darkness.html:229
+#: 08_light_and_darkness.html:236
 msgid "\"BURIED WITH CHRIST\""
 msgstr ""
 
-#: 08_light_and_darkness.html:238
+#: 08_light_and_darkness.html:245
 msgctxt "light_and_darkness #2"
 msgid "DARKNESS"
 msgstr ""
 
-#: 08_light_and_darkness.html:239
+#: 08_light_and_darkness.html:246
 msgctxt "light_and_darkness #2"
 msgid "LIGHT"
 msgstr ""
 
-#: 08_light_and_darkness.html:242
+#: 08_light_and_darkness.html:249
 msgid "Sin"
 msgstr ""
 
-#: 08_light_and_darkness.html:242
+#: 08_light_and_darkness.html:249
 msgid "Separates us from God"
 msgstr ""
 
-#: 08_light_and_darkness.html:245
+#: 08_light_and_darkness.html:252
 msgctxt "light_and_darkness #1"
 msgid "Acts 2:38"
 msgstr ""
 
-#: 08_light_and_darkness.html:246
+#: 08_light_and_darkness.html:253
 msgid "Sin is Forgiven"
 msgstr ""
 
-#: 08_light_and_darkness.html:250
+#: 08_light_and_darkness.html:257
 msgid "Born Again of Water and Spirit"
 msgstr ""
 
-#: 08_light_and_darkness.html:250
+#: 08_light_and_darkness.html:257
 msgctxt "light_and_darkness #1"
 msgid "John 3:5"
 msgstr ""
 
-#: 08_light_and_darkness.html:254
+#: 08_light_and_darkness.html:261
 msgctxt "light_and_darkness #2"
 msgid "Acts 2:38"
 msgstr ""
 
-#: 08_light_and_darkness.html:255
+#: 08_light_and_darkness.html:262
 msgid "Water = Baptism"
 msgstr ""
 
-#: 08_light_and_darkness.html:255
+#: 08_light_and_darkness.html:262
 msgid "Spirit = Received at Baptism"
 msgstr ""
 
-#: 08_light_and_darkness.html:260
+#: 08_light_and_darkness.html:267
 msgid "Romans 3:25"
 msgstr ""
 
-#: 08_light_and_darkness.html:261
+#: 08_light_and_darkness.html:268
 msgid "Faith in the Blood of Jesus Saves Us"
 msgstr ""
 
-#: 08_light_and_darkness.html:263
+#: 08_light_and_darkness.html:270
 msgid "Jesus shed His blood when He died.  In baptism we share by faith in the death, burial and resurrection of Jesus.  Thus we contact the blood of baptism and are forgiven of our sins and SAVED!"
 msgstr ""
 
-#: 08_light_and_darkness.html:270
+#: 08_light_and_darkness.html:277
 msgid "Traditions/False Doctrines -"
 msgstr ""
 
-#: 08_light_and_darkness.html:270
+#: 08_light_and_darkness.html:277
 msgctxt "light_and_darkness #1"
 msgid "Matthew 15:6-9"
 msgstr ""
 
-#: 08_light_and_darkness.html:273
+#: 08_light_and_darkness.html:280
 msgid "Infant Baptism"
 msgstr ""
 
-#: 08_light_and_darkness.html:275
+#: 08_light_and_darkness.html:282
 msgid "Personal faith is needed"
 msgstr ""
 
-#: 08_light_and_darkness.html:275
+#: 08_light_and_darkness.html:282
 msgctxt "light_and_darkness #1"
 msgid "Colossians 2:12"
 msgstr ""
 
-#: 08_light_and_darkness.html:276
+#: 08_light_and_darkness.html:283
 msgid "Began approximately third century A.D."
 msgstr ""
 
-#: 08_light_and_darkness.html:278
+#: 08_light_and_darkness.html:285
 msgid "Original sin"
 msgstr ""
 
-#: 08_light_and_darkness.html:280
+#: 08_light_and_darkness.html:287
 msgctxt "light_and_darkness #1"
 msgid "Ezekiel 18:20"
 msgstr ""
 
-#: 08_light_and_darkness.html:281
+#: 08_light_and_darkness.html:288
 msgid "Became \"church doctrine\" in 549 A.D."
 msgstr ""
 
-#: 08_light_and_darkness.html:287
+#: 08_light_and_darkness.html:294
 msgid "Praying Jesus into your heart"
 msgstr ""
 
-#: 08_light_and_darkness.html:289
+#: 08_light_and_darkness.html:296
 msgctxt "light_and_darkness #1"
 msgid "Revelation 3:20"
 msgstr ""
 
-#: 08_light_and_darkness.html:289
+#: 08_light_and_darkness.html:296
 msgid "- taken out of context.  This verse is addressed to Christians"
 msgstr ""
 
-#: 08_light_and_darkness.html:290
+#: 08_light_and_darkness.html:297
 msgid "Began in the early 1800s in America"
 msgstr ""
 
-#: 08_light_and_darkness.html:296
+#: 08_light_and_darkness.html:303
 msgid "Sinful nature"
 msgstr ""
 
-#: 08_light_and_darkness.html:297
+#: 08_light_and_darkness.html:304
 msgid "Suggest to the individual with whom you are studying that he or she write out and be specific about various sins that they have committed during their life.  This is so they might see the gravity and magnitude of their sin.  This is confidential and should only be shared with those who are studying with the person"
 msgstr ""
 
-#: 09_new_testament_conversion.html:30
+#: 09_new_testament_conversion.html:37
 msgid "The Major Conversions in Acts"
 msgstr ""
 
-#: 09_new_testament_conversion.html:33
+#: 09_new_testament_conversion.html:40
 msgid "Conversions"
 msgstr ""
 
-#: 09_new_testament_conversion.html:42
+#: 09_new_testament_conversion.html:49
 msgctxt "new_testament_conversion #1"
 msgid "Acts 2:36-47"
 msgstr ""
 
-#: 09_new_testament_conversion.html:47
+#: 09_new_testament_conversion.html:54
 msgid "First Christian in Jerusalem"
 msgstr ""
 
-#: 09_new_testament_conversion.html:57
+#: 09_new_testament_conversion.html:64
 msgctxt "new_testament_conversion #1"
 msgid "Acts 8:26-39"
 msgstr ""
 
-#: 09_new_testament_conversion.html:62
+#: 09_new_testament_conversion.html:69
 msgid "Ethiopian Eunich"
 msgstr ""
 
-#: 09_new_testament_conversion.html:72
+#: 09_new_testament_conversion.html:79
 msgid "Acts 16:22-34"
 msgstr ""
 
-#: 09_new_testament_conversion.html:77
+#: 09_new_testament_conversion.html:84
 msgid "Philippian jailer and his family"
 msgstr ""
 
-#: 09_new_testament_conversion.html:87
+#: 09_new_testament_conversion.html:94
 msgctxt "new_testament_conversion #1"
 msgid "Acts 9:1-22"
 msgstr ""
 
-#: 09_new_testament_conversion.html:92
+#: 09_new_testament_conversion.html:99
 msgctxt "new_testament_conversion #1"
 msgid "Paul"
 msgstr ""
 
-#: 09_new_testament_conversion.html:99
+#: 09_new_testament_conversion.html:106
 msgid "Acts 22:3-16"
 msgstr ""
 
-#: 09_new_testament_conversion.html:104
+#: 09_new_testament_conversion.html:111
 msgctxt "new_testament_conversion #2"
 msgid "Paul"
 msgstr ""
 
-#: 09_new_testament_conversion.html:114
+#: 09_new_testament_conversion.html:121
 msgid "Acts 18:24-26"
 msgstr ""
 
-#: 09_new_testament_conversion.html:119
+#: 09_new_testament_conversion.html:126
 msgid "Apollos"
 msgstr ""
 
-#: 09_new_testament_conversion.html:129
+#: 09_new_testament_conversion.html:136
 msgctxt "new_testament_conversion #1"
 msgid "Acts 19:1-5"
 msgstr ""
 
-#: 09_new_testament_conversion.html:134
+#: 09_new_testament_conversion.html:141
 msgid "Ephesians"
 msgstr ""
 
-#: 09_new_testament_conversion.html:140
+#: 09_new_testament_conversion.html:147
 msgid "Questions concerning Conversions"
 msgstr ""
 
-#: 09_new_testament_conversion.html:143
+#: 09_new_testament_conversion.html:150
 msgid "What was preached?"
 msgstr ""
 
-#: 09_new_testament_conversion.html:146
+#: 09_new_testament_conversion.html:153
 msgid "What was the person's (people's) response to the message?"
 msgstr ""
 
-#: 09_new_testament_conversion.html:149
+#: 09_new_testament_conversion.html:156
 msgid "How long did the person (people) take to make the decision?"
 msgstr ""
 
-#: 09_new_testament_conversion.html:152
+#: 09_new_testament_conversion.html:159
 msgid "What was their response after baptism?"
 msgstr ""
 
-#: 09_new_testament_conversion.html:160
+#: 09_new_testament_conversion.html:167
 msgid "Refuting False Doctrines"
 msgstr ""
 
-#: 09_new_testament_conversion.html:165
+#: 09_new_testament_conversion.html:172
 msgid "\"Pray Jesus into your heart\":"
 msgstr ""
 
-#: 09_new_testament_conversion.html:168
+#: 09_new_testament_conversion.html:175
 msgid "This phrase is never mentioned in the Bible.  People may use"
 msgstr ""
 
-#: 09_new_testament_conversion.html:171
+#: 09_new_testament_conversion.html:178
 msgctxt "new_testament_conversion #1"
 msgid "Revelation 3:20"
 msgstr ""
 
-#: 09_new_testament_conversion.html:174
+#: 09_new_testament_conversion.html:181
 msgid "about Jesus knocking at the door.  However, you must examine the Scripture in context.  This scripture does not teach how to become a Christian and be saved, but how to come back to God after becoming lukewarm.  It is addressed to disciples who already responded to Christ in faith, repentance, confession and baptism"
 msgstr ""
 
-#: 09_new_testament_conversion.html:178
+#: 09_new_testament_conversion.html:185
 msgid "\"Accept Jesus into your heart\":"
 msgstr ""
 
-#: 09_new_testament_conversion.html:181
+#: 09_new_testament_conversion.html:188
 msgid "(Same teaching as praying Jesus into your heart, just different terminology)  Based on"
 msgstr ""
 
-#: 09_new_testament_conversion.html:184
+#: 09_new_testament_conversion.html:191
 msgid "Romans 10:9"
 msgstr ""
 
-#: 09_new_testament_conversion.html:187
+#: 09_new_testament_conversion.html:194
 msgid "You must look at Scripture in context.  Paul is addressing the problem of the Israelites:  unbelief that Jesus was the Christ, the Son of God.  Read further on to"
 msgstr ""
 
-#: 09_new_testament_conversion.html:190
+#: 09_new_testament_conversion.html:197
 msgid "Romans 10:13"
 msgstr ""
 
-#: 09_new_testament_conversion.html:193
+#: 09_new_testament_conversion.html:200
 msgid "When do you call on the name of the Lord?  At baptism"
 msgstr ""
 
-#: 09_new_testament_conversion.html:196
+#: 09_new_testament_conversion.html:203
 msgctxt "new_testament_conversion #1"
 msgid "Acts 22:16"
 msgstr ""
 
-#: 09_new_testament_conversion.html:202
+#: 09_new_testament_conversion.html:209
 msgid "Infant baptism:"
 msgstr ""
 
-#: 09_new_testament_conversion.html:205
+#: 09_new_testament_conversion.html:212
 msgid "A baby cannot have faith, and since we are baptized through faith in the power of God"
 msgstr ""
 
-#: 09_new_testament_conversion.html:208
+#: 09_new_testament_conversion.html:215
 msgctxt "new_testament_conversion #1"
 msgid "Colossians 2:12"
 msgstr ""
 
-#: 09_new_testament_conversion.html:211
+#: 09_new_testament_conversion.html:218
 msgid "babies cannot be baptized.  Original sin:"
 msgstr ""
 
-#: 09_new_testament_conversion.html:214
+#: 09_new_testament_conversion.html:221
 msgctxt "new_testament_conversion #1"
 msgid "Ezekiel 18:20"
 msgstr ""
 
-#: 09_new_testament_conversion.html:217
+#: 09_new_testament_conversion.html:224
 msgid "teaches that there is no original sin; each person is responsible for his own actions and will be judged accordingly.  Therefore babies are born sinless and will be saved if they die"
 msgstr ""
 
-#: 09_new_testament_conversion.html:221
+#: 09_new_testament_conversion.html:228
 msgid "\"Baptism does not save you\":"
 msgstr ""
 
-#: 09_new_testament_conversion.html:226
+#: 09_new_testament_conversion.html:233
 msgctxt "new_testament_conversion #1"
 msgid "1 Peter 3:18-21"
 msgstr ""
 
-#: 09_new_testament_conversion.html:229
+#: 09_new_testament_conversion.html:236
 msgid "says that baptism does save you through the resurrection of Jesus Christ"
 msgstr ""
 
-#: 09_new_testament_conversion.html:232
+#: 09_new_testament_conversion.html:239
 msgctxt "new_testament_conversion #1"
 msgid "Acts 2:38"
 msgstr ""
 
-#: 09_new_testament_conversion.html:235
+#: 09_new_testament_conversion.html:242
 msgid "teaches that sin is forgiven at baptism — one is saved at the point that sin is forgiven"
 msgstr ""
 
-#: 09_new_testament_conversion.html:239
+#: 09_new_testament_conversion.html:246
 msgid "\"Baptism is a work — yet we are saved by faith:\""
 msgstr ""
 
-#: 09_new_testament_conversion.html:245
+#: 09_new_testament_conversion.html:252
 msgid "Ephesians 2:8"
 msgstr ""
 
-#: 09_new_testament_conversion.html:251
+#: 09_new_testament_conversion.html:258
 msgid "Colossians 2:11-15"
 msgstr ""
 
-#: 09_new_testament_conversion.html:254
+#: 09_new_testament_conversion.html:261
 msgid "teaches that we are saved by faith — in the working of God at baptism"
 msgstr ""
 
-#: 09_new_testament_conversion.html:260
+#: 09_new_testament_conversion.html:267
 msgid "This passage also teaches that circumcision as an eight-day-old baby under the old covenant has its spiritual parallel in the new covenant to baptism, as this is the time that Christ cuts away your old life.  At baptism one enters a \"covenant\" with God — salvation"
 msgstr ""
 
-#: 09_new_testament_conversion.html:264
+#: 09_new_testament_conversion.html:271
 msgid "\"Baptism is an outward sign of an inward grace:\""
 msgstr ""
 
-#: 09_new_testament_conversion.html:269
+#: 09_new_testament_conversion.html:276
 msgctxt "new_testament_conversion #1"
 msgid "Romans 6:2-4"
 msgstr ""
 
-#: 09_new_testament_conversion.html:272
+#: 09_new_testament_conversion.html:279
 msgid "states that baptism is an actual participation in the death, burial and resurrection of Christ.  It is not merely a sign, seal or symbol"
 msgstr ""
 
-#: 09_new_testament_conversion.html:276
+#: 09_new_testament_conversion.html:283
 msgid "\"Baptism isn't important. After all, look at what Paul said about it in"
 msgstr ""
 
-#: 09_new_testament_conversion.html:278
+#: 09_new_testament_conversion.html:285
 msgid "1 Corinthians 1:17"
 msgstr ""
 
-#: 09_new_testament_conversion.html:283
+#: 09_new_testament_conversion.html:290
 msgid "Paul does not diminish the importance of baptism here.  (Paul himself was baptized to have his sins forgiven in"
 msgstr ""
 
-#: 09_new_testament_conversion.html:286
+#: 09_new_testament_conversion.html:293
 msgctxt "new_testament_conversion #2"
 msgid "Acts 22:16"
 msgstr ""
 
-#: 09_new_testament_conversion.html:289
+#: 09_new_testament_conversion.html:296
 msgid "In context (read"
 msgstr ""
 
-#: 09_new_testament_conversion.html:292
+#: 09_new_testament_conversion.html:299
 msgid "1 Corinthians 1:10-17"
 msgstr ""
 
-#: 09_new_testament_conversion.html:295
+#: 09_new_testament_conversion.html:302
 msgid "he makes the point that he does not want people following men (denominationalism).  He mentions baptism several times in the passage"
 msgstr ""
 
-#: 09_new_testament_conversion.html:299
+#: 09_new_testament_conversion.html:306
 msgid "\"The thief on the cross was not baptized and Jesus told him that they would see each other in paradise:\""
 msgstr ""
 
-#: 09_new_testament_conversion.html:302
+#: 09_new_testament_conversion.html:309
 msgid "Jesus had not even died yet, and baptism is participating in his death"
 msgstr ""
 
-#: 09_new_testament_conversion.html:305
+#: 09_new_testament_conversion.html:312
 msgctxt "new_testament_conversion #2"
 msgid "Romans 6:2-4"
 msgstr ""
 
-#: 09_new_testament_conversion.html:308
+#: 09_new_testament_conversion.html:315
 msgid "also on earth, he had the power to forgive sins"
 msgstr ""
 
-#: 09_new_testament_conversion.html:311
+#: 09_new_testament_conversion.html:318
 msgid "Matthew 9:2-6"
 msgstr ""
 
-#: 09_new_testament_conversion.html:317
+#: 09_new_testament_conversion.html:324
 msgid "\"Believers baptism:\""
 msgstr ""
 
-#: 09_new_testament_conversion.html:320
+#: 09_new_testament_conversion.html:327
 msgid "This is baptism as an adult, but is not done in conjunction with the understanding that one is being saved at this point in time"
 msgstr ""
 
-#: 09_new_testament_conversion.html:323
+#: 09_new_testament_conversion.html:330
 msgctxt "new_testament_conversion #1"
 msgid "John 3:5"
 msgstr ""
 
-#: 09_new_testament_conversion.html:327
+#: 09_new_testament_conversion.html:334
 msgctxt "new_testament_conversion #2"
 msgid "Acts 2:38"
 msgstr ""
 
-#: 09_new_testament_conversion.html:330
+#: 09_new_testament_conversion.html:337
 msgid "\"Retroactive understanding\" is not sufficient for salvation"
 msgstr ""
 
-#: 10_cross.html:30
+#: 10_cross.html:37
 msgid "Passion Account"
 msgstr ""
 
-#: 10_cross.html:31
+#: 10_cross.html:38
 msgid "Read"
 msgstr ""
 
-#: 10_cross.html:31
+#: 10_cross.html:38
 msgid "Matthew 26:31-28:10"
 msgstr ""
 
-#: 10_cross.html:33
+#: 10_cross.html:40
 msgid "Suggested Reading Intervals:"
 msgstr ""
 
-#: 10_cross.html:34
+#: 10_cross.html:41
 msgid "26:31-35"
 msgstr ""
 
-#: 10_cross.html:35
+#: 10_cross.html:42
 msgid "26:36-46"
 msgstr ""
 
-#: 10_cross.html:36
+#: 10_cross.html:43
 msgid "26:47-56"
 msgstr ""
 
-#: 10_cross.html:37
+#: 10_cross.html:44
 msgid "26:57-68"
 msgstr ""
 
-#: 10_cross.html:38
+#: 10_cross.html:45
 msgid "26:69-75"
 msgstr ""
 
-#: 10_cross.html:39
+#: 10_cross.html:46
 msgid "27:1-10"
 msgstr ""
 
-#: 10_cross.html:40
+#: 10_cross.html:47
 msgid "27:11-26"
 msgstr ""
 
-#: 10_cross.html:41
+#: 10_cross.html:48
 msgid "27:27-31"
 msgstr ""
 
-#: 10_cross.html:42
+#: 10_cross.html:49
 msgid "27:32-44"
 msgstr ""
 
-#: 10_cross.html:43
+#: 10_cross.html:50
 msgid "27:45-56"
 msgstr ""
 
-#: 10_cross.html:44
+#: 10_cross.html:51
 msgid "27:57-61"
 msgstr ""
 
-#: 10_cross.html:45
+#: 10_cross.html:52
 msgid "27:62-66"
 msgstr ""
 
-#: 10_cross.html:46
+#: 10_cross.html:53
 msgid "28:1-10"
 msgstr ""
 
-#: 10_cross.html:50
+#: 10_cross.html:57
 msgid "Physical Death"
 msgstr ""
 
-#: 10_cross.html:51
+#: 10_cross.html:58
 msgid "Read the"
 msgstr ""
 
-#: 10_cross.html:51
+#: 10_cross.html:58
 msgid "medical account"
 msgstr ""
 
-#: 10_cross.html:51
+#: 10_cross.html:58
 msgid "of Jesus' physical death"
 msgstr ""
 
-#: 10_cross.html:54
+#: 10_cross.html:61
 msgid "Personal Responsibility"
 msgstr ""
 
-#: 10_cross.html:56
+#: 10_cross.html:63
 msgid "Remember that there were many others who died by crucifixion in the first century.  It was not that Jesus was physically crucified that makes Him unique; it was that He was crucified for you, in your place.  He died on the cross for you"
 msgstr ""
 
-#: 10_cross.html:57
+#: 10_cross.html:64
 msgctxt "cross #1"
 msgid "Romans 3:23"
 msgstr ""
 
-#: 10_cross.html:58
+#: 10_cross.html:65
 msgctxt "cross #1"
 msgid "Isaiah 59:1-2"
 msgstr ""
 
-#: 10_cross.html:59
+#: 10_cross.html:66
 msgid "Matthew 27:46"
 msgstr ""
 
-#: 10_cross.html:60
+#: 10_cross.html:67
 msgid "Share the sins that you committed before being baptized and your feelings of being forgiven at baptism.  Ask the person with whom you are studying to share and confess their sins"
 msgstr ""
 
-#: 10_cross.html:61
+#: 10_cross.html:68
 msgid "Isaiah 53:4-6"
 msgstr ""
 
-#: 10_cross.html:61
+#: 10_cross.html:68
 msgid "(substitute your name)"
 msgstr ""
 
-#: 10_cross.html:62
+#: 10_cross.html:69
 msgid "If possible immediately after this study watch either"
 msgstr ""
 
-#: 10_cross.html:62
+#: 10_cross.html:69
 msgid "or"
 msgstr ""
 
-#: 10_cross.html:62
+#: 10_cross.html:69
 msgid "The Passion"
 msgstr ""
 
-#: 10_cross.html:62
+#: 10_cross.html:69
 msgid "video"
 msgstr ""
 
-#: 11_medical_account.html:29
+#: 11_medical_account.html:36
 msgid "Dr. C. Truman Davis"
 msgstr ""
 
-#: 11_medical_account.html:30
+#: 11_medical_account.html:37
 msgid "A Physician Analyzes the Crucifixion"
 msgstr ""
 
-#: 11_medical_account.html:34
+#: 11_medical_account.html:41
 msgid "In this paper, I shall discuss some of the physical aspects of the passion, or suffering, of Jesus Christ. We shall follow Him from Gethsemane, through His trial, His scourging, His path along the Via Dolorosa, to His last dying hours on the cross..."
 msgstr ""
 
-#: 11_medical_account.html:38
+#: 11_medical_account.html:45
 msgid "This led me first to a study of the practice of crucifixion itself; that is, torture and execution by fixation to a cross. Apparently, the first known practice of crucifixion was by the Persians. Alexander and his generals brought it back to the Mediterranean world - to Egypt and to Carthage. The Romans apparently learned the practice from the Carthaginians and (as with almost everything the Romans did) rapidly developed a very high degree of efficiency and skill at it. A number of Roman authors (Livy, Cicero, Tacitus) comment on crucifixion, and several innovations, modifications, and variations are described in the ancient literature."
 msgstr ""
 
-#: 11_medical_account.html:42
+#: 11_medical_account.html:49
 msgid "For instance, the upright portion of the cross (or stipes) could have the cross-arm (or patibulum) attached two or three feet below its top in what we commonly think of as the Latin cross. The most common form used in our Lord's day, however, was the Tau cross, shaped like our T. In this cross the patibulum was placed in a notch at the top of the stipes. There is archeological evidence that it was on this type of cross that Jesus was crucified."
 msgstr ""
 
-#: 11_medical_account.html:46
+#: 11_medical_account.html:53
 msgid "Without any historical or Biblical proof, Medieval and Renaissance painters have given us our picture of Christ carrying the entire cross. But the upright post, or stipes, was generally fixed permanently in the ground at the site of execution and the condemned man was forced to carry the patibulum, weighing about 110 pounds, from the prison to the place of execution."
 msgstr ""
 
-#: 11_medical_account.html:50
+#: 11_medical_account.html:57
 msgid "Many of the painters and most of the sculptors of crucifixion, also show the nails through the palms. Historical Roman accounts and experimental work have established that the nails were driven between the small bones of the wrists (radius and ulna) and not through the palms. Nails driven through the palms will strip out between the fingers when made to support the weight of the human body. The misconception may have come about through a misunderstanding of Jesus' words to Thomas\""
 msgstr ""
 
-#: 11_medical_account.html:52
+#: 11_medical_account.html:59
 msgid "Observe my hands"
 msgstr ""
 
-#: 11_medical_account.html:53
+#: 11_medical_account.html:60
 msgid "Anatomists, both modern and ancient, have always considered the wrist as part of the hand."
 msgstr ""
 
-#: 11_medical_account.html:57
+#: 11_medical_account.html:64
 msgid "A titulus, or small sign, stating the victim's crime was usually placed on a staff, carried at the front of the procession from the prison, and later nailed to the cross so that it extended above the head. This sign with its staff nailed to the top of the cross would have given it somewhat the characteristic form of the Latin cross."
 msgstr ""
 
-#: 11_medical_account.html:61
+#: 11_medical_account.html:68
 msgid "But, of course, the physical passion of the Christ began in Gethsemane. Of the many aspects of this initial suffering, the one of greatest physiological interest is the bloody sweat. It is interesting that St. Luke, the physician, is the only one to mention this. He says"
 msgstr ""
 
-#: 11_medical_account.html:63
+#: 11_medical_account.html:70
 msgid "And being in agony, He prayed the longer. And His sweat became as drops of blood, trickling down upon the ground."
 msgstr ""
 
-#: 11_medical_account.html:68
+#: 11_medical_account.html:75
 msgid "Every ruse (trick) imaginable has been used by modern scholars to explain away this description, apparently under the mistaken impression that this just doesn't happen. A great deal of effort could have been saved had the doubters consulted the medical literature. Though very rare, the phenomenon of"
 msgstr ""
 
-#: 11_medical_account.html:69
+#: 11_medical_account.html:76
 msgid "Hematidrosis"
 msgstr ""
 
-#: 11_medical_account.html:70
+#: 11_medical_account.html:77
 msgid "or bloody sweat, is well documented. Under great emotional stress of the kind our Lord suffered, tiny capillaries in the sweat glands can break, thus mixing blood with sweat. This process might well have produced marked weakness and possible shock."
 msgstr ""
 
-#: 11_medical_account.html:74
+#: 11_medical_account.html:81
 msgid "After the arrest in the middle of the night, Jesus was next brought before the Sanhedrin and Caiphus, the High Priest; it is here that the first physical trauma was inflicted. A soldier struck Jesus across the face for remaining silent when questioned by Caiphus. The palace guards then blind-folded Him and mockingly taunted Him to identify them as they each passed by, spat upon Him, and struck Him in the face."
 msgstr ""
 
-#: 11_medical_account.html:78
+#: 11_medical_account.html:85
 msgid "In the early morning, battered and bruised, dehydrated, and exhausted from a sleepless night, Jesus is taken across the Praetorium of the Fortress Antonia, the seat of government of the Procurator of Judea, Pontius Pilate. You are, of course, familiar with Pilate's action in attempting to pass responsibility to Herod Antipas, the Tetrarch of Judea. Jesus apparently suffered no physical mistreatment at the hands of Herod and was returned to Pilate. It was then, in response to the cries of the mob, that Pilate ordered Bar-Abbas released and condemned Jesus to scourging and crucifixion."
 msgstr ""
 
-#: 11_medical_account.html:82
+#: 11_medical_account.html:89
 msgid "There is much disagreement among authorities about the unusual scourging as a prelude to crucifixion. Most Roman writers from this period do not associate the two. Many scholars believe that Pilate originally ordered Jesus scourged as his full punishment and that the death sentence by crucifixion came only in response to the taunt by the mob that the Procurator was not properly defending Caesar against this pretender who allegedly claimed to be the King of the Jews."
 msgstr ""
 
-#: 11_medical_account.html:86
+#: 11_medical_account.html:93
 msgid "Preparations for the scourging were carried out when the Prisoner was stripped of His clothing and His hands tied to a post above His head. It is doubtful the Romans would have made any attempt to follow the Jewish law in this matter, but the Jews had an ancient law prohibiting more than forty lashes."
 msgstr ""
 
-#: 11_medical_account.html:90
+#: 11_medical_account.html:97
 msgid "The Roman legionnaire steps forward with the flagrum (or flagellum) in his hand. This is a short whip consisting of several heavy, leather thongs with two small balls of lead attached near the ends of each. The heavy whip is brought down with full force again and again across Jesus' shoulders, back, and legs. At first the thongs cut through the skin only. Then, as the blows continue, they cut deeper into the subcutaneous tissues, producing first an oozing of blood from the capillaries and veins of the skin, and finally spurting arterial bleeding from vessels in the underlying muscles."
 msgstr ""
 
-#: 11_medical_account.html:94
+#: 11_medical_account.html:101
 msgid "The small balls of lead first produce large, deep bruises which are broken open by subsequent blows. Finally the skin of the back is hanging in long ribbons and the entire area is an unrecognizable mass of torn, bleeding tissue. When it is determined by the centurion in charge that the prisoner is near death, the beating is finally stopped."
 msgstr ""
 
-#: 11_medical_account.html:98
+#: 11_medical_account.html:105
 msgid "The half-fainting Jesus is then untied and allowed to slump to the stone pavement, wet with His own blood. The Roman soldiers see a great joke in this provincial Jew claiming to be king. They throw a robe across His shoulders and place a stick in His hand for a scepter. They still need a crown to make their travesty complete. Flexible branches covered with long thorns (commonly used in bundles for firewood) are plaited into the shape of a crown and this is pressed into His scalp. Again there is copious bleeding, the scalp being one of the most vascular areas of the body."
 msgstr ""
 
-#: 11_medical_account.html:102
+#: 11_medical_account.html:109
 msgid "After mocking Him and striking Him across the face, the soldiers take the stick from His hand and strike Him across the head, driving the thorns deeper into His scalp. Finally, they tire of their sadistic sport and the robe is torn from His back. Already having adhered to the clots of blood and serum in the wounds, its removal causes excruciating pain just as in the careless removal of a surgical bandage, and almost as though He were again being whipped the wounds once more begin to bleed."
 msgstr ""
 
-#: 11_medical_account.html:106
+#: 11_medical_account.html:113
 msgid "In deference to Jewish custom, the Romans return His garments. The heavy patibulum of the cross is tied across His shoulders, and the procession of the condemned Christ, two thieves, and the execution detail of Roman soldiers headed by a centurion begins its slow journey along the Via Dolorosa. In spite of His efforts to walk erect, the weight of the heavy wooden beam, together with the shock produced by copious blood loss, is too much. He stumbles and falls. The rough wood of the beam gouges into the lacerated skin and muscles of the shoulders. He tries to rise, but human muscles have been pushed beyond their endurance."
 msgstr ""
 
-#: 11_medical_account.html:110
+#: 11_medical_account.html:117
 msgid "The centurion, anxious to get on with the crucifixion, selects a stalwart North African onlooker, Simon of Cyrene, to carry the cross. Jesus follows, still bleeding and sweating the cold, clammy sweat of shock, until the 650 yard journey from the fortress Antonia to Golgotha is finally completed."
 msgstr ""
 
-#: 11_medical_account.html:114
+#: 11_medical_account.html:121
 msgid "Jesus is offered wine mixed with myrrh, a mild analgesic mixture. He refuses to drink. Simon is ordered to place the patibulum on the ground and Jesus quickly thrown backward with His shoulders against the wood. The legionnaire feels for the depression at the front of the wrist. He drives a heavy, square, wrought-iron nail through the wrist and deep into the wood. Quickly, he moves to the other side and repeats the action being careful not to pull the arms too tightly, but to allow some flexion and movement. The patibulum is then lifted in place at the top of the stipes and the titulus reading \"Jesus of Nazareth, King of the Jews\" is nailed in place."
 msgstr ""
 
-#: 11_medical_account.html:118
+#: 11_medical_account.html:125
 msgid "The left foot is now pressed backward against the right foot, and with both feet extended, toes down, a nail is driven through the arch of each, leaving the knees moderately flexed. The victim is now crucified. As He slowly sags down with more weight on the nails in the wrists excruciating pain shoots along the fingers and up the arms to explode in the brain. As He pushes Himself upward to avoid this stretching torment, He places His full weight on the nail through His feet. Again there is the searing agony of the nail tearing through the nerves between the metatarsal bones of the feet."
 msgstr ""
 
-#: 11_medical_account.html:122
+#: 11_medical_account.html:129
 msgid "At this point, as the arms fatigue, great waves of cramps sweep over the muscles, knotting them in deep, relentless, throbbing pain. With these cramps comes the inability to push Himself upward. Hanging by His arms, the pectoral muscles are paralyzed and the intercostal muscles are unable to act. Air can be drawn into the lungs, but cannot be exhaled. Jesus fights to raise Himself in order to get even one short breath. Finally, carbon dioxide builds up in the lungs and in the blood stream and the cramps partially subside. Spasmodically, He is able to push Himself upward to exhale and bring in the life-giving oxygen. It was undoubtedly during these periods that He uttered the seven short sentences recorded:"
 msgstr ""
 
-#: 11_medical_account.html:126
+#: 11_medical_account.html:133
 msgid "The first, looking down at the Roman soldiers throwing dice for His seamless garment"
 msgstr ""
 
-#: 11_medical_account.html:128
+#: 11_medical_account.html:135
 msgid "Father, forgive them for they know not what they do."
 msgstr ""
 
-#: 11_medical_account.html:133
+#: 11_medical_account.html:140
 msgid "The second, to the penitent thief"
 msgstr ""
 
-#: 11_medical_account.html:135
+#: 11_medical_account.html:142
 msgid "Today thou shalt be with me in Paradise."
 msgstr ""
 
-#: 11_medical_account.html:140
+#: 11_medical_account.html:147
 msgid "The third, looking down at the terrified, grief-stricken adolescent John - the beloved Apostle - he said"
 msgstr ""
 
-#: 11_medical_account.html:143
+#: 11_medical_account.html:150
 msgid "Behold thy mother."
 msgstr ""
 
-#: 11_medical_account.html:145
+#: 11_medical_account.html:152
 msgid "Then, looking to His mother Mary"
 msgstr ""
 
-#: 11_medical_account.html:147
+#: 11_medical_account.html:154
 msgid "Woman behold thy son."
 msgstr ""
 
-#: 11_medical_account.html:152
+#: 11_medical_account.html:159
 msgid "The fourth cry is from the beginning of the 22nd Psalm"
 msgstr ""
 
-#: 11_medical_account.html:154
+#: 11_medical_account.html:161
 msgid "My God, my God, why has thou forsaken me?"
 msgstr ""
 
-#: 11_medical_account.html:159
+#: 11_medical_account.html:166
 msgid "Hours of limitless pain, cycles of twisting, joint-rending cramps, intermittent partial asphyxiation, searing pain where tissue is torn from His lacerated back as He moves up and down against the rough timber. Then another agony begins... A terrible crushing pain deep in the chest as the pericardium slowly fills with serum and begins to compress the heart."
 msgstr ""
 
-#: 11_medical_account.html:163
+#: 11_medical_account.html:170
 msgid "One remembers again the 22nd Psalm, the 14th verse:"
 msgstr ""
 
-#: 11_medical_account.html:165
+#: 11_medical_account.html:172
 msgid "I am poured out like water, and all my bones are out of joint; my heart is like wax; it is melted in the midst of my bowels."
 msgstr ""
 
-#: 11_medical_account.html:170
+#: 11_medical_account.html:177
 msgid "It is now almost over. The loss of tissue fluids has reached a critical level; the compressed heart is struggling to pump heavy, thick, sluggish blood into the tissue; the tortured lungs are making a frantic effort to gasp in small gulps of air. The markedly dehydrated tissues send their flood of stimuli to the brain."
 msgstr ""
 
-#: 11_medical_account.html:174
+#: 11_medical_account.html:181
 msgid "Jesus gasps His fifth cry"
 msgstr ""
 
-#: 11_medical_account.html:176
+#: 11_medical_account.html:183
 msgid "I thirst."
 msgstr ""
 
-#: 11_medical_account.html:181
+#: 11_medical_account.html:188
 msgid "One remembers another verse from the prophetic 22nd Psalm:"
 msgstr ""
 
-#: 11_medical_account.html:183
+#: 11_medical_account.html:190
 msgid "My strength is dried up like a potsherd; and my tongue cleaveth to my jaws; and thou has brought me into the dust of death."
 msgstr ""
 
-#: 11_medical_account.html:188
+#: 11_medical_account.html:195
 msgid "A sponge soaked in posca, the cheap, sour wine which is the staple drink of the Roman legionaries, is lifted to His lips. He apparently doesn't take any of the liquid. The body of Jesus is now in extremis, and He can feel the chill of death creeping through His tissues. This realization brings out His sixth words, possibly little more than a tortured whisper"
 msgstr ""
 
-#: 11_medical_account.html:190
+#: 11_medical_account.html:197
 msgid "It is finished."
 msgstr ""
 
-#: 11_medical_account.html:192
+#: 11_medical_account.html:199
 msgid "His mission of atonement has completed. Finally He can allow his body to die."
 msgstr ""
 
-#: 11_medical_account.html:196
+#: 11_medical_account.html:203
 msgid "With one last surge of strength, He once again presses His torn feet against the nail, straightens His legs, takes a deeper breath, and utters His seventh and last cry"
 msgstr ""
 
-#: 11_medical_account.html:198
+#: 11_medical_account.html:205
 msgid "Father! Into thy hands I commit my spirit."
 msgstr ""
 
-#: 11_medical_account.html:203
+#: 11_medical_account.html:210
 msgid "The rest you know. In order that the Sabbath not be profaned, the Jews asked that the condemned men be dispatched and removed from the crosses. The common method of ending a crucifixion was by crucifracture, the breaking of the bones of the legs. This prevented the victim from pushing himself upward; thus the tension could not be relieved from the muscles of the chest and rapid suffocation occurred. The legs of the two thieves were broken, but when the soldiers came to Jesus they saw that this was unnecessary."
 msgstr ""
 
-#: 11_medical_account.html:207
+#: 11_medical_account.html:214
 msgid "Apparently to make doubly sure of death, the legionnaire drove his lance through the fifth interspace between the ribs, upward through the pericardium and into the heart. The 34th verse of the 19th chapter of the Gospel according to St. John reports:"
 msgstr ""
 
-#: 11_medical_account.html:209
+#: 11_medical_account.html:216
 msgid "And immediately there came out blood and water."
 msgstr ""
 
-#: 11_medical_account.html:211
+#: 11_medical_account.html:218
 msgid "That is, there was an escape of water fluid from the sac surrounding the heart, giving postmortem evidence that our Lord died not the usual crucifixion death by suffocation, but of heart failure due to shock and constriction of the heart by fluid in the pericardium."
 msgstr ""
 
-#: 11_medical_account.html:215
+#: 11_medical_account.html:222
 msgid "Thus we have had our glimpse - including the medical evidence - of that epitome of evil which man has exhibited toward man and toward God. It has been a terrible sight, and more than enough to leave us despondent and depressed. How grateful we can be that we have the great sequel in the infinite mercy of God toward man - at once the miracle of the atonement and the expectation of the triumphant Easter morning."
 msgstr ""
 
-#: 11_medical_account.html:219
+#: 11_medical_account.html:226
 msgid "From"
 msgstr ""
 
-#: 11_medical_account.html:221
+#: 11_medical_account.html:228
 msgid "New Wine Magazine, April 1982"
 msgstr ""
 
-#: 11_medical_account.html:223
+#: 11_medical_account.html:230
 msgid "Originally published in Arizona Medicine, March 1965, Arizona Medical Association."
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:28
+#: 12_baptism_with_the_holy_spirit.html:35
 msgctxt "baptism_with_the_holy_spirit #1"
 msgid "Introduction:"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:28
+#: 12_baptism_with_the_holy_spirit.html:35
 msgid "Jesus was given the Spirit in full measure (RSV), no limit"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:29
+#: 12_baptism_with_the_holy_spirit.html:36
 msgid "John 3:34"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:30
+#: 12_baptism_with_the_holy_spirit.html:37
 msgid "There are three measures of the Holy Spirit:"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:34
+#: 12_baptism_with_the_holy_spirit.html:41
 msgid "The Indwelling of the Holy Spirit"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:38
+#: 12_baptism_with_the_holy_spirit.html:45
 msgid "Terminology from"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:41
+#: 12_baptism_with_the_holy_spirit.html:48
 msgid "Romans 8:9"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:43
+#: 12_baptism_with_the_holy_spirit.html:50
 msgid "(RSV)"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:47
+#: 12_baptism_with_the_holy_spirit.html:54
 msgid "Received at baptism"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:50
+#: 12_baptism_with_the_holy_spirit.html:57
 msgctxt "baptism_with_the_holy_spirit #1"
 msgid "Acts 2:38"
-msgstr ""
-
-#: 12_baptism_with_the_holy_spirit.html:58
-msgctxt "baptism_with_the_holy_spirit #1"
-msgid "The Baptism with the Holy Spirit"
-msgstr ""
-
-#: 12_baptism_with_the_holy_spirit.html:62
-msgid "Characteristics in"
 msgstr ""
 
 #: 12_baptism_with_the_holy_spirit.html:65
 msgctxt "baptism_with_the_holy_spirit #1"
+msgid "The Baptism with the Holy Spirit"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:69
+msgid "Characteristics in"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:72
+msgctxt "baptism_with_the_holy_spirit #1"
 msgid "Acts 2"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:68
+#: 12_baptism_with_the_holy_spirit.html:75
 msgctxt "baptism_with_the_holy_spirit #1"
 msgid "and"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:71
+#: 12_baptism_with_the_holy_spirit.html:78
 msgctxt "baptism_with_the_holy_spirit #1"
 msgid "Acts 10"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:76
+#: 12_baptism_with_the_holy_spirit.html:83
 msgid "Promise (not command):"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:79
+#: 12_baptism_with_the_holy_spirit.html:86
 msgid "Acts 1:4-5"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:84
+#: 12_baptism_with_the_holy_spirit.html:91
 msgid "Predicted (prophesied)"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:87
+#: 12_baptism_with_the_holy_spirit.html:94
 msgid "Came without warning. (People were not specifically praying for it)"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:90
+#: 12_baptism_with_the_holy_spirit.html:97
 msgid "Languages"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:93
+#: 12_baptism_with_the_holy_spirit.html:100
 msgid "Purpose:  to usher in the Kingdom with power"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:96
+#: 12_baptism_with_the_holy_spirit.html:103
 msgctxt "baptism_with_the_holy_spirit #1"
 msgid "Acts 1:8"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:103
+#: 12_baptism_with_the_holy_spirit.html:110
 msgid "Accounts of the Baptism with the Holy Spirit"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:106
+#: 12_baptism_with_the_holy_spirit.html:113
 msgid "To the Jews — in Jerusalem"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:109
+#: 12_baptism_with_the_holy_spirit.html:116
 msgctxt "baptism_with_the_holy_spirit #2"
 msgid "Acts 2"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:114
+#: 12_baptism_with_the_holy_spirit.html:121
 msgid "To the Gentiles — begins with Cornelius"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:117
+#: 12_baptism_with_the_holy_spirit.html:124
 msgctxt "baptism_with_the_holy_spirit #2"
 msgid "Acts 10"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:122
+#: 12_baptism_with_the_holy_spirit.html:129
 msgid "Note:  Cornelius and his household were water baptized in"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:124
+#: 12_baptism_with_the_holy_spirit.html:131
 msgid "Acts 10:48"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:126
+#: 12_baptism_with_the_holy_spirit.html:133
 msgid "saved at baptism"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:129
+#: 12_baptism_with_the_holy_spirit.html:136
 msgid "Peter explained actions to the Jews"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:132
+#: 12_baptism_with_the_holy_spirit.html:139
 msgid "Acts 11:1-18"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:137
+#: 12_baptism_with_the_holy_spirit.html:144
 msgid "\"At the beginning\""
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:140
+#: 12_baptism_with_the_holy_spirit.html:147
 msgid "Acts 11:15"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:145
+#: 12_baptism_with_the_holy_spirit.html:152
 msgid "Peter gives the \"keys to the Kingdom\" to both Jews and Gentiles"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:152
+#: 12_baptism_with_the_holy_spirit.html:159
 msgid "Does the Baptism with the Holy Spirit still exist today?"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:155
+#: 12_baptism_with_the_holy_spirit.html:162
 msgctxt "baptism_with_the_holy_spirit #1"
 msgid "Ephesians 4:4-6"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:158
+#: 12_baptism_with_the_holy_spirit.html:165
 msgid "There is one baptism — which one?"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:158
+#: 12_baptism_with_the_holy_spirit.html:165
 msgid "Written about"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:160
+#: 12_baptism_with_the_holy_spirit.html:167
 msgctxt "baptism_with_the_holy_spirit #1"
 msgid "60-62 A.D."
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:162
+#: 12_baptism_with_the_holy_spirit.html:169
 msgid "There are three options:"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:165
+#: 12_baptism_with_the_holy_spirit.html:172
 msgid "John's baptism — Passed when the new covenant began"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:168
+#: 12_baptism_with_the_holy_spirit.html:175
 msgctxt "baptism_with_the_holy_spirit #1"
 msgid "Acts 19:1-5"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:173
+#: 12_baptism_with_the_holy_spirit.html:180
 msgctxt "baptism_with_the_holy_spirit #2"
 msgid "The Baptism with the Holy Spirit"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:176
+#: 12_baptism_with_the_holy_spirit.html:183
 msgctxt "baptism_with_the_holy_spirit #3"
 msgid "Acts 2"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:178
+#: 12_baptism_with_the_holy_spirit.html:185
 msgctxt "baptism_with_the_holy_spirit #2"
 msgid "and"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:180
+#: 12_baptism_with_the_holy_spirit.html:187
 msgctxt "baptism_with_the_holy_spirit #3"
 msgid "Acts 10"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:183
+#: 12_baptism_with_the_holy_spirit.html:190
 msgid "is no longer present as it was a prophecy/promise that has been fulfilled.  It was never a general command for all Christians"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:186
+#: 12_baptism_with_the_holy_spirit.html:193
 msgid "Baptism with water in the name of Jesus Christ for the forgiveness of sins to receive the indwelling of the Holy Spirit"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:189
+#: 12_baptism_with_the_holy_spirit.html:196
 msgid "Jesus commanded this baptism"
-msgstr ""
-
-#: 12_baptism_with_the_holy_spirit.html:192
-msgctxt "baptism_with_the_holy_spirit #1"
-msgid "Matthew 28:18-20"
-msgstr ""
-
-#: 12_baptism_with_the_holy_spirit.html:197
-msgid "This baptism is recorded all the way through the book of Acts and the Epistles. In fact, Peter was present for all the baptisms:  John's baptism, both accounts of the Baptism of the Holy Spirit, and preached water baptism in the name of Jesus in Acts 2"
 msgstr ""
 
 #: 12_baptism_with_the_holy_spirit.html:199
 msgctxt "baptism_with_the_holy_spirit #1"
-msgid "33 A.D."
-msgstr ""
-
-#: 12_baptism_with_the_holy_spirit.html:201
-msgid "and in"
+msgid "Matthew 28:18-20"
 msgstr ""
 
 #: 12_baptism_with_the_holy_spirit.html:204
+msgid "This baptism is recorded all the way through the book of Acts and the Epistles. In fact, Peter was present for all the baptisms:  John's baptism, both accounts of the Baptism of the Holy Spirit, and preached water baptism in the name of Jesus in Acts 2"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:206
+msgctxt "baptism_with_the_holy_spirit #1"
+msgid "33 A.D."
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:208
+msgid "and in"
+msgstr ""
+
+#: 12_baptism_with_the_holy_spirit.html:211
 msgctxt "baptism_with_the_holy_spirit #1"
 msgid "1 Peter 3:18-21"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:207
+#: 12_baptism_with_the_holy_spirit.html:214
 msgid "written around"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:209
+#: 12_baptism_with_the_holy_spirit.html:216
 msgid "64 A.D."
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:211
+#: 12_baptism_with_the_holy_spirit.html:218
 msgid "well after all the events of the book of Acts"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:214
+#: 12_baptism_with_the_holy_spirit.html:221
 msgid "It had to be the one baptism of"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:217
+#: 12_baptism_with_the_holy_spirit.html:224
 msgctxt "baptism_with_the_holy_spirit #2"
 msgid "Ephesians 4:4-6"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:220
+#: 12_baptism_with_the_holy_spirit.html:227
 msgid "as it was the only one practiced by"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:222
+#: 12_baptism_with_the_holy_spirit.html:229
 msgctxt "baptism_with_the_holy_spirit #2"
 msgid "60-62 A.D."
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:224
+#: 12_baptism_with_the_holy_spirit.html:231
 msgid "when Ephesians was written"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:234
+#: 12_baptism_with_the_holy_spirit.html:241
 msgid "The"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:236
+#: 12_baptism_with_the_holy_spirit.html:243
 msgid "miraculous gifts of the Holy Spirit"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:239
+#: 12_baptism_with_the_holy_spirit.html:246
 msgid "(next lesson)"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:242
+#: 12_baptism_with_the_holy_spirit.html:249
 msgid "Received by the apostles' laying on of hands"
 msgstr ""
 
-#: 12_baptism_with_the_holy_spirit.html:245
+#: 12_baptism_with_the_holy_spirit.html:252
 msgid "No longer present today"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:31
+#: 13_miraculous_gifts_of_the_holy_spirit.html:38
 msgid "Types of Miraculous Gifts"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:37
+#: 13_miraculous_gifts_of_the_holy_spirit.html:44
 msgid "1 Corinthians 12:8-10"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:42
+#: 13_miraculous_gifts_of_the_holy_spirit.html:49
 msgid "Wisdom"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:45
+#: 13_miraculous_gifts_of_the_holy_spirit.html:52
 msgid "Knowledge"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:48
+#: 13_miraculous_gifts_of_the_holy_spirit.html:55
 msgid "Faith"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:51
+#: 13_miraculous_gifts_of_the_holy_spirit.html:58
 msgctxt "miraculous_gifts_of_the_holy_spirit #1"
 msgid "Healing"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:54
+#: 13_miraculous_gifts_of_the_holy_spirit.html:61
 msgid "Miracles"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:57
+#: 13_miraculous_gifts_of_the_holy_spirit.html:64
 msgid "Prophecy"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:60
+#: 13_miraculous_gifts_of_the_holy_spirit.html:67
 msgid "Distinguishing Spirits"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:63
+#: 13_miraculous_gifts_of_the_holy_spirit.html:70
 msgid "Tongues"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:66
+#: 13_miraculous_gifts_of_the_holy_spirit.html:73
 msgid "Interpretation"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:74
+#: 13_miraculous_gifts_of_the_holy_spirit.html:81
 msgid "Mark 16:16-18"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:77
+#: 13_miraculous_gifts_of_the_holy_spirit.html:84
 msgid "Some will be able to:"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:80
+#: 13_miraculous_gifts_of_the_holy_spirit.html:87
 msgid "Drink poison and not die"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:83
+#: 13_miraculous_gifts_of_the_holy_spirit.html:90
 msgid "Be bitten by snakes and not die"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:86
+#: 13_miraculous_gifts_of_the_holy_spirit.html:93
 msgid "Acts 28:5"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:97
+#: 13_miraculous_gifts_of_the_holy_spirit.html:104
 msgid "Types of \"Laying on of Hands\""
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:101
+#: 13_miraculous_gifts_of_the_holy_spirit.html:108
 msgid "Blessing"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:104
+#: 13_miraculous_gifts_of_the_holy_spirit.html:111
 msgid "Acts 13:3"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:110
+#: 13_miraculous_gifts_of_the_holy_spirit.html:117
 msgctxt "miraculous_gifts_of_the_holy_spirit #2"
 msgid "Healing"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:113
+#: 13_miraculous_gifts_of_the_holy_spirit.html:120
 msgid "Ananias heals Paul's blindness"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:116
+#: 13_miraculous_gifts_of_the_holy_spirit.html:123
 msgid "Acts 9:17-18"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:122
+#: 13_miraculous_gifts_of_the_holy_spirit.html:129
 msgid "Paul heals Publius' father on Malta"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:125
+#: 13_miraculous_gifts_of_the_holy_spirit.html:132
 msgid "Acts 28:8"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:133
+#: 13_miraculous_gifts_of_the_holy_spirit.html:140
 msgid "Passing on the Gifts"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:136
+#: 13_miraculous_gifts_of_the_holy_spirit.html:143
 msgid "Apostles pass on the gifts"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:139
+#: 13_miraculous_gifts_of_the_holy_spirit.html:146
 msgctxt "miraculous_gifts_of_the_holy_spirit #1"
 msgid "Acts 8:18"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:145
+#: 13_miraculous_gifts_of_the_holy_spirit.html:152
 msgid "These people could not pass on the gifts that they received"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:152
+#: 13_miraculous_gifts_of_the_holy_spirit.html:159
 msgctxt "miraculous_gifts_of_the_holy_spirit #1"
 msgid "Acts 6:1-8"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:155
+#: 13_miraculous_gifts_of_the_holy_spirit.html:162
 msgid "Context is the choosing of \"The Seven.\"  This is the first occasion that the gifts were passed.  Stephen immediately starts to perform miraculous signs among the people with God's power (v.8)"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:160
+#: 13_miraculous_gifts_of_the_holy_spirit.html:167
 msgid "Acts 8:1-25"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:163
+#: 13_miraculous_gifts_of_the_holy_spirit.html:170
 msgid "Context is after Stephen's martyrdom.  Great persecution breaks out.  Many leave, but apostles stay in Jerusalem.  Philip, one of \"The Seven\" who had received the gifts in"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:166
+#: 13_miraculous_gifts_of_the_holy_spirit.html:173
 msgctxt "miraculous_gifts_of_the_holy_spirit #2"
 msgid "Acts 6:1-8"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:169
+#: 13_miraculous_gifts_of_the_holy_spirit.html:176
 msgid "goes to Samaria.  He performs many miraculous signs and healings to get people to believe"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:175
+#: 13_miraculous_gifts_of_the_holy_spirit.html:182
 msgid "including Simon the Sorcerer"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:181
+#: 13_miraculous_gifts_of_the_holy_spirit.html:188
 msgid "and they are baptized.  (They became Christians and thus receive the forgiveness of sins and the gift (indwelling) of the Holy Spirit"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:184
+#: 13_miraculous_gifts_of_the_holy_spirit.html:191
 msgctxt "miraculous_gifts_of_the_holy_spirit #1"
 msgid "Acts 2:38"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:187
+#: 13_miraculous_gifts_of_the_holy_spirit.html:194
 msgid "When apostles come to Samaria, Simon saw that the Spirit's gifts were only given by apostles' laying on of hands and offers them money for this ability"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:190
+#: 13_miraculous_gifts_of_the_holy_spirit.html:197
 msgctxt "miraculous_gifts_of_the_holy_spirit #2"
 msgid "Acts 8:18"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:193
+#: 13_miraculous_gifts_of_the_holy_spirit.html:200
 msgid "Note:  Simon didn't ask Philip for the gifts because Philip could not pass them on.  Simon is rebuked for having the wrong motivation"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:198
+#: 13_miraculous_gifts_of_the_holy_spirit.html:205
 msgid "Acts 19:1-6"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:201
+#: 13_miraculous_gifts_of_the_holy_spirit.html:208
 msgid "Paul finds disciples in Ephesus who didn't know what the Holy Spirit was because they had only received John's baptism of repentance.  Then they were baptized into the name of Jesus Christ to receive the forgiveness of their sins and the indwelling of the Holy Spirit"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:207
+#: 13_miraculous_gifts_of_the_holy_spirit.html:214
 msgid "Then they receive the miraculous gifts of prophecy and speaking in tongues by the laying on of Paul's hands"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:213
+#: 13_miraculous_gifts_of_the_holy_spirit.html:220
 msgid "Paul is an apostle"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:221
+#: 13_miraculous_gifts_of_the_holy_spirit.html:228
 msgid "General Observations"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:225
+#: 13_miraculous_gifts_of_the_holy_spirit.html:232
 msgid "Apostles were able to pass on the gifts because they were apostles.  The Apostles possessed the ability to perform miracles even during the ministry of Christ"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:228
+#: 13_miraculous_gifts_of_the_holy_spirit.html:235
 msgid "Luke 9:1"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:231
+#: 13_miraculous_gifts_of_the_holy_spirit.html:238
 msgid "This ability to pass and perform the gifts was not given at Pentecost"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:235
+#: 13_miraculous_gifts_of_the_holy_spirit.html:242
 msgid "1 Corinthians"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:240
+#: 13_miraculous_gifts_of_the_holy_spirit.html:247
 msgctxt "miraculous_gifts_of_the_holy_spirit #1"
 msgid "and"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:246
+#: 13_miraculous_gifts_of_the_holy_spirit.html:253
 msgid "are not the directives on how to receive tongues (the church there had already received them), but rather the correctives on how to use them because everyone was speaking at the same time and misusing the tongues"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:249
+#: 13_miraculous_gifts_of_the_holy_spirit.html:256
 msgid "1 Corinthians 12:28-30"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:252
+#: 13_miraculous_gifts_of_the_holy_spirit.html:259
 msgid "shows that tongues as a gift were not given to everyone in the church.  Thus the concept of a \"Pentecostal church\" (every member speaking in tongues) is contrary to Scripture"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:257
+#: 13_miraculous_gifts_of_the_holy_spirit.html:264
 msgid "1 Corinthians 13:8-10"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:260
+#: 13_miraculous_gifts_of_the_holy_spirit.html:267
 msgid "\"Perfection\" here could not mean the coming of Christ because it is in the neuter gender in Greek, not the masculine gender.  When perfection comes probably refers to the canonization of the Bible some time after the first century.  At that time, all the miraculous gifts would be gone because all the apostles and those to whom they passed the gifts would have died"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:263
+#: 13_miraculous_gifts_of_the_holy_spirit.html:270
 msgid "The purpose of the miraculous gifts from"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:266
+#: 13_miraculous_gifts_of_the_holy_spirit.html:273
 msgid "1 Corinthians 14:20-22"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:272
+#: 13_miraculous_gifts_of_the_holy_spirit.html:279
 msgid "To get non-believers to believe (tongues were only to be used to bring non-believers to faith)"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:275
+#: 13_miraculous_gifts_of_the_holy_spirit.html:282
 msgid "To edify the Christians and strengthen their faith"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:278
+#: 13_miraculous_gifts_of_the_holy_spirit.html:285
 msgid "Now the Bible fulfills these needs — thus the church today does not need apostles or miraculous gifts"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:285
+#: 13_miraculous_gifts_of_the_holy_spirit.html:292
 msgid "2 Thessalonians 2:9-12"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:288
+#: 13_miraculous_gifts_of_the_holy_spirit.html:295
 msgid "shows that there can be miracles by Satan today.  Satan's purpose is to deceive people about the truth, so they will not be saved"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:291
+#: 13_miraculous_gifts_of_the_holy_spirit.html:298
 msgid "Speaking in \"tongues\" is common in many religions (Mormon, Catholic, Islam, etc.), because religion gets dried and staid.  These are also called \"ecstatic utterances\" — non-understandable sounds and fragments of speech"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:294
+#: 13_miraculous_gifts_of_the_holy_spirit.html:301
 msgid "A person can be filled with the Spirit without speaking in tongues"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:297
+#: 13_miraculous_gifts_of_the_holy_spirit.html:304
 msgid "Ephesians 5:18-20"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:303
+#: 13_miraculous_gifts_of_the_holy_spirit.html:310
 msgid "Jesus never spoke in tongues and he was accorded the full-measure of the Spirit"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:306
+#: 13_miraculous_gifts_of_the_holy_spirit.html:313
 msgid "John 3:34-36"
 msgstr ""
 
-#: 14_church.html:32
+#: 14_church.html:39
 msgid "Colossians 1:15-18"
 msgstr ""
 
-#: 14_church.html:36
+#: 14_church.html:43
 msgid "The church is the body of Christ.  The body needs the head.  The church is essential to Christianity"
 msgstr ""
 
-#: 14_church.html:41
+#: 14_church.html:48
 msgid "HEAD"
 msgstr ""
 
-#: 14_church.html:53
+#: 14_church.html:60
 msgid "CHRIST"
 msgstr ""
 
-#: 14_church.html:59
+#: 14_church.html:66
 msgid "BODY"
 msgstr ""
 
-#: 14_church.html:70
+#: 14_church.html:77
 msgid "CHURCH"
 msgstr ""
 
-#: 14_church.html:79
+#: 14_church.html:86
 msgid "Ephesians 2:19-21"
 msgstr ""
 
-#: 14_church.html:84
+#: 14_church.html:91
 msgid "The church is the family of God"
 msgstr ""
 
-#: 14_church.html:95
+#: 14_church.html:102
 msgctxt "church #1"
 msgid "GOD"
 msgstr ""
 
-#: 14_church.html:98
+#: 14_church.html:105
 msgid "(Father)"
 msgstr ""
 
-#: 14_church.html:121
+#: 14_church.html:128
 msgctxt "church #1"
 msgid "Christian"
 msgstr ""
 
-#: 14_church.html:123
+#: 14_church.html:130
 msgctxt "church #1"
 msgid "(Son)"
 msgstr ""
 
-#: 14_church.html:129
+#: 14_church.html:136
 msgid "Brothers"
 msgstr ""
 
-#: 14_church.html:135
+#: 14_church.html:142
 msgctxt "church #2"
 msgid "Christian"
 msgstr ""
 
-#: 14_church.html:137
+#: 14_church.html:144
 msgctxt "church #2"
 msgid "(Son)"
 msgstr ""
 
-#: 14_church.html:145
+#: 14_church.html:152
 msgctxt "church #1"
 msgid "1 Corinthians 12:12-13"
 msgstr ""
 
-#: 14_church.html:148
+#: 14_church.html:155
 msgid "teaches that we are baptized into the body of Christ, the church"
 msgstr ""
 
-#: 14_church.html:153
+#: 14_church.html:160
 msgid "Romans 6:3-4"
 msgstr ""
 
-#: 14_church.html:156
+#: 14_church.html:163
 msgid "teaches that we are also baptized into Christ.  Baptism is when we become Christian, a son of God, and at that same point we become members of the church, the family of God"
 msgstr ""
 
-#: 14_church.html:163
+#: 14_church.html:170
 msgid "Ephesians 2:20"
 msgstr ""
 
-#: 14_church.html:168
+#: 14_church.html:175
 msgid "Cornerstone:  Christ"
 msgstr ""
 
-#: 14_church.html:171
+#: 14_church.html:178
 msgid "Foundation:  Apostles and Prophets"
 msgstr ""
 
-#: 14_church.html:174
+#: 14_church.html:181
 msgid "Apostles = New Testament Bible"
 msgstr ""
 
-#: 14_church.html:177
+#: 14_church.html:184
 msgid "Prophets = Old Testament"
 msgstr ""
 
-#: 14_church.html:182
+#: 14_church.html:189
 msgid "The church is based on the Word of God only"
 msgstr ""
 
-#: 14_church.html:188
+#: 14_church.html:195
 msgid "Have you ever wondered why there are so many denominations — divisions?"
 msgstr ""
 
-#: 14_church.html:190
+#: 14_church.html:197
 msgid "(450 or more exist in the U.S. alone)"
 msgstr ""
 
-#: 14_church.html:193
+#: 14_church.html:200
 msgid "The Bible teaches that there is one church"
 msgstr ""
 
-#: 14_church.html:198
+#: 14_church.html:205
 msgctxt "church #1"
 msgid "Ephesians 4:4-6"
 msgstr ""
 
-#: 14_church.html:201
+#: 14_church.html:208
 msgctxt "church #1"
 msgid "— one body"
 msgstr ""
 
-#: 14_church.html:206
+#: 14_church.html:213
 msgid "Romans 12:4-5"
 msgstr ""
 
-#: 14_church.html:209
+#: 14_church.html:216
 msgctxt "church #2"
 msgid "— one body"
 msgstr ""
 
-#: 14_church.html:214
+#: 14_church.html:221
 msgctxt "church #2"
 msgid "1 Corinthians 12:12-13"
 msgstr ""
 
-#: 14_church.html:217
+#: 14_church.html:224
 msgctxt "church #3"
 msgid "— one body"
 msgstr ""
 
-#: 14_church.html:222
+#: 14_church.html:229
 msgid "Divisions in Christendom are either of Satan or of God"
 msgstr ""
 
-#: 14_church.html:227
+#: 14_church.html:234
 msgid "1 Corinthians 1:10-13"
 msgstr ""
 
-#: 14_church.html:230
+#: 14_church.html:237
 msgid "Division is sin, when following personalities and in time their writings (traditions of men that contradict the Word — false doctrines)"
 msgstr ""
 
-#: 14_church.html:233
+#: 14_church.html:240
 msgctxt "church #1"
 msgid "Matthew 15:6-9"
 msgstr ""
 
-#: 14_church.html:240
+#: 14_church.html:247
 msgid "Luke 12:51-53"
 msgstr ""
 
-#: 14_church.html:244
+#: 14_church.html:251
 msgctxt "church #1"
 msgid "John 10:19-21"
 msgstr ""
 
-#: 14_church.html:247
+#: 14_church.html:254
 msgid "Division will occur and is righteous, when an individual, church or movement aligns themselves with the Word of God.  The Jews considered themselves \"God's people,\" yet Jesus' words (the truth) divided them into two groups — those who opposed Him and those who obeyed Him"
 msgstr ""
 
-#: 14_church.html:252
+#: 14_church.html:259
 msgid "The following are the major historical divisions in Christendom — some were formed by a noble stand for the truth (though not a complete return), while others were departures from the truth"
 msgstr ""
 
-#: 14_church.html:255
+#: 14_church.html:262
 msgid "Through the centuries the church was corrupted by traditions of men — false doctrines, such as: infant baptism, original sin, perpetual virginity of Mary, priests as clergy, papal infallibility, etc… This becomes the"
 msgstr ""
 
-#: 14_church.html:257
+#: 14_church.html:264
 msgid "Catholic Church"
 msgstr ""
 
-#: 14_church.html:259
+#: 14_church.html:266
 msgid "In 364 AD the Roman Empire is split into two parts. This division leads to a split in Christianity — the eastern portion becomes the"
 msgstr ""
 
-#: 14_church.html:261
+#: 14_church.html:268
 msgid "Eastern Orthodox Church"
 msgstr ""
 
-#: 14_church.html:263
+#: 14_church.html:270
 msgid "and the western part becomes the"
 msgstr ""
 
-#: 14_church.html:265
+#: 14_church.html:272
 msgid "Roman Catholic Church"
 msgstr ""
 
-#: 14_church.html:267
+#: 14_church.html:274
 msgid "Practices diverge, for example — Orthodox has married priests, Roman Catholic priests are celibate. The \"Great Schism\" occurs in 1054 AD, as the leaders of \"each church\" excommunicate each other"
 msgstr ""
 
-#: 14_church.html:271
+#: 14_church.html:278
 msgid "1500's Reformation Movement"
 msgstr ""
 
-#: 14_church.html:273
+#: 14_church.html:280
 msgid "— Martin Luther (Lutheran Church) He takes a stand against the Roman Catholic Church on these convictions: Bible authority over church authority, salvation by faith not works, and the priesthood of all believers, yet still baptizes infants. Other noted reformers were John Calvin (Presbyterian Church), Ulrich Zwingli and Conrad Grebel (Anabaptists). Anabaptists were heavily persecuted by Catholics and some reformers, because of their stand for adult baptism. Henry VIII (Anglican Church / Church of England) He breaks from the Catholic Church over his right to divorce his wife. He appoints himself head of the church. Later in the United States, the Anglican Church becomes the Episcopalian Church, since members will not follow the king of England"
 msgstr ""
 
-#: 14_church.html:277
+#: 14_church.html:284
 msgid "1700's Great Awakening Movement"
 msgstr ""
 
-#: 14_church.html:279
+#: 14_church.html:286
 msgid "— John and Charles Wesley (Methodist Church). Followers divide from Church of England over: personal transforming decision for Christ not state religion, high accountability of members, and preaching to the \"unchurched;\" also practiced infant baptism"
 msgstr ""
 
-#: 14_church.html:283
+#: 14_church.html:290
 msgid "1800's Restoration Movement"
 msgstr ""
 
-#: 14_church.html:285
+#: 14_church.html:292
 msgid "— Alexander Campbell and Barton Stone (Mainline Church of Christ and Conservative Christian Church) Take a stand against both Catholic and Protestant doctrines of salvation. They preach to be saved one must have personal faith in Christ, repentance and baptism (immersion) for the forgiveness of sin to receive the Holy Spirit. In reaction to Catholicism, their congregations are autonomous — self-governing. (1906 is the formal split between Mainline Church of Christ, which is non-instrumental, and the Conservative Christian Church, which is instrumental.) Joseph Smith (Mormon Church) divides from Restoration Movement in 1830 over \"new revelation\" — the Book of Mormon"
 msgstr ""
 
-#: 14_church.html:289
+#: 14_church.html:296
 msgid "1967 Crossroads Movement"
 msgstr ""
 
-#: 14_church.html:291
+#: 14_church.html:298
 msgid "(Total Commitment Movement) — Controversial, though never departing from the Mainline Church of Christ, the Crossroads Church near the University of Florida pioneers evangelizing the secular campuses of United States, \"counting the cost\" with each person that desires to be baptized, and the shepherding of new converts"
 msgstr ""
 
-#: 14_church.html:295
+#: 14_church.html:302
 msgid "1979 Boston Movement"
 msgstr ""
 
-#: 14_church.html:297
+#: 14_church.html:304
 msgid "(International Church of Christ) — Kip McKean — Baptized at the University of Florida in 1972, divides from Mainline Churches of Christ and Crossroads Movement over: Bible Church not just New Testament Church, only disciples are true Christians, each and every member of church must be a disciple, each member should be in discipling relationships, vision to evangelize the nations in a generation, the planting of new churches to achieve this vision, central leadership not autonomous congregations, and the role of women. In 2002, the International Churches of Christ return to a more Mainline Church of Christ theology — each congregation becomes autonomous (self-governing), calling a central leadership and the vision to evangelize the nations in a generation \"unbiblical.\" Around the world, thousands fall away"
 msgstr ""
 
-#: 14_church.html:301
+#: 14_church.html:308
 msgid "2006 SoldOut Movement"
 msgstr ""
 
-#: 14_church.html:303
+#: 14_church.html:310
 msgid "(Portland Movement / International Christian Church): Begins in Portland, Oregon as a revival movement within the International Churches of Christ. The International Church of Christ separates from the SoldOut Movement, because of the new movement's stand on these convictions: Bible Church not just New Testament Church, only disciples are true Christians, each and every member of church must be a disciple, each member should be in discipling relationships, vision to evangelize the nations in a generation, the planting of new churches to achieve this vision, central leadership not autonomous congregations, and the role of women"
 msgstr ""
 
-#: 14_church.html:311
+#: 14_church.html:318
 msgid "What is the \"one church?\""
 msgstr ""
 
-#: 14_church.html:317
+#: 14_church.html:324
 msgid "Acts 11:25-26"
 msgstr ""
 
-#: 14_church.html:319
+#: 14_church.html:326
 msgid "Church = Disciples = Christians"
 msgstr ""
 
-#: 14_church.html:321
+#: 14_church.html:328
 msgid "When God looks down from heaven, He sees one church — all the baptized disciples around the world, who are \"sold-out\" in obeying his Word.  This is called the \"church universal\" — the one true church"
 msgstr ""
 
-#: 14_church.html:324
+#: 14_church.html:331
 msgctxt "church #2"
 msgid "Ephesians 4:4-6"
 msgstr ""
 
-#: 14_church.html:330
+#: 14_church.html:337
 msgid "A local congregation is called the \"visible church.\"  In the first century, all the \"visible churches\" made up the \"church universal.\"  However, since so many \"visible churches\" have departed from true doctrine and because all sold-out baptized disciples are not in one fellowship, we should strive to be a member of a local congregation"
 msgstr ""
 
-#: 14_church.html:333
+#: 14_church.html:340
 msgid "The Greek word for church is \"ekklesia\" which means \"assembly\" or \"called out\" (\"Ek\" meaning 'out' and \"kaleo\" meaning 'to call').  To be a disciple is to be \"called out\" from the world.  Therefore, the church in the Bible was the \"assembly\" of the \"called out\""
 msgstr ""
 
-#: 14_church.html:336
+#: 14_church.html:343
 msgid "There are several names in the Bible for God's Church: Disciples, Christians, Church of God, Church of Christ, The Way, Church of the Firstborn, Saints, etc...  Since we are free to choose any name for our fellowship, since our fellowship goes around the world, and because our churches are composed of only sold-out disciples, we call ourselves the \"International Christian Church\""
 msgstr ""
 
-#: 14_church.html:342
+#: 14_church.html:349
 msgid "What distinguishes the International Christian Churches? (What separates or \"divides\" us from mainstream Christendom?)"
 msgstr ""
 
-#: 14_church.html:347
+#: 14_church.html:354
 msgid "We believe God physically resurrected Jesus from the dead"
 msgstr ""
 
-#: 14_church.html:352
+#: 14_church.html:359
 msgid "We believe the Bible is inspired by God and is our sole authority"
 msgstr ""
 
-#: 14_church.html:354
+#: 14_church.html:361
 msgid " Therefore, since we have not departed (divided) from the truth, we consider ourselves non-denominational"
 msgstr ""
 
-#: 14_church.html:358
+#: 14_church.html:365
 msgid "We are a Bible Church, not simply a New Testament Church"
 msgstr ""
 
-#: 14_church.html:360
+#: 14_church.html:367
 msgid "2 Timothy 3:14-17"
 msgstr ""
 
-#: 14_church.html:363
+#: 14_church.html:370
 msgid "The context of the word \"Scripture\" is referring to the Old Testament.  We believe the Old Testament applies to our lives — as much as the New Testament — except for the Mosaic Law and any teaching in the New Testament that supercedes the Old Testament (Example: grounds for divorce)"
 msgstr ""
 
-#: 14_church.html:367
+#: 14_church.html:374
 msgid "We believe — as in the book of Acts — the visible church should be composed of only sold-out baptized disciples"
 msgstr ""
 
-#: 14_church.html:372
+#: 14_church.html:379
 msgid "\"Be silent where the Bible speaks, and speak where the Bible is silent\""
 msgstr ""
 
-#: 14_church.html:374
+#: 14_church.html:381
 msgid "In applying Scriptural principles to build the visible church, we believe we must obey God's Word, but where the Bible does not prohibit a practice or name, we are free to use our God-given creativity"
 msgstr ""
 
-#: 14_church.html:377
+#: 14_church.html:384
 msgid "Genesis 2:19"
 msgstr ""
 
-#: 14_church.html:380
+#: 14_church.html:387
 msgid "(Examples: The principles for \"Bible Talks,\" \"Lead Evangelist,\" \"Discipleship Partners\" and \"Regions\" are in the Scriptures, though these terms are not.  However, nowhere are they prohibited.  Also instrumental music and paid Women's Ministry Leaders are not prohibited in the Scriptures)"
 msgstr ""
 
-#: 14_church.html:384
+#: 14_church.html:391
 msgid "We believe in a Central Leadership"
 msgstr ""
 
-#: 14_church.html:386
+#: 14_church.html:393
 msgid "Throughout God's Word, when His people were unified, there was a strong central leadership and godly central leader.  (Examples:  Moses, Joshua, David and of course Jesus and the Apostles)"
 msgstr ""
 
-#: 14_church.html:389
+#: 14_church.html:396
 msgid "1 Corinthians 4:15-17"
 msgstr ""
 
-#: 14_church.html:392
+#: 14_church.html:399
 msgctxt "church #1"
 msgid "and"
 msgstr ""
 
-#: 14_church.html:395
+#: 14_church.html:402
 msgid "Titus 1:5"
 msgstr ""
 
-#: 14_church.html:398
+#: 14_church.html:405
 msgid "teaches that local congregations had an overseeing evangelist, who unified the disciples \"everywhere in every church.\" In the first century, congregations were a collective movement — not autonomous, not self-governing)"
 msgstr ""
 
-#: 14_church.html:403
+#: 14_church.html:410
 msgctxt "church #1"
 msgid "Matthew 28:19-20"
 msgstr ""
 
-#: 14_church.html:405
+#: 14_church.html:412
 msgid "Our vision — the evangelization of all nations in this generation —"
 msgstr ""
 
-#: 14_church.html:407
+#: 14_church.html:414
 msgid "will be accomplished through every disciple making disciples and every disciple having discipling relationships"
 msgstr ""
 
-#: 14_church.html:414
+#: 14_church.html:421
 msgid "1 Corinthians 12:14-27"
 msgstr ""
 
-#: 14_church.html:419
+#: 14_church.html:426
 msgid "We need the body.  The body needs us"
 msgstr ""
 
-#: 14_church.html:422
+#: 14_church.html:429
 msgid "v. 21"
 msgstr ""
 
-#: 14_church.html:428
+#: 14_church.html:435
 msgid "Be involved on a relationship level in the church"
 msgstr ""
 
-#: 14_church.html:431
+#: 14_church.html:438
 msgid "v. 26"
 msgstr ""
 
-#: 14_church.html:441
+#: 14_church.html:448
 msgid "Hebrews 10:23-25"
 msgstr ""
 
-#: 14_church.html:446
+#: 14_church.html:453
 msgid "Do not miss church"
 msgstr ""
 
-#: 14_church.html:449
+#: 14_church.html:456
 msgid "The fellowship helps us to be unswerving in our commitment"
 msgstr ""
 
-#: 14_church.html:452
+#: 14_church.html:459
 msgctxt "church #1"
 msgid "v. 23"
 msgstr ""
 
-#: 14_church.html:458
+#: 14_church.html:465
 msgid "Another purpose of fellowship is to encourage each other so we will remain faithful"
 msgstr ""
 
-#: 14_church.html:460
+#: 14_church.html:467
 msgctxt "church #1"
 msgid "v. 24"
 msgstr ""
 
-#: 14_church.html:465
+#: 14_church.html:472
 msgid "Must come to all meetings of the body:  Sunday and Midweek Services, Bible Talks, special devotionals, Jubilees, retreats, etc...  Begin to rearrange schedule to come to all the meetings of the body"
 msgstr ""
 
-#: 14_church.html:471
+#: 14_church.html:478
 msgid "Contribution"
 msgstr ""
 
-#: 14_church.html:477
+#: 14_church.html:484
 msgctxt "church #1"
 msgid "Malachi 3:6-12"
 msgstr ""
 
-#: 14_church.html:480
+#: 14_church.html:487
 msgid "Do not rob God in your tithes and offerings.  Tithing is the guideline of our sacrifice on Sundays to meet the ministry needs.  Benevolent offerings are given at Midweek Services"
 msgstr ""
 
-#: 14_church.html:485
+#: 14_church.html:492
 msgid "2 Corinthians 9:6-8"
 msgstr ""
 
-#: 14_church.html:488
+#: 14_church.html:495
 msgid "Giving should be from a \"cheerful\" heart — not under compulsion"
 msgstr ""
 
-#: 14_church.html:491
+#: 14_church.html:498
 msgid "God blesses you when you sacrifice"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:34
+#: 16_after_baptism_now_what.html:41
 msgid "Discuss the young disciple's first few days as a Christian"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:37
+#: 16_after_baptism_now_what.html:44
 msgid "Share \"letter to God.\" If the new disciple has not had a chance to write one, encourage him/her to do so"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:45
+#: 16_after_baptism_now_what.html:52
 msgctxt "after_baptism_now_what #1"
 msgid "Acts 2:36-47"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:48
+#: 16_after_baptism_now_what.html:55
 msgid "The Conversion of the 3000"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:51
+#: 16_after_baptism_now_what.html:58
 msgid "Discuss Biblical conversion"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:54
+#: 16_after_baptism_now_what.html:61
 msgid "Review how to become a disciple"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:57
+#: 16_after_baptism_now_what.html:64
 msgid "Reinforce the joy of salvation and awe of God"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:62
+#: 16_after_baptism_now_what.html:69
 msgid "Devoted to the Apostles' Teaching — the Word"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:65
+#: 16_after_baptism_now_what.html:72
 msgid "For a quiet time, suggest a book or theme — reading a chapter a day"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:68
+#: 16_after_baptism_now_what.html:75
 msgid "For many, a quiet time journal is helpful"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:73
+#: 16_after_baptism_now_what.html:80
 msgid "Devoted to the Fellowship"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:76
+#: 16_after_baptism_now_what.html:83
 msgid "Discuss the purpose of each gathering:  Sunday Worship Services, Midweek Services — Men's Night Out / Women's Night Out, Bible Talks, Devotionals and discipleship partners"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:79
+#: 16_after_baptism_now_what.html:86
 msgid "Discuss the need to initiate relationships — to give, not just receive"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:82
+#: 16_after_baptism_now_what.html:89
 msgid "Discuss the importance of hospitality — invite people into your home for a meal"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:85
+#: 16_after_baptism_now_what.html:92
 msgid "Discuss the leadership's expectation to tithe on Sundays and give a benevolent offering at the Midweek Services.  Read together"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:88
+#: 16_after_baptism_now_what.html:95
 msgctxt "after_baptism_now_what #1"
 msgid "Malachi 3:6-12"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:91
+#: 16_after_baptism_now_what.html:98
 msgctxt "after_baptism_now_what #1"
 msgid "and"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:94
+#: 16_after_baptism_now_what.html:101
 msgctxt "after_baptism_now_what #1"
 msgid "Hebrews 13:17"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:101
+#: 16_after_baptism_now_what.html:108
 msgid "Devoted to Breaking Bread — Communion"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:104
+#: 16_after_baptism_now_what.html:111
 msgid "1 Corinthians 11:23-32"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:109
+#: 16_after_baptism_now_what.html:116
 msgid "Discuss the purpose of bread and fruit of the vine"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:112
+#: 16_after_baptism_now_what.html:119
 msgid "Discuss what it means to become spiritually \"weak, sick and fallen asleep.\" How does communion prevent these conditions?"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:112
+#: 16_after_baptism_now_what.html:119
 msgid "sick:"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:115
+#: 16_after_baptism_now_what.html:122
 msgid "Proverbs 13:12"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:122
+#: 16_after_baptism_now_what.html:129
 msgid "Devoted to Prayer"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:125
+#: 16_after_baptism_now_what.html:132
 msgid "Discuss how prayer brings peace"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:128
+#: 16_after_baptism_now_what.html:135
 msgid "Philippians 4:4-7"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:133
+#: 16_after_baptism_now_what.html:140
 msgid "Share petitions and answered prayers"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:142
+#: 16_after_baptism_now_what.html:149
 msgctxt "after_baptism_now_what #1"
 msgid "Acts 9:1-22"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:145
+#: 16_after_baptism_now_what.html:152
 msgid "The Conversion of Paul"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:148
+#: 16_after_baptism_now_what.html:155
 msgid "Paul immediately begins to preach"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:151
+#: 16_after_baptism_now_what.html:158
 msgid "With whom have you shared your faith?"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:154
+#: 16_after_baptism_now_what.html:161
 msgid "List friends and family to share with this week"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:159
+#: 16_after_baptism_now_what.html:166
 msgid "Paul grows powerful"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:162
+#: 16_after_baptism_now_what.html:169
 msgid "Paul is persecuted"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:169
+#: 16_after_baptism_now_what.html:176
 msgid "Hebrews 5:11-6:6"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:172
+#: 16_after_baptism_now_what.html:179
 msgid "The First Principles"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:175
+#: 16_after_baptism_now_what.html:182
 msgid "Strive to learn the first principles (elementary teachings) and go on to maturity, so you can be fruitful and not fall away"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:178
+#: 16_after_baptism_now_what.html:185
 msgid "Discuss taking the First Principles Classes"
 msgstr ""
 
-#: 17_christ_is_your_life.html:33
+#: 17_christ_is_your_life.html:40
 msgid "Discuss:"
 msgstr ""
 
-#: 17_christ_is_your_life.html:36
+#: 17_christ_is_your_life.html:43
 msgid "Did you have daily quiet times this past week?"
 msgstr ""
 
-#: 17_christ_is_your_life.html:39
+#: 17_christ_is_your_life.html:46
 msgid "Who did you share with and invite?"
 msgstr ""
 
-#: 17_christ_is_your_life.html:44
+#: 17_christ_is_your_life.html:51
 msgid "Discuss the impact of communion on Sunday"
 msgstr ""
 
-#: 17_christ_is_your_life.html:52
+#: 17_christ_is_your_life.html:59
 msgid "Colossians 3:1-4"
 msgstr ""
 
-#: 17_christ_is_your_life.html:55
+#: 17_christ_is_your_life.html:62
 msgid "Raised to a new life"
 msgstr ""
 
-#: 17_christ_is_your_life.html:58
+#: 17_christ_is_your_life.html:65
 msgid "Raised with Christ in baptism"
 msgstr ""
 
-#: 17_christ_is_your_life.html:61
+#: 17_christ_is_your_life.html:68
 msgctxt "christ_is_your_life #1"
 msgid "Colossians 2:12"
 msgstr ""
 
-#: 17_christ_is_your_life.html:67
+#: 17_christ_is_your_life.html:74
 msgid "The Holy Spirit, received at baptism, gives you the power to set your mind (thoughts) and set your heart (emotions) on things above"
 msgstr ""
 
-#: 17_christ_is_your_life.html:70
+#: 17_christ_is_your_life.html:77
 msgid "Christ is your life"
 msgstr ""
 
-#: 17_christ_is_your_life.html:77
+#: 17_christ_is_your_life.html:84
 msgid "Colossians 3:5-11"
 msgstr ""
 
-#: 17_christ_is_your_life.html:80
+#: 17_christ_is_your_life.html:87
 msgid "Put to death"
 msgstr ""
 
-#: 17_christ_is_your_life.html:83
+#: 17_christ_is_your_life.html:90
 msgid "Discuss and be open about your struggles this week"
 msgstr ""
 
-#: 17_christ_is_your_life.html:86
+#: 17_christ_is_your_life.html:93
 msgid "Discuss any financial challenges — pledge to God, rent, bills, salary, etc..."
 msgstr ""
 
-#: 17_christ_is_your_life.html:89
+#: 17_christ_is_your_life.html:96
 msgid "Discuss practical ways to crucify your sinful nature"
 msgstr ""
 
-#: 17_christ_is_your_life.html:96
+#: 17_christ_is_your_life.html:103
 msgid "Colossians 3:12-14"
 msgstr ""
 
-#: 17_christ_is_your_life.html:99
+#: 17_christ_is_your_life.html:106
 msgid "Put on — clothe yourself"
 msgstr ""
 
-#: 17_christ_is_your_life.html:102
+#: 17_christ_is_your_life.html:109
 msgid "Compassion"
 msgstr ""
 
-#: 17_christ_is_your_life.html:105
+#: 17_christ_is_your_life.html:112
 msgid "Kindness"
 msgstr ""
 
-#: 17_christ_is_your_life.html:108
+#: 17_christ_is_your_life.html:115
 msgid "Humility"
 msgstr ""
 
-#: 17_christ_is_your_life.html:111
+#: 17_christ_is_your_life.html:118
 msgid "Gentleness"
 msgstr ""
 
-#: 17_christ_is_your_life.html:114
+#: 17_christ_is_your_life.html:121
 msgid "Patience"
 msgstr ""
 
-#: 17_christ_is_your_life.html:117
+#: 17_christ_is_your_life.html:124
 msgid "Forgiveness"
 msgstr ""
 
-#: 17_christ_is_your_life.html:124
+#: 17_christ_is_your_life.html:131
 msgid "Colossians 3:15-24"
 msgstr ""
 
-#: 17_christ_is_your_life.html:127
+#: 17_christ_is_your_life.html:134
 msgid "New attitudes"
 msgstr ""
 
-#: 17_christ_is_your_life.html:130
+#: 17_christ_is_your_life.html:137
 msgid "Peace"
 msgstr ""
 
-#: 17_christ_is_your_life.html:133
+#: 17_christ_is_your_life.html:140
 msgid "Thankful"
 msgstr ""
 
-#: 17_christ_is_your_life.html:136
+#: 17_christ_is_your_life.html:143
 msgid "Wholehearted"
 msgstr ""
 
-#: 17_christ_is_your_life.html:139
+#: 17_christ_is_your_life.html:146
 msgid "Family Interactions"
 msgstr ""
 
-#: 17_christ_is_your_life.html:142
+#: 17_christ_is_your_life.html:149
 msgid "v. 18-21"
 msgstr ""
 
-#: 17_christ_is_your_life.html:148
+#: 17_christ_is_your_life.html:155
 msgid "Employer/employee relationships"
 msgstr ""
 
-#: 17_christ_is_your_life.html:151
+#: 17_christ_is_your_life.html:158
 msgctxt "christ_is_your_life #1"
 msgid "v. 22-24"
 msgstr ""
 
-#: 17_christ_is_your_life.html:157
+#: 17_christ_is_your_life.html:164
 msgid "Teacher/student relationships"
 msgstr ""
 
-#: 17_christ_is_your_life.html:160
+#: 17_christ_is_your_life.html:167
 msgctxt "christ_is_your_life #2"
 msgid "v. 22-24"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:33
+#: 18_best_friends_of_all_time.html:40
 msgid "Share about your closest relationships during your life — God and spiritual family in comparison to your physical family and old friends"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:36
+#: 18_best_friends_of_all_time.html:43
 msgid "Ask the young Christian, \"Who are your closest friends?\""
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:43
+#: 18_best_friends_of_all_time.html:50
 msgid "One Another Scriptures"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:49
+#: 18_best_friends_of_all_time.html:56
 msgctxt "best_friends_of_all_time #1"
 msgid "John 13:34-35"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:52
+#: 18_best_friends_of_all_time.html:59
 msgid "Love one another.  Jesus teaches that Christians should have closer and better relationships than people in the world. Set your mind to make disciples your best friends"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:57
+#: 18_best_friends_of_all_time.html:64
 msgid "Hebrews 3:12-14"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:60
+#: 18_best_friends_of_all_time.html:67
 msgid "Daily encouragement of one another"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:65
+#: 18_best_friends_of_all_time.html:72
 msgid "Ephesians 5:19-20"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:68
+#: 18_best_friends_of_all_time.html:75
 msgid "Worship God with one another — sing out to God and each other with psalms, hymns and spiritual songs"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:73
+#: 18_best_friends_of_all_time.html:80
 msgid "Colossians 1:28-29"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:76
+#: 18_best_friends_of_all_time.html:83
 msgid "Disciple one another.  This is essential in God's plan to become mature.  As we mature, we learn to instruct one another"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:79
+#: 18_best_friends_of_all_time.html:86
 msgid "Romans 15:14"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:87
+#: 18_best_friends_of_all_time.html:94
 msgid "Galatians 6:1-2"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:90
+#: 18_best_friends_of_all_time.html:97
 msgid "Gently restore one another and bear one another's burdens"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:95
+#: 18_best_friends_of_all_time.html:102
 msgid "James 5:16"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:98
+#: 18_best_friends_of_all_time.html:105
 msgid "Confess sins to one another.  Discuss openness and transparency, remembering that \"openness breeds openness,\" so share your struggles"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:103
+#: 18_best_friends_of_all_time.html:110
 msgid "James 5:16-18"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:106
+#: 18_best_friends_of_all_time.html:113
 msgid "Pray for one another.  It makes a difference!"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:111
+#: 18_best_friends_of_all_time.html:118
 msgid "Hebrews 12:14-15"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:114
+#: 18_best_friends_of_all_time.html:121
 msgid "Be holy and prevent \"bad attitudes\" in one another"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:119
+#: 18_best_friends_of_all_time.html:126
 msgid "1 Thessalonians 5:12-14"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:122
+#: 18_best_friends_of_all_time.html:129
 msgid "Outlook toward one another"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:127
+#: 18_best_friends_of_all_time.html:134
 msgid "John 17:20-23"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:130
+#: 18_best_friends_of_all_time.html:137
 msgid "The ultimate goal of love and unity — world evangelism!"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:136
+#: 18_best_friends_of_all_time.html:143
 msgid "Date and marry only disciples"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:142
+#: 18_best_friends_of_all_time.html:149
 msgid "1 Corinthians 7:39"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:145
+#: 18_best_friends_of_all_time.html:152
 msgid "Marriage must only be in the Lord"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:150
+#: 18_best_friends_of_all_time.html:157
 msgid "2 Corinthians 6:14-7:1"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:153
+#: 18_best_friends_of_all_time.html:160
 msgid "Dating, as in marriage, is a partnership in which you are \"yoked together.\"  Disciples must separate from unbelievers to receive the promises of God"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:158
+#: 18_best_friends_of_all_time.html:165
 msgid "1 Kings 11:1-10"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:162
+#: 18_best_friends_of_all_time.html:169
 msgid "Nehemiah 13:23-27"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:165
+#: 18_best_friends_of_all_time.html:172
 msgid "Study this principle in the Old Testament.  To date or marry outside of the faith is to be unfaithful to God.  If you are single, have you gone on a Christian date?"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:170
+#: 18_best_friends_of_all_time.html:177
 msgid "1 Peter 3:1-7"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:173
+#: 18_best_friends_of_all_time.html:180
 msgid "If you are married, are you winning your spouse?"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:179
+#: 18_best_friends_of_all_time.html:186
 msgid "Reconcile with one another"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:185
+#: 18_best_friends_of_all_time.html:192
 msgid "Matthew 18:15-17"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:188
+#: 18_best_friends_of_all_time.html:195
 msgid "Christians will sin against each other.  When someone sins against you, do not gossip by going to someone else.  Talk to the person who hurt you, so you can win him/her over as a friend"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:191
+#: 18_best_friends_of_all_time.html:198
 msgid "Church discipline begins one-on-one and rarely should go to step 2, 3 and 4"
 msgstr ""
 
-#: 19_mission.html:34
+#: 19_mission.html:41
 msgid "Share about the visitors you most recently brought to church or Bible Talk"
 msgstr ""
 
-#: 19_mission.html:37
+#: 19_mission.html:44
 msgid "Ask the young disciple about their evangelism"
 msgstr ""
 
-#: 19_mission.html:44
+#: 19_mission.html:51
 msgid "Jesus' Mission"
 msgstr ""
 
-#: 19_mission.html:50
+#: 19_mission.html:57
 msgctxt "mission #1"
 msgid "Luke 19:10"
 msgstr ""
 
-#: 19_mission.html:57
+#: 19_mission.html:64
 msgid "1 Timothy 1:15"
 msgstr ""
 
-#: 19_mission.html:64
+#: 19_mission.html:71
 msgctxt "mission #1"
 msgid "Matthew 28:19-20"
 msgstr ""
 
-#: 19_mission.html:71
+#: 19_mission.html:78
 msgid "Acts 20:24"
 msgstr ""
 
-#: 19_mission.html:76
+#: 19_mission.html:83
 msgid "What was Jesus' mission?"
 msgstr ""
 
-#: 19_mission.html:79
+#: 19_mission.html:86
 msgid "What is each disciple's mission?"
 msgstr ""
 
-#: 19_mission.html:87
+#: 19_mission.html:94
 msgid "Disciples' Mission"
 msgstr ""
 
-#: 19_mission.html:93
+#: 19_mission.html:100
 msgid "John 15:1-16"
 msgstr ""
 
-#: 19_mission.html:98
+#: 19_mission.html:105
 msgid "Glorifying God in"
 msgstr ""
 
-#: 19_mission.html:101
+#: 19_mission.html:108
 msgid "John 15"
 msgstr ""
 
-#: 19_mission.html:104
+#: 19_mission.html:111
 msgid "is bearing the fruit of making disciples, not simply baptizing"
 msgstr ""
 
-#: 19_mission.html:107
+#: 19_mission.html:114
 msgid "Matthew 28:19"
 msgstr ""
 
-#: 19_mission.html:110
+#: 19_mission.html:117
 msgid "commands us to \"go and make disciples;\""
 msgstr ""
 
-#: 19_mission.html:113
+#: 19_mission.html:120
 msgid "John 15:16"
 msgstr ""
 
-#: 19_mission.html:116
+#: 19_mission.html:123
 msgid "commands us to \"go and bear fruit that will last\""
 msgstr ""
 
-#: 19_mission.html:119
+#: 19_mission.html:126
 msgid "To bear fruit, one must be \"in the vine,\" otherwise we will be cut off"
 msgstr ""
 
-#: 19_mission.html:122
+#: 19_mission.html:129
 msgid "Jesus is the perfect discipler, but He is also the perfect disciple of God"
 msgstr ""
 
-#: 19_mission.html:125
+#: 19_mission.html:132
 msgid "To love God is to obey His commands.  Discipling helps our hearts to want to obey His commands"
 msgstr ""
 
-#: 19_mission.html:128
+#: 19_mission.html:135
 msgid "Matthew 28:20"
 msgstr ""
 
-#: 19_mission.html:131
+#: 19_mission.html:138
 msgid "Therefore, we must love one another, even to the point of laying down our lives for each other"
 msgstr ""
 
-#: 19_mission.html:136
+#: 19_mission.html:143
 msgid "The Book of Acts records the 30 years from the beginning of the church on the day of Pentecost to Paul's arrival in Rome — signaling that the gospel has gone to the known world.  The church in the first century was a movement.  Discuss the growth of the first century church when all Christians were striving to be fruitful — making disciples"
 msgstr ""
 
-#: 19_mission.html:141
+#: 19_mission.html:148
 msgid "Acts 2:41"
 msgstr ""
 
-#: 19_mission.html:148
+#: 19_mission.html:155
 msgid "Acts 2:47"
 msgstr ""
 
-#: 19_mission.html:155
+#: 19_mission.html:162
 msgid "Acts 4:4"
 msgstr ""
 
-#: 19_mission.html:162
+#: 19_mission.html:169
 msgid "Acts 5:14"
 msgstr ""
 
-#: 19_mission.html:169
+#: 19_mission.html:176
 msgid "Acts 6:1"
 msgstr ""
 
-#: 19_mission.html:176
+#: 19_mission.html:183
 msgid "Acts 6:7"
 msgstr ""
 
-#: 19_mission.html:183
+#: 19_mission.html:190
 msgid "Acts 8:4"
 msgstr ""
 
-#: 19_mission.html:190
+#: 19_mission.html:197
 msgid "Acts 9:31"
 msgstr ""
 
-#: 19_mission.html:197
+#: 19_mission.html:204
 msgid "Acts 11:21"
 msgstr ""
 
-#: 19_mission.html:204
+#: 19_mission.html:211
 msgid "Acts 12:24"
 msgstr ""
 
-#: 19_mission.html:211
+#: 19_mission.html:218
 msgid "Acts 13:49"
 msgstr ""
 
-#: 19_mission.html:218
+#: 19_mission.html:225
 msgid "Acts 14:1"
 msgstr ""
 
-#: 19_mission.html:225
+#: 19_mission.html:232
 msgid "Acts 14:21"
 msgstr ""
 
-#: 19_mission.html:232
+#: 19_mission.html:239
 msgid "Acts 16:5"
 msgstr ""
 
-#: 19_mission.html:239
+#: 19_mission.html:246
 msgid "Acts 17:4"
 msgstr ""
 
-#: 19_mission.html:246
+#: 19_mission.html:253
 msgid "Acts 17:6"
 msgstr ""
 
-#: 19_mission.html:249
+#: 19_mission.html:256
 msgid "(RSV):  \"These men who have turned the world upside-down have come here also...\""
 msgstr ""
 
-#: 19_mission.html:254
+#: 19_mission.html:261
 msgid "Colossians 1:6, 23"
 msgstr ""
 
-#: 19_mission.html:257
+#: 19_mission.html:264
 msgid "The known world was evangelized by 61 A.D., in a generation!  Paul is in prison when he writes Colossians —"
 msgstr ""
 
-#: 19_mission.html:260
+#: 19_mission.html:267
 msgid "Acts 28"
 msgstr ""
 
-#: 19_mission.html:263
+#: 19_mission.html:270
 msgid "Therefore, Jesus' vision became a reality — \"the evangelization of the nations in a generation!\""
 msgstr ""
 
-#: 19_mission.html:269
+#: 19_mission.html:276
 msgid "Discuss and pray for:"
 msgstr ""
 
-#: 19_mission.html:273
+#: 19_mission.html:280
 msgid "World Evangelism"
 msgstr ""
 
-#: 19_mission.html:276
+#: 19_mission.html:283
 msgid "Missions Teams"
 msgstr ""
 
-#: 19_mission.html:279
+#: 19_mission.html:286
 msgid "Your Kingdom dreams... how can you use your talents for God?"
 msgstr ""
 
-#: 20_persecution.html:30
+#: 20_persecution.html:37
 msgid "2 Timothy 3:12"
 msgstr ""
 
-#: 20_persecution.html:31
+#: 20_persecution.html:38
 msgid "Everyone who wants to live as a disciple will be persecuted"
 msgstr ""
 
-#: 20_persecution.html:36
+#: 20_persecution.html:43
 msgid "Jesus was persecuted"
 msgstr ""
 
-#: 20_persecution.html:41
+#: 20_persecution.html:48
 msgid "Family"
 msgstr ""
 
-#: 20_persecution.html:47
+#: 20_persecution.html:54
 msgid "Mark 3:20-21"
 msgstr ""
 
-#: 20_persecution.html:50
+#: 20_persecution.html:57
 msgid "Jesus' family thought that he was out of His mind (brain washed; mind-control)"
 msgstr ""
 
-#: 20_persecution.html:55
+#: 20_persecution.html:62
 msgid "Mark 3:31-35"
 msgstr ""
 
-#: 20_persecution.html:58
+#: 20_persecution.html:65
 msgid "Jesus prioritized His spiritual family above His physical family"
 msgstr ""
 
-#: 20_persecution.html:63
+#: 20_persecution.html:70
 msgid "Acts 1:12-14"
 msgstr ""
 
-#: 20_persecution.html:66
+#: 20_persecution.html:73
 msgid "This conviction produces conflict.  However, after His resurrection and ascension, His mother and brothers were disciples"
 msgstr ""
 
-#: 20_persecution.html:72
+#: 20_persecution.html:79
 msgid "Gossip and slander"
 msgstr ""
 
-#: 20_persecution.html:78
+#: 20_persecution.html:85
 msgid "John 7:12-13"
 msgstr ""
 
-#: 20_persecution.html:81
+#: 20_persecution.html:88
 msgid "Jesus was accused of deceiving people"
 msgstr ""
 
-#: 20_persecution.html:86
+#: 20_persecution.html:93
 msgctxt "persecution #1"
 msgid "John 10:19-21"
 msgstr ""
 
-#: 20_persecution.html:89
+#: 20_persecution.html:96
 msgid "The Jews — religious people — intensely persecuted Jesus through name-calling and character assassination.  Jesus' teaching always divided His listeners"
 msgstr ""
 
-#: 20_persecution.html:95
+#: 20_persecution.html:102
 msgid "Scope of persecution"
 msgstr ""
 
-#: 20_persecution.html:101
+#: 20_persecution.html:108
 msgid "Luke 23:1-3"
 msgstr ""
 
-#: 20_persecution.html:104
+#: 20_persecution.html:111
 msgid "Jesus is condemned to a death by crucifixion through half-truths"
 msgstr ""
 
-#: 20_persecution.html:107
+#: 20_persecution.html:114
 msgid "Jesus — who was perfect — was falsely accused and misunderstood by His family and killed by religious leaders.  What do you think will happen to you if you follow Jesus?"
 msgstr ""
 
-#: 20_persecution.html:115
+#: 20_persecution.html:122
 msgid "The First Century Church was persecuted"
 msgstr ""
 
-#: 20_persecution.html:121
+#: 20_persecution.html:128
 msgid "Acts 5:17-18, 38-42"
 msgstr ""
 
-#: 20_persecution.html:126
+#: 20_persecution.html:133
 msgid "The Jewish leadership arrested the apostles for preaching the Word, because of jealousy"
 msgstr ""
 
-#: 20_persecution.html:129
+#: 20_persecution.html:136
 msgid "Those who persecuted the Christians thought that they were doing this for God, though in fact they were fighting against Him"
 msgstr ""
 
-#: 20_persecution.html:132
+#: 20_persecution.html:139
 msgid "The apostles suffered physical mistreatment"
 msgstr ""
 
-#: 20_persecution.html:135
+#: 20_persecution.html:142
 msgid "Persecution did not stop the disciples from daily proclamation"
 msgstr ""
 
-#: 20_persecution.html:142
+#: 20_persecution.html:149
 msgid "Acts 28:21-22"
 msgstr ""
 
-#: 20_persecution.html:147
+#: 20_persecution.html:154
 msgid "Everywhere, the church was highly controversial"
 msgstr ""
 
-#: 20_persecution.html:150
+#: 20_persecution.html:157
 msgid "The church was called a \"sect\" (cult)"
 msgstr ""
 
-#: 20_persecution.html:153
+#: 20_persecution.html:160
 msgid "Since the International Christian Churches have the goal of imitating Jesus and the first century church, what will happen to us?  If a church is not being persecuted, what does that imply?"
 msgstr ""
 
-#: 20_persecution.html:161
+#: 20_persecution.html:168
 msgid "Causes of persecution.  "
 msgstr ""
 
-#: 20_persecution.html:163
+#: 20_persecution.html:170
 msgctxt "persecution #1"
 msgid "1 Timothy 4:16"
 msgstr ""
 
-#: 20_persecution.html:165
+#: 20_persecution.html:172
 msgid "— Life and Doctrine"
 msgstr ""
 
-#: 20_persecution.html:170
+#: 20_persecution.html:177
 msgid "Life"
 msgstr ""
 
-#: 20_persecution.html:176
+#: 20_persecution.html:183
 msgid "1 Peter 4:3-4"
 msgstr ""
 
-#: 20_persecution.html:179
+#: 20_persecution.html:186
 msgid "The world feels condemned by those who no longer participate in its sin"
 msgstr ""
 
-#: 20_persecution.html:184
+#: 20_persecution.html:191
 msgid "1 Peter 4:12-16"
 msgstr ""
 
-#: 20_persecution.html:187
+#: 20_persecution.html:194
 msgid "Do not be surprised or ashamed by persecution, but be sure you are persecuted for righteousness' sake"
 msgstr ""
 
-#: 20_persecution.html:193
+#: 20_persecution.html:200
 msgctxt "persecution #1"
 msgid "Doctrine"
 msgstr ""
 
-#: 20_persecution.html:197
+#: 20_persecution.html:204
 msgid "Preaching the Word —"
 msgstr ""
 
-#: 20_persecution.html:200
+#: 20_persecution.html:207
 msgid "John 15:18-20, 16:1-4"
 msgstr ""
 
-#: 20_persecution.html:205
+#: 20_persecution.html:212
 msgid "Jesus warns that persecution comes to those who preach the same message as Him"
 msgstr ""
 
-#: 20_persecution.html:208
+#: 20_persecution.html:215
 msgid "Jesus warns that the price of hatred is certain, and perhaps even death"
 msgstr ""
 
-#: 20_persecution.html:213
+#: 20_persecution.html:220
 msgid "Narrow Road of Salvation —"
 msgstr ""
 
-#: 20_persecution.html:216
+#: 20_persecution.html:223
 msgid "Matthew 7:13-14"
 msgstr ""
 
-#: 20_persecution.html:223
+#: 20_persecution.html:230
 msgid "Acts 4:12"
 msgstr ""
 
-#: 20_persecution.html:226
+#: 20_persecution.html:233
 msgid "Only an individual who believes in Jesus is saved.  (This truth condemns atheists, polytheists, Jews, Muslims, Hindus, Buddhists, etc...)"
 msgstr ""
 
-#: 20_persecution.html:231
+#: 20_persecution.html:238
 msgid "Acts 2:36-38"
 msgstr ""
 
-#: 20_persecution.html:234
+#: 20_persecution.html:241
 msgid "Only an adult who is water baptized for the forgiveness of sins is saved.  (This truth condemns those who practice infant baptism and \"praying Jesus into your heart\" as doctrines of salvation)"
 msgstr ""
 
-#: 20_persecution.html:239
+#: 20_persecution.html:246
 msgctxt "persecution #1"
 msgid "Matthew 28:19-20"
 msgstr ""
 
-#: 20_persecution.html:242
+#: 20_persecution.html:249
 msgid "Only the person who makes the decision to be baptized as a disciple is saved.  (This truth condemns those who may baptize for remission of sins, but are not made into disciples before and after baptism)"
 msgstr ""
 
-#: 20_persecution.html:245
+#: 20_persecution.html:252
 msgid "We do not condemn the lost; they are condemned already.  However, when the lost are confronted doctrinally about their condition before God, they will repent, run or persecute"
 msgstr ""
 
-#: 20_persecution.html:250
+#: 20_persecution.html:257
 msgid "Doctrine of discipling"
 msgstr ""
 
-#: 20_persecution.html:255
+#: 20_persecution.html:262
 msgctxt "persecution #2"
 msgid "Matthew 28:19-20"
 msgstr ""
 
-#: 20_persecution.html:258
+#: 20_persecution.html:265
 msgid "Discipling, calling people to obey the Word of God, is often viewed by the world as controlling"
 msgstr ""
 
-#: 20_persecution.html:268
+#: 20_persecution.html:275
 msgid "Our attitude about persecution"
 msgstr ""
 
-#: 20_persecution.html:274
+#: 20_persecution.html:281
 msgid "Matthew 5:10-12"
 msgstr ""
 
-#: 20_persecution.html:279
+#: 20_persecution.html:286
 msgid "Do not fear persecution.  Do not care what men think about you, only God"
 msgstr ""
 
-#: 20_persecution.html:282
+#: 20_persecution.html:289
 msgid "Rejoice!  You are not alone, since they persecuted both Jesus and the prophets"
 msgstr ""
 
-#: 20_persecution.html:289
+#: 20_persecution.html:296
 msgid "Ephesians 6:10-18"
 msgstr ""
 
-#: 20_persecution.html:294
+#: 20_persecution.html:301
 msgid "Satan is behind all persecution.  Only God and His spiritual armor will give you the victory over the world"
 msgstr ""
 
-#: 20_persecution.html:302
+#: 20_persecution.html:309
 msgctxt "persecution #1"
 msgid "Conclusion"
 msgstr ""
 
-#: 20_persecution.html:304
+#: 20_persecution.html:311
 msgid "— The International Christian Churches are a controversial Christian movement.  Some call us a cult and accuse us of both brain-washing and mind-control.  Many false rumors and half-truths have been spread.  Newspaper articles, television shows and especially the internet have slandered the ICC, and yet, the facts are that lives have been radically changed, marriages have been healed, drug addicts have been freed, the poor have been fed and cared for, and this rapidly growing movement — The SoldOut Movement — is spreading around the world in this generation!  Just like the first century!"
 msgstr ""
 
-#: 20_persecution.html:308
+#: 20_persecution.html:315
 msgid "* The Persecution study has been proven to be most helpful after the"
 msgstr ""
 
-#: 20_persecution.html:308
+#: 20_persecution.html:315
 msgid "study"
 msgstr ""
 
-#: 20_persecution.html:309
+#: 20_persecution.html:316
 msgid "See"
 msgstr ""
 
-#: 20_persecution.html:309
+#: 20_persecution.html:316
 msgid "caicc.net"
 msgstr ""
 
-#: 20_persecution.html:309
+#: 20_persecution.html:316
 msgid "usd21.org"
 msgstr ""
 
-#: 20_persecution.html:309
+#: 20_persecution.html:316
 msgctxt "persecution #1"
 msgid "and"
 msgstr ""
 
-#: 20_persecution.html:309
+#: 20_persecution.html:316
 msgid "KipMcKean.org"
 msgstr ""
 
-#: 21_memory_scriptures.html:31
+#: 21_memory_scriptures.html:38
 msgid "\"For I know the plans I have for you,\" declares the LORD, \"plans to prosper you and not to harm you, plans to give you hope and a future\""
 msgstr ""
 
-#: 21_memory_scriptures.html:33
+#: 21_memory_scriptures.html:40
 msgid "Jeremiah 29:11"
 msgstr ""
 
-#: 21_memory_scriptures.html:38
-msgid "But seek first his kingdom and his righteousness, and all these things will be given to you as well"
-msgstr ""
-
-#: 21_memory_scriptures.html:40
-msgctxt "memory_scriptures #1"
-msgid "Matthew 6:33"
-msgstr ""
-
 #: 21_memory_scriptures.html:45
-msgid "To the Jews who had believed him, Jesus said, \"If you hold to my teaching, you are really my disciples. Then you will know the truth, and the truth will set you free\""
+msgid "But seek first his kingdom and his righteousness, and all these things will be given to you as well"
 msgstr ""
 
 #: 21_memory_scriptures.html:47
 msgctxt "memory_scriptures #1"
-msgid "John 8:31-32"
+msgid "Matthew 6:33"
 msgstr ""
 
 #: 21_memory_scriptures.html:52
-msgid "I can do everything through him who gives me strength"
+msgid "To the Jews who had believed him, Jesus said, \"If you hold to my teaching, you are really my disciples. Then you will know the truth, and the truth will set you free\""
 msgstr ""
 
 #: 21_memory_scriptures.html:54
-msgid "Philippians 4:13"
+msgctxt "memory_scriptures #1"
+msgid "John 8:31-32"
 msgstr ""
 
 #: 21_memory_scriptures.html:59
-msgid "\"Come, follow me,\" Jesus said, \"and I will make you fishers of men\""
+msgid "I can do everything through him who gives me strength"
 msgstr ""
 
 #: 21_memory_scriptures.html:61
-msgid "Mark 1:17"
+msgid "Philippians 4:13"
 msgstr ""
 
 #: 21_memory_scriptures.html:66
-msgid "A new command I give you: Love one another. As I have loved you, so you must love one another.  By this all men will know that you are my disciples, if you love one another"
+msgid "\"Come, follow me,\" Jesus said, \"and I will make you fishers of men\""
 msgstr ""
 
 #: 21_memory_scriptures.html:68
-msgctxt "memory_scriptures #1"
-msgid "John 13:34-35"
+msgid "Mark 1:17"
 msgstr ""
 
 #: 21_memory_scriptures.html:73
-msgid "Peter replied, 'Repent and be baptized, every one of you, in the name of Jesus Christ for the forgiveness of your sins. And you will receive the gift of the Holy Spirit"
+msgid "A new command I give you: Love one another. As I have loved you, so you must love one another.  By this all men will know that you are my disciples, if you love one another"
 msgstr ""
 
 #: 21_memory_scriptures.html:75
 msgctxt "memory_scriptures #1"
-msgid "Acts 2:38"
+msgid "John 13:34-35"
 msgstr ""
 
 #: 21_memory_scriptures.html:80
-msgid "Rejoice in the Lord always. I will say it again: Rejoice!"
+msgid "Peter replied, 'Repent and be baptized, every one of you, in the name of Jesus Christ for the forgiveness of your sins. And you will receive the gift of the Holy Spirit"
 msgstr ""
 
 #: 21_memory_scriptures.html:82
-msgid "Philippians 4:4"
+msgctxt "memory_scriptures #1"
+msgid "Acts 2:38"
 msgstr ""
 
 #: 21_memory_scriptures.html:87
-msgid "The soul who sins is the one who will die. The son will not share the guilt of the father, nor will the father share the guilt of the son. The righteousness of the righteous man will be credited to him, and the wickedness of the wicked will be charged against him"
+msgid "Rejoice in the Lord always. I will say it again: Rejoice!"
 msgstr ""
 
 #: 21_memory_scriptures.html:89
+msgid "Philippians 4:4"
+msgstr ""
+
+#: 21_memory_scriptures.html:94
+msgid "The soul who sins is the one who will die. The son will not share the guilt of the father, nor will the father share the guilt of the son. The righteousness of the righteous man will be credited to him, and the wickedness of the wicked will be charged against him"
+msgstr ""
+
+#: 21_memory_scriptures.html:96
 msgctxt "memory_scriptures #1"
 msgid "Ezekiel 18:20"
 msgstr ""
 
-#: 21_memory_scriptures.html:94
+#: 21_memory_scriptures.html:101
 msgid "But even if we or an angel from heaven should preach a gospel other than the one we preached to you, let him be eternally condemned!"
 msgstr ""
 
-#: 21_memory_scriptures.html:96
+#: 21_memory_scriptures.html:103
 msgid "Galatians 1:8"
 msgstr ""
 
-#: 21_memory_scriptures.html:101
+#: 21_memory_scriptures.html:108
 msgid "Jesus replied: \"Love the Lord your God with all your heart and with all your soul and with all your mind.\" This is the first and greatest commandment. And the second is like it: \"Love your neighbor as yourself\""
 msgstr ""
 
-#: 21_memory_scriptures.html:103
+#: 21_memory_scriptures.html:110
 msgid "Matthew 22:37-39"
 msgstr ""
 
-#: 21_memory_scriptures.html:108
+#: 21_memory_scriptures.html:115
 msgid "This is to my Father's glory, that you bear much fruit, showing yourselves to be my disciples"
 msgstr ""
 
-#: 21_memory_scriptures.html:110
+#: 21_memory_scriptures.html:117
 msgid "John 15:8"
 msgstr ""
 
-#: 21_memory_scriptures.html:115
-msgid "Then Jesus came to them and said, \"All authority in heaven and on earth has been given to me. Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age\""
-msgstr ""
-
-#: 21_memory_scriptures.html:117
-msgctxt "memory_scriptures #1"
-msgid "Matthew 28:18-20"
-msgstr ""
-
 #: 21_memory_scriptures.html:122
-msgid "For the Son of Man came to seek and to save the lost"
+msgid "Then Jesus came to them and said, \"All authority in heaven and on earth has been given to me. Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age\""
 msgstr ""
 
 #: 21_memory_scriptures.html:124
 msgctxt "memory_scriptures #1"
-msgid "Luke 19:10"
+msgid "Matthew 28:18-20"
 msgstr ""
 
 #: 21_memory_scriptures.html:129
-msgid "And let us consider how we may spur one another on toward love and good deeds. Let us not give up meeting together, as some are in the habit of doing, but let us encourage one another — and all the more as you see the Day approaching"
+msgid "For the Son of Man came to seek and to save the lost"
 msgstr ""
 
 #: 21_memory_scriptures.html:131
-msgid "Hebrews 10:24-25"
+msgctxt "memory_scriptures #1"
+msgid "Luke 19:10"
 msgstr ""
 
 #: 21_memory_scriptures.html:136
-msgid "If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness"
+msgid "And let us consider how we may spur one another on toward love and good deeds. Let us not give up meeting together, as some are in the habit of doing, but let us encourage one another — and all the more as you see the Day approaching"
 msgstr ""
 
 #: 21_memory_scriptures.html:138
-msgid "1 John 1:9"
+msgid "Hebrews 10:24-25"
 msgstr ""
 
 #: 21_memory_scriptures.html:143
-msgid "See to it that no one misses the grace of God and that no bitter root grows up to cause trouble and defile many"
+msgid "If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness"
 msgstr ""
 
 #: 21_memory_scriptures.html:145
-msgid "Hebrews 12:15"
+msgid "1 John 1:9"
 msgstr ""
 
 #: 21_memory_scriptures.html:150
-msgid "Obey your leaders and submit to their authority. They keep watch over you as men who must give an account. Obey them so that their work will be a joy, not a burden, for that would be of no advantage to you"
+msgid "See to it that no one misses the grace of God and that no bitter root grows up to cause trouble and defile many"
 msgstr ""
 
 #: 21_memory_scriptures.html:152
+msgid "Hebrews 12:15"
+msgstr ""
+
+#: 21_memory_scriptures.html:157
+msgid "Obey your leaders and submit to their authority. They keep watch over you as men who must give an account. Obey them so that their work will be a joy, not a burden, for that would be of no advantage to you"
+msgstr ""
+
+#: 21_memory_scriptures.html:159
 msgctxt "memory_scriptures #1"
 msgid "Hebrews 13:17"
 msgstr ""
 
-#: 22_contact_us.html:28
+#: 22_contact_us.html:35
 msgid "Do you have feedback, suggestions or questions regarding this mobile application or the First Principles study series?  Please let us know!"
 msgstr ""
 
-#: 22_contact_us.html:30
+#: 22_contact_us.html:37
 msgid "To contact us regarding technical questions, such as improving this application on mobile devices, send an e-mail to:"
 msgstr ""
 
-#: 22_contact_us.html:31
+#: 22_contact_us.html:38
 msgid "support"
 msgstr ""
 
-#: 22_contact_us.html:33
+#: 22_contact_us.html:40
 msgid "To contact us regarding the Biblical content of these First Principles studies, visit our:"
 msgstr ""
 
-#: 22_contact_us.html:34
+#: 22_contact_us.html:41
 msgid "Movement Website"
 msgstr ""
 
-#: 22_contact_us.html:35
+#: 22_contact_us.html:42
 msgid "and locate Church in nation/city you want to contact to"
 msgstr ""
 
-#: 22_contact_us.html:37
+#: 22_contact_us.html:44
 msgid "We look forward to hearing from you!  We strive to respond promptly to all correspondence."
 msgstr ""

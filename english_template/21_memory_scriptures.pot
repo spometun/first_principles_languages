@@ -2,154 +2,170 @@
 msgid ""
 msgstr ""
 
-#: 21_memory_scriptures.html:31
-msgid "\"For I know the plans I have for you,\" declares the LORD, \"plans to prosper you and not to harm you, plans to give you hope and a future\""
+#: 21_memory_scriptures.html:17
+msgid "Memory Scriptures"
 msgstr ""
 
-#: 21_memory_scriptures.html:33
-msgid "Jeremiah 29:11"
+#: 21_memory_scriptures.html:29
+msgid "Home"
 msgstr ""
 
 #: 21_memory_scriptures.html:38
-msgid "But seek first his kingdom and his righteousness, and all these things will be given to you as well"
+msgid "\"For I know the plans I have for you,\" declares the LORD, \"plans to prosper you and not to harm you, plans to give you hope and a future\""
 msgstr ""
 
 #: 21_memory_scriptures.html:40
-msgctxt "memory_scriptures #1"
-msgid "Matthew 6:33"
+msgid "Jeremiah 29:11"
 msgstr ""
 
 #: 21_memory_scriptures.html:45
-msgid "To the Jews who had believed him, Jesus said, \"If you hold to my teaching, you are really my disciples. Then you will know the truth, and the truth will set you free\""
+msgid "But seek first his kingdom and his righteousness, and all these things will be given to you as well"
 msgstr ""
 
 #: 21_memory_scriptures.html:47
 msgctxt "memory_scriptures #1"
-msgid "John 8:31-32"
+msgid "Matthew 6:33"
 msgstr ""
 
 #: 21_memory_scriptures.html:52
-msgid "I can do everything through him who gives me strength"
+msgid "To the Jews who had believed him, Jesus said, \"If you hold to my teaching, you are really my disciples. Then you will know the truth, and the truth will set you free\""
 msgstr ""
 
 #: 21_memory_scriptures.html:54
-msgid "Philippians 4:13"
+msgctxt "memory_scriptures #1"
+msgid "John 8:31-32"
 msgstr ""
 
 #: 21_memory_scriptures.html:59
-msgid "\"Come, follow me,\" Jesus said, \"and I will make you fishers of men\""
+msgid "I can do everything through him who gives me strength"
 msgstr ""
 
 #: 21_memory_scriptures.html:61
-msgid "Mark 1:17"
+msgid "Philippians 4:13"
 msgstr ""
 
 #: 21_memory_scriptures.html:66
-msgid "A new command I give you: Love one another. As I have loved you, so you must love one another.  By this all men will know that you are my disciples, if you love one another"
+msgid "\"Come, follow me,\" Jesus said, \"and I will make you fishers of men\""
 msgstr ""
 
 #: 21_memory_scriptures.html:68
-msgctxt "memory_scriptures #1"
-msgid "John 13:34-35"
+msgid "Mark 1:17"
 msgstr ""
 
 #: 21_memory_scriptures.html:73
-msgid "Peter replied, 'Repent and be baptized, every one of you, in the name of Jesus Christ for the forgiveness of your sins. And you will receive the gift of the Holy Spirit"
+msgid "A new command I give you: Love one another. As I have loved you, so you must love one another.  By this all men will know that you are my disciples, if you love one another"
 msgstr ""
 
 #: 21_memory_scriptures.html:75
 msgctxt "memory_scriptures #1"
-msgid "Acts 2:38"
+msgid "John 13:34-35"
 msgstr ""
 
 #: 21_memory_scriptures.html:80
-msgid "Rejoice in the Lord always. I will say it again: Rejoice!"
+msgid "Peter replied, 'Repent and be baptized, every one of you, in the name of Jesus Christ for the forgiveness of your sins. And you will receive the gift of the Holy Spirit"
 msgstr ""
 
 #: 21_memory_scriptures.html:82
-msgid "Philippians 4:4"
+msgctxt "memory_scriptures #1"
+msgid "Acts 2:38"
 msgstr ""
 
 #: 21_memory_scriptures.html:87
-msgid "The soul who sins is the one who will die. The son will not share the guilt of the father, nor will the father share the guilt of the son. The righteousness of the righteous man will be credited to him, and the wickedness of the wicked will be charged against him"
+msgid "Rejoice in the Lord always. I will say it again: Rejoice!"
 msgstr ""
 
 #: 21_memory_scriptures.html:89
+msgid "Philippians 4:4"
+msgstr ""
+
+#: 21_memory_scriptures.html:94
+msgid "The soul who sins is the one who will die. The son will not share the guilt of the father, nor will the father share the guilt of the son. The righteousness of the righteous man will be credited to him, and the wickedness of the wicked will be charged against him"
+msgstr ""
+
+#: 21_memory_scriptures.html:96
 msgctxt "memory_scriptures #1"
 msgid "Ezekiel 18:20"
 msgstr ""
 
-#: 21_memory_scriptures.html:94
+#: 21_memory_scriptures.html:101
 msgid "But even if we or an angel from heaven should preach a gospel other than the one we preached to you, let him be eternally condemned!"
 msgstr ""
 
-#: 21_memory_scriptures.html:96
+#: 21_memory_scriptures.html:103
 msgid "Galatians 1:8"
 msgstr ""
 
-#: 21_memory_scriptures.html:101
+#: 21_memory_scriptures.html:108
 msgid "Jesus replied: \"Love the Lord your God with all your heart and with all your soul and with all your mind.\" This is the first and greatest commandment. And the second is like it: \"Love your neighbor as yourself\""
 msgstr ""
 
-#: 21_memory_scriptures.html:103
+#: 21_memory_scriptures.html:110
 msgid "Matthew 22:37-39"
 msgstr ""
 
-#: 21_memory_scriptures.html:108
+#: 21_memory_scriptures.html:115
 msgid "This is to my Father's glory, that you bear much fruit, showing yourselves to be my disciples"
 msgstr ""
 
-#: 21_memory_scriptures.html:110
+#: 21_memory_scriptures.html:117
 msgid "John 15:8"
 msgstr ""
 
-#: 21_memory_scriptures.html:115
-msgid "Then Jesus came to them and said, \"All authority in heaven and on earth has been given to me. Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age\""
-msgstr ""
-
-#: 21_memory_scriptures.html:117
-msgctxt "memory_scriptures #1"
-msgid "Matthew 28:18-20"
-msgstr ""
-
 #: 21_memory_scriptures.html:122
-msgid "For the Son of Man came to seek and to save the lost"
+msgid "Then Jesus came to them and said, \"All authority in heaven and on earth has been given to me. Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age\""
 msgstr ""
 
 #: 21_memory_scriptures.html:124
 msgctxt "memory_scriptures #1"
-msgid "Luke 19:10"
+msgid "Matthew 28:18-20"
 msgstr ""
 
 #: 21_memory_scriptures.html:129
-msgid "And let us consider how we may spur one another on toward love and good deeds. Let us not give up meeting together, as some are in the habit of doing, but let us encourage one another — and all the more as you see the Day approaching"
+msgid "For the Son of Man came to seek and to save the lost"
 msgstr ""
 
 #: 21_memory_scriptures.html:131
-msgid "Hebrews 10:24-25"
+msgctxt "memory_scriptures #1"
+msgid "Luke 19:10"
 msgstr ""
 
 #: 21_memory_scriptures.html:136
-msgid "If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness"
+msgid "And let us consider how we may spur one another on toward love and good deeds. Let us not give up meeting together, as some are in the habit of doing, but let us encourage one another — and all the more as you see the Day approaching"
 msgstr ""
 
 #: 21_memory_scriptures.html:138
-msgid "1 John 1:9"
+msgid "Hebrews 10:24-25"
 msgstr ""
 
 #: 21_memory_scriptures.html:143
-msgid "See to it that no one misses the grace of God and that no bitter root grows up to cause trouble and defile many"
+msgid "If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness"
 msgstr ""
 
 #: 21_memory_scriptures.html:145
-msgid "Hebrews 12:15"
+msgid "1 John 1:9"
 msgstr ""
 
 #: 21_memory_scriptures.html:150
-msgid "Obey your leaders and submit to their authority. They keep watch over you as men who must give an account. Obey them so that their work will be a joy, not a burden, for that would be of no advantage to you"
+msgid "See to it that no one misses the grace of God and that no bitter root grows up to cause trouble and defile many"
 msgstr ""
 
 #: 21_memory_scriptures.html:152
+msgid "Hebrews 12:15"
+msgstr ""
+
+#: 21_memory_scriptures.html:157
+msgid "Obey your leaders and submit to their authority. They keep watch over you as men who must give an account. Obey them so that their work will be a joy, not a burden, for that would be of no advantage to you"
+msgstr ""
+
+#: 21_memory_scriptures.html:159
 msgctxt "memory_scriptures #1"
 msgid "Hebrews 13:17"
+msgstr ""
+
+#: 21_memory_scriptures.html:165
+msgid "Contact Us"
+msgstr ""
+
+#: 21_memory_scriptures.html:176
+msgid "2017 International Christian Churches (SoldOut Discipling Movement)"
 msgstr ""
