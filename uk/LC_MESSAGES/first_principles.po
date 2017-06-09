@@ -3082,7 +3082,7 @@ msgstr "Колосянам 1:15-18"
 
 #: 14_church.html:36
 msgid "The church is the body of Christ.  The body needs the head.  The church is essential to Christianity"
-msgstr "Церква - це тіло Христа."
+msgstr "Церква - це тіло Христа. Тілу потрібна голова."
 
 #: 14_church.html:41
 msgid "HEAD"
