@@ -1390,7 +1390,7 @@ msgstr "Спасенний"
 #: 08_light_and_darkness.html:45
 msgctxt "light_and_darkness #1"
 msgid "Christian"
-msgstr ""
+msgstr "Христианин"
 
 #: 08_light_and_darkness.html:45
 msgctxt "light_and_darkness #1"
