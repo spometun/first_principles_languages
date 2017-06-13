@@ -1334,7 +1334,7 @@ msgstr "Ми повинні шукати перш за все Його Царс�
 
 #: 08_light_and_darkness.html:29
 msgid "It is often helpful to begin this study by constructing a \"spiritual timeline\" with the person whom you are helping to become a disciple"
-msgstr ""
+msgstr "Часто буває корисним почати цей урок з конструювання \"духовної часової лінії\" з людиною, якій ви допомагаєте стати учнем"
 
 #: 08_light_and_darkness.html:32
 msgctxt "light_and_darkness #1"
