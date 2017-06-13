@@ -1615,7 +1615,7 @@ msgstr "Ісус воскрес фізично з мертвих"
 #: 08_light_and_darkness.html:169
 msgctxt "light_and_darkness #1"
 msgid "v. 24"
-msgstr ""
+msgstr "ст. 24"
 
 #: 08_light_and_darkness.html:170
 msgid "Everyone is responsible for the crucifixion of Christ"
