@@ -1339,7 +1339,7 @@ msgstr ""
 #: 08_light_and_darkness.html:32
 msgctxt "light_and_darkness #1"
 msgid "Introduction:"
-msgstr ""
+msgstr "Вступ:"
 
 #: 08_light_and_darkness.html:32
 msgid "1 Peter 2:9-10"
