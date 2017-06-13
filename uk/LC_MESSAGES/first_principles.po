@@ -3533,56 +3533,56 @@ msgstr "Обговоріть з новим учнем його перші дні
 
 #: 16_after_baptism_now_what.html:37
 msgid "Share \"letter to God.\" If the new disciple has not had a chance to write one, encourage him/her to do so"
-msgstr ""
+msgstr "Поділіться своїм «листом Богу». Якщо молодий учень ще його не написав, надихніть його / її написати такий"
 
 #: 16_after_baptism_now_what.html:45
 msgctxt "after_baptism_now_what #1"
 msgid "Acts 2:36-47"
-msgstr ""
+msgstr "Дії 2:36-47"
 
 #: 16_after_baptism_now_what.html:48
 msgid "The Conversion of the 3000"
-msgstr ""
+msgstr "Навернення 3000 людей"
 
 #: 16_after_baptism_now_what.html:51
 msgid "Discuss Biblical conversion"
-msgstr ""
+msgstr "Обговоріть навернення в Біблії"
 
 #: 16_after_baptism_now_what.html:54
 msgid "Review how to become a disciple"
-msgstr ""
+msgstr "Повторіть, як можна стати учнем"
 
 #: 16_after_baptism_now_what.html:57
 msgid "Reinforce the joy of salvation and awe of God"
-msgstr ""
+msgstr "Зверніть особливу увагу на радість від спасіння і побожний трепет перед Богом"
 
 #: 16_after_baptism_now_what.html:62
 msgid "Devoted to the Apostles' Teaching — the Word"
-msgstr ""
+msgstr "Наше ставлення до апостольського вчення – Слова"
 
 #: 16_after_baptism_now_what.html:65
 msgid "For a quiet time, suggest a book or theme — reading a chapter a day"
-msgstr ""
+msgstr "Для тихих часів порадьте книгу або тему - читати один розділ на день"
 
 #: 16_after_baptism_now_what.html:68
 msgid "For many, a quiet time journal is helpful"
-msgstr ""
+msgstr "Порадьте завести записник для тихих часів (багатьом допомагає)"
 
 #: 16_after_baptism_now_what.html:73
 msgid "Devoted to the Fellowship"
-msgstr ""
+msgstr "Наше ставлення до зібрань"
 
 #: 16_after_baptism_now_what.html:76
 msgid "Discuss the purpose of each gathering:  Sunday Worship Services, Midweek Services — Men's Night Out / Women's Night Out, Bible Talks, Devotionals and discipleship partners"
-msgstr ""
+msgstr "Обговоріть мету кожного зібрання: недільної служби, зібрання посеред тижня, жіночі та чоловічі зібрання, бесіди з Біблії, сімейні часи, час по парах"
 
 #: 16_after_baptism_now_what.html:79
 msgid "Discuss the need to initiate relationships — to give, not just receive"
-msgstr ""
+msgstr "Обговоріть, як бути ініціатором у стосунках - важливо віддавати, а не тільки отримувати"
 
 #: 16_after_baptism_now_what.html:82
 msgid "Discuss the importance of hospitality — invite people into your home for a meal"
-msgstr ""
+msgstr "Обговоріть важливість гостинності - запрошуйте людей додому на обід, вечерю"
 
 #: 16_after_baptism_now_what.html:85
 msgid "Discuss the leadership's expectation to tithe on Sundays and give a benevolent offering at the Midweek Services.  Read together"
@@ -3690,303 +3690,303 @@ msgstr ""
 
 #: 17_christ_is_your_life.html:33
 msgid "Discuss:"
-msgstr ""
+msgstr "Обговоріть:"
 
 #: 17_christ_is_your_life.html:36
 msgid "Did you have daily quiet times this past week?"
-msgstr ""
+msgstr "У вас був тихий час кожний день на минулому тижні?"
 
 #: 17_christ_is_your_life.html:39
 msgid "Who did you share with and invite?"
-msgstr ""
+msgstr "З ким ви ділилися вірою й запросили до церкви?"
 
 #: 17_christ_is_your_life.html:44
 msgid "Discuss the impact of communion on Sunday"
-msgstr ""
+msgstr "Обговоріть вплив причастя в неділю"
 
 #: 17_christ_is_your_life.html:52
 msgid "Colossians 3:1-4"
-msgstr ""
+msgstr "Колосянам 3:1-4"
 
 #: 17_christ_is_your_life.html:55
 msgid "Raised to a new life"
-msgstr ""
+msgstr "Воскреслі до нового життя"
 
 #: 17_christ_is_your_life.html:58
 msgid "Raised with Christ in baptism"
-msgstr ""
+msgstr "Воскресли з Христом в хрещенні"
 
 #: 17_christ_is_your_life.html:61
 msgctxt "christ_is_your_life #1"
 msgid "Colossians 2:12"
-msgstr ""
+msgstr "Колосянам 2:12"
 
 #: 17_christ_is_your_life.html:67
 msgid "The Holy Spirit, received at baptism, gives you the power to set your mind (thoughts) and set your heart (emotions) on things above"
-msgstr ""
+msgstr "Святий Дух, отриманий при хрещені, дає вам сили сконцентрувати свої думки, серце (емоції) на духовних речах"
 
 #: 17_christ_is_your_life.html:70
 msgid "Christ is your life"
-msgstr ""
+msgstr "Ісус – твоє життя"
 
 #: 17_christ_is_your_life.html:77
 msgid "Colossians 3:5-11"
-msgstr ""
+msgstr "Колосянам 3:5-11"
 
 #: 17_christ_is_your_life.html:80
 msgid "Put to death"
-msgstr ""
+msgstr "Умертвіть все земне"
 
 #: 17_christ_is_your_life.html:83
 msgid "Discuss and be open about your struggles this week"
-msgstr ""
+msgstr "Будьте відкриті і обговоріть ваші випробування на цьому тижні"
 
 #: 17_christ_is_your_life.html:86
 msgid "Discuss any financial challenges — pledge to God, rent, bills, salary, etc..."
-msgstr ""
+msgstr "Обговоріть які-небудь фінансові труднощі – обіцянки Богу, борги, рахунки, зарплата тощо"
 
 #: 17_christ_is_your_life.html:89
 msgid "Discuss practical ways to crucify your sinful nature"
-msgstr ""
+msgstr "Обговоріть практичні шляхи, як розіп’яти свою гріховну природу"
 
 #: 17_christ_is_your_life.html:96
 msgid "Colossians 3:12-14"
-msgstr ""
+msgstr "Колосянам 3:12-14"
 
 #: 17_christ_is_your_life.html:99
 msgid "Put on — clothe yourself"
-msgstr ""
+msgstr "\"Зодягніться\" – одягнути на себе"
 
 #: 17_christ_is_your_life.html:102
 msgid "Compassion"
-msgstr ""
+msgstr "Милосердя"
 
 #: 17_christ_is_your_life.html:105
 msgid "Kindness"
-msgstr ""
+msgstr "Доброту"
 
 #: 17_christ_is_your_life.html:108
 msgid "Humility"
-msgstr ""
+msgstr "Покору"
 
 #: 17_christ_is_your_life.html:111
 msgid "Gentleness"
-msgstr ""
+msgstr "Лагідність"
 
 #: 17_christ_is_your_life.html:114
 msgid "Patience"
-msgstr ""
+msgstr "Довготерпіння"
 
 #: 17_christ_is_your_life.html:117
 msgid "Forgiveness"
-msgstr ""
+msgstr "Прощення"
 
 #: 17_christ_is_your_life.html:124
 msgid "Colossians 3:15-24"
-msgstr ""
+msgstr "Колосянам 3:15-24"
 
 #: 17_christ_is_your_life.html:127
 msgid "New attitudes"
-msgstr ""
+msgstr "Нове ставлення"
 
 #: 17_christ_is_your_life.html:130
 msgid "Peace"
-msgstr ""
+msgstr "Мир"
 
 #: 17_christ_is_your_life.html:133
 msgid "Thankful"
-msgstr ""
+msgstr "Вдячність"
 
 #: 17_christ_is_your_life.html:136
 msgid "Wholehearted"
-msgstr ""
+msgstr "Щирість"
 
 #: 17_christ_is_your_life.html:139
 msgid "Family Interactions"
-msgstr ""
+msgstr "Сімейні стосунки"
 
 #: 17_christ_is_your_life.html:142
 msgid "v. 18-21"
-msgstr ""
+msgstr "Колосянам 3:18-21"
 
 #: 17_christ_is_your_life.html:148
 msgid "Employer/employee relationships"
-msgstr ""
+msgstr "Стосунки роботодавець-працівник"
 
 #: 17_christ_is_your_life.html:151
 msgctxt "christ_is_your_life #1"
 msgid "v. 22-24"
-msgstr ""
+msgstr "Колосянам 3:22-24"
 
 #: 17_christ_is_your_life.html:157
 msgid "Teacher/student relationships"
-msgstr ""
+msgstr "Стосунки викладач-студент"
 
 #: 17_christ_is_your_life.html:160
 msgctxt "christ_is_your_life #2"
 msgid "v. 22-24"
-msgstr ""
+msgstr "Колосянам 3:22-24"
 
 #: 18_best_friends_of_all_time.html:33
 msgid "Share about your closest relationships during your life — God and spiritual family in comparison to your physical family and old friends"
-msgstr ""
+msgstr "Поділіться про найближчі стосунки протягом вашого життя - з Богом і духовною сім'єю у порівнянні з вашої фізичної сім'єю і старими друзями"
 
 #: 18_best_friends_of_all_time.html:36
 msgid "Ask the young Christian, \"Who are your closest friends?\""
-msgstr ""
+msgstr "Запитайте молодого учня, хто його найближчі друзі"
 
 #: 18_best_friends_of_all_time.html:43
 msgid "One Another Scriptures"
-msgstr ""
+msgstr "Писання про «один одного»"
 
 #: 18_best_friends_of_all_time.html:49
 msgctxt "best_friends_of_all_time #1"
 msgid "John 13:34-35"
-msgstr ""
+msgstr "Івана 13:34-35 "
 
 #: 18_best_friends_of_all_time.html:52
 msgid "Love one another.  Jesus teaches that Christians should have closer and better relationships than people in the world. Set your mind to make disciples your best friends"
-msgstr ""
+msgstr "Любіть один одного. Ісус вчить, що християни повинні мати взаємини ближче і краще, ніж люди у світі. Спрямуйте усі свої зусилля, щоб зробити учнів своїми найкращими друзями"
 
 #: 18_best_friends_of_all_time.html:57
 msgid "Hebrews 3:12-14"
-msgstr ""
+msgstr "Євреям 3:12-14"
 
 #: 18_best_friends_of_all_time.html:60
 msgid "Daily encouragement of one another"
-msgstr ""
+msgstr "щоденна підтримка один одного"
 
 #: 18_best_friends_of_all_time.html:65
 msgid "Ephesians 5:19-20"
-msgstr ""
+msgstr "Ефесянам 5:19-20"
 
 #: 18_best_friends_of_all_time.html:68
 msgid "Worship God with one another — sing out to God and each other with psalms, hymns and spiritual songs"
-msgstr ""
+msgstr "наставляйте один одного в псалмах, гімнах і духовних піснях"
 
 #: 18_best_friends_of_all_time.html:73
 msgid "Colossians 1:28-29"
-msgstr ""
+msgstr "Колосянам 1:28-29"
 
 #: 18_best_friends_of_all_time.html:76
 msgid "Disciple one another.  This is essential in God's plan to become mature.  As we mature, we learn to instruct one another"
-msgstr ""
+msgstr "Направляти і вчити кожну людину. Це основний план Бога в тому, щоб вирости духовно і стати дорослими учнями. У той час як ми дорослішаємо, ми навчаємося наставляти один одного"
 
 #: 18_best_friends_of_all_time.html:79
 msgid "Romans 15:14"
-msgstr ""
+msgstr "Римлянам 15:14"
 
 #: 18_best_friends_of_all_time.html:87
 msgid "Galatians 6:1-2"
-msgstr ""
+msgstr "Галатам 6:1-2"
 
 #: 18_best_friends_of_all_time.html:90
 msgid "Gently restore one another and bear one another's burdens"
-msgstr ""
+msgstr "М’яко виправляйте один одного та носіть тягарі один одного"
 
 #: 18_best_friends_of_all_time.html:95
 msgid "James 5:16"
-msgstr ""
+msgstr "Якова 5:16"
 
 #: 18_best_friends_of_all_time.html:98
 msgid "Confess sins to one another.  Discuss openness and transparency, remembering that \"openness breeds openness,\" so share your struggles"
-msgstr ""
+msgstr "Признавайтесь один перед одним у ваших гріхах. Обговоріть відкритість і прозорість, поділіться вашими труднощами"
 
 #: 18_best_friends_of_all_time.html:103
 msgid "James 5:16-18"
-msgstr ""
+msgstr "Якова 5:16-18"
 
 #: 18_best_friends_of_all_time.html:106
 msgid "Pray for one another.  It makes a difference!"
-msgstr ""
+msgstr "Моліться один за одного, це багато що змінить!"
 
 #: 18_best_friends_of_all_time.html:111
 msgid "Hebrews 12:14-15"
-msgstr ""
+msgstr "Євреям 12:14-15"
 
 #: 18_best_friends_of_all_time.html:114
 msgid "Be holy and prevent \"bad attitudes\" in one another"
-msgstr ""
+msgstr "Будьте святі й попереджайте «гірке коріння» один в одному"
 
 #: 18_best_friends_of_all_time.html:119
 msgid "1 Thessalonians 5:12-14"
-msgstr ""
+msgstr "1 Солунянам 5:14-18"
 
 #: 18_best_friends_of_all_time.html:122
 msgid "Outlook toward one another"
-msgstr ""
+msgstr "Наглядайте один за одним"
 
 #: 18_best_friends_of_all_time.html:127
 msgid "John 17:20-23"
-msgstr ""
+msgstr "Івана 17:20-23"
 
 #: 18_best_friends_of_all_time.html:130
 msgid "The ultimate goal of love and unity — world evangelism!"
-msgstr ""
+msgstr "Кінцева ціль любові й єдності  - навернення всього світу!"
 
 #: 18_best_friends_of_all_time.html:136
 msgid "Date and marry only disciples"
-msgstr ""
+msgstr "Зустрічайтеся і будуй сім’ю тільки з учнем"
 
 #: 18_best_friends_of_all_time.html:142
 msgid "1 Corinthians 7:39"
-msgstr ""
+msgstr "1 Коринтянам 7:39"
 
 #: 18_best_friends_of_all_time.html:145
 msgid "Marriage must only be in the Lord"
-msgstr ""
+msgstr "Шлюб повинен бути тільки в Господі"
 
 #: 18_best_friends_of_all_time.html:150
 msgid "2 Corinthians 6:14-7:1"
-msgstr ""
+msgstr "2 Коринтянам 6:14-7:1"
 
 #: 18_best_friends_of_all_time.html:153
 msgid "Dating, as in marriage, is a partnership in which you are \"yoked together.\"  Disciples must separate from unbelievers to receive the promises of God"
-msgstr ""
+msgstr "Побачення, як і шлюб - це партнерство, де ви «запрягати в одне ярмо». Учні повинні бути відокремлені від невіруючих для того, щоб отримати обіцянки Бога"
 
 #: 18_best_friends_of_all_time.html:158
 msgid "1 Kings 11:1-10"
-msgstr ""
+msgstr "1 Царів 11:1-10"
 
 #: 18_best_friends_of_all_time.html:162
 msgid "Nehemiah 13:23-27"
-msgstr ""
+msgstr "Неемія 13:23-27"
 
 #: 18_best_friends_of_all_time.html:165
 msgid "Study this principle in the Old Testament.  To date or marry outside of the faith is to be unfaithful to God.  If you are single, have you gone on a Christian date?"
-msgstr ""
+msgstr "Вивчіть принципи в Старому Завіті. Зустрічатися або вийти заміж за невіруючого - означає бути невірним Богові. Якщо ви неодружений, ви вже ходив на побачення з учнями?"
 
 #: 18_best_friends_of_all_time.html:170
 msgid "1 Peter 3:1-7"
-msgstr ""
+msgstr "1 Петра 3:1-7"
 
 #: 18_best_friends_of_all_time.html:173
 msgid "If you are married, are you winning your spouse?"
-msgstr ""
+msgstr "Якщо ви одружений / заміжня, ви навертаєш свою другу половинку?"
 
 #: 18_best_friends_of_all_time.html:179
 msgid "Reconcile with one another"
-msgstr ""
+msgstr "Примиріться один з одним"
 
 #: 18_best_friends_of_all_time.html:185
 msgid "Matthew 18:15-17"
-msgstr ""
+msgstr "Матвія 18:15-17"
 
 #: 18_best_friends_of_all_time.html:188
 msgid "Christians will sin against each other.  When someone sins against you, do not gossip by going to someone else.  Talk to the person who hurt you, so you can win him/her over as a friend"
-msgstr ""
+msgstr "Християни будуть грішити один проти одного. Якщо хтось згрішить проти вас, не пліткуйте, звертаючись до когось ще. Поговоріть з людиною, яка образила вас, таким чином ви зможете придбати його / її як друга"
 
 #: 18_best_friends_of_all_time.html:191
 msgid "Church discipline begins one-on-one and rarely should go to step 2, 3 and 4"
-msgstr ""
+msgstr "Церковна дисципліна починається з розмови один на один і рідко повинна переходити до кроку 2, 3 і 4"
 
 #: 19_mission.html:34
 msgid "Share about the visitors you most recently brought to church or Bible Talk"
-msgstr ""
+msgstr "Поділіться про гостей, яких ви недавно приводили на службу або бесіду з Біблії"
 
 #: 19_mission.html:37
 msgid "Ask the young disciple about their evangelism"
-msgstr ""
+msgstr "Запитайте у молодого учня про те, як він ділиться вірою"
 
 #: 19_mission.html:44
 msgid "Jesus' Mission"
@@ -3995,188 +3995,188 @@ msgstr "Місія Ісуса"
 #: 19_mission.html:50
 msgctxt "mission #1"
 msgid "Luke 19:10"
-msgstr ""
+msgstr "Луки 19:10"
 
 #: 19_mission.html:57
 msgid "1 Timothy 1:15"
-msgstr ""
+msgstr "1 Тимофію 1:15"
 
 #: 19_mission.html:64
 msgctxt "mission #1"
 msgid "Matthew 28:19-20"
-msgstr ""
+msgstr "Матвія 28:19-20"
 
 #: 19_mission.html:71
 msgid "Acts 20:24"
-msgstr ""
+msgstr "Дії 20:24"
 
 #: 19_mission.html:76
 msgid "What was Jesus' mission?"
-msgstr ""
+msgstr "Яка була місія в Ісуса?"
 
 #: 19_mission.html:79
 msgid "What is each disciple's mission?"
-msgstr ""
+msgstr "Яка місія у кожного учня?"
 
 #: 19_mission.html:87
 msgid "Disciples' Mission"
-msgstr ""
+msgstr "Місія учнів"
 
 #: 19_mission.html:93
 msgid "John 15:1-16"
-msgstr ""
+msgstr "Івана 15:1-16"
 
 #: 19_mission.html:98
 msgid "Glorifying God in"
-msgstr ""
+msgstr "Прославити Бога у"
 
 #: 19_mission.html:101
 msgid "John 15"
-msgstr ""
+msgstr "Івана 15"
 
 #: 19_mission.html:104
 msgid "is bearing the fruit of making disciples, not simply baptizing"
-msgstr ""
+msgstr "це приносити плід, робити інших людей учнями, не тільки хрестити їх"
 
 #: 19_mission.html:107
 msgid "Matthew 28:19"
-msgstr ""
+msgstr "Матвія 28:19"
 
 #: 19_mission.html:110
 msgid "commands us to \"go and make disciples;\""
-msgstr ""
+msgstr "заповідає нам іти і робити їх учнями"
 
 #: 19_mission.html:113
 msgid "John 15:16"
-msgstr ""
+msgstr "Івана 15:16"
 
 #: 19_mission.html:116
 msgid "commands us to \"go and bear fruit that will last\""
-msgstr ""
+msgstr "заповідає нам, щоб ми \"ішли і приносили плід, і щоб плід ваш зостався\""
 
 #: 19_mission.html:119
 msgid "To bear fruit, one must be \"in the vine,\" otherwise we will be cut off"
-msgstr ""
+msgstr "Щоб приносити плід учень має бути \"на лозі\", інкше він буде вдірізаний"
 
 #: 19_mission.html:122
 msgid "Jesus is the perfect discipler, but He is also the perfect disciple of God"
-msgstr ""
+msgstr "Ісус - досконалий наставник, але він також досконалий учень Бога"
 
 #: 19_mission.html:125
 msgid "To love God is to obey His commands.  Discipling helps our hearts to want to obey His commands"
-msgstr ""
+msgstr "Любити Бога - це виконувати Його заповіді. Наставництво допомагає нашим серцям хотіти виконувати Його заповіді"
 
 #: 19_mission.html:128
 msgid "Matthew 28:20"
-msgstr ""
+msgstr "Матвія 28:20"
 
 #: 19_mission.html:131
 msgid "Therefore, we must love one another, even to the point of laying down our lives for each other"
-msgstr ""
+msgstr "Тому, ми маємо любити один одного, навіть бути готовими віддати життя один за одного"
 
 #: 19_mission.html:136
 msgid "The Book of Acts records the 30 years from the beginning of the church on the day of Pentecost to Paul's arrival in Rome — signaling that the gospel has gone to the known world.  The church in the first century was a movement.  Discuss the growth of the first century church when all Christians were striving to be fruitful — making disciples"
-msgstr ""
+msgstr "Книга \"Дії\", яка описує 30 років від початку церкви в день П'ятидесятниці до того, як Павло прибув у Рим, - сповіщає, що євангеліє досягло всього відомого тоді світу. Церква першого століття була рухом. Обговоріть зріст церкви у першому столітті, коли всі християни боролися, щоб приносити плід, - робити інших учнями Христа"
 
 #: 19_mission.html:141
 msgid "Acts 2:41"
-msgstr ""
+msgstr "Дії 2:41"
 
 #: 19_mission.html:148
 msgid "Acts 2:47"
-msgstr ""
+msgstr "Дії 2:47"
 
 #: 19_mission.html:155
 msgid "Acts 4:4"
-msgstr ""
+msgstr "Дії 4:4"
 
 #: 19_mission.html:162
 msgid "Acts 5:14"
-msgstr ""
+msgstr "Дії 5:14"
 
 #: 19_mission.html:169
 msgid "Acts 6:1"
-msgstr ""
+msgstr "Дії 6:1"
 
 #: 19_mission.html:176
 msgid "Acts 6:7"
-msgstr ""
+msgstr "Дії 6:7"
 
 #: 19_mission.html:183
 msgid "Acts 8:4"
-msgstr ""
+msgstr "Дії 8:4"
 
 #: 19_mission.html:190
 msgid "Acts 9:31"
-msgstr ""
+msgstr "Дії 9:31"
 
 #: 19_mission.html:197
 msgid "Acts 11:21"
-msgstr ""
+msgstr "Дії 11:21"
 
 #: 19_mission.html:204
 msgid "Acts 12:24"
-msgstr ""
+msgstr "Дії 12:24"
 
 #: 19_mission.html:211
 msgid "Acts 13:49"
-msgstr ""
+msgstr "Дії 13:49"
 
 #: 19_mission.html:218
 msgid "Acts 14:1"
-msgstr ""
+msgstr "Дії 14:1"
 
 #: 19_mission.html:225
 msgid "Acts 14:21"
-msgstr ""
+msgstr "Дії 14:21"
 
 #: 19_mission.html:232
 msgid "Acts 16:5"
-msgstr ""
+msgstr "Дії 16:5"
 
 #: 19_mission.html:239
 msgid "Acts 17:4"
-msgstr ""
+msgstr "Дії 17:4"
 
 #: 19_mission.html:246
 msgid "Acts 17:6"
-msgstr ""
+msgstr "Дії 17:6"
 
 #: 19_mission.html:249
 msgid "(RSV):  \"These men who have turned the world upside-down have come here also...\""
-msgstr ""
+msgstr "\"Ці люди, які підбурюють весь світ, зараз прийшли сюди!\""
 
 #: 19_mission.html:254
 msgid "Colossians 1:6, 23"
-msgstr ""
+msgstr "Колосянам 1:6, 23"
 
 #: 19_mission.html:257
 msgid "The known world was evangelized by 61 A.D., in a generation!  Paul is in prison when he writes Colossians —"
-msgstr ""
+msgstr "Відомий тоді світ був наверненій до 61 р. н. є., в одному поколінні! Павло у в'язниці, коли він пише лист в Колоси - "
 
 #: 19_mission.html:260
 msgid "Acts 28"
-msgstr ""
+msgstr "Дії 28"
 
 #: 19_mission.html:263
 msgid "Therefore, Jesus' vision became a reality — \"the evangelization of the nations in a generation!\""
-msgstr ""
+msgstr "Так бачення Ісуса про навернення світу стало реальністю - \"навернення народів в одному поколінні!\""
 
 #: 19_mission.html:269
 msgid "Discuss and pray for:"
-msgstr ""
+msgstr "Обговоріть і моліться за:"
 
 #: 19_mission.html:273
 msgid "World Evangelism"
-msgstr ""
+msgstr "евангелізацію світу"
 
 #: 19_mission.html:276
 msgid "Missions Teams"
-msgstr ""
+msgstr "місіонерські команди"
 
 #: 19_mission.html:279
 msgid "Your Kingdom dreams... how can you use your talents for God?"
-msgstr ""
+msgstr "ваші мрії для Царства... як ви можете використовувати свої таланти для Бога?"
 
 #: 20_persecution.html:30
 msgid "2 Timothy 3:12"
