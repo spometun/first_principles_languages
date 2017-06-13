@@ -1440,7 +1440,7 @@ msgstr "СВІТЛО"
 #: 08_light_and_darkness.html:80
 msgctxt "light_and_darkness #1"
 msgid "GOD"
-msgstr ""
+msgstr "БОГ"
 
 #: 08_light_and_darkness.html:86
 msgctxt "light_and_darkness #1"
