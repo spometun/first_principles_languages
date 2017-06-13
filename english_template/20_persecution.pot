@@ -256,7 +256,7 @@ msgid "Ephesians 6:10-18"
 msgstr ""
 
 #: 20_persecution.html:301
-msgid "Satan is behind all persecution.  Only God and His spiritual armor will give you the victory over the world"
+msgid "Satan is behind all persecution. Only God and His spiritual armor will give you the victory over the world"
 msgstr ""
 
 #: 20_persecution.html:309
@@ -269,42 +269,34 @@ msgid "— The International Christian Churches are a controversial Christian mo
 msgstr ""
 
 #: 20_persecution.html:315
-msgid "* The Persecution study has been proven to be most helpful after the"
+msgid "* The Persecution study has been proven to be most helpful after the Discipleship study"
 msgstr ""
 
-#: 20_persecution.html:315
-msgid "Discipleship"
-msgstr ""
-
-#: 20_persecution.html:315
-msgid "study"
-msgstr ""
-
-#: 20_persecution.html:316
+#: 20_persecution.html:317
 msgid "See"
 msgstr ""
 
-#: 20_persecution.html:316
+#: 20_persecution.html:317
 msgid "caicc.net"
 msgstr ""
 
-#: 20_persecution.html:316
+#: 20_persecution.html:318
 msgid "usd21.org"
 msgstr ""
 
-#: 20_persecution.html:316
+#: 20_persecution.html:319
 msgctxt "persecution #1"
 msgid "and"
 msgstr ""
 
-#: 20_persecution.html:316
+#: 20_persecution.html:319
 msgid "KipMcKean.org"
 msgstr ""
 
-#: 20_persecution.html:319
+#: 20_persecution.html:324
 msgid "Contact Us"
 msgstr ""
 
-#: 20_persecution.html:330
+#: 20_persecution.html:335
 msgid "2017 International Christian Churches (SoldOut Discipling Movement)"
 msgstr ""
