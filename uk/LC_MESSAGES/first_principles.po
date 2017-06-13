@@ -1606,7 +1606,7 @@ msgstr "Ісус прийшов від Бога"
 
 #: 08_light_and_darkness.html:168
 msgid "v. 22"
-msgstr "в. 22"
+msgstr "ст. 22"
 
 #: 08_light_and_darkness.html:169
 msgid "Jesus raised physically from the dead"
