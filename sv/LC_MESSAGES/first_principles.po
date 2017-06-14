@@ -21,7 +21,7 @@ msgstr "Introduktion"
 
 #: 02_course_information.html:17
 msgid "Course Information"
-msgstr ""
+msgstr "Kursinformation"
 
 #: 03_book_of_john.html:17
 msgid "The Book of John"
@@ -4415,7 +4415,7 @@ msgstr "Efesierna 6: 10-18"
 
 #: 20_persecution.html:301
 msgid "Satan is behind all persecution. Only God and His spiritual armor will give you the victory over the world"
-msgstr ""
+msgstr "Satan står bakom all förföljelse. Endast Gud och hans andliga rustning kommer att ge dig segern över världen"
 
 #: 20_persecution.html:309
 msgctxt "persecution #1"
@@ -4428,7 +4428,7 @@ msgstr "- De internationella kristna kyrkorna är en kontroversiell kristen rör
 
 #: 20_persecution.html:315
 msgid "* The Persecution study has been proven to be most helpful after the Discipleship study"
-msgstr ""
+msgstr "* Förföljelsen har visat sig vara till stor hjälp efter Discipleship-studien"
 
 #: 20_persecution.html:317
 msgid "See"
