@@ -4507,7 +4507,7 @@ msgstr ""
 #: 21_memory_scriptures.html:82
 msgctxt "memory_scriptures #1"
 msgid "Acts 2:38"
-msgstr ""
+msgstr "Дії 2:38"
 
 #: 21_memory_scriptures.html:87
 msgid "Rejoice in the Lord always. I will say it again: Rejoice!"
