@@ -3,12 +3,6 @@ msgid ""
 msgstr ""
 
 #: 02_course_information.html:17
-msgctxt "course_information #1"
-msgid "Course Information"
-msgstr ""
-
-#: 02_course_information.html:28
-msgctxt "course_information #2"
 msgid "Course Information"
 msgstr ""
 

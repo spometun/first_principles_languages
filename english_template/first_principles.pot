@@ -15,86 +15,90 @@ msgid "Introduction"
 msgstr ""
 
 #: 00_index.html:38
-msgid "The Book of John"
+msgid "Course Information"
 msgstr ""
 
 #: 00_index.html:39
-msgid "Seeking God"
+msgid "The Book of John"
 msgstr ""
 
 #: 00_index.html:40
-msgid "The Word of God"
+msgid "Seeking God"
 msgstr ""
 
 #: 00_index.html:41
-msgid "Discipleship"
+msgid "The Word of God"
 msgstr ""
 
 #: 00_index.html:42
-msgid "The Coming of the Kingdom"
+msgid "Discipleship"
 msgstr ""
 
 #: 00_index.html:43
-msgid "Light and Darkness"
+msgid "The Coming of the Kingdom"
 msgstr ""
 
 #: 00_index.html:44
-msgid "New Testament Conversion"
+msgid "Light and Darkness"
 msgstr ""
 
 #: 00_index.html:45
-msgid "The Cross"
+msgid "New Testament Conversion"
 msgstr ""
 
 #: 00_index.html:46
-msgid "The Medical Account of the Crucifixion of Christ"
+msgid "The Cross"
 msgstr ""
 
 #: 00_index.html:47
-msgid "Baptism with the Holy Spirit"
+msgid "The Medical Account of the Crucifixion of Christ"
 msgstr ""
 
 #: 00_index.html:48
-msgid "Miraculous Gifts of the Holy Spirit"
+msgid "Baptism with the Holy Spirit"
 msgstr ""
 
 #: 00_index.html:49
-msgid "The Church"
+msgid "Miraculous Gifts of the Holy Spirit"
 msgstr ""
 
 #: 00_index.html:50
-msgid "The Book of Acts"
+msgid "The Church"
 msgstr ""
 
 #: 00_index.html:51
-msgid "After Baptism, Now What?"
+msgid "The Book of Acts"
 msgstr ""
 
 #: 00_index.html:52
-msgid "Christ Is Your Life"
+msgid "After Baptism, Now What?"
 msgstr ""
 
 #: 00_index.html:53
-msgid "Best Friends of All Time"
+msgid "Christ Is Your Life"
 msgstr ""
 
 #: 00_index.html:54
-msgid "The Mission"
+msgid "Best Friends of All Time"
 msgstr ""
 
 #: 00_index.html:55
-msgid "Persecution"
+msgid "The Mission"
 msgstr ""
 
 #: 00_index.html:56
+msgid "Persecution"
+msgstr ""
+
+#: 00_index.html:57
 msgid "Memory Scriptures"
 msgstr ""
 
-#: 00_index.html:62
+#: 00_index.html:63
 msgid "Contact Us"
 msgstr ""
 
-#: 00_index.html:73
+#: 00_index.html:74
 msgid "2017 International Christian Churches (SoldOut Discipling Movement)"
 msgstr ""
 
@@ -128,16 +132,6 @@ msgstr ""
 
 #: 01_introduction.html:43
 msgid "July 1, 2014"
-msgstr ""
-
-#: 02_course_information.html:17
-msgctxt "course_information #1"
-msgid "Course Information"
-msgstr ""
-
-#: 02_course_information.html:28
-msgctxt "course_information #2"
-msgid "Course Information"
 msgstr ""
 
 #: 02_course_information.html:38
