@@ -19,6 +19,10 @@ msgstr "На домашню"
 msgid "Introduction"
 msgstr "Вступ"
 
+#: 02_course_information.html:17
+msgid "Course Information"
+msgstr ""
+
 #: 03_book_of_john.html:17
 msgid "The Book of John"
 msgstr "Євангеліє від Івана"
@@ -134,16 +138,6 @@ msgstr "Кіп Маккін"
 #: 01_introduction.html:43
 msgid "July 1, 2014"
 msgstr "1 липня 2014 року"
-
-#: 02_course_information.html:17
-msgctxt "course_information #1"
-msgid "Course Information"
-msgstr "Інформація про курс вивчення"
-
-#: 02_course_information.html:28
-msgctxt "course_information #2"
-msgid "Course Information"
-msgstr "Інформація про курс вивчення"
 
 #: 02_course_information.html:38
 msgid "This course should take a high priority in your day as it is geared to help you grasp a\n"
