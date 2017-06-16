@@ -4478,7 +4478,7 @@ msgstr "Від Івана 8:31-32"
 
 #: 21_memory_scriptures.html:59
 msgid "I can do everything through him who gives me strength"
-msgstr ""
+msgstr "\"Я все можу в Тім, Хто мене підкріпляє, в Ісусі Христі\""
 
 #: 21_memory_scriptures.html:61
 msgid "Philippians 4:13"
@@ -4494,16 +4494,16 @@ msgstr "Від Марка 1:17"
 
 #: 21_memory_scriptures.html:73
 msgid "A new command I give you: Love one another. As I have loved you, so you must love one another.  By this all men will know that you are my disciples, if you love one another"
-msgstr ""
+msgstr "\"Нову заповідь Я вам даю: Любіть один одного! Як Я вас полюбив, так любіть один одного й ви! По тому пізнають усі, що ви учні Мої, як будете мати любов між собою\""
 
 #: 21_memory_scriptures.html:75
 msgctxt "memory_scriptures #1"
 msgid "John 13:34-35"
-msgstr ""
+msgstr "Від Івана 13:34-35"
 
 #: 21_memory_scriptures.html:80
 msgid "Peter replied, 'Repent and be baptized, every one of you, in the name of Jesus Christ for the forgiveness of your sins. And you will receive the gift of the Holy Spirit"
-msgstr ""
+msgstr "\"А Петро до них каже: Покайтеся, і нехай же охриститься кожен із вас у Ім'я Ісуса Христа на відпущення ваших гріхів, і дара Духа Святого ви приймете!\""
 
 #: 21_memory_scriptures.html:82
 msgctxt "memory_scriptures #1"
@@ -4512,74 +4512,74 @@ msgstr "Дії 2:38"
 
 #: 21_memory_scriptures.html:87
 msgid "Rejoice in the Lord always. I will say it again: Rejoice!"
-msgstr ""
+msgstr "\"Радійте в Господі завсіди, і знову кажу: радійте!\""
 
 #: 21_memory_scriptures.html:89
 msgid "Philippians 4:4"
-msgstr ""
+msgstr "До филип'ян 4:4"
 
 #: 21_memory_scriptures.html:94
 msgid "The soul who sins is the one who will die. The son will not share the guilt of the father, nor will the father share the guilt of the son. The righteousness of the righteous man will be credited to him, and the wickedness of the wicked will be charged against him"
-msgstr ""
+msgstr "\"Та душа, що грішить, вона помре. Син не понесе кари за батькову провину, а батько не понесе за провину синову, справедливість справедливого буде на ньому, а несправедливість несправедливого на тому буде\""
 
 #: 21_memory_scriptures.html:96
 msgctxt "memory_scriptures #1"
 msgid "Ezekiel 18:20"
-msgstr ""
+msgstr "Єзекіїль 18:20"
 
 #: 21_memory_scriptures.html:101
 msgid "But even if we or an angel from heaven should preach a gospel other than the one we preached to you, let him be eternally condemned!"
-msgstr ""
+msgstr "\"Але якби й ми або Ангол із неба зачав благовістити вам не те, що ми вам благовістили, нехай буде проклятий!\""
 
 #: 21_memory_scriptures.html:103
 msgid "Galatians 1:8"
-msgstr ""
+msgstr "До галатів 1:8"
 
 #: 21_memory_scriptures.html:108
 msgid "Jesus replied: \"Love the Lord your God with all your heart and with all your soul and with all your mind.\" This is the first and greatest commandment. And the second is like it: \"Love your neighbor as yourself\""
-msgstr ""
+msgstr "\"Він же промовив йому: Люби Господа Бога свого всім серцем своїм, і всією душею своєю, і всією своєю думкою. Це найбільша й найперша заповідь. А друга однакова з нею: Люби свого ближнього, як самого себе\""
 
 #: 21_memory_scriptures.html:110
 msgid "Matthew 22:37-39"
-msgstr ""
+msgstr "Від Матвія 22:37-39"
 
 #: 21_memory_scriptures.html:115
 msgid "This is to my Father's glory, that you bear much fruit, showing yourselves to be my disciples"
-msgstr ""
+msgstr "\"Отець Мій прославиться в тому, якщо рясно зародите й будете учні Мої\""
 
 #: 21_memory_scriptures.html:117
 msgid "John 15:8"
-msgstr ""
+msgstr "Від Івана 15:8"
 
 #: 21_memory_scriptures.html:122
 msgid "Then Jesus came to them and said, \"All authority in heaven and on earth has been given to me. Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age\""
-msgstr ""
+msgstr "\"А Ісус підійшов і промовив до них та й сказав: Дана Мені всяка влада на небі й на землі. Тож ідіть, і навчіть всі народи, христячи їх в Ім'я Отця, і Сина, і Святого Духа, навчаючи їх зберігати все те, що Я вам заповів. І ото, Я перебуватиму з вами повсякденно аж до кінця віку! Амінь\""
 
 #: 21_memory_scriptures.html:124
 msgctxt "memory_scriptures #1"
 msgid "Matthew 28:18-20"
-msgstr ""
+msgstr "Від Матвія 28:18-20"
 
 #: 21_memory_scriptures.html:129
 msgid "For the Son of Man came to seek and to save the lost"
-msgstr ""
+msgstr "\"Син бо Людський прийшов, щоб знайти та спасти, що загинуло!\""
 
 #: 21_memory_scriptures.html:131
 msgctxt "memory_scriptures #1"
 msgid "Luke 19:10"
-msgstr ""
+msgstr "Від Луки 19:10"
 
 #: 21_memory_scriptures.html:136
 msgid "And let us consider how we may spur one another on toward love and good deeds. Let us not give up meeting together, as some are in the habit of doing, but let us encourage one another — and all the more as you see the Day approaching"
-msgstr ""
+msgstr "\" уважаймо один за одним для заохоти до любови й до добрих учинків. Не кидаймо збору свого, як то звичай у деяких, але заохочуймося, і тим більше, скільки більше ви бачите, що зближається день той\""
 
 #: 21_memory_scriptures.html:138
 msgid "Hebrews 10:24-25"
-msgstr ""
+msgstr "До євреїв 10:24-25"
 
 #: 21_memory_scriptures.html:143
 msgid "If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness"
-msgstr ""
+msgstr "\"Коли ми свої гріхи визнаємо, то Він вірний та праведний, щоб гріхи нам простити, та очистити нас від неправди всілякої\""
 
 #: 21_memory_scriptures.html:145
 msgid "1 John 1:9"
@@ -4587,32 +4587,32 @@ msgstr "1 Івана 1:9"
 
 #: 21_memory_scriptures.html:150
 msgid "See to it that no one misses the grace of God and that no bitter root grows up to cause trouble and defile many"
-msgstr ""
+msgstr "\"Дивіться, щоб хто не зостався без Божої благодаті, щоб не виріс який гіркий корінь і не наробив непокою, і щоб багато-хто не опоганились тим\""
 
 #: 21_memory_scriptures.html:152
 msgid "Hebrews 12:15"
-msgstr "Євреям 12:15"
+msgstr "До євреїв 12:15"
 
 #: 21_memory_scriptures.html:157
 msgid "Obey your leaders and submit to their authority. They keep watch over you as men who must give an account. Obey them so that their work will be a joy, not a burden, for that would be of no advantage to you"
-msgstr ""
+msgstr "\"Слухайтесь ваших наставників та коріться їм, вони бо пильнують душ ваших, як ті, хто має здати справу. Нехай вони роблять це з радістю, а не зідхаючи, бо це для вас не корисне\""
 
 #: 21_memory_scriptures.html:159
 msgctxt "memory_scriptures #1"
 msgid "Hebrews 13:17"
-msgstr ""
+msgstr "До євреїв 13:17"
 
 #: 22_contact_us.html:35
 msgid "Do you have feedback, suggestions or questions regarding this mobile application or the First Principles study series?  Please let us know!"
-msgstr ""
+msgstr "Якщо у вас є відгуки, пропозиції чи питання, що стосуються цього мобільного додатку чи серії уроків \"Перші принципи\", будь ласка, повідомте нам!"
 
 #: 22_contact_us.html:37
 msgid "To contact us regarding technical questions, such as improving this application on mobile devices, send an e-mail to:"
-msgstr ""
+msgstr "Щоб зв'язатися з нами з приводу технічних питань, таких, як поліпшення цього додатка на мобільних пристроях, відправляйте листи по електронній пошті:"
 
 #: 22_contact_us.html:38
 msgid "support"
-msgstr ""
+msgstr "підтримка"
 
 #: 22_contact_us.html:40
 msgid "To contact us regarding the Biblical content of these First Principles studies, visit our:"
