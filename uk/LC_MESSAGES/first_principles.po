@@ -564,7 +564,7 @@ msgstr "Слово ріже (серця)"
 
 #: 05_word_of_god.html:48
 msgid "Learn that it is good to be \"cut,\" because a scalpel (God's Word) \"cuts\" the cancer (sin) out!"
-msgstr ""
+msgstr "Добре те, що може “вирізати“, тому що і скальпель (Слово Бога) хірурга “вирізає“ ракову пухлину (гріх)!"
 
 #: 05_word_of_god.html:52
 msgid "2 Peter 1:20-21"
@@ -635,7 +635,7 @@ msgstr "Дії 17:10-12"
 
 #: 05_word_of_god.html:85
 msgid "A noble character in God's eyes: great eagerness in receiving the message; examine Scriptures; daily; and believe - make decisions based on the Scriptures"
-msgstr ""
+msgstr "Шляхетний герой в очах Божих: має велике завзяття в отриманні повідомлення; досліджує Писання; щодня; і вірить - приймає рішення, засновані на Писанні"
 
 #: 05_word_of_god.html:86
 msgid "Must check what religious leaders say"
@@ -914,7 +914,7 @@ msgstr "(550 р. до н.е.)"
 
 #: 07_coming_of_the_kingdom.html:55
 msgid "Set up this passage by explaining that earlier in Daniel 2 King Nebuchadnezzer threatens death to all his astrologers and dream interpreters if they do not first tell him his dream, then interpret it"
-msgstr ""
+msgstr "Поясніть спочатку, що раніше в 2 главі книги Даніїла сказано, що царь Навуходоносор дав приказ вбити всіх чародіїв та магів, якщо вони спочатку не розкажуть царю зміст його сна, а потім його роз‘яснення"
 
 #: 07_coming_of_the_kingdom.html:56
 msgid "Daniel interprets King Nebuchadnezzar's dream"
