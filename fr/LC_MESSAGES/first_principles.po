@@ -9,7 +9,7 @@ msgstr ""
 
 #: 00_index.html:17
 msgid "First Principles"
-msgstr ""
+msgstr "Les Principes Fondamentaux"
 
 #: 22_contact_us.html:29
 msgid "Home"
@@ -29,23 +29,23 @@ msgstr ""
 
 #: 04_seeking_god.html:17
 msgid "Seeking God"
-msgstr ""
+msgstr "Chercher Dieu"
 
 #: 05_word_of_god.html:17
 msgid "The Word of God"
-msgstr ""
+msgstr "La parole de Dieu"
 
 #: 06_discipleship.html:17
 msgid "Discipleship"
-msgstr ""
+msgstr "Disciple de Jésus"
 
 #: 07_coming_of_the_kingdom.html:17
 msgid "The Coming of the Kingdom"
-msgstr ""
+msgstr "Le Royaume de Dieu"
 
 #: 08_light_and_darkness.html:17
 msgid "Light and Darkness"
-msgstr ""
+msgstr "La lumière et Des Ténèbres"
 
 #: 09_new_testament_conversion.html:17
 msgid "New Testament Conversion"
@@ -53,7 +53,7 @@ msgstr ""
 
 #: 10_cross.html:17
 msgid "The Cross"
-msgstr ""
+msgstr "La Croix"
 
 #: 11_medical_account.html:17
 msgid "The Medical Account of the Crucifixion of Christ"
