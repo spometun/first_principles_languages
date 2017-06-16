@@ -2507,27 +2507,27 @@ msgstr "Вступ:"
 
 #: 12_baptism_with_the_holy_spirit.html:35
 msgid "Jesus was given the Spirit in full measure (RSV), no limit"
-msgstr ""
+msgstr "Ісусу був даний Дух без міри"
 
 #: 12_baptism_with_the_holy_spirit.html:36
 msgid "John 3:34"
-msgstr "Івана 3:34"
+msgstr "Від Івана 3:34"
 
 #: 12_baptism_with_the_holy_spirit.html:37
 msgid "There are three measures of the Holy Spirit:"
-msgstr ""
+msgstr "Є три міри Святого Духа"
 
 #: 12_baptism_with_the_holy_spirit.html:41
 msgid "The Indwelling of the Holy Spirit"
-msgstr ""
+msgstr "Проживання Святого Духа в людині"
 
 #: 12_baptism_with_the_holy_spirit.html:45
 msgid "Terminology from"
-msgstr ""
+msgstr "назву взято із"
 
 #: 12_baptism_with_the_holy_spirit.html:48
 msgid "Romans 8:9"
-msgstr "Римлянам 8:9"
+msgstr "До римлян 8:9"
 
 #: 12_baptism_with_the_holy_spirit.html:50
 msgid "(RSV)"
@@ -2549,7 +2549,7 @@ msgstr "Хрещення Святим Духом"
 
 #: 12_baptism_with_the_holy_spirit.html:69
 msgid "Characteristics in"
-msgstr "Опис в"
+msgstr "Описання в"
 
 #: 12_baptism_with_the_holy_spirit.html:72
 msgctxt "baptism_with_the_holy_spirit #1"
@@ -2576,11 +2576,11 @@ msgstr "Дії 1:4-5"
 
 #: 12_baptism_with_the_holy_spirit.html:91
 msgid "Predicted (prophesied)"
-msgstr ""
+msgstr "Передбачено (було пророцтво)"
 
 #: 12_baptism_with_the_holy_spirit.html:94
 msgid "Came without warning. (People were not specifically praying for it)"
-msgstr ""
+msgstr "Дух зійшов без попередження. (Люди спеціально не молились про Нього.)"
 
 #: 12_baptism_with_the_holy_spirit.html:97
 msgid "Languages"
@@ -2588,7 +2588,7 @@ msgstr "Мови"
 
 #: 12_baptism_with_the_holy_spirit.html:100
 msgid "Purpose:  to usher in the Kingdom with power"
-msgstr ""
+msgstr "Ціль: допомогти Царству прийти в силі"
 
 #: 12_baptism_with_the_holy_spirit.html:103
 msgctxt "baptism_with_the_holy_spirit #1"
@@ -2597,11 +2597,11 @@ msgstr "Дії 1:8"
 
 #: 12_baptism_with_the_holy_spirit.html:110
 msgid "Accounts of the Baptism with the Holy Spirit"
-msgstr ""
+msgstr "Випадки хрещення Святим Духом"
 
 #: 12_baptism_with_the_holy_spirit.html:113
 msgid "To the Jews — in Jerusalem"
-msgstr ""
+msgstr "Юдеї в Єрусалимі "
 
 #: 12_baptism_with_the_holy_spirit.html:116
 msgctxt "baptism_with_the_holy_spirit #2"
@@ -2610,7 +2610,7 @@ msgstr "Дії 2"
 
 #: 12_baptism_with_the_holy_spirit.html:121
 msgid "To the Gentiles — begins with Cornelius"
-msgstr ""
+msgstr "Язичники, починаючи від Корнилія"
 
 #: 12_baptism_with_the_holy_spirit.html:124
 msgctxt "baptism_with_the_holy_spirit #2"
@@ -2619,7 +2619,7 @@ msgstr "Дії 10"
 
 #: 12_baptism_with_the_holy_spirit.html:129
 msgid "Note:  Cornelius and his household were water baptized in"
-msgstr ""
+msgstr "Примітка: Корнилій і його домашні були хрещені в воді"
 
 #: 12_baptism_with_the_holy_spirit.html:131
 msgid "Acts 10:48"
@@ -2627,11 +2627,11 @@ msgstr "Дії 10:48"
 
 #: 12_baptism_with_the_holy_spirit.html:133
 msgid "saved at baptism"
-msgstr ""
+msgstr "і спасенні при хрещенні"
 
 #: 12_baptism_with_the_holy_spirit.html:136
 msgid "Peter explained actions to the Jews"
-msgstr ""
+msgstr "Петро пояснив свої дії юдеям"
 
 #: 12_baptism_with_the_holy_spirit.html:139
 msgid "Acts 11:1-18"
@@ -2639,7 +2639,7 @@ msgstr "Дії 11:1-18"
 
 #: 12_baptism_with_the_holy_spirit.html:144
 msgid "\"At the beginning\""
-msgstr ""
+msgstr "«Спочатку»"
 
 #: 12_baptism_with_the_holy_spirit.html:147
 msgid "Acts 11:15"
@@ -2795,279 +2795,279 @@ msgstr ""
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:38
 msgid "Types of Miraculous Gifts"
-msgstr ""
+msgstr "Види дивовижних дарів"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:44
 msgid "1 Corinthians 12:8-10"
-msgstr ""
+msgstr "1 до коринтян 12:8-10"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:49
 msgid "Wisdom"
-msgstr ""
+msgstr "Мудрість"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:52
 msgid "Knowledge"
-msgstr ""
+msgstr "Знання"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:55
 msgid "Faith"
-msgstr ""
+msgstr "Віра"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:58
 msgctxt "miraculous_gifts_of_the_holy_spirit #1"
 msgid "Healing"
-msgstr ""
+msgstr "Зцілення"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:61
 msgid "Miracles"
-msgstr ""
+msgstr "Чудеса"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:64
 msgid "Prophecy"
-msgstr ""
+msgstr "Пророцтва"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:67
 msgid "Distinguishing Spirits"
-msgstr ""
+msgstr "Розпізнання духів"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:70
 msgid "Tongues"
-msgstr ""
+msgstr "Мови"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:73
 msgid "Interpretation"
-msgstr ""
+msgstr "«Вияснення» мов"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:81
 msgid "Mark 16:16-18"
-msgstr ""
+msgstr "Від Марка 16:16-18"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:84
 msgid "Some will be able to:"
-msgstr ""
+msgstr "Деякі зможуть:"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:87
 msgid "Drink poison and not die"
-msgstr ""
+msgstr "Випити отруту і не померти"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:90
 msgid "Be bitten by snakes and not die"
-msgstr ""
+msgstr "Не померти від укусу змії "
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:93
 msgid "Acts 28:5"
-msgstr ""
+msgstr "Дії 28:5"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:104
 msgid "Types of \"Laying on of Hands\""
-msgstr ""
+msgstr "Види «покладання рук»"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:108
 msgid "Blessing"
-msgstr ""
+msgstr "Благословення"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:111
 msgid "Acts 13:3"
-msgstr ""
+msgstr "Дії 13:3"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:117
 msgctxt "miraculous_gifts_of_the_holy_spirit #2"
 msgid "Healing"
-msgstr ""
+msgstr "Зцілення"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:120
 msgid "Ananias heals Paul's blindness"
-msgstr ""
+msgstr "Ананія зцілив сліпоту Павла"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:123
 msgid "Acts 9:17-18"
-msgstr ""
+msgstr "Дії 9:17-18"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:129
 msgid "Paul heals Publius' father on Malta"
-msgstr ""
+msgstr "Павло зцілив отця Публія на острові Мальта"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:132
 msgid "Acts 28:8"
-msgstr ""
+msgstr "Дії 28:8"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:140
 msgid "Passing on the Gifts"
-msgstr ""
+msgstr "Передача дарів"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:143
 msgid "Apostles pass on the gifts"
-msgstr ""
+msgstr "Апостоли могли передавати дари"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:146
 msgctxt "miraculous_gifts_of_the_holy_spirit #1"
 msgid "Acts 8:18"
-msgstr ""
+msgstr "Дії 8:18"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:152
 msgid "These people could not pass on the gifts that they received"
-msgstr ""
+msgstr "Люди, котрі отримали ці дари, не могли їх передавати"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:159
 msgctxt "miraculous_gifts_of_the_holy_spirit #1"
 msgid "Acts 6:1-8"
-msgstr ""
+msgstr "Дії 6:1-8"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:162
 msgid "Context is the choosing of \"The Seven.\"  This is the first occasion that the gifts were passed.  Stephen immediately starts to perform miraculous signs among the people with God's power (v.8)"
-msgstr ""
+msgstr "Контекст: вибрання «сімох». Це перший випадок, коли дари передавались. Степан одразу ж  почав творити великі чудеса і знамення серед народу силою, данною від Бога (Дії 6:8)"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:167
 msgid "Acts 8:1-25"
-msgstr ""
+msgstr "Дії 8:1-25"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:170
 msgid "Context is after Stephen's martyrdom.  Great persecution breaks out.  Many leave, but apostles stay in Jerusalem.  Philip, one of \"The Seven\" who had received the gifts in"
-msgstr ""
+msgstr "Контекст: після мученицької смерті Степана почалося велике гоніння, багато учнів розсіялися, але апостоли залишилися в Єрусалимі. Філіп, один з сімох, яким були передані дари"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:173
 msgctxt "miraculous_gifts_of_the_holy_spirit #2"
 msgid "Acts 6:1-8"
-msgstr ""
+msgstr "Дії 6:1-8"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:176
 msgid "goes to Samaria.  He performs many miraculous signs and healings to get people to believe"
-msgstr ""
+msgstr "пішов до Самарії. Він творив багато знамень і зцілював для того, щоб люди повірили"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:182
 msgid "including Simon the Sorcerer"
-msgstr ""
+msgstr "Ті, хто повірили, у тому числі і Симон-чаклун"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:188
 msgid "and they are baptized.  (They became Christians and thus receive the forgiveness of sins and the gift (indwelling) of the Holy Spirit"
-msgstr ""
+msgstr "були хрещені. (Вони стали християнами, отже, отримали прощення гріхів і дар (проживання) Святого Духа"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:191
 msgctxt "miraculous_gifts_of_the_holy_spirit #1"
 msgid "Acts 2:38"
-msgstr ""
+msgstr "Дії 2:38"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:194
 msgid "When apostles come to Samaria, Simon saw that the Spirit's gifts were only given by apostles' laying on of hands and offers them money for this ability"
-msgstr ""
+msgstr "Коли апостоли прийшли до Самарії, Симон бачив, що дари Святого Духа давалися тільки покладанням рук апостолів, і він запропонував їм гроші, щоб мати цю здатність"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:197
 msgctxt "miraculous_gifts_of_the_holy_spirit #2"
 msgid "Acts 8:18"
-msgstr ""
+msgstr "Дії 8:18"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:200
 msgid "Note:  Simon didn't ask Philip for the gifts because Philip could not pass them on.  Simon is rebuked for having the wrong motivation"
-msgstr ""
+msgstr "Зауважте, Симон не просив Філіпа про дари, тому що Філіп не міг передати їх. Симона дорікнули в неправильній мотивації"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:205
 msgid "Acts 19:1-6"
-msgstr ""
+msgstr "Дії 19:1-6"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:208
 msgid "Paul finds disciples in Ephesus who didn't know what the Holy Spirit was because they had only received John's baptism of repentance.  Then they were baptized into the name of Jesus Christ to receive the forgiveness of their sins and the indwelling of the Holy Spirit"
-msgstr ""
+msgstr "Павло знаходить учнів в Ефесі, які не знали, що таке Святий Дух, тому що вони отримали тільки хрещення покаяння Івана Хрестителя. Тоді вони були хрещені в ім'я Ісуса Христа, щоб отримати прощення гріхів та проживання Святого Духа"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:214
 msgid "Then they receive the miraculous gifts of prophecy and speaking in tongues by the laying on of Paul's hands"
-msgstr ""
+msgstr "Після цього, через покладання рук Павлом, вони отримали дивовижні дари пророцтва і здатність говорити іншими мовами"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:220
 msgid "Paul is an apostle"
-msgstr ""
+msgstr "Павло – апостол"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:228
 msgid "General Observations"
-msgstr ""
+msgstr "Загальні спостереження"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:232
 msgid "Apostles were able to pass on the gifts because they were apostles.  The Apostles possessed the ability to perform miracles even during the ministry of Christ"
-msgstr ""
+msgstr "Апостоли мали владу передавати дари, тому що вони були апостолами. Вони отримали здатність творити чудеса навіть під час служіння Христа"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:235
 msgid "Luke 9:1"
-msgstr ""
+msgstr "Від Луки 9:1"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:238
 msgid "This ability to pass and perform the gifts was not given at Pentecost"
-msgstr ""
+msgstr "Здатність передавати дари і творити чудеса не була дана під час П'ятидесятниці"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:242
 msgid "1 Corinthians"
-msgstr ""
+msgstr "1 до коринтян"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:247
 msgctxt "miraculous_gifts_of_the_holy_spirit #1"
 msgid "and"
-msgstr ""
+msgstr "і"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:253
 msgid "are not the directives on how to receive tongues (the church there had already received them), but rather the correctives on how to use them because everyone was speaking at the same time and misusing the tongues"
-msgstr ""
+msgstr "не дає вказівок про те, як отримати мови (ця церква вже отримала їх), швидше там містяться пояснення про те, як їх використовувати, тому що всі говорили одночасно і зловживали знанням мов"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:256
 msgid "1 Corinthians 12:28-30"
-msgstr ""
+msgstr "1 до коринтян 12:28-30"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:259
 msgid "shows that tongues as a gift were not given to everyone in the church.  Thus the concept of a \"Pentecostal church\" (every member speaking in tongues) is contrary to Scripture"
-msgstr ""
+msgstr "показує, що знання мов як дар був даний не кожному в церкві. Концепція «Церкви п'ятидесятників» (кожен член церкви говорить мовами) суперечить Писанню"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:264
 msgid "1 Corinthians 13:8-10"
-msgstr ""
+msgstr "1 до коринтян 13:8-10"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:267
 msgid "\"Perfection\" here could not mean the coming of Christ because it is in the neuter gender in Greek, not the masculine gender.  When perfection comes probably refers to the canonization of the Bible some time after the first century.  At that time, all the miraculous gifts would be gone because all the apostles and those to whom they passed the gifts would have died"
-msgstr ""
+msgstr "«Досконалість» не могло означати прихід Христа, оскільки у грецькій мові воно середнього роду, а не чоловічого. Настання досконалості, можливо, вказує на канонізацію Біблії в якийсь момент після першого сторіччя. До того часу всі дивовижні дари пройдуть, тому що всі апостоли і ті люди, яким вони передали дари, уже помруть"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:270
 msgid "The purpose of the miraculous gifts from"
-msgstr ""
+msgstr "Призначення дивовижних дарів із"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:273
 msgid "1 Corinthians 14:20-22"
-msgstr ""
+msgstr "1 до коринтян 14:20-22"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:279
 msgid "To get non-believers to believe (tongues were only to be used to bring non-believers to faith)"
-msgstr ""
+msgstr "Щоб ті, хто не вірять, повірили (мови були призначені тільки для того, щоб допомогти невіруючим знайти віру)"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:282
 msgid "To edify the Christians and strengthen their faith"
-msgstr ""
+msgstr "Щоб зміцнювати у вірі християн"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:285
 msgid "Now the Bible fulfills these needs — thus the church today does not need apostles or miraculous gifts"
-msgstr ""
+msgstr "Зараз ці потреби виконує Біблія - тому сьогодні церква не потребує апостолів або дивовижних дарів"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:292
 msgid "2 Thessalonians 2:9-12"
-msgstr ""
+msgstr "2 до солунян 2:9-12"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:295
 msgid "shows that there can be miracles by Satan today.  Satan's purpose is to deceive people about the truth, so they will not be saved"
-msgstr ""
+msgstr "показує, що дива сьогодні можуть бути і від Сатани. Мета Сатани – обдурити людей, щоб вони не були врятовані"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:298
 msgid "Speaking in \"tongues\" is common in many religions (Mormon, Catholic, Islam, etc.), because religion gets dried and staid.  These are also called \"ecstatic utterances\" — non-understandable sounds and fragments of speech"
-msgstr ""
+msgstr "Говоріння «мовами» звичайне явище для багатьох релігій (мормони, католики, іслам тощо). Це спосіб «оживити» релігію, яка стала сухою і статичною. Це явище називають також «несамовите бурмотіння» - нечленороздільні звуки і фрагменти мови"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:301
 msgid "A person can be filled with the Spirit without speaking in tongues"
-msgstr ""
+msgstr " Людина може бути наповнена Духом без дару говорити іншими мовами"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:304
 msgid "Ephesians 5:18-20"
-msgstr ""
+msgstr "до ефесян 5:18-20"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:310
 msgid "Jesus never spoke in tongues and he was accorded the full-measure of the Spirit"
-msgstr ""
+msgstr "Ісус ніколи не говорив іншими мовами, і при цьому Він був наділений Духом без міри "
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:313
 msgid "John 3:34-36"
-msgstr ""
+msgstr "Від Івана 3:34-36"
 
 #: 14_church.html:39
 msgid "Colossians 1:15-18"
