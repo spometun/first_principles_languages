@@ -170,7 +170,7 @@ msgstr "caicc.net"
 
 #: 02_course_information.html:46
 msgid "by Session 2"
-msgstr ""
+msgstr "на уроці 2"
 
 #: 02_course_information.html:48
 msgid "Read Ron Harding’s History of the Spread of Christianity in Modern Times"
@@ -182,7 +182,7 @@ msgstr "KipMcKean.com"
 
 #: 02_course_information.html:49
 msgid "by Session 8"
-msgstr ""
+msgstr "на уроці 8"
 
 #: 02_course_information.html:52
 msgid "An outline of the book of Acts will be turned in by Session 11. Each student is required to\n"
@@ -195,7 +195,7 @@ msgstr ""
 
 #: 02_course_information.html:60
 msgid "Session 1"
-msgstr ""
+msgstr "Урок 1"
 
 #: 02_course_information.html:62
 msgid "Introduction and Seeking God"
@@ -203,7 +203,7 @@ msgstr "Вступ та в пошуках Бога"
 
 #: 02_course_information.html:65
 msgid "Session 2"
-msgstr ""
+msgstr "Урок 2"
 
 #: 02_course_information.html:67
 msgid "The Word Of God"
@@ -211,27 +211,27 @@ msgstr "Слово Бога"
 
 #: 02_course_information.html:70
 msgid "Session 3"
-msgstr ""
+msgstr "Урок 3"
 
 #: 02_course_information.html:75
 msgid "Session 4"
-msgstr ""
+msgstr "Урок 4"
 
 #: 02_course_information.html:80
 msgid "Session 5"
-msgstr ""
+msgstr "Урок 5"
 
 #: 02_course_information.html:85
 msgid "Session 6"
-msgstr ""
+msgstr "Урок 6"
 
 #: 02_course_information.html:90
 msgid "Session 7"
-msgstr ""
+msgstr "Урок 7"
 
 #: 02_course_information.html:95
 msgid "Session 8"
-msgstr ""
+msgstr "Урок 8"
 
 #: 02_course_information.html:97
 msgid "The Baptism of the Holy Spirit"
@@ -239,7 +239,7 @@ msgstr "Хрещення Святим Духом"
 
 #: 02_course_information.html:100
 msgid "Session 9"
-msgstr ""
+msgstr "Урок 9"
 
 #: 02_course_information.html:102
 msgid "The Miraculous Gifts of the Holy Spirit"
@@ -247,11 +247,11 @@ msgstr "Чудесні Дари Святого Духа"
 
 #: 02_course_information.html:105
 msgid "Session 10"
-msgstr ""
+msgstr "Урок 10"
 
 #: 02_course_information.html:110
 msgid "Session 11"
-msgstr ""
+msgstr "Урок 11"
 
 #: 02_course_information.html:112
 msgid "Acts 1 - 8"
@@ -259,7 +259,7 @@ msgstr "Дії 1-8"
 
 #: 02_course_information.html:115
 msgid "Session 12"
-msgstr ""
+msgstr "Урок 12"
 
 #: 02_course_information.html:117
 msgid "Acts 9 - 15"
@@ -267,7 +267,7 @@ msgstr "Дії 9-15"
 
 #: 02_course_information.html:120
 msgid "Session 13"
-msgstr ""
+msgstr "Урок 13"
 
 #: 02_course_information.html:122
 msgid "Acts 16 - 21"
@@ -275,7 +275,7 @@ msgstr "Дії 16-21"
 
 #: 02_course_information.html:125
 msgid "Session 14"
-msgstr ""
+msgstr "Урок 14"
 
 #: 02_course_information.html:127
 msgid "Acts 21 - 28"
@@ -283,27 +283,28 @@ msgstr "Дії 21-28"
 
 #: 02_course_information.html:132
 msgid "Suggested Reading"
-msgstr ""
+msgstr "Рекомендована література"
 
 #: 02_course_information.html:133
 msgid "These books are recommended as thought-provoking and informative tools to be used in gaining insights into God’s Word. In no way are they suggested to be Biblically correct on all doctrinal points"
-msgstr ""
+msgstr "Ці книги рекомендуються для роздумів і отримання додаткової інформації для кращого розуміння Слова Божого. Ні в якому разі вони не є біблійно правильними у всіх доктринальних моментах"
 
 #: 02_course_information.html:135
 msgid "The Five Love Languages"
 msgstr "П‘ять мов любові"
 
 #: 02_course_information.html:135
+#, fuzzy
 msgid "- Chapman"
 msgstr "- Чепмен"
 
 #: 02_course_information.html:136
 msgid "The Master Plan of Evangelism"
-msgstr ""
+msgstr "The Master Plan of Evangelism"
 
 #: 02_course_information.html:136
 msgid "- Coleman -"
-msgstr ""
+msgstr "- Coleman -"
 
 #: 02_course_information.html:136
 msgctxt "course_information #1"
@@ -316,7 +317,7 @@ msgstr ""
 
 #: 02_course_information.html:137
 msgid "- Edwards -"
-msgstr ""
+msgstr "- Edwards -"
 
 #: 02_course_information.html:137
 msgctxt "course_information #2"
@@ -325,11 +326,11 @@ msgstr "Аудіо"
 
 #: 02_course_information.html:138
 msgid "Voice in the Wind"
-msgstr ""
+msgstr "Voice in the Wind"
 
 #: 02_course_information.html:138
 msgid "- Rivers -"
-msgstr ""
+msgstr "- Rivers -"
 
 #: 02_course_information.html:138
 msgctxt "course_information #3"
@@ -338,11 +339,11 @@ msgstr "Аудіо"
 
 #: 02_course_information.html:139
 msgid "The Disciplined Life"
-msgstr "Учнівське життя"
+msgstr "The Disciplined Life"
 
 #: 02_course_information.html:139
 msgid "- Taylor"
-msgstr ""
+msgstr "- Taylor"
 
 #: 02_course_information.html:140
 msgid "Elevate"
@@ -366,7 +367,7 @@ msgstr "Дії 1-8"
 
 #: 02_course_information.html:150
 msgid "Building A Great Church"
-msgstr ""
+msgstr "Будівництво Великої Церкви"
 
 #: 02_course_information.html:153
 msgid "Sermon #2"
@@ -1279,7 +1280,7 @@ msgstr "Луки 24:44-49"
 #: 07_coming_of_the_kingdom.html:174
 msgctxt "coming_of_the_kingdom #1"
 msgid "Conclusion"
-msgstr ""
+msgstr "Висновки"
 
 #: 07_coming_of_the_kingdom.html:176
 msgid "The church is the Kingdom of God on earth, established in approximately"
@@ -1301,7 +1302,7 @@ msgstr "Як громадяни Царства і члени Тіла (Церк�
 #: 07_coming_of_the_kingdom.html:180
 msgctxt "coming_of_the_kingdom #1"
 msgid "Doctrine"
-msgstr ""
+msgstr "Вченні"
 
 #: 07_coming_of_the_kingdom.html:181
 msgid "Fellowship"
@@ -1318,7 +1319,7 @@ msgstr "Молитвах"
 #: 07_coming_of_the_kingdom.html:186
 msgctxt "coming_of_the_kingdom #1"
 msgid "Matthew 6:33"
-msgstr ""
+msgstr "Матвія 6:33"
 
 #: 07_coming_of_the_kingdom.html:186
 msgid "We must seek His Kingdom first.  Ask them to commit themselves to at least Sunday services and Midweek services"
@@ -1365,7 +1366,7 @@ msgstr "Помилувані"
 
 #: 08_light_and_darkness.html:50
 msgid "Lost"
-msgstr "Загублений"
+msgstr "Не спасенний"
 
 #: 08_light_and_darkness.html:50
 msgid "Not a Christian"
@@ -1382,7 +1383,7 @@ msgstr "Спасенний"
 #: 08_light_and_darkness.html:52
 msgctxt "light_and_darkness #1"
 msgid "Christian"
-msgstr "Христианин"
+msgstr "Християнин"
 
 #: 08_light_and_darkness.html:52
 msgctxt "light_and_darkness #1"
@@ -1391,7 +1392,7 @@ msgstr "Учень"
 
 #: 08_light_and_darkness.html:58
 msgid "Every person is either in the darkness or the light.  There is no twilight zone"
-msgstr "Кожна людина знаходиться в темряві або на світлі. Напівсутінок не існує"
+msgstr "Кожна людина знаходиться в темряві або на світлі. Напівтемряви не існує"
 
 #: 08_light_and_darkness.html:59
 msgid "Where are you?"
@@ -1405,7 +1406,7 @@ msgstr "Темрява"
 #: 08_light_and_darkness.html:67
 msgctxt "light_and_darkness #1"
 msgid "Isaiah 59:1-2"
-msgstr ""
+msgstr "Ісая 59:1-2"
 
 #: 08_light_and_darkness.html:70
 msgid "Sin separates us from God"
@@ -1607,7 +1608,7 @@ msgstr "Ісус воскрес фізично з мертвих"
 #: 08_light_and_darkness.html:176
 msgctxt "light_and_darkness #1"
 msgid "v. 24"
-msgstr "ст. 24"
+msgstr "в. 24"
 
 #: 08_light_and_darkness.html:177
 msgid "Everyone is responsible for the crucifixion of Christ"
@@ -1616,7 +1617,7 @@ msgstr "Кожен несе відповідальність за розп‘я�
 #: 08_light_and_darkness.html:177
 msgctxt "light_and_darkness #1"
 msgid "v. 23"
-msgstr ""
+msgstr "в. 23"
 
 #: 08_light_and_darkness.html:177
 msgid "All have sinned."
@@ -1625,7 +1626,7 @@ msgstr "Всі згрішили."
 #: 08_light_and_darkness.html:177
 msgctxt "light_and_darkness #1"
 msgid "Romans 3:23"
-msgstr ""
+msgstr "Римлянам 3:23"
 
 #: 08_light_and_darkness.html:181
 msgid "Response of people:"
@@ -1637,7 +1638,7 @@ msgstr "Дії 2:36-37"
 
 #: 08_light_and_darkness.html:183
 msgid "Cut to the heart"
-msgstr ""
+msgstr "Були глибоко розчулені"
 
 #: 08_light_and_darkness.html:184
 msgid "What shall we do?"
@@ -1653,11 +1654,11 @@ msgstr "Дії 2:38-42"
 
 #: 08_light_and_darkness.html:190
 msgid "Repent (Greek = to turn)"
-msgstr ""
+msgstr "Покайтесь (з грецької = розверніться)"
 
 #: 08_light_and_darkness.html:192
 msgid "Be baptized (Greek = to be immersed)"
-msgstr "Бути хрещеним (з грецької = "
+msgstr "Бути хрещеним (з грецької = занурення під воду)"
 
 #: 08_light_and_darkness.html:194
 msgid "Sin forgiven. Therefore this is the point in time a person is saved"
@@ -1665,7 +1666,7 @@ msgstr "Гріхи прощаються. Тому саме в цей момен�
 
 #: 08_light_and_darkness.html:195
 msgid "Holy Spirit given to each who responded - power to live as God commands"
-msgstr ""
+msgstr "Святий Дух дається кажному, хто відкликнувся - ця сила достатня для того, щоб жити згідно з заповідями"
 
 #: 08_light_and_darkness.html:199
 msgid "Baptism:"
@@ -1677,7 +1678,7 @@ msgstr "Римлянам 6:1-4"
 
 #: 08_light_and_darkness.html:200
 msgid "Baptism is the sharing (a participation) in the death, burial and resurrection of Christ. (More than just a symbol)"
-msgstr ""
+msgstr "При хрещенні ми приймаємо участь в смерті, і воскресенні Христа. (Більше ніж лише символ)"
 
 #: 08_light_and_darkness.html:208
 msgid "JESUS"
@@ -1779,7 +1780,7 @@ msgstr "Традиції/лжедоктрини -"
 #: 08_light_and_darkness.html:277
 msgctxt "light_and_darkness #1"
 msgid "Matthew 15:6-9"
-msgstr ""
+msgstr "Матвія 15:6-9"
 
 #: 08_light_and_darkness.html:280
 msgid "Infant Baptism"
@@ -1792,7 +1793,7 @@ msgstr "Необхідна особиста віра"
 #: 08_light_and_darkness.html:282
 msgctxt "light_and_darkness #1"
 msgid "Colossians 2:12"
-msgstr ""
+msgstr "Колосянам 2:12"
 
 #: 08_light_and_darkness.html:283
 msgid "Began approximately third century A.D."
@@ -1805,7 +1806,7 @@ msgstr "Перворідний гріх"
 #: 08_light_and_darkness.html:287
 msgctxt "light_and_darkness #1"
 msgid "Ezekiel 18:20"
-msgstr ""
+msgstr "Єзекіль 18:20"
 
 #: 08_light_and_darkness.html:288
 msgid "Became \"church doctrine\" in 549 A.D."
@@ -1818,7 +1819,7 @@ msgstr "Помолись, щоб Ісус ввійшов в твоє серце"
 #: 08_light_and_darkness.html:296
 msgctxt "light_and_darkness #1"
 msgid "Revelation 3:20"
-msgstr ""
+msgstr "Об‘явлення 3:20"
 
 #: 08_light_and_darkness.html:296
 msgid "- taken out of context.  This verse is addressed to Christians"
@@ -1838,33 +1839,33 @@ msgstr "Запропонуйте людині, з якою ви вивчаєте
 
 #: 09_new_testament_conversion.html:37
 msgid "The Major Conversions in Acts"
-msgstr ""
+msgstr "Основні навернення в Діях"
 
 #: 09_new_testament_conversion.html:40
 msgid "Conversions"
-msgstr ""
+msgstr "Навернення"
 
 #: 09_new_testament_conversion.html:49
 msgctxt "new_testament_conversion #1"
 msgid "Acts 2:36-47"
-msgstr ""
+msgstr "Дії 2:36-47"
 
 #: 09_new_testament_conversion.html:54
 msgid "First Christian in Jerusalem"
-msgstr ""
+msgstr "Перші християни в Ієрусалимі"
 
 #: 09_new_testament_conversion.html:64
 msgctxt "new_testament_conversion #1"
 msgid "Acts 8:26-39"
-msgstr ""
+msgstr "Дії 8:26-39"
 
 #: 09_new_testament_conversion.html:69
 msgid "Ethiopian Eunich"
-msgstr ""
+msgstr "Ефіопський євнух"
 
 #: 09_new_testament_conversion.html:79
 msgid "Acts 16:22-34"
-msgstr ""
+msgstr "Дії 16:22-34"
 
 #: 09_new_testament_conversion.html:84
 msgid "Philippian jailer and his family"
@@ -1873,66 +1874,66 @@ msgstr ""
 #: 09_new_testament_conversion.html:94
 msgctxt "new_testament_conversion #1"
 msgid "Acts 9:1-22"
-msgstr ""
+msgstr "Дії 9:1-22"
 
 #: 09_new_testament_conversion.html:99
 msgctxt "new_testament_conversion #1"
 msgid "Paul"
-msgstr ""
+msgstr "Павло"
 
 #: 09_new_testament_conversion.html:106
 msgid "Acts 22:3-16"
-msgstr ""
+msgstr "Дії 22:3-16"
 
 #: 09_new_testament_conversion.html:111
 msgctxt "new_testament_conversion #2"
 msgid "Paul"
-msgstr ""
+msgstr "Павло"
 
 #: 09_new_testament_conversion.html:121
 msgid "Acts 18:24-26"
-msgstr ""
+msgstr "Дії 18:24-26"
 
 #: 09_new_testament_conversion.html:126
 msgid "Apollos"
-msgstr ""
+msgstr "Аполос"
 
 #: 09_new_testament_conversion.html:136
 msgctxt "new_testament_conversion #1"
 msgid "Acts 19:1-5"
-msgstr ""
+msgstr "Дії 19:1-5"
 
 #: 09_new_testament_conversion.html:141
 msgid "Ephesians"
-msgstr ""
+msgstr "Єфесяни"
 
 #: 09_new_testament_conversion.html:147
 msgid "Questions concerning Conversions"
-msgstr ""
+msgstr "Питання, що стосуються навернення"
 
 #: 09_new_testament_conversion.html:150
 msgid "What was preached?"
-msgstr ""
+msgstr "Що проповідувалось?"
 
 #: 09_new_testament_conversion.html:153
 msgid "What was the person's (people's) response to the message?"
-msgstr ""
+msgstr "Яка була реакція людини (людей) на те, що було проповідано?"
 
 #: 09_new_testament_conversion.html:156
 msgid "How long did the person (people) take to make the decision?"
-msgstr ""
+msgstr "Як довго людина (люди) приймала рішення?"
 
 #: 09_new_testament_conversion.html:159
 msgid "What was their response after baptism?"
-msgstr ""
+msgstr "Яка була їхня реакція після хрещення?"
 
 #: 09_new_testament_conversion.html:167
 msgid "Refuting False Doctrines"
-msgstr ""
+msgstr "Відповідь на хибні доктрини"
 
 #: 09_new_testament_conversion.html:172
 msgid "\"Pray Jesus into your heart\":"
-msgstr ""
+msgstr "“Пол"
 
 #: 09_new_testament_conversion.html:175
 msgid "This phrase is never mentioned in the Bible.  People may use"
@@ -2131,7 +2132,7 @@ msgstr ""
 
 #: 10_cross.html:37
 msgid "Passion Account"
-msgstr ""
+msgstr "Опис страждань"
 
 #: 10_cross.html:38
 msgid "Read"
