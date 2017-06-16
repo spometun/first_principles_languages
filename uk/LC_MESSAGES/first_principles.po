@@ -1933,7 +1933,7 @@ msgstr "Відповідь на хибні доктрини"
 
 #: 09_new_testament_conversion.html:172
 msgid "\"Pray Jesus into your heart\":"
-msgstr "“Пол"
+msgstr "“Помолись, щоб Ісус ввій"
 
 #: 09_new_testament_conversion.html:175
 msgid "This phrase is never mentioned in the Bible.  People may use"
