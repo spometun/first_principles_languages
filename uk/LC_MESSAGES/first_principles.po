@@ -4608,7 +4608,7 @@ msgstr "Якщо у вас є відгуки, пропозиції чи пита
 
 #: 22_contact_us.html:37
 msgid "To contact us regarding technical questions, such as improving this application on mobile devices, send an e-mail to:"
-msgstr "Щоб зв'язатися з нами з приводу технічних питань, таких, як поліпшення цього додатка на мобільних пристроях, відправляйте листи по електронній пошті:"
+msgstr "Щоб зв'язатися з нами з приводу технічних питань, таких, як поліпшення цього додатка на мобільних пристроях, відправляйте листи електронною поштою:"
 
 #: 22_contact_us.html:38
 msgid "support"
@@ -4616,17 +4616,17 @@ msgstr "підтримка"
 
 #: 22_contact_us.html:40
 msgid "To contact us regarding the Biblical content of these First Principles studies, visit our:"
-msgstr ""
+msgstr "Щоб зв'язатися з нами з приводу біблійного змісту цих уроків \"Перших принципів\", відвідайте наш сайт:"
 
 #: 22_contact_us.html:41
 msgid "Movement Website"
-msgstr ""
+msgstr "сайт руху"
 
 #: 22_contact_us.html:42
 msgid "and locate Church in nation/city you want to contact to"
-msgstr ""
+msgstr "і знайдіть Церкву в країні/місті, в якому ви б хотіли зв'язатися"
 
 #: 22_contact_us.html:44
 msgid "We look forward to hearing from you!  We strive to respond promptly to all correspondence."
-msgstr ""
+msgstr "Ми з нетерпінням чекаємо листів від вас! Ми прагнемо оперативно реагувати на всі листи."
 
