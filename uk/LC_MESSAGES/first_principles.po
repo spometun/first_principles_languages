@@ -1933,11 +1933,11 @@ msgstr "Відповідь на хибні доктрини"
 
 #: 09_new_testament_conversion.html:172
 msgid "\"Pray Jesus into your heart\":"
-msgstr "“Помолись, щоб Ісус ввій"
+msgstr "“Помолись, щоб Ісус ввійшов у твоє серце“:"
 
 #: 09_new_testament_conversion.html:175
 msgid "This phrase is never mentioned in the Bible.  People may use"
-msgstr ""
+msgstr "Ця фраза ні разу не зустрічається в Біблії. Люди можуть використовувати"
 
 #: 09_new_testament_conversion.html:178
 msgctxt "new_testament_conversion #1"
@@ -1946,11 +1946,11 @@ msgstr ""
 
 #: 09_new_testament_conversion.html:181
 msgid "about Jesus knocking at the door.  However, you must examine the Scripture in context.  This scripture does not teach how to become a Christian and be saved, but how to come back to God after becoming lukewarm.  It is addressed to disciples who already responded to Christ in faith, repentance, confession and baptism"
-msgstr ""
+msgstr "де говориться про Ісуса, який стукає в двері. Однак необхідно розглядати уривок у контексті. Цей вірш не вчить як стати християнином або спастись. Він говорить про те, як повернутись до Бога після того, як людина охолола. "
 
 #: 09_new_testament_conversion.html:185
 msgid "\"Accept Jesus into your heart\":"
-msgstr ""
+msgstr "“Прийми Христа в своє серце“:"
 
 #: 09_new_testament_conversion.html:188
 msgid "(Same teaching as praying Jesus into your heart, just different terminology)  Based on"
@@ -1958,7 +1958,7 @@ msgstr ""
 
 #: 09_new_testament_conversion.html:191
 msgid "Romans 10:9"
-msgstr ""
+msgstr "Римлянам 10:9"
 
 #: 09_new_testament_conversion.html:194
 msgid "You must look at Scripture in context.  Paul is addressing the problem of the Israelites:  unbelief that Jesus was the Christ, the Son of God.  Read further on to"
@@ -1966,7 +1966,7 @@ msgstr ""
 
 #: 09_new_testament_conversion.html:197
 msgid "Romans 10:13"
-msgstr ""
+msgstr "Римлянам 10:13"
 
 #: 09_new_testament_conversion.html:200
 msgid "When do you call on the name of the Lord?  At baptism"
@@ -1975,7 +1975,7 @@ msgstr ""
 #: 09_new_testament_conversion.html:203
 msgctxt "new_testament_conversion #1"
 msgid "Acts 22:16"
-msgstr ""
+msgstr "Дії 22:16"
 
 #: 09_new_testament_conversion.html:209
 msgid "Infant baptism:"
@@ -1988,7 +1988,7 @@ msgstr ""
 #: 09_new_testament_conversion.html:215
 msgctxt "new_testament_conversion #1"
 msgid "Colossians 2:12"
-msgstr ""
+msgstr "Колосянам 2:12"
 
 #: 09_new_testament_conversion.html:218
 msgid "babies cannot be baptized.  Original sin:"
@@ -1997,7 +1997,7 @@ msgstr ""
 #: 09_new_testament_conversion.html:221
 msgctxt "new_testament_conversion #1"
 msgid "Ezekiel 18:20"
-msgstr ""
+msgstr "Єзекіль 18:20"
 
 #: 09_new_testament_conversion.html:224
 msgid "teaches that there is no original sin; each person is responsible for his own actions and will be judged accordingly.  Therefore babies are born sinless and will be saved if they die"
@@ -2005,12 +2005,12 @@ msgstr ""
 
 #: 09_new_testament_conversion.html:228
 msgid "\"Baptism does not save you\":"
-msgstr ""
+msgstr "“Хрещення не спасає тебе“:"
 
 #: 09_new_testament_conversion.html:233
 msgctxt "new_testament_conversion #1"
 msgid "1 Peter 3:18-21"
-msgstr ""
+msgstr "1 Петра 3:18-21"
 
 #: 09_new_testament_conversion.html:236
 msgid "says that baptism does save you through the resurrection of Jesus Christ"
@@ -2019,7 +2019,7 @@ msgstr ""
 #: 09_new_testament_conversion.html:239
 msgctxt "new_testament_conversion #1"
 msgid "Acts 2:38"
-msgstr ""
+msgstr "Дії 2:38"
 
 #: 09_new_testament_conversion.html:242
 msgid "teaches that sin is forgiven at baptism — one is saved at the point that sin is forgiven"
@@ -2031,11 +2031,11 @@ msgstr ""
 
 #: 09_new_testament_conversion.html:252
 msgid "Ephesians 2:8"
-msgstr ""
+msgstr "Екклісіаста 2:8"
 
 #: 09_new_testament_conversion.html:258
 msgid "Colossians 2:11-15"
-msgstr ""
+msgstr "Колосянам 2:11-15"
 
 #: 09_new_testament_conversion.html:261
 msgid "teaches that we are saved by faith — in the working of God at baptism"
@@ -3071,454 +3071,454 @@ msgstr ""
 
 #: 14_church.html:39
 msgid "Colossians 1:15-18"
-msgstr "Колосянам 1:15-18"
+msgstr "До колоссян 1:15-18"
 
 #: 14_church.html:43
 msgid "The church is the body of Christ.  The body needs the head.  The church is essential to Christianity"
-msgstr "Церква - це тіло Христа. Тілу потрібна голова.  Церква - невід'ємна частина Християнства"
+msgstr "Церква - це тіло Христа. Тілу потрібна голова.  Церква - невід'ємна частина християнства"
 
 #: 14_church.html:48
 msgid "HEAD"
-msgstr ""
+msgstr "Голова"
 
 #: 14_church.html:60
 msgid "CHRIST"
-msgstr ""
+msgstr "Христос"
 
 #: 14_church.html:66
 msgid "BODY"
-msgstr ""
+msgstr "Тіло"
 
 #: 14_church.html:77
 msgid "CHURCH"
-msgstr ""
+msgstr "Церква"
 
 #: 14_church.html:86
 msgid "Ephesians 2:19-21"
-msgstr ""
+msgstr "До ефесян 2:19-21"
 
 #: 14_church.html:91
 msgid "The church is the family of God"
-msgstr ""
+msgstr "Церква – це сім’я Бога"
 
 #: 14_church.html:102
 msgctxt "church #1"
 msgid "GOD"
-msgstr ""
+msgstr "Бог"
 
 #: 14_church.html:105
 msgid "(Father)"
-msgstr ""
+msgstr "(Батько)"
 
 #: 14_church.html:128
 msgctxt "church #1"
 msgid "Christian"
-msgstr ""
+msgstr "Християнин"
 
 #: 14_church.html:130
 msgctxt "church #1"
 msgid "(Son)"
-msgstr ""
+msgstr "(Син)"
 
 #: 14_church.html:136
 msgid "Brothers"
-msgstr ""
+msgstr "Брати"
 
 #: 14_church.html:142
 msgctxt "church #2"
 msgid "Christian"
-msgstr ""
+msgstr "Християнин"
 
 #: 14_church.html:144
 msgctxt "church #2"
 msgid "(Son)"
-msgstr ""
+msgstr "(Син)"
 
 #: 14_church.html:152
 msgctxt "church #1"
 msgid "1 Corinthians 12:12-13"
-msgstr ""
+msgstr "1 до коринтян"
 
 #: 14_church.html:155
 msgid "teaches that we are baptized into the body of Christ, the church"
-msgstr ""
+msgstr "вчить, що ми хрестимось у тіло Христа, у Церкву"
 
 #: 14_church.html:160
 msgid "Romans 6:3-4"
-msgstr ""
+msgstr "До римлян 6:3-4"
 
 #: 14_church.html:163
 msgid "teaches that we are also baptized into Christ.  Baptism is when we become Christian, a son of God, and at that same point we become members of the church, the family of God"
-msgstr ""
+msgstr "вчить, що ми хрестимось у Христа. Хрещення – момент, коли людина стає християнином, дитиною Бога, і одночасно – членом Церкви, сім’ї Бога"
 
 #: 14_church.html:170
 msgid "Ephesians 2:20"
-msgstr ""
+msgstr "До ефесян 2:20"
 
 #: 14_church.html:175
 msgid "Cornerstone:  Christ"
-msgstr ""
+msgstr "Наріжний камінь: Христос"
 
 #: 14_church.html:178
 msgid "Foundation:  Apostles and Prophets"
-msgstr ""
+msgstr "Основа: апостоли і пророки"
 
 #: 14_church.html:181
 msgid "Apostles = New Testament Bible"
-msgstr ""
+msgstr "Апостоли – Новий Заповіт"
 
 #: 14_church.html:184
 msgid "Prophets = Old Testament"
-msgstr ""
+msgstr "Пророки – Старий Заповіт"
 
 #: 14_church.html:189
 msgid "The church is based on the Word of God only"
-msgstr ""
+msgstr "Церква засновується тільки на Слові Бога"
 
 #: 14_church.html:195
 msgid "Have you ever wondered why there are so many denominations — divisions?"
-msgstr ""
+msgstr "Чи ви коли-небудь цікавилися, чому так багато деномінацій, розділень?"
 
 #: 14_church.html:197
 msgid "(450 or more exist in the U.S. alone)"
-msgstr ""
+msgstr "(450 або навіть більше існує тільки в США)"
 
 #: 14_church.html:200
 msgid "The Bible teaches that there is one church"
-msgstr ""
+msgstr "Біблія вчить, що Церква одна"
 
 #: 14_church.html:205
 msgctxt "church #1"
 msgid "Ephesians 4:4-6"
-msgstr ""
+msgstr "До ефесян 4;4-6"
 
 #: 14_church.html:208
 msgctxt "church #1"
 msgid "— one body"
-msgstr ""
+msgstr "- одне тіло"
 
 #: 14_church.html:213
 msgid "Romans 12:4-5"
-msgstr ""
+msgstr "До римлян 12:4-5"
 
 #: 14_church.html:216
 msgctxt "church #2"
 msgid "— one body"
-msgstr ""
+msgstr "- одне тіло"
 
 #: 14_church.html:221
 msgctxt "church #2"
 msgid "1 Corinthians 12:12-13"
-msgstr ""
+msgstr "1 до коринтян 12:12-13"
 
 #: 14_church.html:224
 msgctxt "church #3"
 msgid "— one body"
-msgstr ""
+msgstr "- одне тіло"
 
 #: 14_church.html:229
 msgid "Divisions in Christendom are either of Satan or of God"
-msgstr ""
+msgstr "Розділення в християнстві можуть бути або від Бога, або від сатани"
 
 #: 14_church.html:234
 msgid "1 Corinthians 1:10-13"
-msgstr ""
+msgstr "1 до коринтян 1:10-13"
 
 #: 14_church.html:237
 msgid "Division is sin, when following personalities and in time their writings (traditions of men that contradict the Word — false doctrines)"
-msgstr ""
+msgstr "Розділення - це гріх, якщо ми слідуємо за особистостями, а з часом - за їх творами (людські традиції, які суперечать Слову - це лжедоктрини)"
 
 #: 14_church.html:240
 msgctxt "church #1"
 msgid "Matthew 15:6-9"
-msgstr ""
+msgstr "Від Матвія 15:6-9"
 
 #: 14_church.html:247
 msgid "Luke 12:51-53"
-msgstr ""
+msgstr "Від Луки 12:51-53"
 
 #: 14_church.html:251
 msgctxt "church #1"
 msgid "John 10:19-21"
-msgstr ""
+msgstr "Від Івана 10:19-21"
 
 #: 14_church.html:254
 msgid "Division will occur and is righteous, when an individual, church or movement aligns themselves with the Word of God.  The Jews considered themselves \"God's people,\" yet Jesus' words (the truth) divided them into two groups — those who opposed Him and those who obeyed Him"
-msgstr ""
+msgstr "Можуть відбуватися і праведні розділення, коли людина, церква чи рух рівняється на Слово Бога. Іудеї вважали себе «народом Бога», проте слова Ісуса (істина) розділили їх на дві групи: тих, хто протистояв Йому, і тих, хто підкорився Йому"
 
 #: 14_church.html:259
 msgid "The following are the major historical divisions in Christendom — some were formed by a noble stand for the truth (though not a complete return), while others were departures from the truth"
-msgstr ""
+msgstr "Нижче наведені основні історичні розділення в християнстві - деякі з'явилися в результаті благородної боротьби за істину (нехай навіть неповну), а інші навпаки були відходженням від істини"
 
 #: 14_church.html:262
 msgid "Through the centuries the church was corrupted by traditions of men — false doctrines, such as: infant baptism, original sin, perpetual virginity of Mary, priests as clergy, papal infallibility, etc… This becomes the"
-msgstr ""
+msgstr "Протягом століть церкву руйнували людські традиції: такі лжедоктрини, як хрещення немовлят, первородний гріх, вічна незайманість Марії, особливий сан духовенства, непогрішність папи і таке інше. Так з'явилася"
 
 #: 14_church.html:264
 msgid "Catholic Church"
-msgstr ""
+msgstr "Католицька Церква"
 
 #: 14_church.html:266
 msgid "In 364 AD the Roman Empire is split into two parts. This division leads to a split in Christianity — the eastern portion becomes the"
-msgstr ""
+msgstr "У 364 р. н.е. Римська Імперія розпалася на дві частини. Це призвело до розколу в християнстві - східна частина стала"
 
 #: 14_church.html:268
 msgid "Eastern Orthodox Church"
-msgstr ""
+msgstr "Східної Православною Церквою"
 
 #: 14_church.html:270
 msgid "and the western part becomes the"
-msgstr ""
+msgstr "а західна -"
 
 #: 14_church.html:272
 msgid "Roman Catholic Church"
-msgstr ""
+msgstr "Римською Католицькою Церквою"
 
 #: 14_church.html:274
 msgid "Practices diverge, for example — Orthodox has married priests, Roman Catholic priests are celibate. The \"Great Schism\" occurs in 1054 AD, as the leaders of \"each church\" excommunicate each other"
-msgstr ""
+msgstr "Вони розходяться в деяких аспектах, наприклад, у православ'ї священики можуть бути одруженими, а в католицизмі дають обітницю безшлюбності. «Великий розкол» стався в 1054 р. н. е., коли лідери кожної церкви взаємно піддали один одного анафемі"
 
 #: 14_church.html:278
 msgid "1500's Reformation Movement"
-msgstr ""
+msgstr "Рух Реформації 1500-х"
 
 #: 14_church.html:280
 msgid "— Martin Luther (Lutheran Church) He takes a stand against the Roman Catholic Church on these convictions: Bible authority over church authority, salvation by faith not works, and the priesthood of all believers, yet still baptizes infants. Other noted reformers were John Calvin (Presbyterian Church), Ulrich Zwingli and Conrad Grebel (Anabaptists). Anabaptists were heavily persecuted by Catholics and some reformers, because of their stand for adult baptism. Henry VIII (Anglican Church / Church of England) He breaks from the Catholic Church over his right to divorce his wife. He appoints himself head of the church. Later in the United States, the Anglican Church becomes the Episcopalian Church, since members will not follow the king of England"
-msgstr ""
+msgstr "- Мартін Лютер (Лютеранська Церква). Він виступив проти Римської Католицької Церкви з такими переконаннями: авторитет Біблії більше, ніж авторитет церкви; спасіння через віру, а не з учинків; священство всіх віруючих. Проте він продовжував визнавати хрещення немовлят. Іншими відомими реформістами були Джон Кальвін (Пресвітеріанська Церква), Ульріх Цвінглі і Конрад Гребель (анабаптисти). Анабаптистів жорстоко переслідували як католики, так і деякі реформісти через те, що вони відстоювали ідею хрещення дорослих. Генріх VIII (Англіканська Церква / Церква Англії) відокремився від Католицької Церкви через те, що Папа не давав йому право розлучитися з дружиною. Він сам себе призначив головою церкви. Пізніше в США Англіканська Церква стала називатися Єпископальною Церквою, оскільки її члени не хотіли слідувати за королем Англії"
 
 #: 14_church.html:284
 msgid "1700's Great Awakening Movement"
-msgstr ""
+msgstr "«Велике пробудження» 1700-х"
 
 #: 14_church.html:286
 msgid "— John and Charles Wesley (Methodist Church). Followers divide from Church of England over: personal transforming decision for Christ not state religion, high accountability of members, and preaching to the \"unchurched;\" also practiced infant baptism"
-msgstr ""
+msgstr "- Джон і Чарльз Уеслі (Методистська церква). Послідовники цих проповідників відділилися від Англіканської Церкви з такими переконаннями: особисте рішення слідувати за Христом замість державної релігії, висока підзвітність членів і проповідь тим, хто не належить до церкви. Вони теж практикували хрещення немовлят"
 
 #: 14_church.html:290
 msgid "1800's Restoration Movement"
-msgstr ""
+msgstr "Рух Реформації 1800-х"
 
 #: 14_church.html:292
 msgid "— Alexander Campbell and Barton Stone (Mainline Church of Christ and Conservative Christian Church) Take a stand against both Catholic and Protestant doctrines of salvation. They preach to be saved one must have personal faith in Christ, repentance and baptism (immersion) for the forgiveness of sin to receive the Holy Spirit. In reaction to Catholicism, their congregations are autonomous — self-governing. (1906 is the formal split between Mainline Church of Christ, which is non-instrumental, and the Conservative Christian Church, which is instrumental.) Joseph Smith (Mormon Church) divides from Restoration Movement in 1830 over \"new revelation\" — the Book of Mormon"
-msgstr ""
+msgstr "- Олександр Кембелл і Бартон Стоун (Традиційна Церква Христа і Консервативна Християнська Церква). Вони відстоювали доктрину порятунку, відмінну як від католицької, так і від протестантської, а саме, що для порятунку необхідно мати особисту віру в Христа, покаятися і хреститися (зануритися) для прощення гріхів і отримання Святого Духа. На противагу католицизму, їх громади автономні і самоврядні. (У 1906 стався формальний розкол між Традиційною Церквою Христа (ТЦХ), яка практикує лише вокальний спів на зборах, і Консервативної Християнською Церквою, де використовуються музичні інструменти). Джозеф Сміт (мормони) відокремився від Руху Відновлення в 1830 р., нібито отримавши «нове одкровення» - Книгу Мормона"
 
 #: 14_church.html:296
 msgid "1967 Crossroads Movement"
-msgstr ""
+msgstr "1967 р. - Рух \"Кроссроудз\""
 
 #: 14_church.html:298
 msgid "(Total Commitment Movement) — Controversial, though never departing from the Mainline Church of Christ, the Crossroads Church near the University of Florida pioneers evangelizing the secular campuses of United States, \"counting the cost\" with each person that desires to be baptized, and the shepherding of new converts"
-msgstr ""
+msgstr "(«Рух повної відданості»). Він викликав навколо себе суперечки, але ніколи не відходив від Традиційною Церкви Христа. Церква кроссроудз біля Університету Флориди першою почала навертати мирські вузи Сполучених Штатів, «підраховуючи вартість» з кожним бажаючим хреститися і наставляючи новонавернених"
 
 #: 14_church.html:302
 msgid "1979 Boston Movement"
-msgstr ""
+msgstr "1979 р. - Бостонський рух"
 
 #: 14_church.html:304
 msgid "(International Church of Christ) — Kip McKean — Baptized at the University of Florida in 1972, divides from Mainline Churches of Christ and Crossroads Movement over: Bible Church not just New Testament Church, only disciples are true Christians, each and every member of church must be a disciple, each member should be in discipling relationships, vision to evangelize the nations in a generation, the planting of new churches to achieve this vision, central leadership not autonomous congregations, and the role of women. In 2002, the International Churches of Christ return to a more Mainline Church of Christ theology — each congregation becomes autonomous (self-governing), calling a central leadership and the vision to evangelize the nations in a generation \"unbiblical.\" Around the world, thousands fall away"
-msgstr ""
+msgstr "(Міжнародні Церкви Христа). Його почав Кіп Маккін, який хрестився в Університеті Флориди в 1972 р. Рух відокремилося від ТЦХ і кроссроудз, вважаючи, що: церква повинна бути церквою всієї Біблії, а не тільки Нового Завіту; тільки учні є істинними християнами; кожен член церкви повинен бути учнем; кожен член церкви повинен мати наставника; церква повинна мати бачення навернути світ в одному поколінні і засновувати нові церкви для досягнення цієї мети; громади повинні бути не автономними, а мати центральне лідерство; відрізнявся також погляд на роль жінок. У 2002 р. Міжнародні Церкви Христа багато у чому повернулися до теології ТЦХ: кожна громада стала автономною, а центральне лідерство і навернення світу в одному поколінні стали називати «Небіблійними» ідеями. Тисячі учнів по всьому світу відпали"
 
 #: 14_church.html:308
 msgid "2006 SoldOut Movement"
-msgstr ""
+msgstr "2006 р. - «Рух повністю відданих учнів»"
 
 #: 14_church.html:310
 msgid "(Portland Movement / International Christian Church): Begins in Portland, Oregon as a revival movement within the International Churches of Christ. The International Church of Christ separates from the SoldOut Movement, because of the new movement's stand on these convictions: Bible Church not just New Testament Church, only disciples are true Christians, each and every member of church must be a disciple, each member should be in discipling relationships, vision to evangelize the nations in a generation, the planting of new churches to achieve this vision, central leadership not autonomous congregations, and the role of women"
-msgstr ""
+msgstr "(Портлендський рух / Міжнародні Християнські Церкви). Почався в Портленді (Орегон) як рух духовного відродження всередині Міжнародних Церков Христа. МЦХ відокремили від себе «Рух повністю відданих учнів» через те, що останні наполягали на колишніх переконаннях: церква повинна бути церквою всієї Біблії, а не тільки Нового Завіту; тільки учні є істинними християнами; кожен член церкви повинен бути учнем; кожен член церкви повинен мати наставника; церква повинна мати бачення навернути світ в одному поколінні і засновувати нові церкви для досягнення цієї мети; громади повинні бути не автономними, а мати центральне лідерство; і роль жінок"
 
 #: 14_church.html:318
 msgid "What is the \"one church?\""
-msgstr ""
+msgstr "Що ж тоді означає «одна церква»?"
 
 #: 14_church.html:324
 msgid "Acts 11:25-26"
-msgstr ""
+msgstr "Дії 11:25-26"
 
 #: 14_church.html:326
 msgid "Church = Disciples = Christians"
-msgstr ""
+msgstr "Церква = Учні Христа = Християни"
 
 #: 14_church.html:328
 msgid "When God looks down from heaven, He sees one church — all the baptized disciples around the world, who are \"sold-out\" in obeying his Word.  This is called the \"church universal\" — the one true church"
-msgstr ""
+msgstr "Коли Бог дивиться з Небес, Він бачить одну церкву - всіх хрещених учнів по всьому світу, які «повністю віддані» Його слову. Це називається «вселенська церква» - єдина справжня церква"
 
 #: 14_church.html:331
 msgctxt "church #2"
 msgid "Ephesians 4:4-6"
-msgstr ""
+msgstr "До ефесян 4:4-6"
 
 #: 14_church.html:337
 msgid "A local congregation is called the \"visible church.\"  In the first century, all the \"visible churches\" made up the \"church universal.\"  However, since so many \"visible churches\" have departed from true doctrine and because all sold-out baptized disciples are not in one fellowship, we should strive to be a member of a local congregation"
-msgstr ""
+msgstr "Місцеві громади називаються «видима церква». У першому столітті всі «видимі церкви» і складали «всесвітню церкву». Однак через те, що так багато «видимих церков» відійшли від істинного вчення й тому, що всі повністю віддані учні не належать до одного «братства» церков, нам потрібно прагнути бути в місцевій громаді відданих учнів"
 
 #: 14_church.html:340
 msgid "The Greek word for church is \"ekklesia\" which means \"assembly\" or \"called out\" (\"Ek\" meaning 'out' and \"kaleo\" meaning 'to call').  To be a disciple is to be \"called out\" from the world.  Therefore, the church in the Bible was the \"assembly\" of the \"called out\""
-msgstr ""
+msgstr "Грецьке слово «церква» - «екклесіа» - означає «зібрання» або «покликані» («ек» - з, «Кале» - закликати). Бути учнем значити бути «покликаним» зі світу. Тому церква Біблії була «зібранням покликаних»"
 
 #: 14_church.html:343
 msgid "There are several names in the Bible for God's Church: Disciples, Christians, Church of God, Church of Christ, The Way, Church of the Firstborn, Saints, etc...  Since we are free to choose any name for our fellowship, since our fellowship goes around the world, and because our churches are composed of only sold-out disciples, we call ourselves the \"International Christian Church\""
-msgstr ""
+msgstr "У Біблії є кілька назв Церкви Бога: учні, християни, Церква Бога, Церква Христа, Шлях, святі і таке інше. Оскільки ми вільні вибирати будь-яке ім'я для нашого братства і оскільки воно поширюється по всьому світу і складається з церков, до яких належать тільки повністю віддані учні, ми називаємо себе «Міжнародні Християнські Церкви»"
 
 #: 14_church.html:349
 msgid "What distinguishes the International Christian Churches? (What separates or \"divides\" us from mainstream Christendom?)"
-msgstr ""
+msgstr "Що відрізняє Міжнародні Християнські Церкви? (Що «відокремлює» нас від загальноприйнятого християнства?)"
 
 #: 14_church.html:354
 msgid "We believe God physically resurrected Jesus from the dead"
-msgstr ""
+msgstr "Ми віримо, що Бог фізично воскресив Ісуса з мертвих"
 
 #: 14_church.html:359
 msgid "We believe the Bible is inspired by God and is our sole authority"
-msgstr ""
+msgstr "Ми віримо, що Біблія натхненна Богом, і це єдине джерело влади для нас"
 
 #: 14_church.html:361
 msgid " Therefore, since we have not departed (divided) from the truth, we consider ourselves non-denominational"
-msgstr ""
+msgstr ". І, оскільки ми не відійшли від істини, ми вважаємо себе неденомінаційною церквою"
 
 #: 14_church.html:365
 msgid "We are a Bible Church, not simply a New Testament Church"
-msgstr ""
+msgstr "Ми - церква Біблії, а не тільки Нового Завіту"
 
 #: 14_church.html:367
 msgid "2 Timothy 3:14-17"
-msgstr ""
+msgstr "2 Тимофію 3:14-17"
 
 #: 14_church.html:370
 msgid "The context of the word \"Scripture\" is referring to the Old Testament.  We believe the Old Testament applies to our lives — as much as the New Testament — except for the Mosaic Law and any teaching in the New Testament that supercedes the Old Testament (Example: grounds for divorce)"
-msgstr ""
+msgstr "За контекстом, слово «писання» відноситься до Старого Заповіту. Ми віримо, що Старий Завіт повинен застосовуватися в нашому житті, як і Новий, за винятком Закону Мойсея і всіх тих навчань, які скасовані Новим Завітом (наприклад, підстави для розлучення)"
 
 #: 14_church.html:374
 msgid "We believe — as in the book of Acts — the visible church should be composed of only sold-out baptized disciples"
-msgstr ""
+msgstr "Ми віримо, що видима церква (як це описано в Книзі Дій) повинна складатися тільки з повністю відданих хрещених учнів.."
 
 #: 14_church.html:379
 msgid "\"Be silent where the Bible speaks, and speak where the Bible is silent\""
-msgstr ""
+msgstr "«Мовчи, коли Біблія говорить, і говори, коли Біблія мовчить»"
 
 #: 14_church.html:381
 msgid "In applying Scriptural principles to build the visible church, we believe we must obey God's Word, but where the Bible does not prohibit a practice or name, we are free to use our God-given creativity"
-msgstr ""
+msgstr "У тому, що стосується застосування біблійних принципів для побудови видимої церкви, ми віримо, що повинні підкорятися Біблії, але там, де Біблія не забороняє будь-яку практику або назву, ми вільні використовувати дані Богом творчі здібності"
 
 #: 14_church.html:384
 msgid "Genesis 2:19"
-msgstr ""
+msgstr "Буття 2:19"
 
 #: 14_church.html:387
 msgid "(Examples: The principles for \"Bible Talks,\" \"Lead Evangelist,\" \"Discipleship Partners\" and \"Regions\" are in the Scriptures, though these terms are not.  However, nowhere are they prohibited.  Also instrumental music and paid Women's Ministry Leaders are not prohibited in the Scriptures)"
-msgstr ""
+msgstr "Наприклад, такі поняття, як «бесіди по Біблії», «провідний євангеліст», «учнівсько-наставницькі пари» і «регіони», взяті з Писання, хоча там немає таких термінів. Тим не менше, їх використання і не заборонено. Також Біблія не забороняє інструментальну музику та оплату праці працюючих на церкву жінок."
 
 #: 14_church.html:391
 msgid "We believe in a Central Leadership"
-msgstr ""
+msgstr "Ми віримо в необхідність центрального лідерства"
 
 #: 14_church.html:393
 msgid "Throughout God's Word, when His people were unified, there was a strong central leadership and godly central leader.  (Examples:  Moses, Joshua, David and of course Jesus and the Apostles)"
-msgstr ""
+msgstr "У всьому Слові Бога, коли Його народ був єдиним, у нього було сильне центральне лідерство і благочестивий лідер (наприклад: Мойсей, Ісус Навин, Давид і, звичайно ж, Ісус і Його апостоли)"
 
 #: 14_church.html:396
 msgid "1 Corinthians 4:15-17"
-msgstr ""
+msgstr "З 1 до коринтян 4:15-17"
 
 #: 14_church.html:399
 msgctxt "church #1"
 msgid "and"
-msgstr ""
+msgstr "і"
 
 #: 14_church.html:402
 msgid "Titus 1:5"
-msgstr ""
+msgstr "До Тита 1:5"
 
 #: 14_church.html:405
 msgid "teaches that local congregations had an overseeing evangelist, who unified the disciples \"everywhere in every church.\" In the first century, congregations were a collective movement — not autonomous, not self-governing)"
-msgstr ""
+msgstr "можна зробити висновок, що в місцевих громадах були провідні євангелісти, які об'єднували учнів «скрізь у кожній Церкві». У першому столітті громади були загальним рухом, а не автономними, самоврядними групами."
 
 #: 14_church.html:410
 msgctxt "church #1"
 msgid "Matthew 28:19-20"
-msgstr ""
+msgstr "Від Матвія 28:18-20"
 
 #: 14_church.html:412
 msgid "Our vision — the evangelization of all nations in this generation —"
-msgstr ""
+msgstr "Наше бачення - навернення всіх народів у цьому поколінні -"
 
 #: 14_church.html:414
 msgid "will be accomplished through every disciple making disciples and every disciple having discipling relationships"
-msgstr ""
+msgstr "здійсниться, якщо кожен учень буде робити учнями людей, і кожен учень матиме наставника"
 
 #: 14_church.html:421
 msgid "1 Corinthians 12:14-27"
-msgstr ""
+msgstr "1 до коринтян 12:14-27"
 
 #: 14_church.html:426
 msgid "We need the body.  The body needs us"
-msgstr ""
+msgstr "Нам потрібне тіло. Ми потрібні Тілу"
 
 #: 14_church.html:429
 msgid "v. 21"
-msgstr ""
+msgstr "1 до коринтян 12:21"
 
 #: 14_church.html:435
 msgid "Be involved on a relationship level in the church"
-msgstr ""
+msgstr "Необхідно бути залученими в церкву на рівні стосунків"
 
 #: 14_church.html:438
 msgid "v. 26"
-msgstr ""
+msgstr "1 до коринтян 12:26"
 
 #: 14_church.html:448
 msgid "Hebrews 10:23-25"
-msgstr ""
+msgstr "До євреїв 10:23-25"
 
 #: 14_church.html:453
 msgid "Do not miss church"
-msgstr ""
+msgstr "Не пропускай зібрань церкви"
 
 #: 14_church.html:456
 msgid "The fellowship helps us to be unswerving in our commitment"
-msgstr ""
+msgstr "Спілкування допомагає нам бути непохитними у нашій відданості"
 
 #: 14_church.html:459
 msgctxt "church #1"
 msgid "v. 23"
-msgstr ""
+msgstr "До євреїв 10:23"
 
 #: 14_church.html:465
 msgid "Another purpose of fellowship is to encourage each other so we will remain faithful"
-msgstr ""
+msgstr "Ще одна мета спільних зустрічей - підтримувати один одного, щоб ми залишалися вірними"
 
 #: 14_church.html:467
 msgctxt "church #1"
 msgid "v. 24"
-msgstr ""
+msgstr "До євреїв 10:24"
 
 #: 14_church.html:472
 msgid "Must come to all meetings of the body:  Sunday and Midweek Services, Bible Talks, special devotionals, Jubilees, retreats, etc...  Begin to rearrange schedule to come to all the meetings of the body"
-msgstr ""
+msgstr "Необхідно приходити на всі зустрічі тіла: служби у неділю і серед тижня, бесіди по Біблії, особливі сімейні часи, конференції і таке інше. Почни перебудовувати свій графік таким чином, щоб потрапляти на всі зібрання"
 
 #: 14_church.html:478
 msgid "Contribution"
-msgstr ""
+msgstr "Пожертви"
 
 #: 14_church.html:484
 msgctxt "church #1"
 msgid "Malachi 3:6-12"
-msgstr ""
+msgstr "Малахії 3:6-12"
 
 #: 14_church.html:487
 msgid "Do not rob God in your tithes and offerings.  Tithing is the guideline of our sacrifice on Sundays to meet the ministry needs.  Benevolent offerings are given at Midweek Services"
-msgstr ""
+msgstr "не обкрадайте Бога «десятинами і приносами». Десятину ми жертвуємо у неділю для потреб церкви. Добровільні «приноси» даються на службі серед тижня."
 
 #: 14_church.html:492
 msgid "2 Corinthians 9:6-8"
-msgstr ""
+msgstr "2 до коринтян 9:6-8"
 
 #: 14_church.html:495
 msgid "Giving should be from a \"cheerful\" heart — not under compulsion"
-msgstr ""
+msgstr "Давайте «як серце [вам] призволяє, не в смутку й не з примусу»"
 
 #: 14_church.html:498
 msgid "God blesses you when you sacrifice"
-msgstr ""
+msgstr "Бог благословляє нас, коли ми жертвуємо"
 
 #: 16_after_baptism_now_what.html:41
 msgid "Discuss the young disciple's first few days as a Christian"
@@ -3579,12 +3579,12 @@ msgstr "Обговоріть важливість гостинності - за�
 
 #: 16_after_baptism_now_what.html:92
 msgid "Discuss the leadership's expectation to tithe on Sundays and give a benevolent offering at the Midweek Services.  Read together"
-msgstr ""
+msgstr "Обговоріть очікування лідерства по відношенню до десятини по неділях і благодійного збору на зібраннях посеред тижня. Прочитайте разом"
 
 #: 16_after_baptism_now_what.html:95
 msgctxt "after_baptism_now_what #1"
 msgid "Malachi 3:6-12"
-msgstr ""
+msgstr "Малахії 3:6-12"
 
 #: 16_after_baptism_now_what.html:98
 msgctxt "after_baptism_now_what #1"
@@ -3594,92 +3594,92 @@ msgstr "і"
 #: 16_after_baptism_now_what.html:101
 msgctxt "after_baptism_now_what #1"
 msgid "Hebrews 13:17"
-msgstr ""
+msgstr "До євреїв 13:17"
 
 #: 16_after_baptism_now_what.html:108
 msgid "Devoted to Breaking Bread — Communion"
-msgstr ""
+msgstr "Наше ставлення до переломлення хліба - причастя"
 
 #: 16_after_baptism_now_what.html:111
 msgid "1 Corinthians 11:23-32"
-msgstr "1 Коринфянам 11:23-32"
+msgstr "1 до коринтян 11:23-32"
 
 #: 16_after_baptism_now_what.html:116
 msgid "Discuss the purpose of bread and fruit of the vine"
-msgstr ""
+msgstr "Обговоріть ціль хліба та вина"
 
 #: 16_after_baptism_now_what.html:119
 msgid "Discuss what it means to become spiritually \"weak, sick and fallen asleep.\" How does communion prevent these conditions?"
-msgstr ""
+msgstr "Обговоріть, що це означає - стати духовно «слабким, хворим, сплячим». Як причастя попереджає ці стани?"
 
 #: 16_after_baptism_now_what.html:119
 msgid "sick:"
-msgstr ""
+msgstr "Недуга для серця:"
 
 #: 16_after_baptism_now_what.html:122
 msgid "Proverbs 13:12"
-msgstr "Притчі 13:12"
+msgstr "Приповісті 13:12"
 
 #: 16_after_baptism_now_what.html:129
 msgid "Devoted to Prayer"
-msgstr ""
+msgstr "Наше ставлення до молитви"
 
 #: 16_after_baptism_now_what.html:132
 msgid "Discuss how prayer brings peace"
-msgstr ""
+msgstr "Обговоріть, як молитва приносить мир"
 
 #: 16_after_baptism_now_what.html:135
 msgid "Philippians 4:4-7"
-msgstr ""
+msgstr "До филип'ян 4:4-7"
 
 #: 16_after_baptism_now_what.html:140
 msgid "Share petitions and answered prayers"
-msgstr ""
+msgstr "Поділіться проханнями і молитвами, на які ви отримали відповідь"
 
 #: 16_after_baptism_now_what.html:149
 msgctxt "after_baptism_now_what #1"
 msgid "Acts 9:1-22"
-msgstr ""
+msgstr "Дії 9:1-22"
 
 #: 16_after_baptism_now_what.html:152
 msgid "The Conversion of Paul"
-msgstr ""
+msgstr "Навернення Павла"
 
 #: 16_after_baptism_now_what.html:155
 msgid "Paul immediately begins to preach"
-msgstr ""
+msgstr "Павло одразу починає проповідувати"
 
 #: 16_after_baptism_now_what.html:158
 msgid "With whom have you shared your faith?"
-msgstr ""
+msgstr "З ким ви ділились вірою?"
 
 #: 16_after_baptism_now_what.html:161
 msgid "List friends and family to share with this week"
-msgstr ""
+msgstr "Напиши список друзів і членів сім’ї, з якими ти можеш поділитися вірою цього тижня"
 
 #: 16_after_baptism_now_what.html:166
 msgid "Paul grows powerful"
-msgstr ""
+msgstr "Павло потужно духовно зростає"
 
 #: 16_after_baptism_now_what.html:169
 msgid "Paul is persecuted"
-msgstr ""
+msgstr "Павла переслідують"
 
 #: 16_after_baptism_now_what.html:176
 msgid "Hebrews 5:11-6:6"
-msgstr "Євреям 5:11-6:6"
+msgstr "До євреїв 5:11-6:6"
 
 #: 16_after_baptism_now_what.html:179
 msgid "The First Principles"
-msgstr "Перші принципи"
+msgstr "Перші принципи (основи вчення)"
 
 #: 16_after_baptism_now_what.html:182
 msgid "Strive to learn the first principles (elementary teachings) and go on to maturity, so you can be fruitful and not fall away"
-msgstr ""
+msgstr "Доклади зусиль до того, щоб вивчити основи вчення (перші принципи) і перейти до зрілості. Так ти зможеш бути плодоносним і не піти від Бога"
 
 #: 16_after_baptism_now_what.html:185
 msgid "Discuss taking the First Principles Classes"
-msgstr ""
+msgstr "Тобі потрібно навчитися вивчати з людьми Біблію"
 
 #: 17_christ_is_your_life.html:40
 msgid "Discuss:"
@@ -3699,7 +3699,7 @@ msgstr "Обговоріть вплив причастя в неділю"
 
 #: 17_christ_is_your_life.html:59
 msgid "Colossians 3:1-4"
-msgstr "Колосянам 3:1-4"
+msgstr "До колоссян 3:1-4"
 
 #: 17_christ_is_your_life.html:62
 msgid "Raised to a new life"
@@ -3712,7 +3712,7 @@ msgstr "Воскресли з Христом в хрещенні"
 #: 17_christ_is_your_life.html:68
 msgctxt "christ_is_your_life #1"
 msgid "Colossians 2:12"
-msgstr "Колосянам 2:12"
+msgstr "До колоссян 2:12"
 
 #: 17_christ_is_your_life.html:74
 msgid "The Holy Spirit, received at baptism, gives you the power to set your mind (thoughts) and set your heart (emotions) on things above"
@@ -3724,7 +3724,7 @@ msgstr "Ісус – твоє життя"
 
 #: 17_christ_is_your_life.html:84
 msgid "Colossians 3:5-11"
-msgstr "Колосянам 3:5-11"
+msgstr "До колоссян 3:5-11"
 
 #: 17_christ_is_your_life.html:87
 msgid "Put to death"
@@ -3744,7 +3744,7 @@ msgstr "Обговоріть практичні шляхи, як розіп’я
 
 #: 17_christ_is_your_life.html:103
 msgid "Colossians 3:12-14"
-msgstr "Колосянам 3:12-14"
+msgstr "До колоссян 3:12-14"
 
 #: 17_christ_is_your_life.html:106
 msgid "Put on — clothe yourself"
@@ -3776,7 +3776,7 @@ msgstr "Прощення"
 
 #: 17_christ_is_your_life.html:131
 msgid "Colossians 3:15-24"
-msgstr "Колосянам 3:15-24"
+msgstr "До колоссян 3:15-24"
 
 #: 17_christ_is_your_life.html:134
 msgid "New attitudes"
@@ -3800,7 +3800,7 @@ msgstr "Сімейні стосунки"
 
 #: 17_christ_is_your_life.html:149
 msgid "v. 18-21"
-msgstr "Колосянам 3:18-21"
+msgstr "До колоссян 3:18-21"
 
 #: 17_christ_is_your_life.html:155
 msgid "Employer/employee relationships"
@@ -3809,7 +3809,7 @@ msgstr "Стосунки роботодавець-працівник"
 #: 17_christ_is_your_life.html:158
 msgctxt "christ_is_your_life #1"
 msgid "v. 22-24"
-msgstr "Колосянам 3:22-24"
+msgstr "До колоссян 3:22-24"
 
 #: 17_christ_is_your_life.html:164
 msgid "Teacher/student relationships"
@@ -3818,7 +3818,7 @@ msgstr "Стосунки викладач-студент"
 #: 17_christ_is_your_life.html:167
 msgctxt "christ_is_your_life #2"
 msgid "v. 22-24"
-msgstr "Колосянам 3:22-24"
+msgstr "До колоссян 3:22-24"
 
 #: 18_best_friends_of_all_time.html:40
 msgid "Share about your closest relationships during your life — God and spiritual family in comparison to your physical family and old friends"
@@ -3835,7 +3835,7 @@ msgstr "Писання про «один одного»"
 #: 18_best_friends_of_all_time.html:56
 msgctxt "best_friends_of_all_time #1"
 msgid "John 13:34-35"
-msgstr "Івана 13:34-35 "
+msgstr "Від Івана 13:34-35"
 
 #: 18_best_friends_of_all_time.html:59
 msgid "Love one another.  Jesus teaches that Christians should have closer and better relationships than people in the world. Set your mind to make disciples your best friends"
@@ -3843,7 +3843,7 @@ msgstr "Любіть один одного. Ісус вчить, що христ
 
 #: 18_best_friends_of_all_time.html:64
 msgid "Hebrews 3:12-14"
-msgstr "Євреям 3:12-14"
+msgstr "До євреїв 3:12-14"
 
 #: 18_best_friends_of_all_time.html:67
 msgid "Daily encouragement of one another"
@@ -3851,7 +3851,7 @@ msgstr "щоденна підтримка один одного"
 
 #: 18_best_friends_of_all_time.html:72
 msgid "Ephesians 5:19-20"
-msgstr "Ефесянам 5:19-20"
+msgstr "До ефесян 5:19-20"
 
 #: 18_best_friends_of_all_time.html:75
 msgid "Worship God with one another — sing out to God and each other with psalms, hymns and spiritual songs"
@@ -3859,7 +3859,7 @@ msgstr "наставляйте один одного в псалмах, гімн
 
 #: 18_best_friends_of_all_time.html:80
 msgid "Colossians 1:28-29"
-msgstr "Колосянам 1:28-29"
+msgstr "До колоссян 1:28-29"
 
 #: 18_best_friends_of_all_time.html:83
 msgid "Disciple one another.  This is essential in God's plan to become mature.  As we mature, we learn to instruct one another"
@@ -3867,11 +3867,11 @@ msgstr "Направляти і вчити кожну людину. Це осн�
 
 #: 18_best_friends_of_all_time.html:86
 msgid "Romans 15:14"
-msgstr "Римлянам 15:14"
+msgstr "До римлян 15:14"
 
 #: 18_best_friends_of_all_time.html:94
 msgid "Galatians 6:1-2"
-msgstr "Галатам 6:1-2"
+msgstr "До галатів 6:1-2"
 
 #: 18_best_friends_of_all_time.html:97
 msgid "Gently restore one another and bear one another's burdens"
@@ -3895,7 +3895,7 @@ msgstr "Моліться один за одного, це багато що зм
 
 #: 18_best_friends_of_all_time.html:118
 msgid "Hebrews 12:14-15"
-msgstr "Євреям 12:14-15"
+msgstr "До євреїв 12:14-15"
 
 #: 18_best_friends_of_all_time.html:121
 msgid "Be holy and prevent \"bad attitudes\" in one another"
@@ -3903,7 +3903,7 @@ msgstr "Будьте святі й попереджайте «гірке кор�
 
 #: 18_best_friends_of_all_time.html:126
 msgid "1 Thessalonians 5:12-14"
-msgstr "1 Солунянам 5:14-18"
+msgstr "1 до солунян 5:14-18"
 
 #: 18_best_friends_of_all_time.html:129
 msgid "Outlook toward one another"
@@ -3911,7 +3911,7 @@ msgstr "Наглядайте один за одним"
 
 #: 18_best_friends_of_all_time.html:134
 msgid "John 17:20-23"
-msgstr "Івана 17:20-23"
+msgstr "Від Івана 17:20-23"
 
 #: 18_best_friends_of_all_time.html:137
 msgid "The ultimate goal of love and unity — world evangelism!"
@@ -3923,7 +3923,7 @@ msgstr "Зустрічайтеся і будуй сім’ю тільки з у�
 
 #: 18_best_friends_of_all_time.html:149
 msgid "1 Corinthians 7:39"
-msgstr "1 Коринтянам 7:39"
+msgstr "1 до коринтян 7:39"
 
 #: 18_best_friends_of_all_time.html:152
 msgid "Marriage must only be in the Lord"
@@ -3931,7 +3931,7 @@ msgstr "Шлюб повинен бути тільки в Господі"
 
 #: 18_best_friends_of_all_time.html:157
 msgid "2 Corinthians 6:14-7:1"
-msgstr "2 Коринтянам 6:14-7:1"
+msgstr "2 до коринтян 6:14-7:1"
 
 #: 18_best_friends_of_all_time.html:160
 msgid "Dating, as in marriage, is a partnership in which you are \"yoked together.\"  Disciples must separate from unbelievers to receive the promises of God"
@@ -3939,7 +3939,7 @@ msgstr "Побачення, як і шлюб - це партнерство, де
 
 #: 18_best_friends_of_all_time.html:165
 msgid "1 Kings 11:1-10"
-msgstr "1 Царів 11:1-10"
+msgstr "1 царів 11:1-10"
 
 #: 18_best_friends_of_all_time.html:169
 msgid "Nehemiah 13:23-27"
@@ -3963,7 +3963,7 @@ msgstr "Примиріться один з одним"
 
 #: 18_best_friends_of_all_time.html:192
 msgid "Matthew 18:15-17"
-msgstr "Матвія 18:15-17"
+msgstr "Від Матвія 18:15-17"
 
 #: 18_best_friends_of_all_time.html:195
 msgid "Christians will sin against each other.  When someone sins against you, do not gossip by going to someone else.  Talk to the person who hurt you, so you can win him/her over as a friend"
@@ -3988,7 +3988,7 @@ msgstr "Місія Ісуса"
 #: 19_mission.html:57
 msgctxt "mission #1"
 msgid "Luke 19:10"
-msgstr "Луки 19:10"
+msgstr "Від Луки 19:10"
 
 #: 19_mission.html:64
 msgid "1 Timothy 1:15"
@@ -3997,7 +3997,7 @@ msgstr "1 Тимофію 1:15"
 #: 19_mission.html:71
 msgctxt "mission #1"
 msgid "Matthew 28:19-20"
-msgstr "Матвія 28:19-20"
+msgstr "Від Матвія 28:19-20"
 
 #: 19_mission.html:78
 msgid "Acts 20:24"
@@ -4017,7 +4017,7 @@ msgstr "Місія учнів"
 
 #: 19_mission.html:100
 msgid "John 15:1-16"
-msgstr "Івана 15:1-16"
+msgstr "Від Івана 15:1-16"
 
 #: 19_mission.html:105
 msgid "Glorifying God in"
@@ -4025,7 +4025,7 @@ msgstr "Прославити Бога у"
 
 #: 19_mission.html:108
 msgid "John 15"
-msgstr "Івана 15"
+msgstr "Від Івана 15"
 
 #: 19_mission.html:111
 msgid "is bearing the fruit of making disciples, not simply baptizing"
@@ -4033,7 +4033,7 @@ msgstr "це приносити плід, робити інших людей у�
 
 #: 19_mission.html:114
 msgid "Matthew 28:19"
-msgstr "Матвія 28:19"
+msgstr "Від Матвія 28:19"
 
 #: 19_mission.html:117
 msgid "commands us to \"go and make disciples;\""
@@ -4041,7 +4041,7 @@ msgstr "заповідає нам іти і робити їх учнями"
 
 #: 19_mission.html:120
 msgid "John 15:16"
-msgstr "Івана 15:16"
+msgstr "Від Івана 15:16"
 
 #: 19_mission.html:123
 msgid "commands us to \"go and bear fruit that will last\""
@@ -4061,7 +4061,7 @@ msgstr "Любити Бога - це виконувати Його запові�
 
 #: 19_mission.html:135
 msgid "Matthew 28:20"
-msgstr "Матвія 28:20"
+msgstr "Від Матвія 28:20"
 
 #: 19_mission.html:138
 msgid "Therefore, we must love one another, even to the point of laying down our lives for each other"
@@ -4141,7 +4141,7 @@ msgstr "\"Ці люди, які підбурюють весь світ, зара
 
 #: 19_mission.html:261
 msgid "Colossians 1:6, 23"
-msgstr "Колосянам 1:6, 23"
+msgstr "До колоссян 1:6, 23"
 
 #: 19_mission.html:264
 msgid "The known world was evangelized by 61 A.D., in a generation!  Paul is in prison when he writes Colossians —"
@@ -4189,7 +4189,7 @@ msgstr "Сім'я"
 
 #: 20_persecution.html:54
 msgid "Mark 3:20-21"
-msgstr "Марка 3:20-21"
+msgstr "Від Марка 3:20-21"
 
 #: 20_persecution.html:57
 msgid "Jesus' family thought that he was out of His mind (brain washed; mind-control)"
@@ -4197,7 +4197,7 @@ msgstr "Рідні Ісуса вважали, що Він не при своєм
 
 #: 20_persecution.html:62
 msgid "Mark 3:31-35"
-msgstr "Марка 3:31-35"
+msgstr "Від Марка 3:31-35"
 
 #: 20_persecution.html:65
 msgid "Jesus prioritized His spiritual family above His physical family"
@@ -4217,7 +4217,7 @@ msgstr "Плітки та звинувачення"
 
 #: 20_persecution.html:85
 msgid "John 7:12-13"
-msgstr "Івана 7:12-13"
+msgstr "Від Івана 7:12-13"
 
 #: 20_persecution.html:88
 msgid "Jesus was accused of deceiving people"
@@ -4226,7 +4226,7 @@ msgstr "Про Ісуса пліткували і звинувачували Й�
 #: 20_persecution.html:93
 msgctxt "persecution #1"
 msgid "John 10:19-21"
-msgstr "Івана 10:19-21"
+msgstr "Від Івана 10:19-21"
 
 #: 20_persecution.html:96
 msgid "The Jews — religious people — intensely persecuted Jesus through name-calling and character assassination.  Jesus' teaching always divided His listeners"
@@ -4238,7 +4238,7 @@ msgstr "Масштаби переслідувань"
 
 #: 20_persecution.html:108
 msgid "Luke 23:1-3"
-msgstr "Луки 23:1-5"
+msgstr "Від Луки 23:1-5"
 
 #: 20_persecution.html:111
 msgid "Jesus is condemned to a death by crucifixion through half-truths"
@@ -4332,7 +4332,7 @@ msgstr "Проповідь Слова"
 
 #: 20_persecution.html:207
 msgid "John 15:18-20, 16:1-4"
-msgstr "Івана 15:18-20; 16:1-4"
+msgstr "Від Івана 15:18-20; 16:1-4"
 
 #: 20_persecution.html:212
 msgid "Jesus warns that persecution comes to those who preach the same message as Him"
@@ -4348,7 +4348,7 @@ msgstr "Вузький шлях спасіння"
 
 #: 20_persecution.html:223
 msgid "Matthew 7:13-14"
-msgstr "Матвія 7:13-14"
+msgstr "Від Матвія 7:13-14"
 
 #: 20_persecution.html:230
 msgid "Acts 4:12"
@@ -4369,7 +4369,7 @@ msgstr "Тільки доросла людина, що прийняла водн
 #: 20_persecution.html:246
 msgctxt "persecution #1"
 msgid "Matthew 28:19-20"
-msgstr "Матвія 28:19-20"
+msgstr "Від Матвія 28:19-20"
 
 #: 20_persecution.html:249
 msgid "Only the person who makes the decision to be baptized as a disciple is saved.  (This truth condemns those who may baptize for remission of sins, but are not made into disciples before and after baptism)"
@@ -4386,7 +4386,7 @@ msgstr "Доктрина про наставництво"
 #: 20_persecution.html:262
 msgctxt "persecution #2"
 msgid "Matthew 28:19-20"
-msgstr "Матвія 28:19-20"
+msgstr "Від Матвія 28:19-20"
 
 #: 20_persecution.html:265
 msgid "Discipling, calling people to obey the Word of God, is often viewed by the world as controlling"
@@ -4398,7 +4398,7 @@ msgstr "Наше ставлення до переслідувань"
 
 #: 20_persecution.html:281
 msgid "Matthew 5:10-12"
-msgstr "Матвія 5:10-12, 43-44"
+msgstr "Від Матвія 5:10-12, 43-44"
 
 #: 20_persecution.html:286
 msgid "Do not fear persecution.  Do not care what men think about you, only God"
@@ -4410,11 +4410,11 @@ msgstr "Радій! Ти не один - переслідували і Ісус�
 
 #: 20_persecution.html:296
 msgid "Ephesians 6:10-18"
-msgstr "Єфесянам 6:10-18"
+msgstr "До ефесян 6:10-18"
 
 #: 20_persecution.html:301
 msgid "Satan is behind all persecution. Only God and His spiritual armor will give you the victory over the world"
-msgstr ""
+msgstr "Сатана стоїть за всіма переслідуваннями. Тільки Бог і Його духовні обладунки дадуть вам перемогу над світом"
 
 #: 20_persecution.html:309
 msgctxt "persecution #1"
@@ -4452,29 +4452,29 @@ msgstr "KipMcKean.org"
 
 #: 21_memory_scriptures.html:38
 msgid "\"For I know the plans I have for you,\" declares the LORD, \"plans to prosper you and not to harm you, plans to give you hope and a future\""
-msgstr ""
+msgstr "\"Бо Я знаю ті думки, які думаю про вас, говорить Господь, думки спокою, а не на зло, щоб дати вам будучність та надію\""
 
 #: 21_memory_scriptures.html:40
 msgid "Jeremiah 29:11"
-msgstr ""
+msgstr "Єремія 29:11"
 
 #: 21_memory_scriptures.html:45
 msgid "But seek first his kingdom and his righteousness, and all these things will be given to you as well"
-msgstr ""
+msgstr "\"Шукайте ж найперш Царства Божого й правди Його, а все це вам додасться\""
 
 #: 21_memory_scriptures.html:47
 msgctxt "memory_scriptures #1"
 msgid "Matthew 6:33"
-msgstr ""
+msgstr "Від Матвія 6:33"
 
 #: 21_memory_scriptures.html:52
 msgid "To the Jews who had believed him, Jesus said, \"If you hold to my teaching, you are really my disciples. Then you will know the truth, and the truth will set you free\""
-msgstr ""
+msgstr "\"Тож промовив Ісус до юдеїв, що в Нього ввірували: Як у слові Моїм позостанетеся, тоді справді Моїми учнями будете, і пізнаєте правду, а правда вас вільними зробить!\""
 
 #: 21_memory_scriptures.html:54
 msgctxt "memory_scriptures #1"
 msgid "John 8:31-32"
-msgstr ""
+msgstr "Від Івана 8:31-32"
 
 #: 21_memory_scriptures.html:59
 msgid "I can do everything through him who gives me strength"
@@ -4482,15 +4482,15 @@ msgstr ""
 
 #: 21_memory_scriptures.html:61
 msgid "Philippians 4:13"
-msgstr ""
+msgstr "До филип'ян 4:13"
 
 #: 21_memory_scriptures.html:66
 msgid "\"Come, follow me,\" Jesus said, \"and I will make you fishers of men\""
-msgstr ""
+msgstr "\"І сказав їм Ісус: Ідіть услід за Мною, і зроблю, що станете ви ловцями людей\""
 
 #: 21_memory_scriptures.html:68
 msgid "Mark 1:17"
-msgstr ""
+msgstr "Від Марка 1:17"
 
 #: 21_memory_scriptures.html:73
 msgid "A new command I give you: Love one another. As I have loved you, so you must love one another.  By this all men will know that you are my disciples, if you love one another"
