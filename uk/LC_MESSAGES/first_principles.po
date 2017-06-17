@@ -2110,7 +2110,7 @@ msgstr "Від Матвія 9:2-6"
 
 #: 09_new_testament_conversion.html:324
 msgid "\"Believers baptism:\""
-msgstr "\"Хрещення віруючих::\""
+msgstr "Хрещення віруючих:"
 
 #: 09_new_testament_conversion.html:327
 msgid "This is baptism as an adult, but is not done in conjunction with the understanding that one is being saved at this point in time"
