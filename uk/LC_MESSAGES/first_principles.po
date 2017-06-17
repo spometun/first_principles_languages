@@ -29,7 +29,7 @@ msgstr "Євангеліє від Івана"
 
 #: 04_seeking_god.html:17
 msgid "Seeking God"
-msgstr "В пошуках Бога"
+msgstr "У пошуках Бога"
 
 #: 05_word_of_god.html:17
 msgid "The Word of God"
@@ -65,7 +65,7 @@ msgstr "Хрещення Святим Духом"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:17
 msgid "Miraculous Gifts of the Holy Spirit"
-msgstr "Чудесні Дари Святого Духа"
+msgstr "Дивовижні Дари Святого Духа"
 
 #: 14_church.html:17
 msgid "The Church"
@@ -85,7 +85,7 @@ msgstr "Христос - твоє життя"
 
 #: 18_best_friends_of_all_time.html:17
 msgid "Best Friends of All Time"
-msgstr "Кращі друзі на всі часи"
+msgstr "Найкращі друзі на всі часи"
 
 #: 19_mission.html:17
 msgid "The Mission"
