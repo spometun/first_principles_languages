@@ -1869,7 +1869,7 @@ msgstr "Дії 16:22-34"
 
 #: 09_new_testament_conversion.html:84
 msgid "Philippian jailer and his family"
-msgstr ""
+msgstr "Тюремний сторож і його сім’я у Филиппах"
 
 #: 09_new_testament_conversion.html:94
 msgctxt "new_testament_conversion #1"
@@ -1905,7 +1905,7 @@ msgstr "Дії 19:1-5"
 
 #: 09_new_testament_conversion.html:141
 msgid "Ephesians"
-msgstr "Єфесяни"
+msgstr "Ефесяни"
 
 #: 09_new_testament_conversion.html:147
 msgid "Questions concerning Conversions"
@@ -1933,7 +1933,7 @@ msgstr "Відповідь на хибні доктрини"
 
 #: 09_new_testament_conversion.html:172
 msgid "\"Pray Jesus into your heart\":"
-msgstr "“Помолись, щоб Ісус ввійшов у твоє серце“:"
+msgstr "\"Помолись, щоб Ісус ввійшов у твоє серце\":"
 
 #: 09_new_testament_conversion.html:175
 msgid "This phrase is never mentioned in the Bible.  People may use"
@@ -1942,15 +1942,15 @@ msgstr "Ця фраза ні разу не зустрічається в Біб�
 #: 09_new_testament_conversion.html:178
 msgctxt "new_testament_conversion #1"
 msgid "Revelation 3:20"
-msgstr ""
+msgstr "Об'явлення 3:20"
 
 #: 09_new_testament_conversion.html:181
 msgid "about Jesus knocking at the door.  However, you must examine the Scripture in context.  This scripture does not teach how to become a Christian and be saved, but how to come back to God after becoming lukewarm.  It is addressed to disciples who already responded to Christ in faith, repentance, confession and baptism"
-msgstr "де говориться про Ісуса, який стукає в двері. Однак необхідно розглядати уривок у контексті. Цей вірш не вчить як стати християнином або спастись. Він говорить про те, як повернутись до Бога після того, як людина стала теплою. Цей уривок з Писання адресований учням, які вже повірили в Христа, покаялись, сповідували і хрестились"
+msgstr "де говориться про Ісуса, який стукає в двері. Однак необхідно розглядати уривок у контексті. Цей вірш не вчить як стати християнином або спастись. Він говорить про те, як повернутись до Бога після того, як людина стала теплою. Цей уривок з Писання адресований учням, які вже повірили в Христа, покаялись, сповідувались і хрестились"
 
 #: 09_new_testament_conversion.html:185
 msgid "\"Accept Jesus into your heart\":"
-msgstr "“Прийми Христа в своє серце“:"
+msgstr "\"Прийми Христа в своє серце\":"
 
 #: 09_new_testament_conversion.html:188
 msgid "(Same teaching as praying Jesus into your heart, just different terminology)  Based on"
@@ -1958,19 +1958,19 @@ msgstr "(Те ж саме вчення, що і помолись, щоб Ісу�
 
 #: 09_new_testament_conversion.html:191
 msgid "Romans 10:9"
-msgstr "Римлянам 10:9"
+msgstr "До римлян 10:9"
 
 #: 09_new_testament_conversion.html:194
 msgid "You must look at Scripture in context.  Paul is addressing the problem of the Israelites:  unbelief that Jesus was the Christ, the Son of God.  Read further on to"
-msgstr "Ви повинні дивитися на Писання в контексті. Павло пише про проблему ізраїльтян: вони не вірили, що Ісус є Христос, Син Божий. Прочитай далі до"
+msgstr "Ви повинні дивитися на Писання в контексті. Павло пише про проблему ізраїльтян: вони не вірили, що Ісус є Христос, Син Божий. Прочитай далі"
 
 #: 09_new_testament_conversion.html:197
 msgid "Romans 10:13"
-msgstr "Римлянам 10:13"
+msgstr "До римлян 10:13"
 
 #: 09_new_testament_conversion.html:200
 msgid "When do you call on the name of the Lord?  At baptism"
-msgstr "Коли ви призиваєте ім‘я Господа? При хрещенні"
+msgstr "Коли ви закликається ім‘я Господа? При хрещенні"
 
 #: 09_new_testament_conversion.html:203
 msgctxt "new_testament_conversion #1"
@@ -1979,20 +1979,20 @@ msgstr "Дії 22:16"
 
 #: 09_new_testament_conversion.html:209
 msgid "Infant baptism:"
-msgstr "Хрещення дітей:"
+msgstr "Хрещення немовлят:"
 
 #: 09_new_testament_conversion.html:212
 msgid "A baby cannot have faith, and since we are baptized through faith in the power of God"
-msgstr ""
+msgstr "Немовля не може мати віру, а оскільки ми були хрещені через віру в силу Бога"
 
 #: 09_new_testament_conversion.html:215
 msgctxt "new_testament_conversion #1"
 msgid "Colossians 2:12"
-msgstr "Колосянам 2:12"
+msgstr "До колосян 2:12"
 
 #: 09_new_testament_conversion.html:218
 msgid "babies cannot be baptized.  Original sin:"
-msgstr ""
+msgstr "немовлята не можуть бути хрещені. Первородний гріх:"
 
 #: 09_new_testament_conversion.html:221
 msgctxt "new_testament_conversion #1"
@@ -2001,11 +2001,11 @@ msgstr "Єзекіль 18:20"
 
 #: 09_new_testament_conversion.html:224
 msgid "teaches that there is no original sin; each person is responsible for his own actions and will be judged accordingly.  Therefore babies are born sinless and will be saved if they die"
-msgstr ""
+msgstr "Біблія вчить, що немає первородного гріха; кожна людина несе відповідальність за свої дії і буде покарана відповідно. Тому немовлята народжуються безгрішними і будуть врятовані, якщо помруть"
 
 #: 09_new_testament_conversion.html:228
 msgid "\"Baptism does not save you\":"
-msgstr "“Хрещення не спасає тебе“:"
+msgstr "\"Хрещення не врятує тебе\":"
 
 #: 09_new_testament_conversion.html:233
 msgctxt "new_testament_conversion #1"
@@ -2014,7 +2014,7 @@ msgstr "1 Петра 3:18-21"
 
 #: 09_new_testament_conversion.html:236
 msgid "says that baptism does save you through the resurrection of Jesus Christ"
-msgstr ""
+msgstr "говорить, що хрещення рятує нас через воскресіння Ісуса Христа"
 
 #: 09_new_testament_conversion.html:239
 msgctxt "new_testament_conversion #1"
@@ -2023,112 +2023,112 @@ msgstr "Дії 2:38"
 
 #: 09_new_testament_conversion.html:242
 msgid "teaches that sin is forgiven at baptism — one is saved at the point that sin is forgiven"
-msgstr ""
+msgstr "вчить, що гріхи прощаються при хрещенні: людина врятована в той момент, коли їй прощаються гріхи"
 
 #: 09_new_testament_conversion.html:246
 msgid "\"Baptism is a work — yet we are saved by faith:\""
-msgstr ""
+msgstr "\"Хрещення - це справа, а ми рятуємося вірою\""
 
 #: 09_new_testament_conversion.html:252
 msgid "Ephesians 2:8"
-msgstr "Екклісіаста 2:8"
+msgstr "Екклезіяст 2:8"
 
 #: 09_new_testament_conversion.html:258
 msgid "Colossians 2:11-15"
-msgstr "Колосянам 2:11-15"
+msgstr "До колоссян 2:11-15"
 
 #: 09_new_testament_conversion.html:261
 msgid "teaches that we are saved by faith — in the working of God at baptism"
-msgstr ""
+msgstr "вчить, що ми рятуємося вірою в силу Бога при хрещенні"
 
 #: 09_new_testament_conversion.html:267
 msgid "This passage also teaches that circumcision as an eight-day-old baby under the old covenant has its spiritual parallel in the new covenant to baptism, as this is the time that Christ cuts away your old life.  At baptism one enters a \"covenant\" with God — salvation"
-msgstr ""
+msgstr "Цей вірш також вчить, що обрізання на восьмий день по Старому Заповіту має духовну паралель в Новому Заповіті з хрещенням, тому що це час, коли Христос відрізає твоє старе життя. При хрещенні людина входить в \"заповіт(договір)\" з Богом - спасіння"
 
 #: 09_new_testament_conversion.html:271
 msgid "\"Baptism is an outward sign of an inward grace:\""
-msgstr ""
+msgstr "\"Хрещення - це зовнішній знак внутрішньої милост\""
 
 #: 09_new_testament_conversion.html:276
 msgctxt "new_testament_conversion #1"
 msgid "Romans 6:2-4"
-msgstr ""
+msgstr "До римлян 6:2-4"
 
 #: 09_new_testament_conversion.html:279
 msgid "states that baptism is an actual participation in the death, burial and resurrection of Christ.  It is not merely a sign, seal or symbol"
-msgstr ""
+msgstr "стверджує, що хрещення - це справжня участь у смерті, похованні та воскресінні Христа. Це не просто символ або печатка"
 
 #: 09_new_testament_conversion.html:283
 msgid "\"Baptism isn't important. After all, look at what Paul said about it in"
-msgstr ""
+msgstr "\"Хрещення не важливо, зрештою, подивіться, що Павло говорить про це в"
 
 #: 09_new_testament_conversion.html:285
 msgid "1 Corinthians 1:17"
-msgstr ""
+msgstr "1 до коринтян 1:17"
 
 #: 09_new_testament_conversion.html:290
 msgid "Paul does not diminish the importance of baptism here.  (Paul himself was baptized to have his sins forgiven in"
-msgstr ""
+msgstr "Тут Павло не зменшує важливість хрещення. (Павло сам був хрещений, щоб йому були прощені гріхи - див."
 
 #: 09_new_testament_conversion.html:293
 msgctxt "new_testament_conversion #2"
 msgid "Acts 22:16"
-msgstr ""
+msgstr "Дії 22:16"
 
 #: 09_new_testament_conversion.html:296
 msgid "In context (read"
-msgstr ""
+msgstr "Як видно з контексту (див."
 
 #: 09_new_testament_conversion.html:299
 msgid "1 Corinthians 1:10-17"
-msgstr ""
+msgstr "1 до коринтян 1:10-17"
 
 #: 09_new_testament_conversion.html:302
 msgid "he makes the point that he does not want people following men (denominationalism).  He mentions baptism several times in the passage"
-msgstr ""
+msgstr "він підкреслює, що не хоче, щоб люди слідували за людьми (деномінації). Він згадує хрещення кілька разів в уривку"
 
 #: 09_new_testament_conversion.html:306
 msgid "\"The thief on the cross was not baptized and Jesus told him that they would see each other in paradise:\""
-msgstr ""
+msgstr "\"Розбійник на хресті не був хрещений, але Ісус сказав йому, що в той же день він буде з Ним в раю:\""
 
 #: 09_new_testament_conversion.html:309
 msgid "Jesus had not even died yet, and baptism is participating in his death"
-msgstr ""
+msgstr "Ісус на той момент ще навіть не помер, а хрещення - це участь у Його смерті"
 
 #: 09_new_testament_conversion.html:312
 msgctxt "new_testament_conversion #2"
 msgid "Romans 6:2-4"
-msgstr ""
+msgstr "До римлян 6:2-4"
 
 #: 09_new_testament_conversion.html:315
 msgid "also on earth, he had the power to forgive sins"
-msgstr ""
+msgstr "також на землі у Нього була влада прощати гріхи"
 
 #: 09_new_testament_conversion.html:318
 msgid "Matthew 9:2-6"
-msgstr ""
+msgstr "Від Матвія 9:2-6"
 
 #: 09_new_testament_conversion.html:324
 msgid "\"Believers baptism:\""
-msgstr ""
+msgstr "\"Хрещення віруючих::\""
 
 #: 09_new_testament_conversion.html:327
 msgid "This is baptism as an adult, but is not done in conjunction with the understanding that one is being saved at this point in time"
-msgstr ""
+msgstr "Це хрещення дорослих, але без розуміння, що людина рятується в цей момент"
 
 #: 09_new_testament_conversion.html:330
 msgctxt "new_testament_conversion #1"
 msgid "John 3:5"
-msgstr ""
+msgstr "Від Івана 3:5"
 
 #: 09_new_testament_conversion.html:334
 msgctxt "new_testament_conversion #2"
 msgid "Acts 2:38"
-msgstr ""
+msgstr "Дії 2:38"
 
 #: 09_new_testament_conversion.html:337
 msgid "\"Retroactive understanding\" is not sufficient for salvation"
-msgstr ""
+msgstr "\"Розуміння після\" недостатньо для порятунку"
 
 #: 10_cross.html:37
 msgid "Passion Account"
