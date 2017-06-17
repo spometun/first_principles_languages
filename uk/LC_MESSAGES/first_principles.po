@@ -2531,7 +2531,7 @@ msgstr "До римлян 8:9"
 
 #: 12_baptism_with_the_holy_spirit.html:50
 msgid "(RSV)"
-msgstr ""
+msgstr " "
 
 #: 12_baptism_with_the_holy_spirit.html:54
 msgid "Received at baptism"
