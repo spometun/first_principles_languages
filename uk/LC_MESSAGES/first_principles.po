@@ -174,7 +174,7 @@ msgstr "на уроці 2"
 
 #: 02_course_information.html:48
 msgid "Read Ron Harding’s History of the Spread of Christianity in Modern Times"
-msgstr "прочитайте \"Історію поширення християнства в сучасному світі\", яку написав Рон Хардінг"
+msgstr "Прочитайте \"Історію поширення християнства в сучасному світі\", яку написав Рон Хардінг"
 
 #: 02_course_information.html:48
 msgid "KipMcKean.com"
