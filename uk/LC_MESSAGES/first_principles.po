@@ -411,39 +411,39 @@ msgstr "Псалом 118:1-2"
 
 #: 04_seeking_god.html:39
 msgid "Blessed means happy (superlatively happy)"
-msgstr "\"Блаженний\" означає \"щасливий\" (найвищий рівень щастя)"
+msgstr "\"Блаженні\" означає \"щасливі\" (дуже щасливі)"
 
 #: 04_seeking_god.html:40
 msgid "Happiness is not the goal of one who seeks God but the \"by-product\""
-msgstr "Щастя - це не ціль того, хто шукає Бога, а “бонус“"
+msgstr "Щастя - це не ціль того, хто шукає Бога, а \"бонус\""
 
 #: 04_seeking_god.html:41
 msgid "To seek God you must do it with all your heart"
-msgstr "Шукати Бога потрібно всім серцем"
+msgstr "Якщо ви шукаєте Бога, то повинні робити це всім серцем"
 
 #: 04_seeking_god.html:42
 msgid "Seeking God means to \"keep His statutes\""
-msgstr "Шукати Бога - значить \"виконувати Його заповіді\""
+msgstr "Шукати Бога означає \"держати свідоцтва Його\""
 
 #: 04_seeking_god.html:46
 msgid "Matthew 6:25-34"
-msgstr "Матвія 6:25-34"
+msgstr "Від Матвія 6:25-34"
 
 #: 04_seeking_god.html:48
 msgid "Do not worry - ironic - can not add a single hour to your life"
-msgstr "Не хвилюйся - ти не можеш додати навіть годину до свого життя"
+msgstr "Не хвилюйтеся – ви не можете додати ні однієї години до свого життя"
 
 #: 04_seeking_god.html:49
 msgid "God knows your needs"
-msgstr "Бог знає твої потреби"
+msgstr "Бог знає ваші потреби"
 
 #: 04_seeking_god.html:50
 msgid "Seek first His kingdom and righteousness"
-msgstr "Шукай перш за все Царство Бога та Його правду"
+msgstr "Шукайте найперше Царства Бога та правди Його"
 
 #: 04_seeking_god.html:51
 msgid "Then God will give you everything you need"
-msgstr "Тоді Бог дасть тобі все необхідне"
+msgstr "Тоді Бог дасть вам все необхідне"
 
 #: 04_seeking_god.html:55
 msgid "Acts 17:26-28"
@@ -451,31 +451,31 @@ msgstr "Дії 17:26-28"
 
 #: 04_seeking_god.html:57
 msgid "God determines the times and places each person lives"
-msgstr "Бог визначив час і місце для життя кожної людини"
+msgstr "Бог призначив час і місце для життя кожної людини"
 
 #: 04_seeking_god.html:58
 msgid "He does this so men will seek Him, reach out for Him and find Him"
-msgstr "Він зробив це для того, щоб люди шукали Його, прагнули та знайшли Його"
+msgstr "Він зробив це для того, щоб люди шукали Його, відчули Його і знайшли Його"
 
 #: 04_seeking_god.html:59
 msgid "He is not far from anyone"
-msgstr "Він недалеко від кожного"
+msgstr "Він недалеко від кожного з нас"
 
 #: 04_seeking_god.html:60
 msgid "A Christian meeting you is not by chance - but of God"
-msgstr "Те, що тебе зустріли християни - не випадковість, це від Бога"
+msgstr "Те, що вас зустрів християнин – не випадковість, це від Бога"
 
 #: 04_seeking_god.html:64
 msgid "John 4:23-24"
-msgstr "Івана 4:23-24"
+msgstr "Від Івана 4:23-24"
 
 #: 04_seeking_god.html:66
 msgid "God seeks men (Acts 17 taught men must seek God)"
-msgstr "Бог шукає людей (Дії 17 говорить, що люди повинні шукати Бога)"
+msgstr "Бог шукає людей (Дії 17 вчить, що люди повинні шукати Бога)"
 
 #: 04_seeking_god.html:67
 msgid "Men who want to worship Him in spirit and in truth"
-msgstr "Людей, які хочуть поклонятися Йому в дусі та правді"
+msgstr "Бог шукає людей, які будуть поклонятися Йому в дусі та істині"
 
 #: 04_seeking_god.html:71
 msgctxt "seeking_god #1"
@@ -484,11 +484,11 @@ msgstr "Дії 17:10-12"
 
 #: 04_seeking_god.html:73
 msgid "Read and study the Bible for your own convictions"
-msgstr "Читай і вивчай Біблію, щоб у тебе були власні переконання"
+msgstr "Читайте та вивчайте Біблію, щоб мати власні переконання"
 
 #: 04_seeking_god.html:74
 msgid "Study daily"
-msgstr "Вивчай кожен день"
+msgstr "Робіть це щодня."
 
 #: 04_seeking_god.html:78
 msgid "Jeremiah 29:11-14"
@@ -496,15 +496,15 @@ msgstr "Єремія 29:11-14"
 
 #: 04_seeking_god.html:80
 msgid "God has an individual plan for your life"
-msgstr "У Бога є наміри (індивідуальний план) для тебе"
+msgstr "У Бога є \"думки\" (індивідуальний план) для вашого життя"
 
 #: 04_seeking_god.html:81
 msgid "A plan to prosper you - with hope and a future"
-msgstr "Його наміри - принести благополуччя та дарувати надію і будучність"
+msgstr "Його наміри – \"дати вам майбутнє та надію\""
 
 #: 04_seeking_god.html:82
 msgid "You will find God when you seek Him with all your heart"
-msgstr "Ти знайдеш Бога, якщо будеш шукати Його всім своїм серцем"
+msgstr "Ви знайдете Бога, якщо будете шукати Його всім серцем"
 
 #: 04_seeking_god.html:86
 msgctxt "seeking_god #1"
@@ -513,31 +513,31 @@ msgstr "Дії 8:26-39"
 
 #: 04_seeking_god.html:88
 msgid "The angels and the Holy Spirit are helping to get you to God"
-msgstr "Ангели і Святий Дух допомогають тобі приблизитись до Бога"
+msgstr "Ангели і Святий Дух допомагають вам наблизитися до Бога"
 
 #: 04_seeking_god.html:89
 msgid "Do not be afraid to ask questions about life or the Bible - be humble"
-msgstr "Не бійся задавати питання про життя або Біблію - будь скромним"
+msgstr "Не соромтесь задавати питання щодо життя чи Біблії"
 
 #: 04_seeking_god.html:90
 msgid "You need someone to explain the Bible to you"
-msgstr "Тобі необхідна людина, яка буде пояснювати тобі Біблію"
+msgstr "Вам потрібен той, хто пояснить вам Біблію"
 
 #: 04_seeking_god.html:91
 msgid "You will be \"rejoicing\" when you find God"
-msgstr "Ти будеш “радіти“, коли знайдеш Бога"
+msgstr "Вас чекає безмежна радість, коли ви знайдете Бога"
 
 #: 04_seeking_god.html:95
 msgid "Matthew 7:7-8"
-msgstr "Матвія 7:7-8"
+msgstr "Від Матвія 7:7-8"
 
 #: 04_seeking_god.html:97
 msgid "Seek and God guarantees you will find Him"
-msgstr "Шукай і Бог пообіцяв, що ти знайдеш Його"
+msgstr "Шукайте, і Бог гарантує, що ви Його знайдете"
 
 #: 04_seeking_god.html:98
 msgid "Ask God for help"
-msgstr "Проси Бога про допомогу"
+msgstr "Просіть Бога про допомогу"
 
 #: 05_word_of_god.html:37
 msgid "2 Timothy 3:16-17"
