@@ -1349,7 +1349,7 @@ msgstr "Не народ Бога"
 
 #: 08_light_and_darkness.html:44
 msgid "No Mercy"
-msgstr "Не помиловані"
+msgstr "Не помилувані"
 
 #: 08_light_and_darkness.html:46
 msgctxt "light_and_darkness #1"
@@ -1442,24 +1442,24 @@ msgstr "Гріх"
 
 #: 08_light_and_darkness.html:98
 msgid "In order for a man to have a relationship with God the wall must be broken down - sin must be forgiven"
-msgstr "Щоб людина змогла мати відносини з Богом, стіна має бути знищена - гріх має бути прощений"
+msgstr "Щоб людина могла мати стосунки з Богом, стіна повинна бути зруйнована – гріх повинен бути прощений"
 
 #: 08_light_and_darkness.html:99
 msgid "The point in time that sin is forgiven is the point in time a person is saved"
-msgstr "Людина отримує спасіння в той момент, коли їй прощаються всі гріхи"
+msgstr "Людина отримує спасіння в той момент, коли їй прощаються гріхи"
 
 #: 08_light_and_darkness.html:103
 msgid "Romans 3:23-25"
-msgstr "Римлянам 3:23-25"
+msgstr "До римлян 3:23-25"
 
 #: 08_light_and_darkness.html:106
 msgid "Who has sinned?  Everyone!"
-msgstr "Хто грішить? Кожен!"
+msgstr "Хто грішив? Кожен!"
 
 #: 08_light_and_darkness.html:110
 msgctxt "light_and_darkness #2"
 msgid "SIN"
-msgstr "ГРІХ"
+msgstr "Гріх"
 
 #: 08_light_and_darkness.html:114
 msgctxt "light_and_darkness #3"
@@ -1485,15 +1485,15 @@ msgstr "Людина В"
 
 #: 08_light_and_darkness.html:134
 msgid "Who is further away from God:  a person who sins a little, or a person who sins a lot?  All are equal, all lost.  Therefore a good moral life does not save you.  You cannot earn your salvation by your good deeds"
-msgstr "Хто дальше від Бога: той, хто грішить мало або той, хто грішить багато? Всі рівні, всі не спасенні. Тому високоморальне життя не спасе тебе. Ти не можеш спасіння своїми добрими справами"
+msgstr "Хто далі від Бога – той, хто грішив мало чи той, хто грішив багато? Усі рівні, усі загублені. Тому доброчесне та високоморальне життя не врятує вас. Ви не можете заробити спасіння своїми добрими справами"
 
 #: 08_light_and_darkness.html:135
 msgid "Faith in the blood of Jesus saves you"
-msgstr "Віра в кров Ісуса тебе спасає"
+msgstr "Вас врятує віра у кров Ісуса"
 
 #: 08_light_and_darkness.html:135
 msgid "v. 25"
-msgstr "в. 25"
+msgstr "До римлян 3:25"
 
 #: 08_light_and_darkness.html:139
 msgid "What is Sin?"
@@ -1501,7 +1501,7 @@ msgstr "Що таке гріх?"
 
 #: 08_light_and_darkness.html:141
 msgid "Galatians 5:19-21"
-msgstr "Галатам 5:19-21"
+msgstr "До галатів 5:19-21"
 
 #: 08_light_and_darkness.html:141
 msgctxt "light_and_darkness #1"
@@ -1531,11 +1531,11 @@ msgstr "Що є вічним наслідком гріха?"
 
 #: 08_light_and_darkness.html:147
 msgid "Romans 6:23"
-msgstr "Римлянам 6:23"
+msgstr "До римлян 6:23"
 
 #: 08_light_and_darkness.html:152
 msgid "WAGES OF SIN"
-msgstr "ПОКАРАННЯ ЗА ГРІХ"
+msgstr "ЗАПЛАТА ЗА ГРІХ"
 
 #: 08_light_and_darkness.html:153
 msgid "GIFT OF GOD"
@@ -1547,7 +1547,7 @@ msgstr "Смерть"
 
 #: 08_light_and_darkness.html:156
 msgid "Hell"
-msgstr "Ад"
+msgstr "Пекло"
 
 #: 08_light_and_darkness.html:156
 msgctxt "light_and_darkness #3"
@@ -1575,11 +1575,11 @@ msgstr "Світло"
 #: 08_light_and_darkness.html:170
 msgctxt "light_and_darkness #1"
 msgid "John 3:1-7"
-msgstr "Івана 3:1-7"
+msgstr "Від Івана 3:1-7"
 
 #: 08_light_and_darkness.html:170
 msgid "Born again (v. 3), born of water and Spirit (v. 5), born again. (v. 7)"
-msgstr "Народитись заново (в. 3), народитись від води і Духа (в. 5), народитись заново (в. 7)"
+msgstr "Народитись знову (Від Івана 3:3), народитись від води і Духа (Від Івана 3:5), народитись знову (Від Івана 3:1-7)"
 
 #: 08_light_and_darkness.html:171
 msgid "Personal decision as an adult"
@@ -1599,16 +1599,16 @@ msgstr "Ісус прийшов від Бога"
 
 #: 08_light_and_darkness.html:175
 msgid "v. 22"
-msgstr "ст. 22"
+msgstr "Дії 2:22"
 
 #: 08_light_and_darkness.html:176
 msgid "Jesus raised physically from the dead"
-msgstr "Ісус воскрес фізично з мертвих"
+msgstr "Ісус фізично воскрес із мертвих"
 
 #: 08_light_and_darkness.html:176
 msgctxt "light_and_darkness #1"
 msgid "v. 24"
-msgstr "в. 24"
+msgstr "Дії 2:24"
 
 #: 08_light_and_darkness.html:177
 msgid "Everyone is responsible for the crucifixion of Christ"
@@ -1617,16 +1617,16 @@ msgstr "Кожен несе відповідальність за розп‘я�
 #: 08_light_and_darkness.html:177
 msgctxt "light_and_darkness #1"
 msgid "v. 23"
-msgstr "в. 23"
+msgstr "Дії 2:23"
 
 #: 08_light_and_darkness.html:177
 msgid "All have sinned."
-msgstr "Всі згрішили."
+msgstr "Усі згрішили"
 
 #: 08_light_and_darkness.html:177
 msgctxt "light_and_darkness #1"
 msgid "Romans 3:23"
-msgstr "Римлянам 3:23"
+msgstr "До римлян 3:23"
 
 #: 08_light_and_darkness.html:181
 msgid "Response of people:"
@@ -1638,15 +1638,15 @@ msgstr "Дії 2:36-37"
 
 #: 08_light_and_darkness.html:183
 msgid "Cut to the heart"
-msgstr "Були глибоко розчулені"
+msgstr "Вражені у саме серце"
 
 #: 08_light_and_darkness.html:184
 msgid "What shall we do?"
-msgstr "Що нам робити?"
+msgstr "\"Що нам робити?\""
 
 #: 08_light_and_darkness.html:188
 msgid "Once the people believed, what did they do?"
-msgstr "Що вони зробили після того, як повірили?"
+msgstr "Що зробили люди після того, як повірили?"
 
 #: 08_light_and_darkness.html:188
 msgid "Acts 2:38-42"
@@ -1654,19 +1654,19 @@ msgstr "Дії 2:38-42"
 
 #: 08_light_and_darkness.html:190
 msgid "Repent (Greek = to turn)"
-msgstr "Покайтесь (з грецької = розверніться)"
+msgstr "\"Покайтесь\" (грец.: \"розвернутися\")"
 
 #: 08_light_and_darkness.html:192
 msgid "Be baptized (Greek = to be immersed)"
-msgstr "Бути хрещеним (з грецької = занурення під воду)"
+msgstr "\"нехай же охреститься кожен із вас\" (грец.: \"занурений\")"
 
 #: 08_light_and_darkness.html:194
 msgid "Sin forgiven. Therefore this is the point in time a person is saved"
-msgstr "Гріхи прощаються. Тому саме в цей момент людина спасається"
+msgstr "Прощаються гріхи. Тому саме в цей момент людина отримує спасіння"
 
 #: 08_light_and_darkness.html:195
 msgid "Holy Spirit given to each who responded - power to live as God commands"
-msgstr "Святий Дух дається кажному, хто відкликнувся - ця сила достатня для того, щоб жити згідно з заповідями"
+msgstr "Святий Дух дається кожному, хто відгукнувся на поклик Бога. Святий Дух – це сила, якої достатньо, щоб жити згідно заповідей Бога"
 
 #: 08_light_and_darkness.html:199
 msgid "Baptism:"
@@ -1674,11 +1674,11 @@ msgstr "Хрещення:"
 
 #: 08_light_and_darkness.html:199
 msgid "Romans 6:1-4"
-msgstr "Римлянам 6:1-4"
+msgstr "До римлян 6:1-4"
 
 #: 08_light_and_darkness.html:200
 msgid "Baptism is the sharing (a participation) in the death, burial and resurrection of Christ. (More than just a symbol)"
-msgstr "При хрещенні ми приймаємо участь в смерті, і воскресенні Христа. (Більше ніж лише символ)"
+msgstr "При хрещенні ми беремо участь у смерті, похованні та воскресінні Христа. Це більше ніж просто символічний обряд"
 
 #: 08_light_and_darkness.html:208
 msgid "JESUS"
@@ -1702,15 +1702,15 @@ msgstr "СТАРЕ ЖИТТЯ"
 
 #: 08_light_and_darkness.html:228
 msgid "\"DIED WITH CHRIST\""
-msgstr "“ПОМЕР З ХРИСТОМ“"
+msgstr "\"ПОМЕР З ХРИСТОМ\""
 
 #: 08_light_and_darkness.html:230
 msgid "\"RAISED TO A NEW LIFE\""
-msgstr "“ВОСКРЕС ДЛЯ НОВОГО ЖИТТЯ“"
+msgstr "\"ВОСКРЕС ДЛЯ НОВОГО ЖИТТЯ\""
 
 #: 08_light_and_darkness.html:236
 msgid "\"BURIED WITH CHRIST\""
-msgstr "“ПОХОВАНИЙ З ХРИСТОМ“"
+msgstr "\"ПОХОВАНИЙ З ХРИСТОМ\""
 
 #: 08_light_and_darkness.html:245
 msgctxt "light_and_darkness #2"
@@ -1741,12 +1741,12 @@ msgstr "Гріхи - Прощені"
 
 #: 08_light_and_darkness.html:257
 msgid "Born Again of Water and Spirit"
-msgstr "Народитись знову від Води і Духа"
+msgstr "Ми повинні народитися від води і Духа"
 
 #: 08_light_and_darkness.html:257
 msgctxt "light_and_darkness #1"
 msgid "John 3:5"
-msgstr ""
+msgstr "Від Івана 3:5"
 
 #: 08_light_and_darkness.html:261
 msgctxt "light_and_darkness #2"
@@ -1755,15 +1755,15 @@ msgstr "Дії 2:38"
 
 #: 08_light_and_darkness.html:262
 msgid "Water = Baptism"
-msgstr "Вода = Хрещенням"
+msgstr "Вода - хрещення"
 
 #: 08_light_and_darkness.html:262
 msgid "Spirit = Received at Baptism"
-msgstr "Дух = Дається при Хрещенні"
+msgstr "Дух - дається при хрещенні"
 
 #: 08_light_and_darkness.html:267
 msgid "Romans 3:25"
-msgstr "Римлянам 3:25"
+msgstr "До римлян 3:25"
 
 #: 08_light_and_darkness.html:268
 msgid "Faith in the Blood of Jesus Saves Us"
@@ -1771,16 +1771,16 @@ msgstr "Віра в Кров Ісуса може спасти нас"
 
 #: 08_light_and_darkness.html:270
 msgid "Jesus shed His blood when He died.  In baptism we share by faith in the death, burial and resurrection of Jesus.  Thus we contact the blood of baptism and are forgiven of our sins and SAVED!"
-msgstr "Коли Ісус помер, Він пролив свою кров. При хрещенні ми вірою приймаємо участь в Його смерті та воскресінні. Так, при хрещенні Його кров омиває нас, нам прощаються гріхи і ми отримуємо СПАСІННЯ!"
+msgstr "Коли Ісус помер, він пролив свою кров. При хрещенні ми вірою беремо участь у Його смерті, похованні і воскресінні. Таким чином, при хрещенні Його кров потрапляє на нас, нам прощаються гріхи і ми отримуємо СПАСІННЯ!"
 
 #: 08_light_and_darkness.html:277
 msgid "Traditions/False Doctrines -"
-msgstr "Традиції/лжедоктрини -"
+msgstr "Традиції та хибні доктрини -"
 
 #: 08_light_and_darkness.html:277
 msgctxt "light_and_darkness #1"
 msgid "Matthew 15:6-9"
-msgstr "Матвія 15:6-9"
+msgstr "ВІд Матвія 15:6-9"
 
 #: 08_light_and_darkness.html:280
 msgid "Infant Baptism"
@@ -1793,24 +1793,24 @@ msgstr "Необхідна особиста віра"
 #: 08_light_and_darkness.html:282
 msgctxt "light_and_darkness #1"
 msgid "Colossians 2:12"
-msgstr "Колосянам 2:12"
+msgstr "До колоссян 2:12"
 
 #: 08_light_and_darkness.html:283
 msgid "Began approximately third century A.D."
-msgstr "Почали практикувати десь з третього століття н.е."
+msgstr "Почало практикуватися десь з 3 ст. н.е."
 
 #: 08_light_and_darkness.html:285
 msgid "Original sin"
-msgstr "Перворідний гріх"
+msgstr "Первородний гріх"
 
 #: 08_light_and_darkness.html:287
 msgctxt "light_and_darkness #1"
 msgid "Ezekiel 18:20"
-msgstr "Єзекіль 18:20"
+msgstr "Єзекіїль 18:20"
 
 #: 08_light_and_darkness.html:288
 msgid "Became \"church doctrine\" in 549 A.D."
-msgstr "Це вчення стало “церковною доктриною“ в 549 рік н.е."
+msgstr "Це вчення стало “церковною доктриною“ в 549 р. н.е."
 
 #: 08_light_and_darkness.html:294
 msgid "Praying Jesus into your heart"
@@ -1827,7 +1827,7 @@ msgstr "- вирвано з контексту. Ці слова адресова
 
 #: 08_light_and_darkness.html:297
 msgid "Began in the early 1800s in America"
-msgstr "Ця доктрина з‘явилась на початку 1800-тих років в Америці"
+msgstr "Ця доктрина з‘явилась на початку XIX ст. в Америці"
 
 #: 08_light_and_darkness.html:303
 msgid "Sinful nature"
@@ -1835,7 +1835,8 @@ msgstr "Гріховна природа"
 
 #: 08_light_and_darkness.html:304
 msgid "Suggest to the individual with whom you are studying that he or she write out and be specific about various sins that they have committed during their life.  This is so they might see the gravity and magnitude of their sin.  This is confidential and should only be shared with those who are studying with the person"
-msgstr "Запропонуйте людині, з якою ви вивчаєте Біблію, виписати гріхи, які він чи вона здійснили протягом життя. Таким чином, вона може зрозуміти серйозність і величину своїх гріхів. Це конфіденційна інформація і її повинні говорити лише тим, хто також вивчає з цією людиною Біблію"
+msgstr "Запропонуйте людині, з якою ви вивчаєте Біблію, виписати гріхи, які він або вона зробили протягом свого життя. Нехай це буде список конкретних ситуацій, що описують різні гріхи. Таким чином, людина зможе усвідомити серйозність і величину своїх гріхів.\n"
+"Це конфіденційна інформація, її слід розповідати тільки тим, хто також вивчає з цією людиною Біблію."
 
 #: 09_new_testament_conversion.html:37
 msgid "The Major Conversions in Acts"
