@@ -892,22 +892,22 @@ msgstr "Останні дні"
 
 #: 07_coming_of_the_kingdom.html:47
 msgid "Mountains (Symbolizes kingdoms):  Mountain of the Lord, chief of the mountains"
-msgstr "Гори (символізують царства): Гора Господа найвища з гір"
+msgstr "Гори (символізують царства): гора Господня – головна із гір"
 
 #: 07_coming_of_the_kingdom.html:48
 msgctxt "coming_of_the_kingdom #1"
 msgid "All nations"
-msgstr "Всі народи"
+msgstr "Усі народи"
 
 #: 07_coming_of_the_kingdom.html:49
 msgctxt "coming_of_the_kingdom #1"
 msgid "Jerusalem"
-msgstr "Ієрусалим"
+msgstr "Єрусалим"
 
 #: 07_coming_of_the_kingdom.html:53
 msgctxt "coming_of_the_kingdom #1"
 msgid "Daniel 2:31-45"
-msgstr "Даніїла 2:31-45"
+msgstr "Даниїл 2:31-45"
 
 #: 07_coming_of_the_kingdom.html:53
 msgid "(550 B.C.)"
@@ -915,11 +915,11 @@ msgstr "(550 р. до н.е.)"
 
 #: 07_coming_of_the_kingdom.html:55
 msgid "Set up this passage by explaining that earlier in Daniel 2 King Nebuchadnezzer threatens death to all his astrologers and dream interpreters if they do not first tell him his dream, then interpret it"
-msgstr "Поясніть спочатку, що раніше в 2 главі книги Даніїла сказано, що царь Навуходоносор дав приказ вбити всіх чародіїв та магів, якщо вони спочатку не розкажуть царю зміст його сна, а потім його роз‘яснення"
+msgstr "Поясніть спочатку, що раніше в 2 главі книги Даниїла сказано, що царь Навуходоносор дав наказ вбити всіх чародіїв та тлумачів снів, якщо вони спочатку не розкажуть царю зміст його сну, а потім його тлумачення"
 
 #: 07_coming_of_the_kingdom.html:56
 msgid "Daniel interprets King Nebuchadnezzar's dream"
-msgstr "Даніїл пояснює царю Навуходоносору його сон"
+msgstr "Даниїл пояснює царю Навуходоносору його сон"
 
 #: 07_coming_of_the_kingdom.html:58
 msgid "Empires"
@@ -943,7 +943,7 @@ msgstr "Римська: залізо (залізо з глиною)"
 
 #: 07_coming_of_the_kingdom.html:66
 msgid "Rock - cut out not by human hands (therefore God)"
-msgstr "Камінь - відколовся без допомоги людських рук (значить силою Бога)"
+msgstr "Камінь - відколовся без допомоги людських рук (тобто силою Бога)"
 
 #: 07_coming_of_the_kingdom.html:67
 msgid "Rock becomes huge mountain - filled the whole earth"
@@ -951,7 +951,7 @@ msgstr "Камінь перетворився у величезну гору - �
 
 #: 07_coming_of_the_kingdom.html:68
 msgid "Kingdom that will never be destroyed (v. 44)"
-msgstr "Царство, яке ніколи не буде зруйноване (в. 44)"
+msgstr "Царство, яке ніколи не буде зруйноване (Даниїл 2:44)"
 
 #: 07_coming_of_the_kingdom.html:74
 msgid "New Testament Predictions of the Kingdom"
@@ -972,7 +972,7 @@ msgstr "Царство близько"
 
 #: 07_coming_of_the_kingdom.html:79
 msgid "Matthew 3:1-6"
-msgstr "Матвія 3:1-6"
+msgstr "Від Матвія 3:1-6"
 
 #: 07_coming_of_the_kingdom.html:83
 msgid "Jesus"
@@ -990,7 +990,7 @@ msgstr "Царство близько"
 #: 07_coming_of_the_kingdom.html:85
 msgctxt "coming_of_the_kingdom #1"
 msgid "Matthew 4:17"
-msgstr "Матвія 4:17"
+msgstr "Від Матвія 4:17"
 
 #: 07_coming_of_the_kingdom.html:86
 msgid "Kingdom will come in the lifetime of some of the disciples"
@@ -999,7 +999,7 @@ msgstr "Царство настане при житті деяких учнів 
 #: 07_coming_of_the_kingdom.html:86
 msgctxt "coming_of_the_kingdom #1"
 msgid "Mark 9:1"
-msgstr "Марка 9:1"
+msgstr "Від Марка 9:1"
 
 #: 07_coming_of_the_kingdom.html:87
 msgid "Kingdom will come with power"
@@ -1008,7 +1008,7 @@ msgstr "Царство прийде в силі"
 #: 07_coming_of_the_kingdom.html:87
 msgctxt "coming_of_the_kingdom #2"
 msgid "Mark 9:1"
-msgstr "Марка 9:1"
+msgstr "Від Марка 9:1"
 
 #: 07_coming_of_the_kingdom.html:88
 msgid "Kingdom entered by new birth - by water and the Spirit"
@@ -1017,7 +1017,7 @@ msgstr "Царство, в яке можна буде ввійти заново 
 #: 07_coming_of_the_kingdom.html:88
 msgctxt "coming_of_the_kingdom #1"
 msgid "John 3:1-7"
-msgstr "Івана 3:1-7"
+msgstr "Від Івана 3:1-7"
 
 #: 07_coming_of_the_kingdom.html:89
 msgid "Kingdom is within you"
@@ -1026,7 +1026,7 @@ msgstr "Царство всередині нас"
 #: 07_coming_of_the_kingdom.html:89
 msgctxt "coming_of_the_kingdom #1"
 msgid "Luke 17:20-21"
-msgstr "Луки 17:20-21"
+msgstr "Від Луки 17:20-21"
 
 #: 07_coming_of_the_kingdom.html:90
 msgid "Peter has the keys"
@@ -1034,7 +1034,7 @@ msgstr "У Петра є ключі"
 
 #: 07_coming_of_the_kingdom.html:90
 msgid "Matthew 16:13-19"
-msgstr "Матвія 16:13-19"
+msgstr "Від Матвія 16:13-19"
 
 #: 07_coming_of_the_kingdom.html:90
 msgid "Church and the Kingdom are the same and will be built on the truth that Jesus is the Christ"
@@ -1042,7 +1042,7 @@ msgstr "Церква і Царство - це одне й те саме, і во
 
 #: 07_coming_of_the_kingdom.html:90
 msgid "1 Corinthians 3:11"
-msgstr "1 Коринфянам 3:11"
+msgstr "1 до коринтян 3:11"
 
 #: 07_coming_of_the_kingdom.html:91
 msgid "Joseph of Arimathea was still waiting for the Kingdom when Jesus died"
@@ -1050,20 +1050,20 @@ msgstr "Йосип з Аримафеї все ще чекав Царства, к
 
 #: 07_coming_of_the_kingdom.html:91
 msgid "Luke 23:50-52"
-msgstr "Луки 23:50-52"
+msgstr "Від Луки 23:50-52"
 
 #: 07_coming_of_the_kingdom.html:92
 msgid "Repentance and forgiveness of sins will be preached first in Jerusalem to all nations"
-msgstr "Покаяння і прощення гріхів буде проповідано всім народам, починаючи з Ієрусалиму"
+msgstr "Покаяння і прощення гріхів буде проповідано всім народам, починаючи з Єрусалиму"
 
 #: 07_coming_of_the_kingdom.html:92
 msgctxt "coming_of_the_kingdom #1"
 msgid "Luke 24:44-49"
-msgstr "Луки 24:44-49*"
+msgstr "Від Луки 24:44-49"
 
 #: 07_coming_of_the_kingdom.html:98
 msgid "Fulfillment of the Old and New Testament Predictions,"
-msgstr "Виконання пророцтв Старого та Нового Заповітів"
+msgstr "Виконання пророцтв Старого та Нового Заповіту"
 
 #: 07_coming_of_the_kingdom.html:98
 msgctxt "coming_of_the_kingdom #1"
@@ -1091,7 +1091,7 @@ msgstr "Ісая 2:2"
 #: 07_coming_of_the_kingdom.html:107
 msgctxt "coming_of_the_kingdom #2"
 msgid "All nations"
-msgstr "Всі народи"
+msgstr "Усі народи"
 
 #: 07_coming_of_the_kingdom.html:107
 msgctxt "coming_of_the_kingdom #1"
@@ -1105,12 +1105,12 @@ msgstr "Ісая 2:2"
 
 #: 07_coming_of_the_kingdom.html:110
 msgid "Luke 24:47"
-msgstr "Луки 24:47"
+msgstr "Від Луки 24:47"
 
 #: 07_coming_of_the_kingdom.html:114
 msgctxt "coming_of_the_kingdom #2"
 msgid "Jerusalem"
-msgstr "Ієрусалим"
+msgstr "Єрусалим"
 
 #: 07_coming_of_the_kingdom.html:114
 msgctxt "coming_of_the_kingdom #2"
@@ -1124,7 +1124,7 @@ msgstr "Ісая 2:3"
 #: 07_coming_of_the_kingdom.html:117
 msgctxt "coming_of_the_kingdom #2"
 msgid "Luke 24:44-49"
-msgstr "Луки 24:44-49"
+msgstr "Від Луки 24:44-49"
 
 #: 07_coming_of_the_kingdom.html:121
 msgid "Eternal kingdom"
@@ -1137,7 +1137,7 @@ msgstr "Дії 2:37-42"
 #: 07_coming_of_the_kingdom.html:123
 msgctxt "coming_of_the_kingdom #2"
 msgid "Daniel 2:31-45"
-msgstr "Даніїла 2:31-45"
+msgstr "Даниїл 2:31-45"
 
 #: 07_coming_of_the_kingdom.html:127
 msgid "Date of coming approximately"
@@ -1159,20 +1159,20 @@ msgstr "Пророцтва Старого Заповіту"
 
 #: 07_coming_of_the_kingdom.html:130
 msgid "John the Baptist - \"is near\""
-msgstr "Іван Хреститель - “близько“"
+msgstr "Іван Хреститель - \"близько\""
 
 #: 07_coming_of_the_kingdom.html:130
 msgid "Matthew 3:1-2"
-msgstr "Матвія 3:1-2"
+msgstr "Від Матвія 3:1-2"
 
 #: 07_coming_of_the_kingdom.html:131
 msgid "Jesus - \"is near\""
-msgstr "Ісус - “близько“"
+msgstr "Ісус - \"близько\""
 
 #: 07_coming_of_the_kingdom.html:131
 msgctxt "coming_of_the_kingdom #2"
 msgid "Matthew 4:17"
-msgstr "Матвія 4:17"
+msgstr "Від Матвія 4:17"
 
 #: 07_coming_of_the_kingdom.html:135
 msgid "Lifetime"
@@ -1186,11 +1186,11 @@ msgstr "Дії 2:14"
 #: 07_coming_of_the_kingdom.html:137
 msgctxt "coming_of_the_kingdom #3"
 msgid "Mark 9:1"
-msgstr "Марка 9:1"
+msgstr "Від Марка 9:1"
 
 #: 07_coming_of_the_kingdom.html:138
 msgid "\"Some\" - Judas died"
-msgstr "“деякі“ - Іуда помер"
+msgstr "\"деякі\" - Іуда помер"
 
 #: 07_coming_of_the_kingdom.html:138
 msgid "Acts 1:18-19"
@@ -1212,7 +1212,7 @@ msgstr "Дії 2:1-4"
 #: 07_coming_of_the_kingdom.html:144
 msgctxt "coming_of_the_kingdom #4"
 msgid "Mark 9:1"
-msgstr "Марка 9:1"
+msgstr "Від Марка 9:1"
 
 #: 07_coming_of_the_kingdom.html:148
 msgid "New birth"
@@ -1230,7 +1230,7 @@ msgstr "Вода і Дух"
 #: 07_coming_of_the_kingdom.html:150
 msgctxt "coming_of_the_kingdom #2"
 msgid "John 3:1-7"
-msgstr "Івана 3:1-7"
+msgstr "Від Івана 3:1-7"
 
 #: 07_coming_of_the_kingdom.html:154
 msgid "Kingdom within"
@@ -1243,7 +1243,7 @@ msgstr "Дії 2:37"
 #: 07_coming_of_the_kingdom.html:156
 msgctxt "coming_of_the_kingdom #2"
 msgid "Luke 17:20-21"
-msgstr "Луки 17:20-21"
+msgstr "Від Луки 17:20-21"
 
 #: 07_coming_of_the_kingdom.html:160
 msgid "Peter with the keys"
@@ -1261,7 +1261,7 @@ msgstr "Дії 22:38"
 
 #: 07_coming_of_the_kingdom.html:162
 msgid "Matthew 16:19"
-msgstr "Матвія 16:19"
+msgstr "Від Матвія 16:19"
 
 #: 07_coming_of_the_kingdom.html:166
 msgid "Repentance and forgiveness of sin"
@@ -1275,7 +1275,7 @@ msgstr "Дії 2:8"
 #: 07_coming_of_the_kingdom.html:168
 msgctxt "coming_of_the_kingdom #3"
 msgid "Luke 24:44-49"
-msgstr "Луки 24:44-49"
+msgstr "Від Луки 24:44-49"
 
 #: 07_coming_of_the_kingdom.html:174
 msgctxt "coming_of_the_kingdom #1"
@@ -1284,7 +1284,7 @@ msgstr "Висновки"
 
 #: 07_coming_of_the_kingdom.html:176
 msgid "The church is the Kingdom of God on earth, established in approximately"
-msgstr "Церква - це Царство Бога на землі, що встановлено приблизно в"
+msgstr "Церква – це Царство Бога на землі, яке настало приблизно в"
 
 #: 07_coming_of_the_kingdom.html:176
 msgctxt "coming_of_the_kingdom #2"
@@ -1319,7 +1319,7 @@ msgstr "Молитвах"
 #: 07_coming_of_the_kingdom.html:186
 msgctxt "coming_of_the_kingdom #1"
 msgid "Matthew 6:33"
-msgstr "Матвія 6:33"
+msgstr "Від Матвія 6:33"
 
 #: 07_coming_of_the_kingdom.html:186
 msgid "We must seek His Kingdom first.  Ask them to commit themselves to at least Sunday services and Midweek services"
