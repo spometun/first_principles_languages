@@ -682,7 +682,7 @@ msgstr "Вступ:"
 #: 06_discipleship.html:36
 msgctxt "discipleship #1"
 msgid "Matthew 28:18-20"
-msgstr "Матвія 28:18-20"
+msgstr "Від Матвія 28:18-20"
 
 #: 06_discipleship.html:39
 msgid "What does Jesus want everybody to become?"
@@ -690,7 +690,7 @@ msgstr "Ким Ісус хоче, щоб всі люди стали?"
 
 #: 06_discipleship.html:40
 msgid "Which is the more popular term - \"Disciple\" or \"Christian?\" The word \"Christian\" only appears three times in the New Testament. It is the name those in the world gave the disciples, seven years after the church began"
-msgstr "Яке слово більш популярне: “учень Христа“ чи “християнин“? Слово “християнин“ зустрічається в Новому Заповіті лише три рази. Це кличка, яку мирські люди дали учням Христа через сім років після початку церкви"
+msgstr "Яке слово більш відоме – \"учень\" чи \"християнин\"? Слово \"християнин\" використовується у Новому заповіті тільки три рази. Це прізвисько, яке люди зі світу дали учням через сім років після початку церкви"
 
 #: 06_discipleship.html:41
 msgid "Acts 11:19-26"
@@ -706,19 +706,19 @@ msgstr "СПАСЕННИЙ = ХРИСТИЯНИН = УЧЕНЬ ХРИСТА"
 
 #: 06_discipleship.html:45
 msgid "Jesus came to make disciples. Only baptized disciples will be saved"
-msgstr "Ісус прийшов, щоб робити людей учнями. Лише хрещенні учні будуть спасенні"
+msgstr "Ісус прийшов, щоб зробити людей учнями. Лише хрещенні учні будуть спасенні"
 
 #: 06_discipleship.html:49
 msgid "Let's have Jesus define disciple, thus defining who is a true Christian"
-msgstr "Давайте подивимось, як Ісус визначає, хто такі учні, щоб зрозуміти хто такі істинні християни"
+msgstr "Давайте подивимось, як Ісус визначає, хто такі учні, щоб зрозуміти, , що значить бути справжнім християнином"
 
 #: 06_discipleship.html:55
 msgid "Mark 1:14-18"
-msgstr "Марка 1:14-18"
+msgstr "Від Марка 1:14-18"
 
 #: 06_discipleship.html:58
 msgid "Calling of the first disciples"
-msgstr "Призвання перших учнів"
+msgstr "Покликання перших учнів"
 
 #: 06_discipleship.html:59
 msgid "Come follow me (Christ)"
@@ -726,32 +726,32 @@ msgstr "Ідіть за Мною (Христом)"
 
 #: 06_discipleship.html:60
 msgid "Fishers of men - Jesus gave these first disciples the real purpose for living"
-msgstr "Ловці людей - Ісус дав цим першим учням справжню ціль життя"
+msgstr "Ловці людей - Ісус дав першим учням справжню ціль життя"
 
 #: 06_discipleship.html:61
 msgid "Immediately"
-msgstr "Відразу"
+msgstr "Зараз же"
 
 #: 06_discipleship.html:66
 msgid "Luke 9:23-26"
-msgstr "Луки 9:23-26"
+msgstr "Від Луки 9:23-26"
 
 #: 06_discipleship.html:69
 msgctxt "discipleship #1"
 msgid "If any man..."
-msgstr "Якщо хто-небудь..."
+msgstr "Коли хто хоче…"
 
 #: 06_discipleship.html:70
 msgid "Deny self. Notice Christ in the garden"
-msgstr "Відріктися від себе. Зверніть увагу на Христа в Гефсиманському саду"
+msgstr "Зректися самого себе. Зверніть увагу на Христа в Гетсиманському саду"
 
 #: 06_discipleship.html:72
 msgid "Matthew 26:36-39"
-msgstr "Матвія 26:36-39"
+msgstr "Від Матвія 26:36-39"
 
 #: 06_discipleship.html:73
 msgid "'Not my will, but your will'"
-msgstr "“...не те, чого Я хочу, а те, чого Ти бажаєш\""
+msgstr "\"… не як Я хочу, а як Ти\""
 
 #: 06_discipleship.html:73
 msgid "Do not give in to moods"
@@ -759,57 +759,57 @@ msgstr "Не можна піддаватись настрою"
 
 #: 06_discipleship.html:75
 msgid "Carry the cross - daily"
-msgstr "Нести хрест кожен день"
+msgstr "Щоденно нести свій хрест"
 
 #: 06_discipleship.html:76
 msgid "Gain the world ... forfeit soul. Lose your life for Jesus ... save it"
-msgstr "Придбати весь світ ... знищити самого себе. Загубити своє життя для Ісуса ... зберегти його"
+msgstr "Здобути ввесь світ… занапастити себе. Згубити свою душу заради Христа – врятувати її"
 
 #: 06_discipleship.html:81
 msgid "Luke 14:25-33"
-msgstr "Луки 14:25-33"
+msgstr "Від Луки 14:25-33"
 
 #: 06_discipleship.html:84
 msgctxt "discipleship #2"
 msgid "If any man..."
-msgstr "Якщо хто-небудь..."
+msgstr "Коли хто приходить…"
 
 #: 06_discipleship.html:85
 msgid "Count the cost (v. 28-30)"
-msgstr "Підрахувати витрати (в. 28-30)"
+msgstr "Вирахувати видатки (Від Луки 14:28-30)"
 
 #: 06_discipleship.html:86
 msgid "Consider the alternatives (v. 31-32)"
-msgstr "Продивитись інші варіанти (в. 31-32)"
+msgstr "Розглянути інші варіанти (Від Луки 14:31-32)"
 
 #: 06_discipleship.html:87
 msgid "Love Christ more than any person (v. 26)"
-msgstr "Любити Христа більше будь-кого іншого (в. 26)"
+msgstr "Любити Христа більше, ніж кого-небудь іншого (Від Луки 14:26)"
 
 #: 06_discipleship.html:88
 msgid "Persecutions (v. 27)"
-msgstr "Переслідування (в. 27)"
+msgstr "Переслідування (Від Луки 14:27)"
 
 #: 06_discipleship.html:89
 msgid "Everything, not just anything (v. 33)"
-msgstr "Все, а не якусь частину (в. 33)"
+msgstr "Усе, а не якусь частину (Від Луки 14:33)."
 
 #: 06_discipleship.html:94
 msgid "Luke 11:1-4"
-msgstr "Луки 11:1-4"
+msgstr "Від Луки 11:1-4"
 
 #: 06_discipleship.html:97
 msgid "Must learn to pray - disciples saw the strength Jesus received from the Father"
-msgstr "Треба вчитись молитись - учні побачили, що Ісус брав сили у Отця"
+msgstr "Потрібно вчитися молитися – учні побачили, що Ісус отримував сили від Отця"
 
 #: 06_discipleship.html:98
 msgid "Daily personal relationship with God (v. 3); daily prayer"
-msgstr "Кожен день мати особисті відносини з Богом (в. 3). Щоденна молитва"
+msgstr "Щоденні особисті стосунки з Богом (Від Луки 11:3). Щоденна молитва"
 
 #: 06_discipleship.html:103
 msgctxt "discipleship #1"
 msgid "John 13:34-35"
-msgstr "Івана 13:34-35"
+msgstr "Від Івана 13:34-35"
 
 #: 06_discipleship.html:106
 msgid "Love one another"
@@ -817,28 +817,28 @@ msgstr "Любити один одного"
 
 #: 06_discipleship.html:107
 msgid "Be an active part of the fellowship"
-msgstr "Приймай активну участь в житті учнів"
+msgstr "Брати активну участь у житті учнів"
 
 #: 06_discipleship.html:112
 msgctxt "discipleship #2"
 msgid "Matthew 28:18-20"
-msgstr "Матвія 28:18-20"
+msgstr "Від Матвія 28:18-20"
 
 #: 06_discipleship.html:115
 msgid "Command - make disciples (given to all)"
-msgstr "Заповідь - робити учнів (дана всім)"
+msgstr "Заповідь - робити людей учнями (дана всім)"
 
 #: 06_discipleship.html:116
 msgid "Who is a candidate for baptism?  A person who makes the decision to be a disciple"
-msgstr "Хто може хреститись? Той, хто прийняв рішення бути учнем Христа"
+msgstr "Хто може хреститися? Людина, яка прийняла рішення бути учнем"
 
 #: 06_discipleship.html:117
 msgid "You need someone to disciple you to maturity in Christ"
-msgstr "Тобі потрібна людина, яка буде тебе вчити, щоб ти дорослішав(-ла) у Христі"
+msgstr "Вам потрібна людина, яка буде вчити вас, щоб ви зростали у Христі"
 
 #: 06_discipleship.html:119
 msgid "This is the only way to save the world!"
-msgstr "Це єдиний шлях, щоб зберегти світ!"
+msgstr "Це єдиний шлях, як врятувати світ!"
 
 #: 06_discipleship.html:122
 msgid "Year"
@@ -855,7 +855,7 @@ msgstr "Учень Христа"
 
 #: 06_discipleship.html:149
 msgid "the world, 10 billion plus"
-msgstr "Світ, більше мільярдів "
+msgstr "Світ, більше 10 мільярдів"
 
 #: 06_discipleship.html:158
 msgid "Conclusion Question:"
@@ -863,7 +863,7 @@ msgstr "Підсумкові питання:"
 
 #: 06_discipleship.html:158
 msgid "Am I a disciple?  Am I a Christian?  Am I saved?  What do I need to do to become a disciple?"
-msgstr "Чи я учень? Чи я християнин? Чи я спасенний? Що мені необхідно зробити, щоб стати учнем?"
+msgstr "Чи я учень? Чи я християнин? Чи я спасенний? Що мені потрібно, щоб стати учнем?"
 
 #: 07_coming_of_the_kingdom.html:36
 msgid "In this study you will see the continuity of the Old and New Testaments"
