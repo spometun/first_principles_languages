@@ -146,11 +146,11 @@ msgstr "Ці уроки мають стати дуже важливою част
 
 #: 02_course_information.html:40
 msgid "Each session two new Scriptures should be memorized for a quiz at the beginning of each class"
-msgstr "Кожен урок містить два нових відривки для запам‘ятовування, які необхідно перевірити перед початком наступного урока"
+msgstr "Кожен урок містить два нових уривки для запам‘ятовування, які необхідно перевірити перед початком наступного уроку"
 
 #: 02_course_information.html:42
 msgid "Each study’s content and order of Scriptures should also be memorized for the quiz"
-msgstr ""
+msgstr "Зміст кожного уроку та порядок уривків також потрібно запам'ятати для перевірки"
 
 #: 02_course_information.html:44
 msgid "Each student is required to memorize the names of all the books of the Bible"
@@ -158,11 +158,11 @@ msgstr "Кожен, хто вивчає ці уроки, має запам‘я�
 
 #: 02_course_information.html:46
 msgid "Sign up"
-msgstr ""
+msgstr "Підпишіться"
 
 #: 02_course_information.html:46
 msgid "for the Good News Emails at"
-msgstr ""
+msgstr "на \"Хороші новини з усього світу\" на"
 
 #: 02_course_information.html:46
 msgid "CAICC.net"
@@ -174,7 +174,7 @@ msgstr "на уроці 2"
 
 #: 02_course_information.html:48
 msgid "Read Ron Harding’s History of the Spread of Christianity in Modern Times"
-msgstr ""
+msgstr "прочитайте \"Історію поширення християнства в сучасному світі\", яку написав Рон Хардінг"
 
 #: 02_course_information.html:48
 msgid "KipMcKean.com"
@@ -187,11 +187,11 @@ msgstr "на уроці 8"
 #: 02_course_information.html:52
 msgid "An outline of the book of Acts will be turned in by Session 11. Each student is required to\n"
 "      memorize two points from each chapter in the book of Acts"
-msgstr ""
+msgstr "План книги Дій буде поданий на уроці 11. Коженому учню необхідно запам'ятати два пункти із кожного розділу книги Дій "
 
 #: 02_course_information.html:56
 msgid "Outline of Classes"
-msgstr ""
+msgstr "План уроків"
 
 #: 02_course_information.html:60
 msgid "Session 1"
@@ -243,7 +243,7 @@ msgstr "Урок 9"
 
 #: 02_course_information.html:102
 msgid "The Miraculous Gifts of the Holy Spirit"
-msgstr "Чудесні Дари Святого Духа"
+msgstr "Дивовижні Дари Святого Духа"
 
 #: 02_course_information.html:105
 msgid "Session 10"
@@ -287,7 +287,7 @@ msgstr "Рекомендована література"
 
 #: 02_course_information.html:133
 msgid "These books are recommended as thought-provoking and informative tools to be used in gaining insights into God’s Word. In no way are they suggested to be Biblically correct on all doctrinal points"
-msgstr "Ці книги рекомендуються для роздумів і отримання додаткової інформації для кращого розуміння Слова Божого. Ні в якому разі вони не є біблійно правильними у всіх доктринальних моментах"
+msgstr "Ці книги рекомендуються для роздумів і отримання додаткової інформації для кращого розуміння Слова Божого. Вони ні в якому разі не є біблійно правильними у всіх доктринальних моментах"
 
 #: 02_course_information.html:135
 msgid "The Five Love Languages"
@@ -313,11 +313,11 @@ msgstr "Аудіо"
 
 #: 02_course_information.html:137
 msgid "The Tale of Three Kings"
-msgstr ""
+msgstr "Казка про трьох царів"
 
 #: 02_course_information.html:137
 msgid "- Edwards -"
-msgstr "- Edwards -"
+msgstr "- Едвардз -"
 
 #: 02_course_information.html:137
 msgctxt "course_information #2"
@@ -355,11 +355,11 @@ msgstr "- МакКін"
 
 #: 02_course_information.html:142
 msgid "Overview of the Book of Acts"
-msgstr ""
+msgstr "Огляд книги Дій"
 
 #: 02_course_information.html:146
 msgid "Sermon #1"
-msgstr ""
+msgstr "Служба №1"
 
 #: 02_course_information.html:148
 msgid "Acts 1-8"
@@ -371,7 +371,7 @@ msgstr "Будівництво Великої Церкви"
 
 #: 02_course_information.html:153
 msgid "Sermon #2"
-msgstr ""
+msgstr "Служба №2"
 
 #: 02_course_information.html:155
 msgid "Acts 9-15"
@@ -379,11 +379,11 @@ msgstr "Дії 9-15"
 
 #: 02_course_information.html:157
 msgid "Forcefully Advancing The Kingdom"
-msgstr ""
+msgstr "З силою наближаємо Царство"
 
 #: 02_course_information.html:160
 msgid "Sermon #3"
-msgstr ""
+msgstr "Служба №3"
 
 #: 02_course_information.html:162
 msgid "Acts 16-21"
@@ -391,11 +391,11 @@ msgstr "Дії 16-21"
 
 #: 02_course_information.html:164
 msgid "Turning The World Upsidedown"
-msgstr ""
+msgstr "Перевернути світ догори дригом"
 
 #: 02_course_information.html:167
 msgid "Sermon #4"
-msgstr ""
+msgstr "Служба №4"
 
 #: 02_course_information.html:169
 msgid "Acts 21-28"
