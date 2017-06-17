@@ -698,7 +698,7 @@ msgstr "Дії 11:19-26"
 
 #: 06_discipleship.html:42
 msgid "The word \"Disciple\" occurs over 270 times in the New Testament"
-msgstr "Слово “учень Христа“ зустрічається в Новому Заповіті більше 270 разів"
+msgstr "Слово \"учень Христа\" зустрічається в Новому Заповіті більше 270 разів"
 
 #: 06_discipleship.html:44
 msgid "SAVED = CHRISTIAN = DISCIPLE"
