@@ -2,18 +2,18 @@
 msgid ""
 msgstr ""
 
-#: 15_book_of_acts.html:17
+#: 15_book_of_acts.html:14
 msgid "The Book of Acts"
 msgstr ""
 
-#: 15_book_of_acts.html:29
+#: 15_book_of_acts.html:26
 msgid "Home"
 msgstr ""
 
-#: 15_book_of_acts.html:38
+#: 15_book_of_acts.html:41
 msgid "Contact Us"
 msgstr ""
 
-#: 15_book_of_acts.html:49
+#: 15_book_of_acts.html:52
 msgid "2017 International Christian Churches (SoldOut Discipling Movement)"
 msgstr ""

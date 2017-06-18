@@ -2,309 +2,309 @@
 msgid ""
 msgstr ""
 
-#: 02_course_information.html:17
+#: 02_course_information.html:14
 msgid "Course Information"
 msgstr ""
 
-#: 02_course_information.html:29
+#: 02_course_information.html:26
 msgid "Home"
 msgstr ""
 
-#: 02_course_information.html:38
+#: 02_course_information.html:41
 msgid ""
 "This course should take a high priority in your day as it is geared to help you grasp a\n"
 "      firmer hold on God’s Word and to deepen your understanding of His will for your life"
 msgstr ""
 
-#: 02_course_information.html:40
+#: 02_course_information.html:43
 msgid "Each session two new Scriptures should be memorized for a quiz at the beginning of each class"
 msgstr ""
 
-#: 02_course_information.html:42
+#: 02_course_information.html:45
 msgid "Each study’s content and order of Scriptures should also be memorized for the quiz"
 msgstr ""
 
-#: 02_course_information.html:44
+#: 02_course_information.html:47
 msgid "Each student is required to memorize the names of all the books of the Bible"
 msgstr ""
 
-#: 02_course_information.html:46
+#: 02_course_information.html:49
 msgid "Sign up"
 msgstr ""
 
-#: 02_course_information.html:46
+#: 02_course_information.html:49
 msgid "for the Good News Emails at"
 msgstr ""
 
-#: 02_course_information.html:46
+#: 02_course_information.html:49
 msgid "CAICC.net"
 msgstr ""
 
-#: 02_course_information.html:46
+#: 02_course_information.html:49
 msgid "by Session 2"
 msgstr ""
 
-#: 02_course_information.html:48
+#: 02_course_information.html:51
 msgid "Read Ron Harding’s History of the Spread of Christianity in Modern Times"
 msgstr ""
 
-#: 02_course_information.html:48
+#: 02_course_information.html:51
 msgid "KipMcKean.com"
 msgstr ""
 
-#: 02_course_information.html:49
+#: 02_course_information.html:52
 msgid "by Session 8"
 msgstr ""
 
-#: 02_course_information.html:52
+#: 02_course_information.html:55
 msgid ""
 "An outline of the book of Acts will be turned in by Session 11. Each student is required to\n"
 "      memorize two points from each chapter in the book of Acts"
 msgstr ""
 
-#: 02_course_information.html:56
+#: 02_course_information.html:59
 msgid "Outline of Classes"
 msgstr ""
 
-#: 02_course_information.html:60
+#: 02_course_information.html:63
 msgid "Session 1"
 msgstr ""
 
-#: 02_course_information.html:62
+#: 02_course_information.html:65
 msgid "Introduction and Seeking God"
 msgstr ""
 
-#: 02_course_information.html:65
+#: 02_course_information.html:68
 msgid "Session 2"
 msgstr ""
 
-#: 02_course_information.html:67
+#: 02_course_information.html:70
 msgid "The Word Of God"
 msgstr ""
 
-#: 02_course_information.html:70
+#: 02_course_information.html:73
 msgid "Session 3"
 msgstr ""
 
-#: 02_course_information.html:72
+#: 02_course_information.html:75
 msgid "Discipleship"
 msgstr ""
 
-#: 02_course_information.html:75
+#: 02_course_information.html:78
 msgid "Session 4"
 msgstr ""
 
-#: 02_course_information.html:77
+#: 02_course_information.html:80
 msgid "The Coming of the Kingdom"
 msgstr ""
 
-#: 02_course_information.html:80
+#: 02_course_information.html:83
 msgid "Session 5"
 msgstr ""
 
-#: 02_course_information.html:82
+#: 02_course_information.html:85
 msgid "Light and Darkness"
 msgstr ""
 
-#: 02_course_information.html:85
+#: 02_course_information.html:88
 msgid "Session 6"
 msgstr ""
 
-#: 02_course_information.html:87
+#: 02_course_information.html:90
 msgid "New Testament Conversion"
 msgstr ""
 
-#: 02_course_information.html:90
+#: 02_course_information.html:93
 msgid "Session 7"
 msgstr ""
 
-#: 02_course_information.html:92
+#: 02_course_information.html:95
 msgid "The Cross"
 msgstr ""
 
-#: 02_course_information.html:95
+#: 02_course_information.html:98
 msgid "Session 8"
 msgstr ""
 
-#: 02_course_information.html:97
+#: 02_course_information.html:100
 msgid "The Baptism of the Holy Spirit"
 msgstr ""
 
-#: 02_course_information.html:100
+#: 02_course_information.html:103
 msgid "Session 9"
 msgstr ""
 
-#: 02_course_information.html:102
+#: 02_course_information.html:105
 msgid "The Miraculous Gifts of the Holy Spirit"
 msgstr ""
 
-#: 02_course_information.html:105
+#: 02_course_information.html:108
 msgid "Session 10"
 msgstr ""
 
-#: 02_course_information.html:107
+#: 02_course_information.html:110
 msgid "The Church"
 msgstr ""
 
-#: 02_course_information.html:110
+#: 02_course_information.html:113
 msgid "Session 11"
 msgstr ""
 
-#: 02_course_information.html:112
+#: 02_course_information.html:115
 msgid "Acts 1 - 8"
 msgstr ""
 
-#: 02_course_information.html:115
+#: 02_course_information.html:118
 msgid "Session 12"
 msgstr ""
 
-#: 02_course_information.html:117
+#: 02_course_information.html:120
 msgid "Acts 9 - 15"
 msgstr ""
 
-#: 02_course_information.html:120
+#: 02_course_information.html:123
 msgid "Session 13"
 msgstr ""
 
-#: 02_course_information.html:122
+#: 02_course_information.html:125
 msgid "Acts 16 - 21"
 msgstr ""
 
-#: 02_course_information.html:125
+#: 02_course_information.html:128
 msgid "Session 14"
 msgstr ""
 
-#: 02_course_information.html:127
+#: 02_course_information.html:130
 msgid "Acts 21 - 28"
 msgstr ""
 
-#: 02_course_information.html:132
+#: 02_course_information.html:135
 msgid "Suggested Reading"
 msgstr ""
 
-#: 02_course_information.html:133
+#: 02_course_information.html:136
 msgid "These books are recommended as thought-provoking and informative tools to be used in gaining insights into God’s Word. In no way are they suggested to be Biblically correct on all doctrinal points"
 msgstr ""
 
-#: 02_course_information.html:135
+#: 02_course_information.html:138
 msgid "The Five Love Languages"
 msgstr ""
 
-#: 02_course_information.html:135
+#: 02_course_information.html:138
 msgid "- Chapman"
 msgstr ""
 
-#: 02_course_information.html:136
+#: 02_course_information.html:139
 msgid "The Master Plan of Evangelism"
 msgstr ""
 
-#: 02_course_information.html:136
+#: 02_course_information.html:139
 msgid "- Coleman -"
 msgstr ""
 
-#: 02_course_information.html:136
+#: 02_course_information.html:139
 msgctxt "course_information #1"
 msgid "Audio"
 msgstr ""
 
-#: 02_course_information.html:137
+#: 02_course_information.html:140
 msgid "The Tale of Three Kings"
 msgstr ""
 
-#: 02_course_information.html:137
+#: 02_course_information.html:140
 msgid "- Edwards -"
 msgstr ""
 
-#: 02_course_information.html:137
+#: 02_course_information.html:140
 msgctxt "course_information #2"
 msgid "Audio"
 msgstr ""
 
-#: 02_course_information.html:138
+#: 02_course_information.html:141
 msgid "Voice in the Wind"
 msgstr ""
 
-#: 02_course_information.html:138
+#: 02_course_information.html:141
 msgid "- Rivers -"
 msgstr ""
 
-#: 02_course_information.html:138
+#: 02_course_information.html:141
 msgctxt "course_information #3"
 msgid "Audio"
 msgstr ""
 
-#: 02_course_information.html:139
+#: 02_course_information.html:142
 msgid "The Disciplined Life"
 msgstr ""
 
-#: 02_course_information.html:139
+#: 02_course_information.html:142
 msgid "- Taylor"
 msgstr ""
 
-#: 02_course_information.html:140
+#: 02_course_information.html:143
 msgid "Elevate"
 msgstr ""
 
-#: 02_course_information.html:140
+#: 02_course_information.html:143
 msgid "- McKean"
 msgstr ""
 
-#: 02_course_information.html:142
+#: 02_course_information.html:145
 msgid "Overview of the Book of Acts"
 msgstr ""
 
-#: 02_course_information.html:146
+#: 02_course_information.html:149
 msgid "Sermon #1"
 msgstr ""
 
-#: 02_course_information.html:148
+#: 02_course_information.html:151
 msgid "Acts 1-8"
 msgstr ""
 
-#: 02_course_information.html:150
+#: 02_course_information.html:153
 msgid "Building A Great Church"
 msgstr ""
 
-#: 02_course_information.html:153
+#: 02_course_information.html:156
 msgid "Sermon #2"
 msgstr ""
 
-#: 02_course_information.html:155
+#: 02_course_information.html:158
 msgid "Acts 9-15"
 msgstr ""
 
-#: 02_course_information.html:157
+#: 02_course_information.html:160
 msgid "Forcefully Advancing The Kingdom"
 msgstr ""
 
-#: 02_course_information.html:160
+#: 02_course_information.html:163
 msgid "Sermon #3"
 msgstr ""
 
-#: 02_course_information.html:162
+#: 02_course_information.html:165
 msgid "Acts 16-21"
 msgstr ""
 
-#: 02_course_information.html:164
+#: 02_course_information.html:167
 msgid "Turning The World Upsidedown"
 msgstr ""
 
-#: 02_course_information.html:167
+#: 02_course_information.html:170
 msgid "Sermon #4"
 msgstr ""
 
-#: 02_course_information.html:169
+#: 02_course_information.html:172
 msgid "Acts 21-28"
 msgstr ""
 
-#: 02_course_information.html:171
+#: 02_course_information.html:174
 msgid "Evangelizing The World In A Generation"
 msgstr ""
 
-#: 02_course_information.html:180
+#: 02_course_information.html:183
 msgid "Contact Us"
 msgstr ""
 
-#: 02_course_information.html:191
+#: 02_course_information.html:194
 msgid "2017 International Christian Churches (SoldOut Discipling Movement)"
 msgstr ""

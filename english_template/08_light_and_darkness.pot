@@ -2,530 +2,530 @@
 msgid ""
 msgstr ""
 
-#: 08_light_and_darkness.html:17
+#: 08_light_and_darkness.html:14
 msgid "Light and Darkness"
 msgstr ""
 
-#: 08_light_and_darkness.html:29
+#: 08_light_and_darkness.html:26
 msgid "Home"
 msgstr ""
 
-#: 08_light_and_darkness.html:36
+#: 08_light_and_darkness.html:39
 msgid "It is often helpful to begin this study by constructing a \"spiritual timeline\" with the person whom you are helping to become a disciple"
 msgstr ""
 
-#: 08_light_and_darkness.html:39
+#: 08_light_and_darkness.html:42
 msgctxt "light_and_darkness #1"
 msgid "Introduction:"
 msgstr ""
 
-#: 08_light_and_darkness.html:39
+#: 08_light_and_darkness.html:42
 msgid "1 Peter 2:9-10"
 msgstr ""
 
-#: 08_light_and_darkness.html:44
+#: 08_light_and_darkness.html:47
 msgctxt "light_and_darkness #1"
 msgid "Darkness"
 msgstr ""
 
-#: 08_light_and_darkness.html:44
+#: 08_light_and_darkness.html:47
 msgid "Not a people of God"
 msgstr ""
 
-#: 08_light_and_darkness.html:44
+#: 08_light_and_darkness.html:47
 msgid "No Mercy"
 msgstr ""
 
-#: 08_light_and_darkness.html:46
+#: 08_light_and_darkness.html:49
 msgctxt "light_and_darkness #1"
 msgid "Light"
 msgstr ""
 
-#: 08_light_and_darkness.html:46
+#: 08_light_and_darkness.html:49
 msgid "People of God"
 msgstr ""
 
-#: 08_light_and_darkness.html:46
+#: 08_light_and_darkness.html:49
 msgid "Mercy"
 msgstr ""
 
-#: 08_light_and_darkness.html:50
+#: 08_light_and_darkness.html:53
 msgid "Lost"
 msgstr ""
 
-#: 08_light_and_darkness.html:50
+#: 08_light_and_darkness.html:53
 msgid "Not a Christian"
 msgstr ""
 
-#: 08_light_and_darkness.html:50
+#: 08_light_and_darkness.html:53
 msgid "Not a Disciple"
 msgstr ""
 
-#: 08_light_and_darkness.html:52
+#: 08_light_and_darkness.html:55
 msgid "Saved"
 msgstr ""
 
-#: 08_light_and_darkness.html:52
+#: 08_light_and_darkness.html:55
 msgctxt "light_and_darkness #1"
 msgid "Christian"
 msgstr ""
 
-#: 08_light_and_darkness.html:52
+#: 08_light_and_darkness.html:55
 msgctxt "light_and_darkness #1"
 msgid "Disciple"
 msgstr ""
 
-#: 08_light_and_darkness.html:58
+#: 08_light_and_darkness.html:61
 msgid "Every person is either in the darkness or the light.  There is no twilight zone"
 msgstr ""
 
-#: 08_light_and_darkness.html:59
+#: 08_light_and_darkness.html:62
 msgid "Where are you?"
 msgstr ""
 
-#: 08_light_and_darkness.html:64
+#: 08_light_and_darkness.html:67
 msgctxt "light_and_darkness #2"
 msgid "Darkness"
 msgstr ""
 
-#: 08_light_and_darkness.html:67
+#: 08_light_and_darkness.html:70
 msgctxt "light_and_darkness #1"
 msgid "Isaiah 59:1-2"
 msgstr ""
 
-#: 08_light_and_darkness.html:70
+#: 08_light_and_darkness.html:73
 msgid "Sin separates us from God"
 msgstr ""
 
-#: 08_light_and_darkness.html:75
+#: 08_light_and_darkness.html:78
 msgid "WALL"
 msgstr ""
 
-#: 08_light_and_darkness.html:80
+#: 08_light_and_darkness.html:83
 msgctxt "light_and_darkness #1"
 msgid "DARKNESS"
 msgstr ""
 
-#: 08_light_and_darkness.html:80
+#: 08_light_and_darkness.html:83
 msgid "MAN"
 msgstr ""
 
-#: 08_light_and_darkness.html:87
+#: 08_light_and_darkness.html:90
 msgctxt "light_and_darkness #1"
 msgid "LIGHT"
 msgstr ""
 
-#: 08_light_and_darkness.html:87
+#: 08_light_and_darkness.html:90
 msgctxt "light_and_darkness #1"
 msgid "GOD"
 msgstr ""
 
-#: 08_light_and_darkness.html:93
+#: 08_light_and_darkness.html:96
 msgctxt "light_and_darkness #1"
 msgid "SIN"
 msgstr ""
 
-#: 08_light_and_darkness.html:98
+#: 08_light_and_darkness.html:101
 msgid "In order for a man to have a relationship with God the wall must be broken down - sin must be forgiven"
 msgstr ""
 
-#: 08_light_and_darkness.html:99
+#: 08_light_and_darkness.html:102
 msgid "The point in time that sin is forgiven is the point in time a person is saved"
 msgstr ""
 
-#: 08_light_and_darkness.html:103
+#: 08_light_and_darkness.html:106
 msgid "Romans 3:23-25"
 msgstr ""
 
-#: 08_light_and_darkness.html:106
+#: 08_light_and_darkness.html:109
 msgid "Who has sinned?  Everyone!"
 msgstr ""
 
-#: 08_light_and_darkness.html:110
+#: 08_light_and_darkness.html:113
 msgctxt "light_and_darkness #2"
 msgid "SIN"
 msgstr ""
 
-#: 08_light_and_darkness.html:114
+#: 08_light_and_darkness.html:117
 msgctxt "light_and_darkness #3"
 msgid "SIN"
 msgstr ""
 
-#: 08_light_and_darkness.html:118
+#: 08_light_and_darkness.html:121
 msgctxt "light_and_darkness #4"
 msgid "SIN"
 msgstr ""
 
-#: 08_light_and_darkness.html:123
+#: 08_light_and_darkness.html:126
 msgid "Person A"
 msgstr ""
 
-#: 08_light_and_darkness.html:126
+#: 08_light_and_darkness.html:129
 msgid "Person B"
 msgstr ""
 
-#: 08_light_and_darkness.html:129
+#: 08_light_and_darkness.html:132
 msgid "Person C"
 msgstr ""
 
-#: 08_light_and_darkness.html:134
+#: 08_light_and_darkness.html:137
 msgid "Who is further away from God:  a person who sins a little, or a person who sins a lot?  All are equal, all lost.  Therefore a good moral life does not save you.  You cannot earn your salvation by your good deeds"
 msgstr ""
 
-#: 08_light_and_darkness.html:135
+#: 08_light_and_darkness.html:138
 msgid "Faith in the blood of Jesus saves you"
 msgstr ""
 
-#: 08_light_and_darkness.html:135
+#: 08_light_and_darkness.html:138
 msgid "v. 25"
 msgstr ""
 
-#: 08_light_and_darkness.html:139
+#: 08_light_and_darkness.html:142
 msgid "What is Sin?"
 msgstr ""
 
-#: 08_light_and_darkness.html:141
+#: 08_light_and_darkness.html:144
 msgid "Galatians 5:19-21"
 msgstr ""
 
-#: 08_light_and_darkness.html:141
+#: 08_light_and_darkness.html:144
 msgctxt "light_and_darkness #1"
 msgid "(sins of commission)"
 msgstr ""
 
-#: 08_light_and_darkness.html:142
+#: 08_light_and_darkness.html:145
 msgid "2 Timothy 3:1-5"
 msgstr ""
 
-#: 08_light_and_darkness.html:142
+#: 08_light_and_darkness.html:145
 msgctxt "light_and_darkness #2"
 msgid "(sins of commission)"
 msgstr ""
 
-#: 08_light_and_darkness.html:143
+#: 08_light_and_darkness.html:146
 msgid "James 4:17"
 msgstr ""
 
-#: 08_light_and_darkness.html:143
+#: 08_light_and_darkness.html:146
 msgid "(sins of omission)"
 msgstr ""
 
-#: 08_light_and_darkness.html:147
+#: 08_light_and_darkness.html:150
 msgid "What is the eternal consequence of sin?"
 msgstr ""
 
-#: 08_light_and_darkness.html:147
+#: 08_light_and_darkness.html:150
 msgid "Romans 6:23"
 msgstr ""
 
-#: 08_light_and_darkness.html:152
+#: 08_light_and_darkness.html:155
 msgid "WAGES OF SIN"
 msgstr ""
 
-#: 08_light_and_darkness.html:153
+#: 08_light_and_darkness.html:156
 msgid "GIFT OF GOD"
 msgstr ""
 
-#: 08_light_and_darkness.html:156
+#: 08_light_and_darkness.html:159
 msgid "Death"
 msgstr ""
 
-#: 08_light_and_darkness.html:156
+#: 08_light_and_darkness.html:159
 msgid "Hell"
 msgstr ""
 
-#: 08_light_and_darkness.html:156
+#: 08_light_and_darkness.html:159
 msgctxt "light_and_darkness #3"
 msgid "Darkness"
 msgstr ""
 
-#: 08_light_and_darkness.html:159
+#: 08_light_and_darkness.html:162
 msgid "Eternal Life"
 msgstr ""
 
-#: 08_light_and_darkness.html:159
+#: 08_light_and_darkness.html:162
 msgid "Heaven"
 msgstr ""
 
-#: 08_light_and_darkness.html:159
+#: 08_light_and_darkness.html:162
 msgctxt "light_and_darkness #2"
 msgid "Light"
 msgstr ""
 
-#: 08_light_and_darkness.html:168
+#: 08_light_and_darkness.html:171
 msgctxt "light_and_darkness #3"
 msgid "Light"
 msgstr ""
 
-#: 08_light_and_darkness.html:170
+#: 08_light_and_darkness.html:173
 msgctxt "light_and_darkness #1"
 msgid "John 3:1-7"
 msgstr ""
 
-#: 08_light_and_darkness.html:170
+#: 08_light_and_darkness.html:173
 msgid "Born again (v. 3), born of water and Spirit (v. 5), born again. (v. 7)"
 msgstr ""
 
-#: 08_light_and_darkness.html:171
+#: 08_light_and_darkness.html:174
 msgid "Personal decision as an adult"
 msgstr ""
 
-#: 08_light_and_darkness.html:173
+#: 08_light_and_darkness.html:176
 msgid "What message must one believe to be in the light (to be saved)?"
 msgstr ""
 
-#: 08_light_and_darkness.html:173
+#: 08_light_and_darkness.html:176
 msgid "Acts 2:22-24"
 msgstr ""
 
-#: 08_light_and_darkness.html:175
+#: 08_light_and_darkness.html:178
 msgid "Jesus is from God"
 msgstr ""
 
-#: 08_light_and_darkness.html:175
+#: 08_light_and_darkness.html:178
 msgid "v. 22"
 msgstr ""
 
-#: 08_light_and_darkness.html:176
+#: 08_light_and_darkness.html:179
 msgid "Jesus raised physically from the dead"
 msgstr ""
 
-#: 08_light_and_darkness.html:176
+#: 08_light_and_darkness.html:179
 msgctxt "light_and_darkness #1"
 msgid "v. 24"
 msgstr ""
 
-#: 08_light_and_darkness.html:177
+#: 08_light_and_darkness.html:180
 msgid "Everyone is responsible for the crucifixion of Christ"
 msgstr ""
 
-#: 08_light_and_darkness.html:177
+#: 08_light_and_darkness.html:180
 msgctxt "light_and_darkness #1"
 msgid "v. 23"
 msgstr ""
 
-#: 08_light_and_darkness.html:177
+#: 08_light_and_darkness.html:180
 msgid "All have sinned."
 msgstr ""
 
-#: 08_light_and_darkness.html:177
+#: 08_light_and_darkness.html:180
 msgctxt "light_and_darkness #1"
 msgid "Romans 3:23"
 msgstr ""
 
-#: 08_light_and_darkness.html:181
+#: 08_light_and_darkness.html:184
 msgid "Response of people:"
 msgstr ""
 
-#: 08_light_and_darkness.html:181
+#: 08_light_and_darkness.html:184
 msgid "Acts 2:36-37"
 msgstr ""
 
-#: 08_light_and_darkness.html:183
+#: 08_light_and_darkness.html:186
 msgid "Cut to the heart"
 msgstr ""
 
-#: 08_light_and_darkness.html:184
+#: 08_light_and_darkness.html:187
 msgid "What shall we do?"
 msgstr ""
 
-#: 08_light_and_darkness.html:188
+#: 08_light_and_darkness.html:191
 msgid "Once the people believed, what did they do?"
 msgstr ""
 
-#: 08_light_and_darkness.html:188
+#: 08_light_and_darkness.html:191
 msgid "Acts 2:38-42"
 msgstr ""
 
-#: 08_light_and_darkness.html:190
+#: 08_light_and_darkness.html:193
 msgid "Repent (Greek = to turn)"
 msgstr ""
 
-#: 08_light_and_darkness.html:192
+#: 08_light_and_darkness.html:195
 msgid "Be baptized (Greek = to be immersed)"
 msgstr ""
 
-#: 08_light_and_darkness.html:194
+#: 08_light_and_darkness.html:197
 msgid "Sin forgiven. Therefore this is the point in time a person is saved"
 msgstr ""
 
-#: 08_light_and_darkness.html:195
+#: 08_light_and_darkness.html:198
 msgid "Holy Spirit given to each who responded - power to live as God commands"
 msgstr ""
 
-#: 08_light_and_darkness.html:199
+#: 08_light_and_darkness.html:202
 msgid "Baptism:"
 msgstr ""
 
-#: 08_light_and_darkness.html:199
+#: 08_light_and_darkness.html:202
 msgid "Romans 6:1-4"
 msgstr ""
 
-#: 08_light_and_darkness.html:200
+#: 08_light_and_darkness.html:203
 msgid "Baptism is the sharing (a participation) in the death, burial and resurrection of Christ. (More than just a symbol)"
 msgstr ""
 
-#: 08_light_and_darkness.html:208
+#: 08_light_and_darkness.html:211
 msgid "JESUS"
 msgstr ""
 
-#: 08_light_and_darkness.html:210
+#: 08_light_and_darkness.html:213
 msgid "DIED"
 msgstr ""
 
-#: 08_light_and_darkness.html:212
+#: 08_light_and_darkness.html:215
 msgid "RESURRECTED"
 msgstr ""
 
-#: 08_light_and_darkness.html:218
+#: 08_light_and_darkness.html:221
 msgid "BURIED"
 msgstr ""
 
-#: 08_light_and_darkness.html:226
+#: 08_light_and_darkness.html:229
 msgid "OLD LIFE"
 msgstr ""
 
-#: 08_light_and_darkness.html:228
+#: 08_light_and_darkness.html:231
 msgid "\"DIED WITH CHRIST\""
 msgstr ""
 
-#: 08_light_and_darkness.html:230
+#: 08_light_and_darkness.html:233
 msgid "\"RAISED TO A NEW LIFE\""
 msgstr ""
 
-#: 08_light_and_darkness.html:236
+#: 08_light_and_darkness.html:239
 msgid "\"BURIED WITH CHRIST\""
 msgstr ""
 
-#: 08_light_and_darkness.html:245
+#: 08_light_and_darkness.html:248
 msgctxt "light_and_darkness #2"
 msgid "DARKNESS"
 msgstr ""
 
-#: 08_light_and_darkness.html:246
+#: 08_light_and_darkness.html:249
 msgctxt "light_and_darkness #2"
 msgid "LIGHT"
 msgstr ""
 
-#: 08_light_and_darkness.html:249
+#: 08_light_and_darkness.html:252
 msgid "Sin"
 msgstr ""
 
-#: 08_light_and_darkness.html:249
+#: 08_light_and_darkness.html:252
 msgid "Separates us from God"
 msgstr ""
 
-#: 08_light_and_darkness.html:252
+#: 08_light_and_darkness.html:255
 msgctxt "light_and_darkness #1"
 msgid "Acts 2:38"
 msgstr ""
 
-#: 08_light_and_darkness.html:253
+#: 08_light_and_darkness.html:256
 msgid "Sin is Forgiven"
 msgstr ""
 
-#: 08_light_and_darkness.html:257
+#: 08_light_and_darkness.html:260
 msgid "Born Again of Water and Spirit"
 msgstr ""
 
-#: 08_light_and_darkness.html:257
+#: 08_light_and_darkness.html:260
 msgctxt "light_and_darkness #1"
 msgid "John 3:5"
 msgstr ""
 
-#: 08_light_and_darkness.html:261
+#: 08_light_and_darkness.html:264
 msgctxt "light_and_darkness #2"
 msgid "Acts 2:38"
 msgstr ""
 
-#: 08_light_and_darkness.html:262
+#: 08_light_and_darkness.html:265
 msgid "Water = Baptism"
 msgstr ""
 
-#: 08_light_and_darkness.html:262
+#: 08_light_and_darkness.html:265
 msgid "Spirit = Received at Baptism"
 msgstr ""
 
-#: 08_light_and_darkness.html:267
+#: 08_light_and_darkness.html:270
 msgid "Romans 3:25"
 msgstr ""
 
-#: 08_light_and_darkness.html:268
+#: 08_light_and_darkness.html:271
 msgid "Faith in the Blood of Jesus Saves Us"
 msgstr ""
 
-#: 08_light_and_darkness.html:270
+#: 08_light_and_darkness.html:273
 msgid "Jesus shed His blood when He died.  In baptism we share by faith in the death, burial and resurrection of Jesus.  Thus we contact the blood of baptism and are forgiven of our sins and SAVED!"
 msgstr ""
 
-#: 08_light_and_darkness.html:277
+#: 08_light_and_darkness.html:280
 msgid "Traditions/False Doctrines -"
 msgstr ""
 
-#: 08_light_and_darkness.html:277
+#: 08_light_and_darkness.html:280
 msgctxt "light_and_darkness #1"
 msgid "Matthew 15:6-9"
 msgstr ""
 
-#: 08_light_and_darkness.html:280
+#: 08_light_and_darkness.html:283
 msgid "Infant Baptism"
 msgstr ""
 
-#: 08_light_and_darkness.html:282
+#: 08_light_and_darkness.html:285
 msgid "Personal faith is needed"
 msgstr ""
 
-#: 08_light_and_darkness.html:282
+#: 08_light_and_darkness.html:285
 msgctxt "light_and_darkness #1"
 msgid "Colossians 2:12"
 msgstr ""
 
-#: 08_light_and_darkness.html:283
+#: 08_light_and_darkness.html:286
 msgid "Began approximately third century A.D."
 msgstr ""
 
-#: 08_light_and_darkness.html:285
+#: 08_light_and_darkness.html:288
 msgid "Original sin"
 msgstr ""
 
-#: 08_light_and_darkness.html:287
+#: 08_light_and_darkness.html:290
 msgctxt "light_and_darkness #1"
 msgid "Ezekiel 18:20"
 msgstr ""
 
-#: 08_light_and_darkness.html:288
+#: 08_light_and_darkness.html:291
 msgid "Became \"church doctrine\" in 549 A.D."
 msgstr ""
 
-#: 08_light_and_darkness.html:294
+#: 08_light_and_darkness.html:297
 msgid "Praying Jesus into your heart"
 msgstr ""
 
-#: 08_light_and_darkness.html:296
+#: 08_light_and_darkness.html:299
 msgctxt "light_and_darkness #1"
 msgid "Revelation 3:20"
 msgstr ""
 
-#: 08_light_and_darkness.html:296
+#: 08_light_and_darkness.html:299
 msgid "- taken out of context.  This verse is addressed to Christians"
 msgstr ""
 
-#: 08_light_and_darkness.html:297
+#: 08_light_and_darkness.html:300
 msgid "Began in the early 1800s in America"
 msgstr ""
 
-#: 08_light_and_darkness.html:303
+#: 08_light_and_darkness.html:306
 msgid "Sinful nature"
 msgstr ""
 
-#: 08_light_and_darkness.html:304
+#: 08_light_and_darkness.html:307
 msgid "Suggest to the individual with whom you are studying that he or she write out and be specific about various sins that they have committed during their life.  This is so they might see the gravity and magnitude of their sin.  This is confidential and should only be shared with those who are studying with the person"
 msgstr ""
 
-#: 08_light_and_darkness.html:310
+#: 08_light_and_darkness.html:313
 msgid "Contact Us"
 msgstr ""
 
-#: 08_light_and_darkness.html:321
+#: 08_light_and_darkness.html:324
 msgid "2017 International Christian Churches (SoldOut Discipling Movement)"
 msgstr ""

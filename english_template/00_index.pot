@@ -2,102 +2,102 @@
 msgid ""
 msgstr ""
 
-#: 00_index.html:17
+#: 00_index.html:14
 msgid "First Principles"
 msgstr ""
 
-#: 00_index.html:29
+#: 00_index.html:26
 msgid "Home"
 msgstr ""
 
-#: 00_index.html:37
+#: 00_index.html:40
 msgid "Introduction"
 msgstr ""
 
-#: 00_index.html:38
+#: 00_index.html:41
 msgid "Course Information"
 msgstr ""
 
-#: 00_index.html:39
+#: 00_index.html:42
 msgid "The Book of John"
 msgstr ""
 
-#: 00_index.html:40
+#: 00_index.html:43
 msgid "Seeking God"
 msgstr ""
 
-#: 00_index.html:41
+#: 00_index.html:44
 msgid "The Word of God"
 msgstr ""
 
-#: 00_index.html:42
+#: 00_index.html:45
 msgid "Discipleship"
 msgstr ""
 
-#: 00_index.html:43
+#: 00_index.html:46
 msgid "The Coming of the Kingdom"
 msgstr ""
 
-#: 00_index.html:44
+#: 00_index.html:47
 msgid "Light and Darkness"
 msgstr ""
 
-#: 00_index.html:45
+#: 00_index.html:48
 msgid "New Testament Conversion"
 msgstr ""
 
-#: 00_index.html:46
+#: 00_index.html:49
 msgid "The Cross"
 msgstr ""
 
-#: 00_index.html:47
+#: 00_index.html:50
 msgid "The Medical Account of the Crucifixion of Christ"
 msgstr ""
 
-#: 00_index.html:48
+#: 00_index.html:51
 msgid "Baptism with the Holy Spirit"
 msgstr ""
 
-#: 00_index.html:49
+#: 00_index.html:52
 msgid "Miraculous Gifts of the Holy Spirit"
 msgstr ""
 
-#: 00_index.html:50
+#: 00_index.html:53
 msgid "The Church"
 msgstr ""
 
-#: 00_index.html:51
+#: 00_index.html:54
 msgid "The Book of Acts"
 msgstr ""
 
-#: 00_index.html:52
+#: 00_index.html:55
 msgid "After Baptism, Now What?"
 msgstr ""
 
-#: 00_index.html:53
+#: 00_index.html:56
 msgid "Christ Is Your Life"
 msgstr ""
 
-#: 00_index.html:54
+#: 00_index.html:57
 msgid "Best Friends of All Time"
 msgstr ""
 
-#: 00_index.html:55
+#: 00_index.html:58
 msgid "The Mission"
 msgstr ""
 
-#: 00_index.html:56
+#: 00_index.html:59
 msgid "Persecution"
 msgstr ""
 
-#: 00_index.html:57
+#: 00_index.html:60
 msgid "Memory Scriptures"
 msgstr ""
 
-#: 00_index.html:63
+#: 00_index.html:66
 msgid "Contact Us"
 msgstr ""
 
-#: 00_index.html:74
+#: 00_index.html:77
 msgid "2017 International Christian Churches (SoldOut Discipling Movement)"
 msgstr ""

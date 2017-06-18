@@ -2,301 +2,301 @@
 msgid ""
 msgstr ""
 
-#: 20_persecution.html:17
+#: 20_persecution.html:14
 msgid "Persecution"
 msgstr ""
 
-#: 20_persecution.html:29
+#: 20_persecution.html:26
 msgid "Home"
 msgstr ""
 
-#: 20_persecution.html:36
+#: 20_persecution.html:39
 msgid "Introduction"
 msgstr ""
 
-#: 20_persecution.html:37
+#: 20_persecution.html:40
 msgid "2 Timothy 3:12"
 msgstr ""
 
-#: 20_persecution.html:38
+#: 20_persecution.html:41
 msgid "Everyone who wants to live as a disciple will be persecuted"
 msgstr ""
 
-#: 20_persecution.html:43
+#: 20_persecution.html:46
 msgid "Jesus was persecuted"
 msgstr ""
 
-#: 20_persecution.html:48
+#: 20_persecution.html:51
 msgid "Family"
 msgstr ""
 
-#: 20_persecution.html:54
+#: 20_persecution.html:57
 msgid "Mark 3:20-21"
 msgstr ""
 
-#: 20_persecution.html:57
+#: 20_persecution.html:60
 msgid "Jesus' family thought that he was out of His mind (brain washed; mind-control)"
 msgstr ""
 
-#: 20_persecution.html:62
+#: 20_persecution.html:65
 msgid "Mark 3:31-35"
 msgstr ""
 
-#: 20_persecution.html:65
+#: 20_persecution.html:68
 msgid "Jesus prioritized His spiritual family above His physical family"
 msgstr ""
 
-#: 20_persecution.html:70
+#: 20_persecution.html:73
 msgid "Acts 1:12-14"
 msgstr ""
 
-#: 20_persecution.html:73
+#: 20_persecution.html:76
 msgid "This conviction produces conflict.  However, after His resurrection and ascension, His mother and brothers were disciples"
 msgstr ""
 
-#: 20_persecution.html:79
+#: 20_persecution.html:82
 msgid "Gossip and slander"
 msgstr ""
 
-#: 20_persecution.html:85
+#: 20_persecution.html:88
 msgid "John 7:12-13"
 msgstr ""
 
-#: 20_persecution.html:88
+#: 20_persecution.html:91
 msgid "Jesus was accused of deceiving people"
 msgstr ""
 
-#: 20_persecution.html:93
+#: 20_persecution.html:96
 msgctxt "persecution #1"
 msgid "John 10:19-21"
 msgstr ""
 
-#: 20_persecution.html:96
+#: 20_persecution.html:99
 msgid "The Jews — religious people — intensely persecuted Jesus through name-calling and character assassination.  Jesus' teaching always divided His listeners"
 msgstr ""
 
-#: 20_persecution.html:102
+#: 20_persecution.html:105
 msgid "Scope of persecution"
 msgstr ""
 
-#: 20_persecution.html:108
+#: 20_persecution.html:111
 msgid "Luke 23:1-3"
 msgstr ""
 
-#: 20_persecution.html:111
+#: 20_persecution.html:114
 msgid "Jesus is condemned to a death by crucifixion through half-truths"
 msgstr ""
 
-#: 20_persecution.html:114
+#: 20_persecution.html:117
 msgid "Jesus — who was perfect — was falsely accused and misunderstood by His family and killed by religious leaders.  What do you think will happen to you if you follow Jesus?"
 msgstr ""
 
-#: 20_persecution.html:122
+#: 20_persecution.html:125
 msgid "The First Century Church was persecuted"
 msgstr ""
 
-#: 20_persecution.html:128
+#: 20_persecution.html:131
 msgid "Acts 5:17-18, 38-42"
 msgstr ""
 
-#: 20_persecution.html:133
+#: 20_persecution.html:136
 msgid "The Jewish leadership arrested the apostles for preaching the Word, because of jealousy"
 msgstr ""
 
-#: 20_persecution.html:136
+#: 20_persecution.html:139
 msgid "Those who persecuted the Christians thought that they were doing this for God, though in fact they were fighting against Him"
 msgstr ""
 
-#: 20_persecution.html:139
+#: 20_persecution.html:142
 msgid "The apostles suffered physical mistreatment"
 msgstr ""
 
-#: 20_persecution.html:142
+#: 20_persecution.html:145
 msgid "Persecution did not stop the disciples from daily proclamation"
 msgstr ""
 
-#: 20_persecution.html:149
+#: 20_persecution.html:152
 msgid "Acts 28:21-22"
 msgstr ""
 
-#: 20_persecution.html:154
+#: 20_persecution.html:157
 msgid "Everywhere, the church was highly controversial"
 msgstr ""
 
-#: 20_persecution.html:157
+#: 20_persecution.html:160
 msgid "The church was called a \"sect\" (cult)"
 msgstr ""
 
-#: 20_persecution.html:160
+#: 20_persecution.html:163
 msgid "Since the International Christian Churches have the goal of imitating Jesus and the first century church, what will happen to us?  If a church is not being persecuted, what does that imply?"
 msgstr ""
 
-#: 20_persecution.html:168
+#: 20_persecution.html:171
 msgid "Causes of persecution.  "
 msgstr ""
 
-#: 20_persecution.html:170
+#: 20_persecution.html:173
 msgctxt "persecution #1"
 msgid "1 Timothy 4:16"
 msgstr ""
 
-#: 20_persecution.html:172
+#: 20_persecution.html:175
 msgid "— Life and Doctrine"
 msgstr ""
 
-#: 20_persecution.html:177
+#: 20_persecution.html:180
 msgid "Life"
 msgstr ""
 
-#: 20_persecution.html:183
+#: 20_persecution.html:186
 msgid "1 Peter 4:3-4"
 msgstr ""
 
-#: 20_persecution.html:186
+#: 20_persecution.html:189
 msgid "The world feels condemned by those who no longer participate in its sin"
 msgstr ""
 
-#: 20_persecution.html:191
+#: 20_persecution.html:194
 msgid "1 Peter 4:12-16"
 msgstr ""
 
-#: 20_persecution.html:194
+#: 20_persecution.html:197
 msgid "Do not be surprised or ashamed by persecution, but be sure you are persecuted for righteousness' sake"
 msgstr ""
 
-#: 20_persecution.html:200
+#: 20_persecution.html:203
 msgctxt "persecution #1"
 msgid "Doctrine"
 msgstr ""
 
-#: 20_persecution.html:204
+#: 20_persecution.html:207
 msgid "Preaching the Word —"
 msgstr ""
 
-#: 20_persecution.html:207
+#: 20_persecution.html:210
 msgid "John 15:18-20, 16:1-4"
 msgstr ""
 
-#: 20_persecution.html:212
+#: 20_persecution.html:215
 msgid "Jesus warns that persecution comes to those who preach the same message as Him"
 msgstr ""
 
-#: 20_persecution.html:215
+#: 20_persecution.html:218
 msgid "Jesus warns that the price of hatred is certain, and perhaps even death"
 msgstr ""
 
-#: 20_persecution.html:220
+#: 20_persecution.html:223
 msgid "Narrow Road of Salvation —"
 msgstr ""
 
-#: 20_persecution.html:223
+#: 20_persecution.html:226
 msgid "Matthew 7:13-14"
 msgstr ""
 
-#: 20_persecution.html:230
+#: 20_persecution.html:233
 msgid "Acts 4:12"
 msgstr ""
 
-#: 20_persecution.html:233
+#: 20_persecution.html:236
 msgid "Only an individual who believes in Jesus is saved.  (This truth condemns atheists, polytheists, Jews, Muslims, Hindus, Buddhists, etc...)"
 msgstr ""
 
-#: 20_persecution.html:238
+#: 20_persecution.html:241
 msgid "Acts 2:36-38"
 msgstr ""
 
-#: 20_persecution.html:241
+#: 20_persecution.html:244
 msgid "Only an adult who is water baptized for the forgiveness of sins is saved.  (This truth condemns those who practice infant baptism and \"praying Jesus into your heart\" as doctrines of salvation)"
 msgstr ""
 
-#: 20_persecution.html:246
+#: 20_persecution.html:249
 msgctxt "persecution #1"
 msgid "Matthew 28:19-20"
 msgstr ""
 
-#: 20_persecution.html:249
+#: 20_persecution.html:252
 msgid "Only the person who makes the decision to be baptized as a disciple is saved.  (This truth condemns those who may baptize for remission of sins, but are not made into disciples before and after baptism)"
 msgstr ""
 
-#: 20_persecution.html:252
+#: 20_persecution.html:255
 msgid "We do not condemn the lost; they are condemned already.  However, when the lost are confronted doctrinally about their condition before God, they will repent, run or persecute"
 msgstr ""
 
-#: 20_persecution.html:257
+#: 20_persecution.html:260
 msgid "Doctrine of discipling"
 msgstr ""
 
-#: 20_persecution.html:262
+#: 20_persecution.html:265
 msgctxt "persecution #2"
 msgid "Matthew 28:19-20"
 msgstr ""
 
-#: 20_persecution.html:265
+#: 20_persecution.html:268
 msgid "Discipling, calling people to obey the Word of God, is often viewed by the world as controlling"
 msgstr ""
 
-#: 20_persecution.html:275
+#: 20_persecution.html:278
 msgid "Our attitude about persecution"
 msgstr ""
 
-#: 20_persecution.html:281
+#: 20_persecution.html:284
 msgid "Matthew 5:10-12"
 msgstr ""
 
-#: 20_persecution.html:286
+#: 20_persecution.html:289
 msgid "Do not fear persecution.  Do not care what men think about you, only God"
 msgstr ""
 
-#: 20_persecution.html:289
+#: 20_persecution.html:292
 msgid "Rejoice!  You are not alone, since they persecuted both Jesus and the prophets"
 msgstr ""
 
-#: 20_persecution.html:296
+#: 20_persecution.html:299
 msgid "Ephesians 6:10-18"
 msgstr ""
 
-#: 20_persecution.html:301
+#: 20_persecution.html:304
 msgid "Satan is behind all persecution. Only God and His spiritual armor will give you the victory over the world"
 msgstr ""
 
-#: 20_persecution.html:309
+#: 20_persecution.html:312
 msgctxt "persecution #1"
 msgid "Conclusion"
 msgstr ""
 
-#: 20_persecution.html:311
+#: 20_persecution.html:314
 msgid "— The International Christian Churches are a controversial Christian movement.  Some call us a cult and accuse us of both brain-washing and mind-control.  Many false rumors and half-truths have been spread.  Newspaper articles, television shows and especially the internet have slandered the ICC, and yet, the facts are that lives have been radically changed, marriages have been healed, drug addicts have been freed, the poor have been fed and cared for, and this rapidly growing movement — The SoldOut Movement — is spreading around the world in this generation!  Just like the first century!"
 msgstr ""
 
-#: 20_persecution.html:315
+#: 20_persecution.html:318
 msgid "* The Persecution study has been proven to be most helpful after the Discipleship study"
 msgstr ""
 
-#: 20_persecution.html:317
+#: 20_persecution.html:320
 msgid "See"
 msgstr ""
 
-#: 20_persecution.html:317
+#: 20_persecution.html:320
 msgid "caicc.net"
 msgstr ""
 
-#: 20_persecution.html:318
+#: 20_persecution.html:321
 msgid "usd21.org"
 msgstr ""
 
-#: 20_persecution.html:319
+#: 20_persecution.html:322
 msgctxt "persecution #1"
 msgid "and"
 msgstr ""
 
-#: 20_persecution.html:319
+#: 20_persecution.html:322
 msgid "KipMcKean.org"
 msgstr ""
 
-#: 20_persecution.html:324
+#: 20_persecution.html:327
 msgid "Contact Us"
 msgstr ""
 
-#: 20_persecution.html:335
+#: 20_persecution.html:338
 msgid "2017 International Christian Churches (SoldOut Discipling Movement)"
 msgstr ""

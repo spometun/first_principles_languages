@@ -2,50 +2,50 @@
 msgid ""
 msgstr ""
 
-#: 01_introduction.html:17
+#: 01_introduction.html:14
 msgid "Introduction"
 msgstr ""
 
-#: 01_introduction.html:29
+#: 01_introduction.html:26
 msgid "Home"
 msgstr ""
 
-#: 01_introduction.html:36
+#: 01_introduction.html:39
 msgid "For when by reason of the time you ought to be teachers, you... need to have someone teach you the rudiments of the first principles of the oracles of God... Therefore leaving the doctrine of the first principles of Christ, let us press on to perfection - not laying again a foundation... of faith toward God, of the teaching of baptisms, of laying on of hands, of resurrection of the dead and of eternal judgment. This will we do!"
 msgstr ""
 
-#: 01_introduction.html:36
+#: 01_introduction.html:39
 msgid "Hebrews 5:12; 6:1-3"
 msgstr ""
 
-#: 01_introduction.html:36
+#: 01_introduction.html:39
 msgid "WEV"
 msgstr ""
 
-#: 01_introduction.html:38
+#: 01_introduction.html:41
 msgid "Originally, the First Principle Studies were written in 1980, while I served the Lord during the formative early days of the Boston Church of Christ. They were revised in 2003 and 2006 to meet the needs and to confront the challenges of the Portland International Church of Christ. In Los Angeles in 2009 and 2012, I made a few more modifications. As of today, these same First Principles Studies are being taught to all the new disciples of the"
 msgstr ""
 
-#: 01_introduction.html:39
+#: 01_introduction.html:42
 msgid "City of Angels International Christian Church"
 msgstr ""
 
-#: 01_introduction.html:40
+#: 01_introduction.html:43
 msgid "God has greatly blessed these lessons as they have been translated into over 20 languages around the world. May the Lord continue to \"solidify, unify and multiply\" sold-out disciples everywhere for the evangelization of all the nations in this generation! And to God be the glory!"
 msgstr ""
 
-#: 01_introduction.html:42
+#: 01_introduction.html:45
 msgid "Dr. Kip McKean"
 msgstr ""
 
-#: 01_introduction.html:43
+#: 01_introduction.html:46
 msgid "July 1, 2014"
 msgstr ""
 
-#: 01_introduction.html:47
+#: 01_introduction.html:50
 msgid "Contact Us"
 msgstr ""
 
-#: 01_introduction.html:58
+#: 01_introduction.html:61
 msgid "2017 International Christian Churches (SoldOut Discipling Movement)"
 msgstr ""
