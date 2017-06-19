@@ -25,7 +25,7 @@ msgstr ""
 
 #: 03_book_of_john.html:17
 msgid "The Book of John"
-msgstr "Евангелие от Иоанна"
+msgstr ""
 
 #: 04_seeking_god.html:17
 msgid "Seeking God"
