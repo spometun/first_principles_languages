@@ -2271,7 +2271,7 @@ msgstr ""
 
 #: 11_medical_account.html:37
 msgid "A Physician Analyzes the Crucifixion"
-msgstr "тест"
+msgstr "тест2"
 
 #: 11_medical_account.html:41
 msgid "In this paper, I shall discuss some of the physical aspects of the passion, or suffering, of Jesus Christ. We shall follow Him from Gethsemane, through His trial, His scourging, His path along the Via Dolorosa, to His last dying hours on the cross..."
