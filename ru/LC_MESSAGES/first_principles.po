@@ -13,7 +13,7 @@ msgstr ""
 
 #: 22_contact_us.html:29
 msgid "Home"
-msgstr ""
+msgstr "На домашнюю"
 
 #: 20_persecution.html:36
 msgid "Introduction"
