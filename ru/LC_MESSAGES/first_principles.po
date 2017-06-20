@@ -25,7 +25,7 @@ msgstr "Информация о курсе обучения"
 
 #: 03_book_of_john.html:17
 msgid "The Book of John"
-msgstr ""
+msgstr "Евангелие от Иоанна"
 
 #: 04_seeking_god.html:17
 msgid "Seeking God"
