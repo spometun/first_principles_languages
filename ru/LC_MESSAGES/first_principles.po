@@ -21,7 +21,7 @@ msgstr "Введение"
 
 #: 02_course_information.html:17
 msgid "Course Information"
-msgstr ""
+msgstr "Информация о курсе обучения"
 
 #: 03_book_of_john.html:17
 msgid "The Book of John"
