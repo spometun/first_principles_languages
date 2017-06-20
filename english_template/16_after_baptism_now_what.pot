@@ -2,183 +2,183 @@
 msgid ""
 msgstr ""
 
-#: 16_after_baptism_now_what.html:14
+#: 16_after_baptism_now_what.html:13
 msgid "After Baptism, Now What?"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:26
+#: 16_after_baptism_now_what.html:25
 msgid "Home"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:40
+#: 16_after_baptism_now_what.html:37
 msgid "Introduction"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:44
+#: 16_after_baptism_now_what.html:41
 msgid "Discuss the young disciple's first few days as a Christian"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:47
+#: 16_after_baptism_now_what.html:44
 msgid "Share \"letter to God.\" If the new disciple has not had a chance to write one, encourage him/her to do so"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:55
+#: 16_after_baptism_now_what.html:52
 msgctxt "after_baptism_now_what #1"
 msgid "Acts 2:36-47"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:58
+#: 16_after_baptism_now_what.html:55
 msgid "The Conversion of the 3000"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:61
+#: 16_after_baptism_now_what.html:58
 msgid "Discuss Biblical conversion"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:64
+#: 16_after_baptism_now_what.html:61
 msgid "Review how to become a disciple"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:67
+#: 16_after_baptism_now_what.html:64
 msgid "Reinforce the joy of salvation and awe of God"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:72
+#: 16_after_baptism_now_what.html:69
 msgid "Devoted to the Apostles' Teaching — the Word"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:75
+#: 16_after_baptism_now_what.html:72
 msgid "For a quiet time, suggest a book or theme — reading a chapter a day"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:78
+#: 16_after_baptism_now_what.html:75
 msgid "For many, a quiet time journal is helpful"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:83
+#: 16_after_baptism_now_what.html:80
 msgid "Devoted to the Fellowship"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:86
+#: 16_after_baptism_now_what.html:83
 msgid "Discuss the purpose of each gathering:  Sunday Worship Services, Midweek Services — Men's Night Out / Women's Night Out, Bible Talks, Devotionals and discipleship partners"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:89
+#: 16_after_baptism_now_what.html:86
 msgid "Discuss the need to initiate relationships — to give, not just receive"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:92
+#: 16_after_baptism_now_what.html:89
 msgid "Discuss the importance of hospitality — invite people into your home for a meal"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:95
+#: 16_after_baptism_now_what.html:92
 msgid "Discuss the leadership's expectation to tithe on Sundays and give a benevolent offering at the Midweek Services.  Read together"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:98
+#: 16_after_baptism_now_what.html:95
 msgctxt "after_baptism_now_what #1"
 msgid "Malachi 3:6-12"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:101
+#: 16_after_baptism_now_what.html:98
 msgctxt "after_baptism_now_what #1"
 msgid "and"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:104
+#: 16_after_baptism_now_what.html:101
 msgctxt "after_baptism_now_what #1"
 msgid "Hebrews 13:17"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:111
+#: 16_after_baptism_now_what.html:108
 msgid "Devoted to Breaking Bread — Communion"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:114
+#: 16_after_baptism_now_what.html:111
 msgid "1 Corinthians 11:23-32"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:119
+#: 16_after_baptism_now_what.html:116
 msgid "Discuss the purpose of bread and fruit of the vine"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:122
+#: 16_after_baptism_now_what.html:119
 msgid "Discuss what it means to become spiritually \"weak, sick and fallen asleep.\" How does communion prevent these conditions?"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:122
+#: 16_after_baptism_now_what.html:119
 msgid "sick:"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:125
+#: 16_after_baptism_now_what.html:122
 msgid "Proverbs 13:12"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:132
+#: 16_after_baptism_now_what.html:129
 msgid "Devoted to Prayer"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:135
+#: 16_after_baptism_now_what.html:132
 msgid "Discuss how prayer brings peace"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:138
+#: 16_after_baptism_now_what.html:135
 msgid "Philippians 4:4-7"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:143
+#: 16_after_baptism_now_what.html:140
 msgid "Share petitions and answered prayers"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:152
+#: 16_after_baptism_now_what.html:149
 msgctxt "after_baptism_now_what #1"
 msgid "Acts 9:1-22"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:155
+#: 16_after_baptism_now_what.html:152
 msgid "The Conversion of Paul"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:158
+#: 16_after_baptism_now_what.html:155
 msgid "Paul immediately begins to preach"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:161
+#: 16_after_baptism_now_what.html:158
 msgid "With whom have you shared your faith?"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:164
+#: 16_after_baptism_now_what.html:161
 msgid "List friends and family to share with this week"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:169
+#: 16_after_baptism_now_what.html:166
 msgid "Paul grows powerful"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:172
+#: 16_after_baptism_now_what.html:169
 msgid "Paul is persecuted"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:179
+#: 16_after_baptism_now_what.html:176
 msgid "Hebrews 5:11-6:6"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:182
+#: 16_after_baptism_now_what.html:179
 msgid "The First Principles"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:185
+#: 16_after_baptism_now_what.html:182
 msgid "Strive to learn the first principles (elementary teachings) and go on to maturity, so you can be fruitful and not fall away"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:188
+#: 16_after_baptism_now_what.html:185
 msgid "Discuss taking the First Principles Classes"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:195
+#: 16_after_baptism_now_what.html:192
 msgid "Contact Us"
 msgstr ""
 
-#: 16_after_baptism_now_what.html:206
+#: 16_after_baptism_now_what.html:203
 msgid "2017 International Christian Churches (SoldOut Discipling Movement)"
 msgstr ""

@@ -2,161 +2,161 @@
 msgid ""
 msgstr ""
 
-#: 17_christ_is_your_life.html:14
+#: 17_christ_is_your_life.html:13
 msgid "Christ Is Your Life"
 msgstr ""
 
-#: 17_christ_is_your_life.html:26
+#: 17_christ_is_your_life.html:25
 msgid "Home"
 msgstr ""
 
-#: 17_christ_is_your_life.html:39
+#: 17_christ_is_your_life.html:36
 msgid "Introduction"
 msgstr ""
 
-#: 17_christ_is_your_life.html:43
+#: 17_christ_is_your_life.html:40
 msgid "Discuss:"
 msgstr ""
 
-#: 17_christ_is_your_life.html:46
+#: 17_christ_is_your_life.html:43
 msgid "Did you have daily quiet times this past week?"
 msgstr ""
 
-#: 17_christ_is_your_life.html:49
+#: 17_christ_is_your_life.html:46
 msgid "Who did you share with and invite?"
 msgstr ""
 
-#: 17_christ_is_your_life.html:54
+#: 17_christ_is_your_life.html:51
 msgid "Discuss the impact of communion on Sunday"
 msgstr ""
 
-#: 17_christ_is_your_life.html:62
+#: 17_christ_is_your_life.html:59
 msgid "Colossians 3:1-4"
 msgstr ""
 
-#: 17_christ_is_your_life.html:65
+#: 17_christ_is_your_life.html:62
 msgid "Raised to a new life"
 msgstr ""
 
-#: 17_christ_is_your_life.html:68
+#: 17_christ_is_your_life.html:65
 msgid "Raised with Christ in baptism"
 msgstr ""
 
-#: 17_christ_is_your_life.html:71
+#: 17_christ_is_your_life.html:68
 msgctxt "christ_is_your_life #1"
 msgid "Colossians 2:12"
 msgstr ""
 
-#: 17_christ_is_your_life.html:77
+#: 17_christ_is_your_life.html:74
 msgid "The Holy Spirit, received at baptism, gives you the power to set your mind (thoughts) and set your heart (emotions) on things above"
 msgstr ""
 
-#: 17_christ_is_your_life.html:80
+#: 17_christ_is_your_life.html:77
 msgid "Christ is your life"
 msgstr ""
 
-#: 17_christ_is_your_life.html:87
+#: 17_christ_is_your_life.html:84
 msgid "Colossians 3:5-11"
 msgstr ""
 
-#: 17_christ_is_your_life.html:90
+#: 17_christ_is_your_life.html:87
 msgid "Put to death"
 msgstr ""
 
-#: 17_christ_is_your_life.html:93
+#: 17_christ_is_your_life.html:90
 msgid "Discuss and be open about your struggles this week"
 msgstr ""
 
-#: 17_christ_is_your_life.html:96
+#: 17_christ_is_your_life.html:93
 msgid "Discuss any financial challenges — pledge to God, rent, bills, salary, etc..."
 msgstr ""
 
-#: 17_christ_is_your_life.html:99
+#: 17_christ_is_your_life.html:96
 msgid "Discuss practical ways to crucify your sinful nature"
 msgstr ""
 
-#: 17_christ_is_your_life.html:106
+#: 17_christ_is_your_life.html:103
 msgid "Colossians 3:12-14"
 msgstr ""
 
-#: 17_christ_is_your_life.html:109
+#: 17_christ_is_your_life.html:106
 msgid "Put on — clothe yourself"
 msgstr ""
 
-#: 17_christ_is_your_life.html:112
+#: 17_christ_is_your_life.html:109
 msgid "Compassion"
 msgstr ""
 
-#: 17_christ_is_your_life.html:115
+#: 17_christ_is_your_life.html:112
 msgid "Kindness"
 msgstr ""
 
-#: 17_christ_is_your_life.html:118
+#: 17_christ_is_your_life.html:115
 msgid "Humility"
 msgstr ""
 
-#: 17_christ_is_your_life.html:121
+#: 17_christ_is_your_life.html:118
 msgid "Gentleness"
 msgstr ""
 
-#: 17_christ_is_your_life.html:124
+#: 17_christ_is_your_life.html:121
 msgid "Patience"
 msgstr ""
 
-#: 17_christ_is_your_life.html:127
+#: 17_christ_is_your_life.html:124
 msgid "Forgiveness"
 msgstr ""
 
-#: 17_christ_is_your_life.html:134
+#: 17_christ_is_your_life.html:131
 msgid "Colossians 3:15-24"
 msgstr ""
 
-#: 17_christ_is_your_life.html:137
+#: 17_christ_is_your_life.html:134
 msgid "New attitudes"
 msgstr ""
 
-#: 17_christ_is_your_life.html:140
+#: 17_christ_is_your_life.html:137
 msgid "Peace"
 msgstr ""
 
-#: 17_christ_is_your_life.html:143
+#: 17_christ_is_your_life.html:140
 msgid "Thankful"
 msgstr ""
 
-#: 17_christ_is_your_life.html:146
+#: 17_christ_is_your_life.html:143
 msgid "Wholehearted"
 msgstr ""
 
-#: 17_christ_is_your_life.html:149
+#: 17_christ_is_your_life.html:146
 msgid "Family Interactions"
 msgstr ""
 
-#: 17_christ_is_your_life.html:152
+#: 17_christ_is_your_life.html:149
 msgid "v. 18-21"
 msgstr ""
 
-#: 17_christ_is_your_life.html:158
+#: 17_christ_is_your_life.html:155
 msgid "Employer/employee relationships"
 msgstr ""
 
-#: 17_christ_is_your_life.html:161
+#: 17_christ_is_your_life.html:158
 msgctxt "christ_is_your_life #1"
 msgid "v. 22-24"
 msgstr ""
 
-#: 17_christ_is_your_life.html:167
+#: 17_christ_is_your_life.html:164
 msgid "Teacher/student relationships"
 msgstr ""
 
-#: 17_christ_is_your_life.html:170
+#: 17_christ_is_your_life.html:167
 msgctxt "christ_is_your_life #2"
 msgid "v. 22-24"
 msgstr ""
 
-#: 17_christ_is_your_life.html:180
+#: 17_christ_is_your_life.html:177
 msgid "Contact Us"
 msgstr ""
 
-#: 17_christ_is_your_life.html:191
+#: 17_christ_is_your_life.html:188
 msgid "2017 International Christian Churches (SoldOut Discipling Movement)"
 msgstr ""

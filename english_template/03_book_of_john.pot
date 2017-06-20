@@ -2,18 +2,18 @@
 msgid ""
 msgstr ""
 
-#: 03_book_of_john.html:14
+#: 03_book_of_john.html:13
 msgid "The Book of John"
 msgstr ""
 
-#: 03_book_of_john.html:26
+#: 03_book_of_john.html:25
 msgid "Home"
 msgstr ""
 
-#: 03_book_of_john.html:41
+#: 03_book_of_john.html:38
 msgid "Contact Us"
 msgstr ""
 
-#: 03_book_of_john.html:52
+#: 03_book_of_john.html:49
 msgid "2017 International Christian Churches (SoldOut Discipling Movement)"
 msgstr ""

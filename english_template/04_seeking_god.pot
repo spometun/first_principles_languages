@@ -2,152 +2,152 @@
 msgid ""
 msgstr ""
 
-#: 04_seeking_god.html:14
+#: 04_seeking_god.html:13
 msgid "Seeking God"
 msgstr ""
 
-#: 04_seeking_god.html:26
+#: 04_seeking_god.html:25
 msgid "Home"
 msgstr ""
 
-#: 04_seeking_god.html:40
+#: 04_seeking_god.html:37
 msgid "Psalm 119:1-2"
 msgstr ""
 
-#: 04_seeking_god.html:42
+#: 04_seeking_god.html:39
 msgid "Blessed means happy (superlatively happy)"
 msgstr ""
 
-#: 04_seeking_god.html:43
+#: 04_seeking_god.html:40
 msgid "Happiness is not the goal of one who seeks God but the \"by-product\""
 msgstr ""
 
-#: 04_seeking_god.html:44
+#: 04_seeking_god.html:41
 msgid "To seek God you must do it with all your heart"
 msgstr ""
 
-#: 04_seeking_god.html:45
+#: 04_seeking_god.html:42
 msgid "Seeking God means to \"keep His statutes\""
 msgstr ""
 
-#: 04_seeking_god.html:49
+#: 04_seeking_god.html:46
 msgid "Matthew 6:25-34"
 msgstr ""
 
-#: 04_seeking_god.html:51
+#: 04_seeking_god.html:48
 msgid "Do not worry - ironic - can not add a single hour to your life"
 msgstr ""
 
-#: 04_seeking_god.html:52
+#: 04_seeking_god.html:49
 msgid "God knows your needs"
 msgstr ""
 
-#: 04_seeking_god.html:53
+#: 04_seeking_god.html:50
 msgid "Seek first His kingdom and righteousness"
 msgstr ""
 
-#: 04_seeking_god.html:54
+#: 04_seeking_god.html:51
 msgid "Then God will give you everything you need"
 msgstr ""
 
-#: 04_seeking_god.html:58
+#: 04_seeking_god.html:55
 msgid "Acts 17:26-28"
 msgstr ""
 
-#: 04_seeking_god.html:60
+#: 04_seeking_god.html:57
 msgid "God determines the times and places each person lives"
 msgstr ""
 
-#: 04_seeking_god.html:61
+#: 04_seeking_god.html:58
 msgid "He does this so men will seek Him, reach out for Him and find Him"
 msgstr ""
 
-#: 04_seeking_god.html:62
+#: 04_seeking_god.html:59
 msgid "He is not far from anyone"
 msgstr ""
 
-#: 04_seeking_god.html:63
+#: 04_seeking_god.html:60
 msgid "A Christian meeting you is not by chance - but of God"
 msgstr ""
 
-#: 04_seeking_god.html:67
+#: 04_seeking_god.html:64
 msgid "John 4:23-24"
 msgstr ""
 
-#: 04_seeking_god.html:69
+#: 04_seeking_god.html:66
 msgid "God seeks men (Acts 17 taught men must seek God)"
 msgstr ""
 
-#: 04_seeking_god.html:70
+#: 04_seeking_god.html:67
 msgid "Men who want to worship Him in spirit and in truth"
 msgstr ""
 
-#: 04_seeking_god.html:74
+#: 04_seeking_god.html:71
 msgctxt "seeking_god #1"
 msgid "Acts 17:10-12"
 msgstr ""
 
-#: 04_seeking_god.html:76
+#: 04_seeking_god.html:73
 msgid "Read and study the Bible for your own convictions"
 msgstr ""
 
-#: 04_seeking_god.html:77
+#: 04_seeking_god.html:74
 msgid "Study daily"
 msgstr ""
 
-#: 04_seeking_god.html:81
+#: 04_seeking_god.html:78
 msgid "Jeremiah 29:11-14"
 msgstr ""
 
-#: 04_seeking_god.html:83
+#: 04_seeking_god.html:80
 msgid "God has an individual plan for your life"
 msgstr ""
 
-#: 04_seeking_god.html:84
+#: 04_seeking_god.html:81
 msgid "A plan to prosper you - with hope and a future"
 msgstr ""
 
-#: 04_seeking_god.html:85
+#: 04_seeking_god.html:82
 msgid "You will find God when you seek Him with all your heart"
 msgstr ""
 
-#: 04_seeking_god.html:89
+#: 04_seeking_god.html:86
 msgctxt "seeking_god #1"
 msgid "Acts 8:26-39"
 msgstr ""
 
-#: 04_seeking_god.html:91
+#: 04_seeking_god.html:88
 msgid "The angels and the Holy Spirit are helping to get you to God"
 msgstr ""
 
-#: 04_seeking_god.html:92
+#: 04_seeking_god.html:89
 msgid "Do not be afraid to ask questions about life or the Bible - be humble"
 msgstr ""
 
-#: 04_seeking_god.html:93
+#: 04_seeking_god.html:90
 msgid "You need someone to explain the Bible to you"
 msgstr ""
 
-#: 04_seeking_god.html:94
+#: 04_seeking_god.html:91
 msgid "You will be \"rejoicing\" when you find God"
 msgstr ""
 
-#: 04_seeking_god.html:98
+#: 04_seeking_god.html:95
 msgid "Matthew 7:7-8"
 msgstr ""
 
-#: 04_seeking_god.html:100
+#: 04_seeking_god.html:97
 msgid "Seek and God guarantees you will find Him"
 msgstr ""
 
-#: 04_seeking_god.html:101
+#: 04_seeking_god.html:98
 msgid "Ask God for help"
 msgstr ""
 
-#: 04_seeking_god.html:108
+#: 04_seeking_god.html:105
 msgid "Contact Us"
 msgstr ""
 
-#: 04_seeking_god.html:119
+#: 04_seeking_god.html:116
 msgid "2017 International Christian Churches (SoldOut Discipling Movement)"
 msgstr ""

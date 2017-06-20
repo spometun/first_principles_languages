@@ -2,42 +2,42 @@
 msgid ""
 msgstr ""
 
-#: 22_contact_us.html:14
+#: 22_contact_us.html:13
 msgid "Contact Us"
 msgstr ""
 
-#: 22_contact_us.html:26
+#: 22_contact_us.html:25
 msgid "Home"
 msgstr ""
 
-#: 22_contact_us.html:38
+#: 22_contact_us.html:35
 msgid "Do you have feedback, suggestions or questions regarding this mobile application or the First Principles study series?  Please let us know!"
 msgstr ""
 
-#: 22_contact_us.html:40
+#: 22_contact_us.html:37
 msgid "To contact us regarding technical questions, such as improving this application on mobile devices, send an e-mail to:"
 msgstr ""
 
-#: 22_contact_us.html:41
+#: 22_contact_us.html:38
 msgid "support"
 msgstr ""
 
-#: 22_contact_us.html:43
+#: 22_contact_us.html:40
 msgid "To contact us regarding the Biblical content of these First Principles studies, visit our:"
 msgstr ""
 
-#: 22_contact_us.html:44
+#: 22_contact_us.html:41
 msgid "Movement Website"
 msgstr ""
 
-#: 22_contact_us.html:45
+#: 22_contact_us.html:42
 msgid "and locate Church in nation/city you want to contact to"
 msgstr ""
 
-#: 22_contact_us.html:47
+#: 22_contact_us.html:44
 msgid "We look forward to hearing from you!  We strive to respond promptly to all correspondence."
 msgstr ""
 
-#: 22_contact_us.html:64
+#: 22_contact_us.html:61
 msgid "2017 International Christian Churches (SoldOut Discipling Movement)"
 msgstr ""

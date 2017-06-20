@@ -2,152 +2,152 @@
 msgid ""
 msgstr ""
 
-#: 10_cross.html:14
+#: 10_cross.html:13
 msgid "The Cross"
 msgstr ""
 
-#: 10_cross.html:26
+#: 10_cross.html:25
 msgid "Home"
 msgstr ""
 
-#: 10_cross.html:40
+#: 10_cross.html:37
 msgid "Passion Account"
 msgstr ""
 
-#: 10_cross.html:41
+#: 10_cross.html:38
 msgid "Read"
 msgstr ""
 
-#: 10_cross.html:41
+#: 10_cross.html:38
 msgid "Matthew 26:31-28:10"
 msgstr ""
 
-#: 10_cross.html:43
+#: 10_cross.html:40
 msgid "Suggested Reading Intervals:"
 msgstr ""
 
-#: 10_cross.html:44
+#: 10_cross.html:41
 msgid "26:31-35"
 msgstr ""
 
-#: 10_cross.html:45
+#: 10_cross.html:42
 msgid "26:36-46"
 msgstr ""
 
-#: 10_cross.html:46
+#: 10_cross.html:43
 msgid "26:47-56"
 msgstr ""
 
-#: 10_cross.html:47
+#: 10_cross.html:44
 msgid "26:57-68"
 msgstr ""
 
-#: 10_cross.html:48
+#: 10_cross.html:45
 msgid "26:69-75"
 msgstr ""
 
-#: 10_cross.html:49
+#: 10_cross.html:46
 msgid "27:1-10"
 msgstr ""
 
-#: 10_cross.html:50
+#: 10_cross.html:47
 msgid "27:11-26"
 msgstr ""
 
-#: 10_cross.html:51
+#: 10_cross.html:48
 msgid "27:27-31"
 msgstr ""
 
-#: 10_cross.html:52
+#: 10_cross.html:49
 msgid "27:32-44"
 msgstr ""
 
-#: 10_cross.html:53
+#: 10_cross.html:50
 msgid "27:45-56"
 msgstr ""
 
-#: 10_cross.html:54
+#: 10_cross.html:51
 msgid "27:57-61"
 msgstr ""
 
-#: 10_cross.html:55
+#: 10_cross.html:52
 msgid "27:62-66"
 msgstr ""
 
-#: 10_cross.html:56
+#: 10_cross.html:53
 msgid "28:1-10"
 msgstr ""
 
-#: 10_cross.html:60
+#: 10_cross.html:57
 msgid "Physical Death"
 msgstr ""
 
-#: 10_cross.html:61
+#: 10_cross.html:58
 msgid "Read the"
 msgstr ""
 
-#: 10_cross.html:61
+#: 10_cross.html:58
 msgid "medical account"
 msgstr ""
 
-#: 10_cross.html:61
+#: 10_cross.html:58
 msgid "of Jesus' physical death"
 msgstr ""
 
-#: 10_cross.html:64
+#: 10_cross.html:61
 msgid "Personal Responsibility"
 msgstr ""
 
-#: 10_cross.html:66
+#: 10_cross.html:63
 msgid "Remember that there were many others who died by crucifixion in the first century.  It was not that Jesus was physically crucified that makes Him unique; it was that He was crucified for you, in your place.  He died on the cross for you"
 msgstr ""
 
-#: 10_cross.html:67
+#: 10_cross.html:64
 msgctxt "cross #1"
 msgid "Romans 3:23"
 msgstr ""
 
-#: 10_cross.html:68
+#: 10_cross.html:65
 msgctxt "cross #1"
 msgid "Isaiah 59:1-2"
 msgstr ""
 
-#: 10_cross.html:69
+#: 10_cross.html:66
 msgid "Matthew 27:46"
 msgstr ""
 
-#: 10_cross.html:70
+#: 10_cross.html:67
 msgid "Share the sins that you committed before being baptized and your feelings of being forgiven at baptism.  Ask the person with whom you are studying to share and confess their sins"
 msgstr ""
 
-#: 10_cross.html:71
+#: 10_cross.html:68
 msgid "Isaiah 53:4-6"
 msgstr ""
 
-#: 10_cross.html:71
+#: 10_cross.html:68
 msgid "(substitute your name)"
 msgstr ""
 
-#: 10_cross.html:72
+#: 10_cross.html:69
 msgid "If possible immediately after this study watch either"
 msgstr ""
 
-#: 10_cross.html:72
+#: 10_cross.html:69
 msgid "or"
 msgstr ""
 
-#: 10_cross.html:72
+#: 10_cross.html:69
 msgid "The Passion"
 msgstr ""
 
-#: 10_cross.html:72
+#: 10_cross.html:69
 msgid "video"
 msgstr ""
 
-#: 10_cross.html:78
+#: 10_cross.html:75
 msgid "Contact Us"
 msgstr ""
 
-#: 10_cross.html:89
+#: 10_cross.html:86
 msgid "2017 International Christian Churches (SoldOut Discipling Movement)"
 msgstr ""
