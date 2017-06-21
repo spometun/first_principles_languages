@@ -41,7 +41,7 @@ msgstr "Ученичество"
 
 #: 07_coming_of_the_kingdom.html:17
 msgid "The Coming of the Kingdom"
-msgstr ""
+msgstr "Приход Царства"
 
 #: 08_light_and_darkness.html:17
 msgid "Light and Darkness"
