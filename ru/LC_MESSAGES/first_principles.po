@@ -1,104 +1,109 @@
-#
 msgid ""
 msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: First Principles\n"
+"Language: ru\n"
 
-#: 00_index.html:13
+#: 00_index.html:17
 msgid "First Principles"
 msgstr ""
 
-#: 00_index.html:25
+#: 22_contact_us.html:29
 msgid "Home"
-msgstr ""
+msgstr "На домашнюю"
 
-#: 00_index.html:37
+#: 20_persecution.html:36
 msgid "Introduction"
-msgstr ""
+msgstr "Введение"
 
-#: 00_index.html:38
+#: 02_course_information.html:17
 msgid "Course Information"
-msgstr ""
+msgstr "Информация о курсе обучения"
 
-#: 00_index.html:39
+#: 03_book_of_john.html:17
 msgid "The Book of John"
-msgstr ""
+msgstr "Евангелие от Иоанна"
 
-#: 00_index.html:40
+#: 04_seeking_god.html:17
 msgid "Seeking God"
 msgstr ""
 
-#: 00_index.html:41
+#: 05_word_of_god.html:17
 msgid "The Word of God"
-msgstr ""
+msgstr "Слово Бога"
 
-#: 00_index.html:42
+#: 06_discipleship.html:17
 msgid "Discipleship"
-msgstr ""
+msgstr "Ученичество"
 
-#: 00_index.html:43
+#: 07_coming_of_the_kingdom.html:17
 msgid "The Coming of the Kingdom"
 msgstr ""
 
-#: 00_index.html:44
+#: 08_light_and_darkness.html:17
 msgid "Light and Darkness"
 msgstr ""
 
-#: 00_index.html:45
+#: 09_new_testament_conversion.html:17
 msgid "New Testament Conversion"
 msgstr ""
 
-#: 00_index.html:46
+#: 10_cross.html:17
 msgid "The Cross"
 msgstr ""
 
-#: 00_index.html:47
+#: 11_medical_account.html:17
 msgid "The Medical Account of the Crucifixion of Christ"
 msgstr ""
 
-#: 00_index.html:48
+#: 12_baptism_with_the_holy_spirit.html:17
 msgid "Baptism with the Holy Spirit"
 msgstr ""
 
-#: 00_index.html:49
+#: 13_miraculous_gifts_of_the_holy_spirit.html:17
 msgid "Miraculous Gifts of the Holy Spirit"
 msgstr ""
 
-#: 00_index.html:50
+#: 14_church.html:17
 msgid "The Church"
 msgstr ""
 
-#: 00_index.html:51
+#: 15_book_of_acts.html:17
 msgid "The Book of Acts"
 msgstr ""
 
-#: 00_index.html:52
+#: 16_after_baptism_now_what.html:17
 msgid "After Baptism, Now What?"
 msgstr ""
 
-#: 00_index.html:53
+#: 17_christ_is_your_life.html:17
 msgid "Christ Is Your Life"
 msgstr ""
 
-#: 00_index.html:54
+#: 18_best_friends_of_all_time.html:17
 msgid "Best Friends of All Time"
 msgstr ""
 
-#: 00_index.html:55
+#: 19_mission.html:17
 msgid "The Mission"
 msgstr ""
 
-#: 00_index.html:56
+#: 20_persecution.html:17
 msgid "Persecution"
 msgstr ""
 
-#: 00_index.html:57
+#: 21_memory_scriptures.html:17
 msgid "Memory Scriptures"
 msgstr ""
 
-#: 00_index.html:63
+#: 22_contact_us.html:17
 msgid "Contact Us"
 msgstr ""
 
-#: 00_index.html:74
+#: 22_contact_us.html:61
 msgid "2017 International Christian Churches (SoldOut Discipling Movement)"
 msgstr ""
 
@@ -135,8 +140,7 @@ msgid "July 1, 2014"
 msgstr ""
 
 #: 02_course_information.html:38
-msgid ""
-"This course should take a high priority in your day as it is geared to help you grasp a\n"
+msgid "This course should take a high priority in your day as it is geared to help you grasp a\n"
 "      firmer hold on God’s Word and to deepen your understanding of His will for your life"
 msgstr ""
 
@@ -181,8 +185,7 @@ msgid "by Session 8"
 msgstr ""
 
 #: 02_course_information.html:52
-msgid ""
-"An outline of the book of Acts will be turned in by Session 11. Each student is required to\n"
+msgid "An outline of the book of Acts will be turned in by Session 11. Each student is required to\n"
 "      memorize two points from each chapter in the book of Acts"
 msgstr ""
 
@@ -537,7 +540,7 @@ msgstr ""
 
 #: 05_word_of_god.html:37
 msgid "2 Timothy 3:16-17"
-msgstr ""
+msgstr "2 Тимофею 3:16-17"
 
 #: 05_word_of_god.html:39
 msgid "All Scripture is inspired by God"
@@ -4625,3 +4628,4 @@ msgstr ""
 #: 22_contact_us.html:44
 msgid "We look forward to hearing from you!  We strive to respond promptly to all correspondence."
 msgstr ""
+
