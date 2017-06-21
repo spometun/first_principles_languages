@@ -544,7 +544,7 @@ msgstr "2 Тимофею 3:16-17"
 
 #: 05_word_of_god.html:39
 msgid "All Scripture is inspired by God"
-msgstr ""
+msgstr "Все Писание вдохновлено Богом"
 
 #: 05_word_of_god.html:40
 msgid "It is to be applied to our lives"
