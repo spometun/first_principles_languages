@@ -45,7 +45,7 @@ msgstr ""
 
 #: 08_light_and_darkness.html:17
 msgid "Light and Darkness"
-msgstr ""
+msgstr "Свет и тьма"
 
 #: 09_new_testament_conversion.html:17
 msgid "New Testament Conversion"
