@@ -13,7 +13,7 @@ msgstr "Перші принципи Християнства"
 
 #: 22_contact_us.html:29
 msgid "Home"
-msgstr "На домашню"
+msgstr "На домашню2"
 
 #: 20_persecution.html:36
 msgid "Introduction"
