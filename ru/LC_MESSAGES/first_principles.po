@@ -37,7 +37,7 @@ msgstr "Слово Бога"
 
 #: 06_discipleship.html:17
 msgid "Discipleship"
-msgstr "Ученичество4"
+msgstr "Ученичество"
 
 #: 07_coming_of_the_kingdom.html:17
 msgid "The Coming of the Kingdom"
