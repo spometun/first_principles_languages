@@ -9,7 +9,7 @@ msgstr ""
 
 #: 00_index.html:17
 msgid "First Principles"
-msgstr ""
+msgstr "Первые принципы Христианства"
 
 #: 22_contact_us.html:29
 msgid "Home"
