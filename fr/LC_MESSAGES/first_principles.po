@@ -13,19 +13,19 @@ msgstr "Les Principes Fondamentaux"
 
 #: 22_contact_us.html:29
 msgid "Home"
-msgstr ""
+msgstr "Accueil"
 
 #: 20_persecution.html:36
 msgid "Introduction"
-msgstr ""
+msgstr "L'Introduction"
 
 #: 02_course_information.html:17
 msgid "Course Information"
-msgstr ""
+msgstr "Informations Sur Le Cours"
 
 #: 03_book_of_john.html:17
 msgid "The Book of John"
-msgstr ""
+msgstr "L'Evangile de Jean"
 
 #: 04_seeking_god.html:17
 msgid "Seeking God"
