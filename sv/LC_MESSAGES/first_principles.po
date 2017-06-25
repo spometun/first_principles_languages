@@ -89,7 +89,7 @@ msgstr "Bästa vänner någonsin"
 
 #: 19_mission.html:17
 msgid "The Mission"
-msgstr "Uppdraget"
+msgstr "Missionen"
 
 #: 20_persecution.html:17
 msgid "Persecution"
