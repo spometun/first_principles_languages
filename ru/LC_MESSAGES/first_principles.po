@@ -426,7 +426,7 @@ msgstr ""
 
 #: 04_seeking_god.html:46
 msgid "Matthew 6:25-34"
-msgstr ""
+msgstr "Матфея 6:25-34"
 
 #: 04_seeking_god.html:48
 msgid "Do not worry - ironic - can not add a single hour to your life"
