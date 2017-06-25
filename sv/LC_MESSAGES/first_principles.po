@@ -61,7 +61,7 @@ msgstr "Medicinsk redovisning av Kristi korsfästelse"
 
 #: 12_baptism_with_the_holy_spirit.html:17
 msgid "Baptism with the Holy Spirit"
-msgstr "Dop med den Helige Anden"
+msgstr "Helig ande - dop"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:17
 msgid "Miraculous Gifts of the Holy Spirit"
