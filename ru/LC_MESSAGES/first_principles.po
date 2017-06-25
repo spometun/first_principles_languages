@@ -406,7 +406,7 @@ msgstr ""
 
 #: 04_seeking_god.html:37
 msgid "Psalm 119:1-2"
-msgstr ""
+msgstr "Псалом 118:1-2"
 
 #: 04_seeking_god.html:39
 msgid "Blessed means happy (superlatively happy)"
