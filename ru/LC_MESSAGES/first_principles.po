@@ -101,7 +101,7 @@ msgstr ""
 
 #: 22_contact_us.html:17
 msgid "Contact Us"
-msgstr ""
+msgstr "Контакты"
 
 #: 22_contact_us.html:61
 msgid "2017 International Christian Churches (SoldOut Discipling Movement)"
