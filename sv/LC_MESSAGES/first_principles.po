@@ -903,7 +903,7 @@ msgstr "Alla nationer"
 #: 07_coming_of_the_kingdom.html:49
 msgctxt "coming_of_the_kingdom #1"
 msgid "Jerusalem"
-msgstr "jerusalem"
+msgstr "Jerusalem"
 
 #: 07_coming_of_the_kingdom.html:53
 msgctxt "coming_of_the_kingdom #1"
