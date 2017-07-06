@@ -10,286 +10,286 @@ msgstr ""
 msgid "Home"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:38
+#: 13_miraculous_gifts_of_the_holy_spirit.html:40
 msgid "Types of Miraculous Gifts"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:44
+#: 13_miraculous_gifts_of_the_holy_spirit.html:46
 msgid "1 Corinthians 12:8-10"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:49
+#: 13_miraculous_gifts_of_the_holy_spirit.html:51
 msgid "Wisdom"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:52
+#: 13_miraculous_gifts_of_the_holy_spirit.html:54
 msgid "Knowledge"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:55
+#: 13_miraculous_gifts_of_the_holy_spirit.html:57
 msgid "Faith"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:58
+#: 13_miraculous_gifts_of_the_holy_spirit.html:60
 msgctxt "miraculous_gifts_of_the_holy_spirit #1"
 msgid "Healing"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:61
+#: 13_miraculous_gifts_of_the_holy_spirit.html:63
 msgid "Miracles"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:64
+#: 13_miraculous_gifts_of_the_holy_spirit.html:66
 msgid "Prophecy"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:67
+#: 13_miraculous_gifts_of_the_holy_spirit.html:69
 msgid "Distinguishing Spirits"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:70
+#: 13_miraculous_gifts_of_the_holy_spirit.html:72
 msgid "Tongues"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:73
+#: 13_miraculous_gifts_of_the_holy_spirit.html:75
 msgid "Interpretation"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:81
+#: 13_miraculous_gifts_of_the_holy_spirit.html:83
 msgid "Mark 16:16-18"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:84
+#: 13_miraculous_gifts_of_the_holy_spirit.html:86
 msgid "Some will be able to:"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:87
+#: 13_miraculous_gifts_of_the_holy_spirit.html:89
 msgid "Drink poison and not die"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:90
+#: 13_miraculous_gifts_of_the_holy_spirit.html:92
 msgid "Be bitten by snakes and not die"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:93
+#: 13_miraculous_gifts_of_the_holy_spirit.html:95
 msgid "Acts 28:5"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:104
+#: 13_miraculous_gifts_of_the_holy_spirit.html:106
 msgid "Types of \"Laying on of Hands\""
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:108
+#: 13_miraculous_gifts_of_the_holy_spirit.html:110
 msgid "Blessing"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:111
+#: 13_miraculous_gifts_of_the_holy_spirit.html:113
 msgid "Acts 13:3"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:117
+#: 13_miraculous_gifts_of_the_holy_spirit.html:119
 msgctxt "miraculous_gifts_of_the_holy_spirit #2"
 msgid "Healing"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:120
+#: 13_miraculous_gifts_of_the_holy_spirit.html:122
 msgid "Ananias heals Paul's blindness"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:123
+#: 13_miraculous_gifts_of_the_holy_spirit.html:125
 msgid "Acts 9:17-18"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:129
+#: 13_miraculous_gifts_of_the_holy_spirit.html:131
 msgid "Paul heals Publius' father on Malta"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:132
+#: 13_miraculous_gifts_of_the_holy_spirit.html:134
 msgid "Acts 28:8"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:140
+#: 13_miraculous_gifts_of_the_holy_spirit.html:142
 msgid "Passing on the Gifts"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:143
+#: 13_miraculous_gifts_of_the_holy_spirit.html:145
 msgid "Apostles pass on the gifts"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:146
+#: 13_miraculous_gifts_of_the_holy_spirit.html:148
 msgctxt "miraculous_gifts_of_the_holy_spirit #1"
 msgid "Acts 8:18"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:152
+#: 13_miraculous_gifts_of_the_holy_spirit.html:154
 msgid "These people could not pass on the gifts that they received"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:159
+#: 13_miraculous_gifts_of_the_holy_spirit.html:161
 msgctxt "miraculous_gifts_of_the_holy_spirit #1"
 msgid "Acts 6:1-8"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:162
+#: 13_miraculous_gifts_of_the_holy_spirit.html:164
 msgid "Context is the choosing of \"The Seven.\"  This is the first occasion that the gifts were passed.  Stephen immediately starts to perform miraculous signs among the people with God's power (v.8)"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:167
+#: 13_miraculous_gifts_of_the_holy_spirit.html:169
 msgid "Acts 8:1-25"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:170
+#: 13_miraculous_gifts_of_the_holy_spirit.html:172
 msgid "Context is after Stephen's martyrdom.  Great persecution breaks out.  Many leave, but apostles stay in Jerusalem.  Philip, one of \"The Seven\" who had received the gifts in"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:173
+#: 13_miraculous_gifts_of_the_holy_spirit.html:175
 msgctxt "miraculous_gifts_of_the_holy_spirit #2"
 msgid "Acts 6:1-8"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:176
+#: 13_miraculous_gifts_of_the_holy_spirit.html:178
 msgid "goes to Samaria.  He performs many miraculous signs and healings to get people to believe"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:182
+#: 13_miraculous_gifts_of_the_holy_spirit.html:184
 msgid "including Simon the Sorcerer"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:188
+#: 13_miraculous_gifts_of_the_holy_spirit.html:190
 msgid "and they are baptized.  (They became Christians and thus receive the forgiveness of sins and the gift (indwelling) of the Holy Spirit"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:191
+#: 13_miraculous_gifts_of_the_holy_spirit.html:193
 msgctxt "miraculous_gifts_of_the_holy_spirit #1"
 msgid "Acts 2:38"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:194
+#: 13_miraculous_gifts_of_the_holy_spirit.html:196
 msgid "When apostles come to Samaria, Simon saw that the Spirit's gifts were only given by apostles' laying on of hands and offers them money for this ability"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:197
+#: 13_miraculous_gifts_of_the_holy_spirit.html:199
 msgctxt "miraculous_gifts_of_the_holy_spirit #2"
 msgid "Acts 8:18"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:200
+#: 13_miraculous_gifts_of_the_holy_spirit.html:202
 msgid "Note:  Simon didn't ask Philip for the gifts because Philip could not pass them on.  Simon is rebuked for having the wrong motivation"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:205
+#: 13_miraculous_gifts_of_the_holy_spirit.html:207
 msgid "Acts 19:1-6"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:208
+#: 13_miraculous_gifts_of_the_holy_spirit.html:210
 msgid "Paul finds disciples in Ephesus who didn't know what the Holy Spirit was because they had only received John's baptism of repentance.  Then they were baptized into the name of Jesus Christ to receive the forgiveness of their sins and the indwelling of the Holy Spirit"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:214
+#: 13_miraculous_gifts_of_the_holy_spirit.html:216
 msgid "Then they receive the miraculous gifts of prophecy and speaking in tongues by the laying on of Paul's hands"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:220
+#: 13_miraculous_gifts_of_the_holy_spirit.html:222
 msgid "Paul is an apostle"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:228
+#: 13_miraculous_gifts_of_the_holy_spirit.html:230
 msgid "General Observations"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:232
+#: 13_miraculous_gifts_of_the_holy_spirit.html:234
 msgid "Apostles were able to pass on the gifts because they were apostles.  The Apostles possessed the ability to perform miracles even during the ministry of Christ"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:235
+#: 13_miraculous_gifts_of_the_holy_spirit.html:237
 msgid "Luke 9:1"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:238
+#: 13_miraculous_gifts_of_the_holy_spirit.html:240
 msgid "This ability to pass and perform the gifts was not given at Pentecost"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:242
+#: 13_miraculous_gifts_of_the_holy_spirit.html:244
 msgid "1 Corinthians"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:247
+#: 13_miraculous_gifts_of_the_holy_spirit.html:249
 msgctxt "miraculous_gifts_of_the_holy_spirit #1"
 msgid "and"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:253
+#: 13_miraculous_gifts_of_the_holy_spirit.html:255
 msgid "are not the directives on how to receive tongues (the church there had already received them), but rather the correctives on how to use them because everyone was speaking at the same time and misusing the tongues"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:256
+#: 13_miraculous_gifts_of_the_holy_spirit.html:258
 msgid "1 Corinthians 12:28-30"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:259
+#: 13_miraculous_gifts_of_the_holy_spirit.html:261
 msgid "shows that tongues as a gift were not given to everyone in the church.  Thus the concept of a \"Pentecostal church\" (every member speaking in tongues) is contrary to Scripture"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:264
+#: 13_miraculous_gifts_of_the_holy_spirit.html:266
 msgid "1 Corinthians 13:8-10"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:267
+#: 13_miraculous_gifts_of_the_holy_spirit.html:269
 msgid "\"Perfection\" here could not mean the coming of Christ because it is in the neuter gender in Greek, not the masculine gender.  When perfection comes probably refers to the canonization of the Bible some time after the first century.  At that time, all the miraculous gifts would be gone because all the apostles and those to whom they passed the gifts would have died"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:270
+#: 13_miraculous_gifts_of_the_holy_spirit.html:272
 msgid "The purpose of the miraculous gifts from"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:273
+#: 13_miraculous_gifts_of_the_holy_spirit.html:275
 msgid "1 Corinthians 14:20-22"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:279
+#: 13_miraculous_gifts_of_the_holy_spirit.html:281
 msgid "To get non-believers to believe (tongues were only to be used to bring non-believers to faith)"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:282
+#: 13_miraculous_gifts_of_the_holy_spirit.html:284
 msgid "To edify the Christians and strengthen their faith"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:285
+#: 13_miraculous_gifts_of_the_holy_spirit.html:287
 msgid "Now the Bible fulfills these needs — thus the church today does not need apostles or miraculous gifts"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:292
+#: 13_miraculous_gifts_of_the_holy_spirit.html:294
 msgid "2 Thessalonians 2:9-12"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:295
+#: 13_miraculous_gifts_of_the_holy_spirit.html:297
 msgid "shows that there can be miracles by Satan today.  Satan's purpose is to deceive people about the truth, so they will not be saved"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:298
+#: 13_miraculous_gifts_of_the_holy_spirit.html:300
 msgid "Speaking in \"tongues\" is common in many religions (Mormon, Catholic, Islam, etc.), because religion gets dried and staid.  These are also called \"ecstatic utterances\" — non-understandable sounds and fragments of speech"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:301
+#: 13_miraculous_gifts_of_the_holy_spirit.html:303
 msgid "A person can be filled with the Spirit without speaking in tongues"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:304
+#: 13_miraculous_gifts_of_the_holy_spirit.html:306
 msgid "Ephesians 5:18-20"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:310
+#: 13_miraculous_gifts_of_the_holy_spirit.html:312
 msgid "Jesus never spoke in tongues and he was accorded the full-measure of the Spirit"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:313
+#: 13_miraculous_gifts_of_the_holy_spirit.html:315
 msgid "John 3:34-36"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:323
+#: 13_miraculous_gifts_of_the_holy_spirit.html:325
 msgid "Contact Us"
 msgstr ""
 
-#: 13_miraculous_gifts_of_the_holy_spirit.html:334
+#: 13_miraculous_gifts_of_the_holy_spirit.html:336
 msgid "2017 International Christian Churches (SoldOut Discipling Movement)"
 msgstr ""

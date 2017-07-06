@@ -10,10 +10,10 @@ msgstr ""
 msgid "Home"
 msgstr ""
 
-#: 15_book_of_acts.html:38
+#: 15_book_of_acts.html:40
 msgid "Contact Us"
 msgstr ""
 
-#: 15_book_of_acts.html:49
+#: 15_book_of_acts.html:51
 msgid "2017 International Christian Churches (SoldOut Discipling Movement)"
 msgstr ""

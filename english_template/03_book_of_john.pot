@@ -10,10 +10,10 @@ msgstr ""
 msgid "Home"
 msgstr ""
 
-#: 03_book_of_john.html:38
+#: 03_book_of_john.html:40
 msgid "Contact Us"
 msgstr ""
 
-#: 03_book_of_john.html:49
+#: 03_book_of_john.html:51
 msgid "2017 International Christian Churches (SoldOut Discipling Movement)"
 msgstr ""

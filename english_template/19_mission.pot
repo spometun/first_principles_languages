@@ -10,212 +10,212 @@ msgstr ""
 msgid "Home"
 msgstr ""
 
-#: 19_mission.html:37
+#: 19_mission.html:39
 msgid "Introduction"
 msgstr ""
 
-#: 19_mission.html:41
+#: 19_mission.html:43
 msgid "Share about the visitors you most recently brought to church or Bible Talk"
 msgstr ""
 
-#: 19_mission.html:44
+#: 19_mission.html:46
 msgid "Ask the young disciple about their evangelism"
 msgstr ""
 
-#: 19_mission.html:51
+#: 19_mission.html:53
 msgid "Jesus' Mission"
 msgstr ""
 
-#: 19_mission.html:57
+#: 19_mission.html:59
 msgctxt "mission #1"
 msgid "Luke 19:10"
 msgstr ""
 
-#: 19_mission.html:64
+#: 19_mission.html:66
 msgid "1 Timothy 1:15"
 msgstr ""
 
-#: 19_mission.html:71
+#: 19_mission.html:73
 msgctxt "mission #1"
 msgid "Matthew 28:19-20"
 msgstr ""
 
-#: 19_mission.html:78
+#: 19_mission.html:80
 msgid "Acts 20:24"
 msgstr ""
 
-#: 19_mission.html:83
+#: 19_mission.html:85
 msgid "What was Jesus' mission?"
 msgstr ""
 
-#: 19_mission.html:86
+#: 19_mission.html:88
 msgid "What is each disciple's mission?"
 msgstr ""
 
-#: 19_mission.html:94
+#: 19_mission.html:96
 msgid "Disciples' Mission"
 msgstr ""
 
-#: 19_mission.html:100
+#: 19_mission.html:102
 msgid "John 15:1-16"
 msgstr ""
 
-#: 19_mission.html:105
+#: 19_mission.html:107
 msgid "Glorifying God in"
 msgstr ""
 
-#: 19_mission.html:108
+#: 19_mission.html:110
 msgid "John 15"
 msgstr ""
 
-#: 19_mission.html:111
+#: 19_mission.html:113
 msgid "is bearing the fruit of making disciples, not simply baptizing"
 msgstr ""
 
-#: 19_mission.html:114
+#: 19_mission.html:116
 msgid "Matthew 28:19"
 msgstr ""
 
-#: 19_mission.html:117
+#: 19_mission.html:119
 msgid "commands us to \"go and make disciples;\""
 msgstr ""
 
-#: 19_mission.html:120
+#: 19_mission.html:122
 msgid "John 15:16"
 msgstr ""
 
-#: 19_mission.html:123
+#: 19_mission.html:125
 msgid "commands us to \"go and bear fruit that will last\""
 msgstr ""
 
-#: 19_mission.html:126
+#: 19_mission.html:128
 msgid "To bear fruit, one must be \"in the vine,\" otherwise we will be cut off"
 msgstr ""
 
-#: 19_mission.html:129
+#: 19_mission.html:131
 msgid "Jesus is the perfect discipler, but He is also the perfect disciple of God"
 msgstr ""
 
-#: 19_mission.html:132
+#: 19_mission.html:134
 msgid "To love God is to obey His commands.  Discipling helps our hearts to want to obey His commands"
 msgstr ""
 
-#: 19_mission.html:135
+#: 19_mission.html:137
 msgid "Matthew 28:20"
 msgstr ""
 
-#: 19_mission.html:138
+#: 19_mission.html:140
 msgid "Therefore, we must love one another, even to the point of laying down our lives for each other"
 msgstr ""
 
-#: 19_mission.html:143
+#: 19_mission.html:145
 msgid "The Book of Acts records the 30 years from the beginning of the church on the day of Pentecost to Paul's arrival in Rome — signaling that the gospel has gone to the known world.  The church in the first century was a movement.  Discuss the growth of the first century church when all Christians were striving to be fruitful — making disciples"
 msgstr ""
 
-#: 19_mission.html:148
+#: 19_mission.html:150
 msgid "Acts 2:41"
 msgstr ""
 
-#: 19_mission.html:155
+#: 19_mission.html:157
 msgid "Acts 2:47"
 msgstr ""
 
-#: 19_mission.html:162
+#: 19_mission.html:164
 msgid "Acts 4:4"
 msgstr ""
 
-#: 19_mission.html:169
+#: 19_mission.html:171
 msgid "Acts 5:14"
 msgstr ""
 
-#: 19_mission.html:176
+#: 19_mission.html:178
 msgid "Acts 6:1"
 msgstr ""
 
-#: 19_mission.html:183
+#: 19_mission.html:185
 msgid "Acts 6:7"
 msgstr ""
 
-#: 19_mission.html:190
+#: 19_mission.html:192
 msgid "Acts 8:4"
 msgstr ""
 
-#: 19_mission.html:197
+#: 19_mission.html:199
 msgid "Acts 9:31"
 msgstr ""
 
-#: 19_mission.html:204
+#: 19_mission.html:206
 msgid "Acts 11:21"
 msgstr ""
 
-#: 19_mission.html:211
+#: 19_mission.html:213
 msgid "Acts 12:24"
 msgstr ""
 
-#: 19_mission.html:218
+#: 19_mission.html:220
 msgid "Acts 13:49"
 msgstr ""
 
-#: 19_mission.html:225
+#: 19_mission.html:227
 msgid "Acts 14:1"
 msgstr ""
 
-#: 19_mission.html:232
+#: 19_mission.html:234
 msgid "Acts 14:21"
 msgstr ""
 
-#: 19_mission.html:239
+#: 19_mission.html:241
 msgid "Acts 16:5"
 msgstr ""
 
-#: 19_mission.html:246
+#: 19_mission.html:248
 msgid "Acts 17:4"
 msgstr ""
 
-#: 19_mission.html:253
+#: 19_mission.html:255
 msgid "Acts 17:6"
 msgstr ""
 
-#: 19_mission.html:256
+#: 19_mission.html:258
 msgid "(RSV):  \"These men who have turned the world upside-down have come here also...\""
 msgstr ""
 
-#: 19_mission.html:261
+#: 19_mission.html:263
 msgid "Colossians 1:6, 23"
 msgstr ""
 
-#: 19_mission.html:264
+#: 19_mission.html:266
 msgid "The known world was evangelized by 61 A.D., in a generation!  Paul is in prison when he writes Colossians —"
 msgstr ""
 
-#: 19_mission.html:267
+#: 19_mission.html:269
 msgid "Acts 28"
 msgstr ""
 
-#: 19_mission.html:270
+#: 19_mission.html:272
 msgid "Therefore, Jesus' vision became a reality — \"the evangelization of the nations in a generation!\""
 msgstr ""
 
-#: 19_mission.html:276
+#: 19_mission.html:278
 msgid "Discuss and pray for:"
 msgstr ""
 
-#: 19_mission.html:280
+#: 19_mission.html:282
 msgid "World Evangelism"
 msgstr ""
 
-#: 19_mission.html:283
+#: 19_mission.html:285
 msgid "Missions Teams"
 msgstr ""
 
-#: 19_mission.html:286
+#: 19_mission.html:288
 msgid "Your Kingdom dreams... how can you use your talents for God?"
 msgstr ""
 
-#: 19_mission.html:295
+#: 19_mission.html:297
 msgid "Contact Us"
 msgstr ""
 
-#: 19_mission.html:306
+#: 19_mission.html:308
 msgid "2017 International Christian Churches (SoldOut Discipling Movement)"
 msgstr ""

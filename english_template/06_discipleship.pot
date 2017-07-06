@@ -10,201 +10,201 @@ msgstr ""
 msgid "Home"
 msgstr ""
 
-#: 06_discipleship.html:36
+#: 06_discipleship.html:38
 msgctxt "discipleship #1"
 msgid "Introduction:"
 msgstr ""
 
-#: 06_discipleship.html:36
+#: 06_discipleship.html:38
 msgctxt "discipleship #1"
 msgid "Matthew 28:18-20"
 msgstr ""
 
-#: 06_discipleship.html:39
+#: 06_discipleship.html:41
 msgid "What does Jesus want everybody to become?"
 msgstr ""
 
-#: 06_discipleship.html:40
+#: 06_discipleship.html:42
 msgid "Which is the more popular term - \"Disciple\" or \"Christian?\" The word \"Christian\" only appears three times in the New Testament. It is the name those in the world gave the disciples, seven years after the church began"
 msgstr ""
 
-#: 06_discipleship.html:41
+#: 06_discipleship.html:43
 msgid "Acts 11:19-26"
 msgstr ""
 
-#: 06_discipleship.html:42
+#: 06_discipleship.html:44
 msgid "The word \"Disciple\" occurs over 270 times in the New Testament"
 msgstr ""
 
-#: 06_discipleship.html:44
+#: 06_discipleship.html:46
 msgid "SAVED = CHRISTIAN = DISCIPLE"
 msgstr ""
 
-#: 06_discipleship.html:45
+#: 06_discipleship.html:47
 msgid "Jesus came to make disciples. Only baptized disciples will be saved"
 msgstr ""
 
-#: 06_discipleship.html:49
+#: 06_discipleship.html:51
 msgid "Let's have Jesus define disciple, thus defining who is a true Christian"
 msgstr ""
 
-#: 06_discipleship.html:55
+#: 06_discipleship.html:57
 msgid "Mark 1:14-18"
 msgstr ""
 
-#: 06_discipleship.html:58
+#: 06_discipleship.html:60
 msgid "Calling of the first disciples"
 msgstr ""
 
-#: 06_discipleship.html:59
+#: 06_discipleship.html:61
 msgid "Come follow me (Christ)"
 msgstr ""
 
-#: 06_discipleship.html:60
+#: 06_discipleship.html:62
 msgid "Fishers of men - Jesus gave these first disciples the real purpose for living"
 msgstr ""
 
-#: 06_discipleship.html:61
+#: 06_discipleship.html:63
 msgid "Immediately"
 msgstr ""
 
-#: 06_discipleship.html:66
+#: 06_discipleship.html:68
 msgid "Luke 9:23-26"
 msgstr ""
 
-#: 06_discipleship.html:69
+#: 06_discipleship.html:71
 msgctxt "discipleship #1"
 msgid "If any man..."
 msgstr ""
 
-#: 06_discipleship.html:70
+#: 06_discipleship.html:72
 msgid "Deny self. Notice Christ in the garden"
 msgstr ""
 
-#: 06_discipleship.html:72
+#: 06_discipleship.html:74
 msgid "Matthew 26:36-39"
 msgstr ""
 
-#: 06_discipleship.html:73
+#: 06_discipleship.html:75
 msgid "'Not my will, but your will'"
 msgstr ""
 
-#: 06_discipleship.html:73
+#: 06_discipleship.html:75
 msgid "Do not give in to moods"
 msgstr ""
 
-#: 06_discipleship.html:75
+#: 06_discipleship.html:77
 msgid "Carry the cross - daily"
 msgstr ""
 
-#: 06_discipleship.html:76
+#: 06_discipleship.html:78
 msgid "Gain the world ... forfeit soul. Lose your life for Jesus ... save it"
 msgstr ""
 
-#: 06_discipleship.html:81
+#: 06_discipleship.html:83
 msgid "Luke 14:25-33"
 msgstr ""
 
-#: 06_discipleship.html:84
+#: 06_discipleship.html:86
 msgctxt "discipleship #2"
 msgid "If any man..."
 msgstr ""
 
-#: 06_discipleship.html:85
+#: 06_discipleship.html:87
 msgid "Count the cost (v. 28-30)"
 msgstr ""
 
-#: 06_discipleship.html:86
+#: 06_discipleship.html:88
 msgid "Consider the alternatives (v. 31-32)"
 msgstr ""
 
-#: 06_discipleship.html:87
+#: 06_discipleship.html:89
 msgid "Love Christ more than any person (v. 26)"
 msgstr ""
 
-#: 06_discipleship.html:88
+#: 06_discipleship.html:90
 msgid "Persecutions (v. 27)"
 msgstr ""
 
-#: 06_discipleship.html:89
+#: 06_discipleship.html:91
 msgid "Everything, not just anything (v. 33)"
 msgstr ""
 
-#: 06_discipleship.html:94
+#: 06_discipleship.html:96
 msgid "Luke 11:1-4"
 msgstr ""
 
-#: 06_discipleship.html:97
+#: 06_discipleship.html:99
 msgid "Must learn to pray - disciples saw the strength Jesus received from the Father"
 msgstr ""
 
-#: 06_discipleship.html:98
+#: 06_discipleship.html:100
 msgid "Daily personal relationship with God (v. 3); daily prayer"
 msgstr ""
 
-#: 06_discipleship.html:103
+#: 06_discipleship.html:105
 msgctxt "discipleship #1"
 msgid "John 13:34-35"
 msgstr ""
 
-#: 06_discipleship.html:106
+#: 06_discipleship.html:108
 msgid "Love one another"
 msgstr ""
 
-#: 06_discipleship.html:107
+#: 06_discipleship.html:109
 msgid "Be an active part of the fellowship"
 msgstr ""
 
-#: 06_discipleship.html:112
+#: 06_discipleship.html:114
 msgctxt "discipleship #2"
 msgid "Matthew 28:18-20"
 msgstr ""
 
-#: 06_discipleship.html:115
+#: 06_discipleship.html:117
 msgid "Command - make disciples (given to all)"
 msgstr ""
 
-#: 06_discipleship.html:116
+#: 06_discipleship.html:118
 msgid "Who is a candidate for baptism?  A person who makes the decision to be a disciple"
 msgstr ""
 
-#: 06_discipleship.html:117
+#: 06_discipleship.html:119
 msgid "You need someone to disciple you to maturity in Christ"
 msgstr ""
 
-#: 06_discipleship.html:119
+#: 06_discipleship.html:121
 msgid "This is the only way to save the world!"
 msgstr ""
 
-#: 06_discipleship.html:122
+#: 06_discipleship.html:124
 msgid "Year"
 msgstr ""
 
-#: 06_discipleship.html:123
+#: 06_discipleship.html:125
 msgid "Preacher"
 msgstr ""
 
-#: 06_discipleship.html:124
+#: 06_discipleship.html:126
 msgctxt "discipleship #1"
 msgid "Disciple"
 msgstr ""
 
-#: 06_discipleship.html:149
+#: 06_discipleship.html:151
 msgid "the world, 10 billion plus"
 msgstr ""
 
-#: 06_discipleship.html:158
+#: 06_discipleship.html:160
 msgid "Conclusion Question:"
 msgstr ""
 
-#: 06_discipleship.html:158
+#: 06_discipleship.html:160
 msgid "Am I a disciple?  Am I a Christian?  Am I saved?  What do I need to do to become a disciple?"
 msgstr ""
 
-#: 06_discipleship.html:164
+#: 06_discipleship.html:166
 msgid "Contact Us"
 msgstr ""
 
-#: 06_discipleship.html:175
+#: 06_discipleship.html:177
 msgid "2017 International Christian Churches (SoldOut Discipling Movement)"
 msgstr ""

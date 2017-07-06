@@ -10,167 +10,167 @@ msgstr ""
 msgid "Home"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:36
+#: 18_best_friends_of_all_time.html:38
 msgid "Introduction"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:40
+#: 18_best_friends_of_all_time.html:42
 msgid "Share about your closest relationships during your life — God and spiritual family in comparison to your physical family and old friends"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:43
+#: 18_best_friends_of_all_time.html:45
 msgid "Ask the young Christian, \"Who are your closest friends?\""
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:50
+#: 18_best_friends_of_all_time.html:52
 msgid "One Another Scriptures"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:56
+#: 18_best_friends_of_all_time.html:58
 msgctxt "best_friends_of_all_time #1"
 msgid "John 13:34-35"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:59
+#: 18_best_friends_of_all_time.html:61
 msgid "Love one another.  Jesus teaches that Christians should have closer and better relationships than people in the world. Set your mind to make disciples your best friends"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:64
+#: 18_best_friends_of_all_time.html:66
 msgid "Hebrews 3:12-14"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:67
+#: 18_best_friends_of_all_time.html:69
 msgid "Daily encouragement of one another"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:72
+#: 18_best_friends_of_all_time.html:74
 msgid "Ephesians 5:19-20"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:75
+#: 18_best_friends_of_all_time.html:77
 msgid "Worship God with one another — sing out to God and each other with psalms, hymns and spiritual songs"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:80
+#: 18_best_friends_of_all_time.html:82
 msgid "Colossians 1:28-29"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:83
+#: 18_best_friends_of_all_time.html:85
 msgid "Disciple one another.  This is essential in God's plan to become mature.  As we mature, we learn to instruct one another"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:86
+#: 18_best_friends_of_all_time.html:88
 msgid "Romans 15:14"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:94
+#: 18_best_friends_of_all_time.html:96
 msgid "Galatians 6:1-2"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:97
+#: 18_best_friends_of_all_time.html:99
 msgid "Gently restore one another and bear one another's burdens"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:102
+#: 18_best_friends_of_all_time.html:104
 msgid "James 5:16"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:105
+#: 18_best_friends_of_all_time.html:107
 msgid "Confess sins to one another.  Discuss openness and transparency, remembering that \"openness breeds openness,\" so share your struggles"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:110
+#: 18_best_friends_of_all_time.html:112
 msgid "James 5:16-18"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:113
+#: 18_best_friends_of_all_time.html:115
 msgid "Pray for one another.  It makes a difference!"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:118
+#: 18_best_friends_of_all_time.html:120
 msgid "Hebrews 12:14-15"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:121
+#: 18_best_friends_of_all_time.html:123
 msgid "Be holy and prevent \"bad attitudes\" in one another"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:126
+#: 18_best_friends_of_all_time.html:128
 msgid "1 Thessalonians 5:12-14"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:129
+#: 18_best_friends_of_all_time.html:131
 msgid "Outlook toward one another"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:134
+#: 18_best_friends_of_all_time.html:136
 msgid "John 17:20-23"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:137
+#: 18_best_friends_of_all_time.html:139
 msgid "The ultimate goal of love and unity — world evangelism!"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:143
+#: 18_best_friends_of_all_time.html:145
 msgid "Date and marry only disciples"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:149
+#: 18_best_friends_of_all_time.html:151
 msgid "1 Corinthians 7:39"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:152
+#: 18_best_friends_of_all_time.html:154
 msgid "Marriage must only be in the Lord"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:157
+#: 18_best_friends_of_all_time.html:159
 msgid "2 Corinthians 6:14-7:1"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:160
+#: 18_best_friends_of_all_time.html:162
 msgid "Dating, as in marriage, is a partnership in which you are \"yoked together.\"  Disciples must separate from unbelievers to receive the promises of God"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:165
+#: 18_best_friends_of_all_time.html:167
 msgid "1 Kings 11:1-10"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:169
+#: 18_best_friends_of_all_time.html:171
 msgid "Nehemiah 13:23-27"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:172
+#: 18_best_friends_of_all_time.html:174
 msgid "Study this principle in the Old Testament.  To date or marry outside of the faith is to be unfaithful to God.  If you are single, have you gone on a Christian date?"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:177
+#: 18_best_friends_of_all_time.html:179
 msgid "1 Peter 3:1-7"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:180
+#: 18_best_friends_of_all_time.html:182
 msgid "If you are married, are you winning your spouse?"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:186
+#: 18_best_friends_of_all_time.html:188
 msgid "Reconcile with one another"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:192
+#: 18_best_friends_of_all_time.html:194
 msgid "Matthew 18:15-17"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:195
+#: 18_best_friends_of_all_time.html:197
 msgid "Christians will sin against each other.  When someone sins against you, do not gossip by going to someone else.  Talk to the person who hurt you, so you can win him/her over as a friend"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:198
+#: 18_best_friends_of_all_time.html:200
 msgid "Church discipline begins one-on-one and rarely should go to step 2, 3 and 4"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:205
+#: 18_best_friends_of_all_time.html:207
 msgid "Contact Us"
 msgstr ""
 
-#: 18_best_friends_of_all_time.html:216
+#: 18_best_friends_of_all_time.html:218
 msgid "2017 International Christian Churches (SoldOut Discipling Movement)"
 msgstr ""
