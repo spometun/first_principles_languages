@@ -2295,7 +2295,7 @@ msgstr "Багато цих художників і більшість скул�
 
 #: 11_medical_account.html:59
 msgid "Observe my hands"
-msgstr "Подивись на мої руки."
+msgstr "Подивись на мої руки"
 
 #: 11_medical_account.html:60
 msgid "Anatomists, both modern and ancient, have always considered the wrist as part of the hand."
@@ -2307,7 +2307,7 @@ msgstr "Невелику дошку з надписом про злочин пі
 
 #: 11_medical_account.html:68
 msgid "But, of course, the physical passion of the Christ began in Gethsemane. Of the many aspects of this initial suffering, the one of greatest physiological interest is the bloody sweat. It is interesting that St. Luke, the physician, is the only one to mention this. He says"
-msgstr "Страждання Христа починаються вже в Гефсиманському саду. З багатьох аспектів я розгляну лише один, цікавий із погляду фізіології — кривавий піт. Цікаво, що Лука, який був лікарем, єдиний, хто згадує про це. Він пише:"
+msgstr "Страждання Христа починаються вже в Гефсиманському саду. З багатьох аспектів я розгляну лише один, цікавий із погляду фізіології — кривавий піт. Цікаво, що Лука, який був лікарем, єдиний, хто згадує про це. Він пише"
 
 #: 11_medical_account.html:70
 msgid "And being in agony, He prayed the longer. And His sweat became as drops of blood, trickling down upon the ground."
@@ -2319,7 +2319,7 @@ msgstr "Сучасні дослідники намагалися всіма мо
 
 #: 11_medical_account.html:76
 msgid "Hematidrosis"
-msgstr "гематидросу,"
+msgstr "гематидросу"
 
 #: 11_medical_account.html:77
 msgid "or bloody sweat, is well documented. Under great emotional stress of the kind our Lord suffered, tiny capillaries in the sweat glands can break, thus mixing blood with sweat. This process might well have produced marked weakness and possible shock."
@@ -2435,7 +2435,7 @@ msgstr "Незабаром усе закінчиться. Втрата ріди�
 
 #: 11_medical_account.html:181
 msgid "Jesus gasps His fifth cry"
-msgstr "Ісус кричить:"
+msgstr "Ісус кричить"
 
 #: 11_medical_account.html:183
 msgid "I thirst."
