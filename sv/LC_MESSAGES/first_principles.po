@@ -41,11 +41,11 @@ msgstr "Lärjungaskap"
 
 #: 07_coming_of_the_kingdom.html:17
 msgid "The Coming of the Kingdom"
-msgstr "Himmelrikets ankomst till jorden"
+msgstr "Guds rike och dess ankomst"
 
 #: 08_light_and_darkness.html:17
 msgid "Light and Darkness"
-msgstr "Ljus och mörker"
+msgstr "Ljuset och mörkret"
 
 #: 09_new_testament_conversion.html:17
 msgid "New Testament Conversion"
@@ -1337,25 +1337,25 @@ msgstr "Introduktion:"
 
 #: 08_light_and_darkness.html:39
 msgid "1 Peter 2:9-10"
-msgstr "1 Peter 2: 9-10"
+msgstr "1 Petrus 2: 9-10"
 
 #: 08_light_and_darkness.html:44
 msgctxt "light_and_darkness #1"
 msgid "Darkness"
-msgstr "Mörker"
+msgstr "Mörkret"
 
 #: 08_light_and_darkness.html:44
 msgid "Not a people of God"
-msgstr "Inte ett Guds folk"
+msgstr "Inte ett folk"
 
 #: 08_light_and_darkness.html:44
 msgid "No Mercy"
-msgstr "Ingen nåd"
+msgstr "Inte funnit barmhärtighet "
 
 #: 08_light_and_darkness.html:46
 msgctxt "light_and_darkness #1"
 msgid "Light"
-msgstr "Ljus"
+msgstr "Ljuset"
 
 #: 08_light_and_darkness.html:46
 msgid "People of God"
@@ -1363,7 +1363,7 @@ msgstr "Guds folk"
 
 #: 08_light_and_darkness.html:46
 msgid "Mercy"
-msgstr "Barmhärtighet"
+msgstr "Funnit barmhärtighet"
 
 #: 08_light_and_darkness.html:50
 msgid "Lost"
@@ -1375,11 +1375,11 @@ msgstr "Inte en kristen"
 
 #: 08_light_and_darkness.html:50
 msgid "Not a Disciple"
-msgstr "Inte en Disciple"
+msgstr "Inte en lärjunge"
 
 #: 08_light_and_darkness.html:52
 msgid "Saved"
-msgstr "sparad"
+msgstr "Frälst"
 
 #: 08_light_and_darkness.html:52
 msgctxt "light_and_darkness #1"
@@ -1402,7 +1402,7 @@ msgstr "Var är du?"
 #: 08_light_and_darkness.html:64
 msgctxt "light_and_darkness #2"
 msgid "Darkness"
-msgstr "Mörker"
+msgstr "Mörkret"
 
 #: 08_light_and_darkness.html:67
 msgctxt "light_and_darkness #1"
@@ -1420,7 +1420,7 @@ msgstr "VÄGG"
 #: 08_light_and_darkness.html:80
 msgctxt "light_and_darkness #1"
 msgid "DARKNESS"
-msgstr "MÖRKER"
+msgstr "MÖRKRET"
 
 #: 08_light_and_darkness.html:80
 msgid "MAN"
@@ -1429,7 +1429,7 @@ msgstr "MAN"
 #: 08_light_and_darkness.html:87
 msgctxt "light_and_darkness #1"
 msgid "LIGHT"
-msgstr "LJUS"
+msgstr "LJUSET"
 
 #: 08_light_and_darkness.html:87
 msgctxt "light_and_darkness #1"
@@ -1498,11 +1498,11 @@ msgstr "V. 25"
 
 #: 08_light_and_darkness.html:139
 msgid "What is Sin?"
-msgstr "Vad är Sin?"
+msgstr "Vad är synd?"
 
 #: 08_light_and_darkness.html:141
 msgid "Galatians 5:19-21"
-msgstr "Galaterna 5: 19-21"
+msgstr "Galaterbrevet 5: 19-21"
 
 #: 08_light_and_darkness.html:141
 msgctxt "light_and_darkness #1"
@@ -1520,7 +1520,7 @@ msgstr "(Synder av kommissionen)"
 
 #: 08_light_and_darkness.html:143
 msgid "James 4:17"
-msgstr "Jakob 4:17"
+msgstr "Jakobsbrevet 4:17"
 
 #: 08_light_and_darkness.html:143
 msgid "(sins of omission)"
@@ -1571,16 +1571,16 @@ msgstr "Ljus"
 #: 08_light_and_darkness.html:168
 msgctxt "light_and_darkness #3"
 msgid "Light"
-msgstr "Ljus"
+msgstr "Ljuset"
 
 #: 08_light_and_darkness.html:170
 msgctxt "light_and_darkness #1"
 msgid "John 3:1-7"
-msgstr "John 3: 1-7"
+msgstr "Johannes 3: 1-7"
 
 #: 08_light_and_darkness.html:170
 msgid "Born again (v. 3), born of water and Spirit (v. 5), born again. (v. 7)"
-msgstr "Född igen (v. 3), född av vatten och Ande (v. 5), född igen. (V. 7)"
+msgstr "Född på nytt (v. 3), född av vatten och Ande (v. 5), född på nytt. (V. 7)"
 
 #: 08_light_and_darkness.html:171
 msgid "Personal decision as an adult"
@@ -1588,11 +1588,11 @@ msgstr "Personligt beslut som vuxen"
 
 #: 08_light_and_darkness.html:173
 msgid "What message must one believe to be in the light (to be saved)?"
-msgstr "Vilket meddelande måste man tro att vara i ljuset (att bli frälst)?"
+msgstr "Vilket meddelande måste man tro på att vara i ljuset (att bli frälst)?"
 
 #: 08_light_and_darkness.html:173
 msgid "Acts 2:22-24"
-msgstr "Apostlarna 2: 22-24"
+msgstr "Apostlagärningarna 2: 22-24"
 
 #: 08_light_and_darkness.html:175
 msgid "Jesus is from God"
@@ -1635,11 +1635,11 @@ msgstr "Svar från människor:"
 
 #: 08_light_and_darkness.html:181
 msgid "Acts 2:36-37"
-msgstr "Apg 2: 36-37"
+msgstr " Apostlagärningarna 2: 36-37"
 
 #: 08_light_and_darkness.html:183
 msgid "Cut to the heart"
-msgstr "Klipp till hjärtat"
+msgstr "Orden träffade dem i hjärtat"
 
 #: 08_light_and_darkness.html:184
 msgid "What shall we do?"
@@ -1651,27 +1651,27 @@ msgstr "När folk trodde, vad gjorde de?"
 
 #: 08_light_and_darkness.html:188
 msgid "Acts 2:38-42"
-msgstr "Apg 2: 38-42"
+msgstr "Apostlagärningarna 2: 38-42"
 
 #: 08_light_and_darkness.html:190
 msgid "Repent (Greek = to turn)"
-msgstr "Omvänd (grekisk = att vända)"
+msgstr "Omvändelse (grekisk = att vända)"
 
 #: 08_light_and_darkness.html:192
 msgid "Be baptized (Greek = to be immersed)"
-msgstr "Döptes (grekisk = fördjupas)"
+msgstr "Döpt (grekisk = under vattnet)"
 
 #: 08_light_and_darkness.html:194
 msgid "Sin forgiven. Therefore this is the point in time a person is saved"
-msgstr "Sin förlåt. Därför är det dags för en person som sparas"
+msgstr "Förlåtelse. Därför är det dags för en person som sparas"
 
 #: 08_light_and_darkness.html:195
 msgid "Holy Spirit given to each who responded - power to live as God commands"
-msgstr "Helige Ande ges till var och en som svarade - makt att leva som Guds bud"
+msgstr "Helige Ande ges till var och en som svarade - kraft att leva det kristna livet"
 
 #: 08_light_and_darkness.html:199
 msgid "Baptism:"
-msgstr "Dop:"
+msgstr "Dopet:"
 
 #: 08_light_and_darkness.html:199
 msgid "Romans 6:1-4"
@@ -1734,7 +1734,7 @@ msgstr "Skiljer oss från Gud"
 #: 08_light_and_darkness.html:252
 msgctxt "light_and_darkness #1"
 msgid "Acts 2:38"
-msgstr "Apg 2:38"
+msgstr "Apostlagärningarna 2:38"
 
 #: 08_light_and_darkness.html:253
 msgid "Sin is Forgiven"
@@ -1785,7 +1785,7 @@ msgstr "Matteus 15: 6-9"
 
 #: 08_light_and_darkness.html:280
 msgid "Infant Baptism"
-msgstr "Spädbarnsdop"
+msgstr "Barndop"
 
 #: 08_light_and_darkness.html:282
 msgid "Personal faith is needed"
@@ -1794,7 +1794,7 @@ msgstr "Personlig tro behövs"
 #: 08_light_and_darkness.html:282
 msgctxt "light_and_darkness #1"
 msgid "Colossians 2:12"
-msgstr "Colossians 2:12"
+msgstr "Kolosserbrevet 2:12"
 
 #: 08_light_and_darkness.html:283
 msgid "Began approximately third century A.D."
@@ -1815,7 +1815,7 @@ msgstr "Blev \"kyrklig doktrin\" i 549 A.D."
 
 #: 08_light_and_darkness.html:294
 msgid "Praying Jesus into your heart"
-msgstr "Be Jesus i ditt hjärta"
+msgstr "Be Jesus in i sitt hjärta"
 
 #: 08_light_and_darkness.html:296
 msgctxt "light_and_darkness #1"
