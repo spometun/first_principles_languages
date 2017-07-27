@@ -9,15 +9,15 @@ msgstr ""
 
 #: 00_index.html:17
 msgid "First Principles"
-msgstr ""
+msgstr "ألمبادئ ألاولى "
 
 #: 22_contact_us.html:29
 msgid "Home"
-msgstr ""
+msgstr "ألصفحه ألرئيسيه "
 
 #: 20_persecution.html:36
 msgid "Introduction"
-msgstr ""
+msgstr "مقدمه "
 
 #: 02_course_information.html:17
 msgid "Course Information"
@@ -25,32 +25,28 @@ msgstr ""
 
 #: 03_book_of_john.html:17
 msgid "The Book of John"
-msgstr ""
+msgstr "كتاب يوحنا "
 
 #: 04_seeking_god.html:17
 #, fuzzy
 msgid "Seeking God"
-msgstr "١. طوبى تعني ماأسعد ألشخص \n"
-"٢. ألسعاده ليست هي هدف ألبحث عن ألله وإنما إلانتاج (سينتج شخص سعيد باحث عن ألله)\n"
-"٣. لكي أبحث عن ألرب علي أن أفعلها من كل قلبي. \n"
-"٤. ألبحث عن ألله يعني حفظ قوانينه. \n"
-""
+msgstr "ألبحث عن ألله "
 
 #: 05_word_of_god.html:17
 msgid "The Word of God"
-msgstr ""
+msgstr "كلمه ألله ( ألكتاب ألمقدس) "
 
 #: 06_discipleship.html:17
 msgid "Discipleship"
-msgstr ""
+msgstr "ألتلمذه "
 
 #: 07_coming_of_the_kingdom.html:17
 msgid "The Coming of the Kingdom"
-msgstr ""
+msgstr "مجئ ألملكوت "
 
 #: 08_light_and_darkness.html:17
 msgid "Light and Darkness"
-msgstr ""
+msgstr "ألنور وألظلمه "
 
 #: 09_new_testament_conversion.html:17
 msgid "New Testament Conversion"
@@ -58,7 +54,7 @@ msgstr ""
 
 #: 10_cross.html:17
 msgid "The Cross"
-msgstr ""
+msgstr "ألصليب "
 
 #: 11_medical_account.html:17
 msgid "The Medical Account of the Crucifixion of Christ"
@@ -66,31 +62,31 @@ msgstr ""
 
 #: 12_baptism_with_the_holy_spirit.html:17
 msgid "Baptism with the Holy Spirit"
-msgstr ""
+msgstr "معموديه ألروح ألقدس "
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:17
 msgid "Miraculous Gifts of the Holy Spirit"
-msgstr ""
+msgstr "عطايا ألروح ألقدس "
 
 #: 14_church.html:17
 msgid "The Church"
-msgstr ""
+msgstr "ألكنيسه "
 
 #: 15_book_of_acts.html:17
 msgid "The Book of Acts"
-msgstr ""
+msgstr "كتاب أعمال ألرسل "
 
 #: 16_after_baptism_now_what.html:17
 msgid "After Baptism, Now What?"
-msgstr ""
+msgstr "بعد ألمعموديه، ماذا ألان؟ "
 
 #: 17_christ_is_your_life.html:17
 msgid "Christ Is Your Life"
-msgstr ""
+msgstr "ألمسيح هو حياتك "
 
 #: 18_best_friends_of_all_time.html:17
 msgid "Best Friends of All Time"
-msgstr ""
+msgstr "آفضل أصدقاء في جميع ألاوقات "
 
 #: 19_mission.html:17
 msgid "The Mission"
