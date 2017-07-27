@@ -471,73 +471,73 @@ msgstr "يوحنا ٤: ٢٣-٢٤ "
 
 #: 04_seeking_god.html:66
 msgid "God seeks men (Acts 17 taught men must seek God)"
-msgstr ""
+msgstr "ألله يسعى ليجد إلانسان، مقارنه مع ألعدد ألسابق- أعمال ألرسل ١٧ توضح أن إلانسان يجب أن يبحث عن ألله "
 
 #: 04_seeking_god.html:67
 msgid "Men who want to worship Him in spirit and in truth"
-msgstr ""
+msgstr "ألرب يسعى لإيجاد أللذين يرغبون عبادته بالروح وألحق "
 
 #: 04_seeking_god.html:71
 msgctxt "seeking_god #1"
 msgid "Acts 17:10-12"
-msgstr ""
+msgstr "أعمال ١٧: ١٠-١٢ "
 
 #: 04_seeking_god.html:73
 msgid "Read and study the Bible for your own convictions"
-msgstr ""
+msgstr "في هذا ألعدد نجد تشجيع أن تقرأ وتدرس كلمه ألله كل يوم من أجل إقتناعك ألشخصي "
 
 #: 04_seeking_god.html:74
 msgid "Study daily"
-msgstr ""
+msgstr "إدرس يوميا "
 
 #: 04_seeking_god.html:78
 msgid "Jeremiah 29:11-14"
-msgstr ""
+msgstr "إرميا ٢٩: ١١-١٤"
 
 #: 04_seeking_god.html:80
 msgid "God has an individual plan for your life"
-msgstr ""
+msgstr "ألله لديه خطيه فرديه لحياتك "
 
 #: 04_seeking_god.html:81
 msgid "A plan to prosper you - with hope and a future"
-msgstr ""
+msgstr "خطه لنجاحك وتوسعك مع أمل ومستقبل "
 
 #: 04_seeking_god.html:82
 msgid "You will find God when you seek Him with all your heart"
-msgstr ""
+msgstr "سوف تجد ألرب عندما تبحث من كل قلبك "
 
 #: 04_seeking_god.html:86
 msgctxt "seeking_god #1"
 msgid "Acts 8:26-39"
-msgstr ""
+msgstr "أعمال ألرسل ٨: ٢٦-٣٩ "
 
 #: 04_seeking_god.html:88
 msgid "The angels and the Holy Spirit are helping to get you to God"
-msgstr ""
+msgstr "ألملائكه وألروح ألقدس سوف يساعدوك لكي تصل للرب"
 
 #: 04_seeking_god.html:89
 msgid "Do not be afraid to ask questions about life or the Bible - be humble"
-msgstr ""
+msgstr "لاتخف آن تطرح أسئله حول ألحياه أو ألكتاب ألمقدس، كن متواضع "
 
 #: 04_seeking_god.html:90
 msgid "You need someone to explain the Bible to you"
-msgstr ""
+msgstr "تحتاج شخص لكي يشرح لك ألكتاب ألمقدس، كلمه ألله "
 
 #: 04_seeking_god.html:91
 msgid "You will be \"rejoicing\" when you find God"
-msgstr ""
+msgstr "سوف تكون مبتهج عندما تجد ألرب"
 
 #: 04_seeking_god.html:95
 msgid "Matthew 7:7-8"
-msgstr ""
+msgstr "متى ٧: ٧-٨ "
 
 #: 04_seeking_god.html:97
 msgid "Seek and God guarantees you will find Him"
-msgstr ""
+msgstr "إبحث وألرب يضمن لك إنك ستجده "
 
 #: 04_seeking_god.html:98
 msgid "Ask God for help"
-msgstr ""
+msgstr "إسأل ألرب للمساعده "
 
 #: 05_word_of_god.html:37
 msgid "2 Timothy 3:16-17"
