@@ -415,15 +415,15 @@ msgstr "طوبى تعني ماأسعد ألشخص. "
 
 #: 04_seeking_god.html:40
 msgid "Happiness is not the goal of one who seeks God but the \"by-product\""
-msgstr "ألسعاده هي ليست هدف ألبحث عن ألله وإنما ألانتاج (سيتنج شخص سعيد باحث عن ألله)"
+msgstr "ألسعاده هي ليست هدف ألبحث عن ألله وإنما ألانتاج ، سيتنج شخص سعيد باحث عن ألله"
 
 #: 04_seeking_god.html:41
 msgid "To seek God you must do it with all your heart"
-msgstr "لكي أبحث عن ألله، علي أن أفعلها من كل قلبي. "
+msgstr "لكي أبحث عن ألله، علي أن أفعلها من كل قلبي"
 
 #: 04_seeking_god.html:42
 msgid "Seeking God means to \"keep His statutes\""
-msgstr "ألبحث عن ألله تعني حفظ قوانينه."
+msgstr "ألبحث عن ألله تعني حفظ قوانينه"
 
 #: 04_seeking_god.html:46
 msgid "Matthew 6:25-34"
@@ -431,19 +431,19 @@ msgstr "متى ٦: ٢٥-٣٤ "
 
 #: 04_seeking_god.html:48
 msgid "Do not worry - ironic - can not add a single hour to your life"
-msgstr "لايمكن للقلق أن يضيف ساعه إضافيه لحياتنا. "
+msgstr "لايمكن للقلق أن يضيف ساعه إضافيه لحياتنا"
 
 #: 04_seeking_god.html:49
 msgid "God knows your needs"
-msgstr "ألرب يعلم كل إحتياجاتك. "
+msgstr "ألرب يعلم كل إحتياجاتك"
 
 #: 04_seeking_god.html:50
 msgid "Seek first His kingdom and righteousness"
-msgstr "إسعى أولا للبحث عن ملكوت ألرب وبره. "
+msgstr "إسعى أولا للبحث عن ملكوت ألرب وبره "
 
 #: 04_seeking_god.html:51
 msgid "Then God will give you everything you need"
-msgstr "بعد ذلك ألرب سيعطيك كل ماتحتاج. "
+msgstr "بعد ذلك ألرب سيعطيك كل ماتحتاج"
 
 #: 04_seeking_god.html:55
 msgid "Acts 17:26-28"
@@ -451,19 +451,19 @@ msgstr "أعمال ألرسل ١٧: ٢٦-٢٨ "
 
 #: 04_seeking_god.html:57
 msgid "God determines the times and places each person lives"
-msgstr "لقد حتم ألرب ألاوقات وألاشخاص لكل شخص منا خلال حياتنا. "
+msgstr "لقد حتم ألرب ألاوقات وألاشخاص لكل شخص منا خلال حياتنا"
 
 #: 04_seeking_god.html:58
 msgid "He does this so men will seek Him, reach out for Him and find Him"
-msgstr "غرض ألرب من تحديد ألوقت وألمكان ألمناسب هو أن أسعى لإيجاده وأن أجده فيما بعد. "
+msgstr "غرض ألرب من تحديد ألوقت وألمكان ألمناسب هو أن أسعى لإيجاده وأن أجده فيما بعد"
 
 #: 04_seeking_god.html:59
 msgid "He is not far from anyone"
-msgstr "هو ليس بعيد عن كل واحد منا. "
+msgstr "هو ليس بعيد عن كل واحد منا"
 
 #: 04_seeking_god.html:60
 msgid "A Christian meeting you is not by chance - but of God"
-msgstr "عندما يقابلك تلميذ أو مسيحي فهذا ليس صدفه وإنما هو توقيت ألله لك. "
+msgstr "عندما يقابلك تلميذ أو مسيحي فهذا ليس صدفه وإنما هو توقيت ألله لك"
 
 #: 04_seeking_god.html:64
 msgid "John 4:23-24"
