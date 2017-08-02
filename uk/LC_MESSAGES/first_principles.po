@@ -411,7 +411,7 @@ msgstr "Псалом 118:1-2"
 
 #: 04_seeking_god.html:39
 msgid "Blessed means happy (superlatively happy)"
-msgstr "\"Блаженні\" означає \"щасливі\" (дуже щасливі)"
+msgstr "0\"Блаженні\" означає \"щасливі\" (дуже щасливі) chinees"
 
 #: 04_seeking_god.html:40
 msgid "Happiness is not the goal of one who seeks God but the \"by-product\""
