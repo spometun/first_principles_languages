@@ -21,7 +21,7 @@ msgstr "L'Introduction"
 
 #: 02_course_information.html:17
 msgid "Course Information"
-msgstr "Informations Sur Le Cours"
+msgstr "Informations sur le cours"
 
 #: 03_book_of_john.html:17
 msgid "The Book of John"
@@ -41,11 +41,13 @@ msgstr "Disciple de Jésus"
 
 #: 07_coming_of_the_kingdom.html:17
 msgid "The Coming of the Kingdom"
-msgstr "Le Royaume de Dieu"
+msgstr "Le royaume de Dieu"
 
+#. We should translate 'Darkness and light' because it is how the study is settled. Or 'From darkness to light'...
 #: 08_light_and_darkness.html:17
+#, fuzzy
 msgid "Light and Darkness"
-msgstr "La lumière et Des Ténèbres"
+msgstr "Lumière et ténèbres"
 
 #: 09_new_testament_conversion.html:17
 msgid "New Testament Conversion"
@@ -406,7 +408,7 @@ msgstr ""
 
 #: 04_seeking_god.html:37
 msgid "Psalm 119:1-2"
-msgstr ""
+msgstr "psalm in French"
 
 #: 04_seeking_god.html:39
 msgid "Blessed means happy (superlatively happy)"
