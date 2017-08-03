@@ -408,7 +408,7 @@ msgstr ""
 
 #: 04_seeking_god.html:37
 msgid "Psalm 119:1-2"
-msgstr "psalm in French 2 Ron"
+msgstr "psalm 199 in French"
 
 #: 04_seeking_god.html:39
 msgid "Blessed means happy (superlatively happy)"
