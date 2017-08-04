@@ -8,8 +8,9 @@ msgstr ""
 "Language: sv\n"
 
 #: 00_index.html:17
+#, fuzzy
 msgid "First Principles"
-msgstr "Första principerna"
+msgstr "De första principerna"
 
 #: 22_contact_us.html:29
 msgid "Home"
@@ -21,7 +22,7 @@ msgstr "Introduktion"
 
 #: 02_course_information.html:17
 msgid "Course Information"
-msgstr "Kursinformation"
+msgstr "Information om studierna"
 
 #: 03_book_of_john.html:17
 msgid "The Book of John"
@@ -45,7 +46,7 @@ msgstr "Guds rike och dess ankomst"
 
 #: 08_light_and_darkness.html:17
 msgid "Light and Darkness"
-msgstr "Ljuset och mörkret"
+msgstr "Ljus och mörker"
 
 #: 09_new_testament_conversion.html:17
 msgid "New Testament Conversion"
@@ -57,15 +58,15 @@ msgstr "Korset"
 
 #: 11_medical_account.html:17
 msgid "The Medical Account of the Crucifixion of Christ"
-msgstr "Medicinsk redovisning av Kristi korsfästelse"
+msgstr "Korsfästelsen ur ett medicinskt perspektiv"
 
 #: 12_baptism_with_the_holy_spirit.html:17
 msgid "Baptism with the Holy Spirit"
-msgstr "Helig ande - dop"
+msgstr "Helig Ande-dop"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:17
 msgid "Miraculous Gifts of the Holy Spirit"
-msgstr "Den Heliga Andes mirakulösa gåvor"
+msgstr "Den heliga Andens övernaturliga gåvor"
 
 #: 14_church.html:17
 msgid "The Church"
@@ -77,7 +78,7 @@ msgstr "Apostlagärningarna"
 
 #: 16_after_baptism_now_what.html:17
 msgid "After Baptism, Now What?"
-msgstr "Efter dopet, vad gör jag nu?"
+msgstr "Vad händer efter dopet?"
 
 #: 17_christ_is_your_life.html:17
 msgid "Christ Is Your Life"
@@ -105,11 +106,11 @@ msgstr "Kontakta oss"
 
 #: 22_contact_us.html:61
 msgid "2017 International Christian Churches (SoldOut Discipling Movement)"
-msgstr "2017 Internationella kristna kyrkor (SoldOut Discipling Movement)"
+msgstr "2017 International Christian Churches (SoldOut Discipling Movement)"
 
 #: 01_introduction.html:36
 msgid "For when by reason of the time you ought to be teachers, you... need to have someone teach you the rudiments of the first principles of the oracles of God... Therefore leaving the doctrine of the first principles of Christ, let us press on to perfection - not laying again a foundation... of faith toward God, of the teaching of baptisms, of laying on of hands, of resurrection of the dead and of eternal judgment. This will we do!"
-msgstr "För när du, på grund av den tid du borde vara lärare, behöver ... behöver någon lära dig de grundläggande principerna för Guds orakler ... Därför lämnar du läran om Kristi första principer, låt oss Pressa till perfektion - inte lägga igen en grund ... av tro mot Gud, om dopens undervisning, att lägga på händerna, om de döda och den eviga domens uppståndelse. Detta kommer vi att göra!"
+msgstr "Ni borde vid det här laget själva vara lärare, men i stället behöver ni nu på nytt någon som lär er de första grunderna i Guds ord... Låt oss därför inte uppehålla oss vid det man först får lära sig om Kristus... läran om dop och handpåläggning, om de dödas uppståndelse och evig dom. Nej, med Guds tillåtelse går vi vidare. Detta kommer vi att göra!"
 
 #: 01_introduction.html:36
 msgid "Hebrews 5:12; 6:1-3"
@@ -117,11 +118,11 @@ msgstr "Hebreerbrevet 5:12; 6: 1-3"
 
 #: 01_introduction.html:36
 msgid "WEV"
-msgstr "WEV"
+msgstr "Bibel2000"
 
 #: 01_introduction.html:38
 msgid "Originally, the First Principle Studies were written in 1980, while I served the Lord during the formative early days of the Boston Church of Christ. They were revised in 2003 and 2006 to meet the needs and to confront the challenges of the Portland International Church of Christ. In Los Angeles in 2009 and 2012, I made a few more modifications. As of today, these same First Principles Studies are being taught to all the new disciples of the"
-msgstr "Ursprungligen var de första principstudierna skrivna 1980, medan jag tjänstgjorde Herren under de formativa tidiga dagarna i kyrkan i Boston. De reviderades 2003 och 2006 för att möta behoven och att möta utmaningarna i Portland International Church of Christ. I Los Angeles 2009 och 2012 gjorde jag några fler ändringar. Från och med idag lärs dessa samma första principstudier till alla de nya lärjungarna i"
+msgstr "De första grundläggande principerna skrev jag när jag tjänade Herren under den första tiden i kyrkan i Boston, 1980. De reviderades sedan 2003 och 2006 för att möta behoven och utmaningarna i Portland. I Los Angeles 2009 och 2012 gjorde jag ytterligare några ändringar. Från och med idag lärs dessa studier till alla nya lärjungar i"
 
 #: 01_introduction.html:39
 msgid "City of Angels International Christian Church"
@@ -129,7 +130,7 @@ msgstr "City of Angels International Christian Church"
 
 #: 01_introduction.html:40
 msgid "God has greatly blessed these lessons as they have been translated into over 20 languages around the world. May the Lord continue to \"solidify, unify and multiply\" sold-out disciples everywhere for the evangelization of all the nations in this generation! And to God be the glory!"
-msgstr "Gud har väldigt välsignat dessa lektioner som de har översatts till över 20 språk runt om i världen. Må Herren fortsätta att \"stärka, förena och föröka\" utsålda lärjungar överallt för evangeliseringen av alla nationer i denna generation! Och till Gud är härligheten!"
+msgstr "Gud har verkligen välsignat dessa studier som också översatts till över 20 olika språk runt om i världen. Må Herren fortsätta att \"förstärka, förena och förmera\" hängivna lärjungar överallt för att evangeliet ska nå alla folk - i vår generation! Och all ära til Gud!"
 
 #: 01_introduction.html:42
 msgid "Dr. Kip McKean"
@@ -137,25 +138,24 @@ msgstr "Dr Kip McKean"
 
 #: 01_introduction.html:43
 msgid "July 1, 2014"
-msgstr "1 juli 2014"
+msgstr "Den 1 juli 2014"
 
 #: 02_course_information.html:38
 msgid "This course should take a high priority in your day as it is geared to help you grasp a\n"
 "      firmer hold on God’s Word and to deepen your understanding of His will for your life"
-msgstr "Denna kurs bör ha hög prioritet på din dag eftersom det är anpassat för att hjälpa dig att förstå en\n"
-"      Fastare hålla fast på Guds ord och fördjupa din förståelse av hans vilja för ditt liv"
+msgstr "Prioritera dessa studier högt eftersom de är anpassade för att hjälpa dig att förstå Guds ord bättre, och fördjupa din förståelse av hans vilja för ditt liv."
 
 #: 02_course_information.html:40
 msgid "Each session two new Scriptures should be memorized for a quiz at the beginning of each class"
-msgstr "Varje session bör två nya skrifter vara memorerade för en frågesport i början av varje klass"
+msgstr "Varje studie har två minnesverser som kommer med på ett litet test i början av följande studietillfälle."
 
 #: 02_course_information.html:42
 msgid "Each study’s content and order of Scriptures should also be memorized for the quiz"
-msgstr "Varje studie innehåll och ordning i Skrifterna bör också memoreras för quiz"
+msgstr "Man bör också kunna innehållet av respektive studie och ordningen på verserna inför testet."
 
 #: 02_course_information.html:44
 msgid "Each student is required to memorize the names of all the books of the Bible"
-msgstr "Varje elev måste memorera namnen på alla Bibelns böcker"
+msgstr "Varje elev ska också kunna namnen på alla böckerna i Bibeln."
 
 #: 02_course_information.html:46
 msgid "Sign up"
@@ -163,7 +163,7 @@ msgstr "Bli Medlem"
 
 #: 02_course_information.html:46
 msgid "for the Good News Emails at"
-msgstr "För Good News e-post på"
+msgstr "För Good News e-mail:"
 
 #: 02_course_information.html:46
 msgid "CAICC.net"
@@ -171,11 +171,11 @@ msgstr "CAICC.net"
 
 #: 02_course_information.html:46
 msgid "by Session 2"
-msgstr "Genom session 2"
+msgstr "Inför studie 2"
 
 #: 02_course_information.html:48
 msgid "Read Ron Harding’s History of the Spread of Christianity in Modern Times"
-msgstr "Läs Ron Hardings historia om kristendomenes spridning i moderna tider"
+msgstr "Läs Ron Hardings artikel om kristendomenes spridning i moderna tid"
 
 #: 02_course_information.html:48
 msgid "KipMcKean.com"
@@ -183,29 +183,28 @@ msgstr "KipMcKean.com"
 
 #: 02_course_information.html:49
 msgid "by Session 8"
-msgstr "Genom session 8"
+msgstr "inför studie 8"
 
 #: 02_course_information.html:52
 msgid "An outline of the book of Acts will be turned in by Session 11. Each student is required to\n"
 "      memorize two points from each chapter in the book of Acts"
-msgstr "En översikt över boken av handlingar kommer att sättas in genom session 11. Varje elev är skyldig att\n"
-"      Memorera två punkter från varje kapitel i handlingen"
+msgstr "En översikt av Apostlagärningarna ska lämnas in innan studie 11. Varje elev förväntas kunna två poänger från varje kapitel i denna bok."
 
 #: 02_course_information.html:56
 msgid "Outline of Classes"
-msgstr "Översikt av klasser"
+msgstr "Studieöversikt"
 
 #: 02_course_information.html:60
 msgid "Session 1"
-msgstr "Session 1"
+msgstr "Studie 1"
 
 #: 02_course_information.html:62
 msgid "Introduction and Seeking God"
-msgstr "Introduktion och söker Gud"
+msgstr "Introduktion och söka Gud"
 
 #: 02_course_information.html:65
 msgid "Session 2"
-msgstr "Session 2"
+msgstr "Studie 2"
 
 #: 02_course_information.html:67
 msgid "The Word Of God"
@@ -213,87 +212,87 @@ msgstr "Guds ord"
 
 #: 02_course_information.html:70
 msgid "Session 3"
-msgstr "Session 3"
+msgstr "Studie 3"
 
 #: 02_course_information.html:75
 msgid "Session 4"
-msgstr "Session 4"
+msgstr "Studie 4"
 
 #: 02_course_information.html:80
 msgid "Session 5"
-msgstr "Session 5"
+msgstr "Studie 5"
 
 #: 02_course_information.html:85
 msgid "Session 6"
-msgstr "Session 6"
+msgstr "Studie 6"
 
 #: 02_course_information.html:90
 msgid "Session 7"
-msgstr "Session 7"
+msgstr "Studie 7"
 
 #: 02_course_information.html:95
 msgid "Session 8"
-msgstr "Session 8"
+msgstr "Studie 8"
 
 #: 02_course_information.html:97
 msgid "The Baptism of the Holy Spirit"
-msgstr "Den Helige Andes dop"
+msgstr "Helig Ande-dop"
 
 #: 02_course_information.html:100
 msgid "Session 9"
-msgstr "Session 9"
+msgstr "Studei 9"
 
 #: 02_course_information.html:102
 msgid "The Miraculous Gifts of the Holy Spirit"
-msgstr "Den Heliga Andes mirakulösa gåvor"
+msgstr "Den heliga Andens övernaturliga gåvor"
 
 #: 02_course_information.html:105
 msgid "Session 10"
-msgstr "Session 10"
+msgstr "Studie 10"
 
 #: 02_course_information.html:110
 msgid "Session 11"
-msgstr "Session 11"
+msgstr "Studie 11"
 
 #: 02_course_information.html:112
 msgid "Acts 1 - 8"
-msgstr "Agerar 1 till 8"
+msgstr "Apg 1-8"
 
 #: 02_course_information.html:115
 msgid "Session 12"
-msgstr "Session 12"
+msgstr "Studie 12"
 
 #: 02_course_information.html:117
 msgid "Acts 9 - 15"
-msgstr "Akterna 9-15"
+msgstr "Apg 9-15"
 
 #: 02_course_information.html:120
 msgid "Session 13"
-msgstr "Session 13"
+msgstr "Studei 13"
 
 #: 02_course_information.html:122
 msgid "Acts 16 - 21"
-msgstr "Akterna 16-21"
+msgstr "Apg 16-21"
 
 #: 02_course_information.html:125
 msgid "Session 14"
-msgstr "Session 14"
+msgstr "Studei 14"
 
 #: 02_course_information.html:127
 msgid "Acts 21 - 28"
-msgstr "Akterna 21-28"
+msgstr "Apg 21-28"
 
 #: 02_course_information.html:132
 msgid "Suggested Reading"
-msgstr "Föreslagen läsning"
+msgstr "Läsningsförslag"
 
 #: 02_course_information.html:133
 msgid "These books are recommended as thought-provoking and informative tools to be used in gaining insights into God’s Word. In no way are they suggested to be Biblically correct on all doctrinal points"
-msgstr "Dessa böcker rekommenderas som tankeväckande och informativa verktyg som kan användas för att få insikt i Guds Ord. På något sätt föreslås de att de är bibelsk korrekta på alla doktrinära punkter"
+msgstr "Dessa böcker rekommenderas som tankeväckande verktyg för att få bättre insikt i Guds Ord. Det innebär inte att de är bibliskt korrekta i vad de lär."
 
 #: 02_course_information.html:135
 msgid "The Five Love Languages"
-msgstr "De fem kärleksspråken"
+msgstr "The Five Love Languages"
 
 #: 02_course_information.html:135
 msgid "- Chapman"
@@ -301,7 +300,7 @@ msgstr "- Chapman"
 
 #: 02_course_information.html:136
 msgid "The Master Plan of Evangelism"
-msgstr "Evangelismens huvudplan"
+msgstr "The Master Plan of Evangelism"
 
 #: 02_course_information.html:136
 msgid "- Coleman -"
@@ -314,7 +313,7 @@ msgstr "Audio"
 
 #: 02_course_information.html:137
 msgid "The Tale of Three Kings"
-msgstr "Tales of Three Kings"
+msgstr "The Tale of Three Kings"
 
 #: 02_course_information.html:137
 msgid "- Edwards -"
@@ -327,11 +326,11 @@ msgstr "Audio"
 
 #: 02_course_information.html:138
 msgid "Voice in the Wind"
-msgstr "Röst i vinden"
+msgstr "Voice in the Wind"
 
 #: 02_course_information.html:138
 msgid "- Rivers -"
-msgstr "- Floder -"
+msgstr "- Rivers -"
 
 #: 02_course_information.html:138
 msgctxt "course_information #3"
@@ -340,7 +339,7 @@ msgstr "Audio"
 
 #: 02_course_information.html:139
 msgid "The Disciplined Life"
-msgstr "Det Disciplined Life"
+msgstr "The Disciplined Life"
 
 #: 02_course_information.html:139
 msgid "- Taylor"
@@ -348,7 +347,7 @@ msgstr "- Taylor"
 
 #: 02_course_information.html:140
 msgid "Elevate"
-msgstr "Upphöja"
+msgstr "Elevate"
 
 #: 02_course_information.html:140
 msgid "- McKean"
@@ -356,23 +355,23 @@ msgstr "- McKean"
 
 #: 02_course_information.html:142
 msgid "Overview of the Book of Acts"
-msgstr "Översikt av boken av handlingar"
+msgstr "Overview of the Book of Acts"
 
 #: 02_course_information.html:146
 msgid "Sermon #1"
-msgstr "Predikan # 1"
+msgstr "Studie 1"
 
 #: 02_course_information.html:148
 msgid "Acts 1-8"
-msgstr "Agerar 1-8"
+msgstr "Apg 1-8"
 
 #: 02_course_information.html:150
 msgid "Building A Great Church"
-msgstr "Bygga en stor kyrka"
+msgstr "Hur man bygger Guds kyrka"
 
 #: 02_course_information.html:153
 msgid "Sermon #2"
-msgstr "Predikan # 2"
+msgstr "Studie 2"
 
 #: 02_course_information.html:155
 msgid "Acts 9-15"
@@ -380,23 +379,23 @@ msgstr "Apg 9-15"
 
 #: 02_course_information.html:157
 msgid "Forcefully Advancing The Kingdom"
-msgstr "Kraftfullt främja kungariket"
+msgstr "Guds rike på frammarsch"
 
 #: 02_course_information.html:160
 msgid "Sermon #3"
-msgstr "Predikan # 3"
+msgstr "Studie 3"
 
 #: 02_course_information.html:162
 msgid "Acts 16-21"
-msgstr "Akterna 16-21"
+msgstr "Apg 16-21"
 
 #: 02_course_information.html:164
 msgid "Turning The World Upsidedown"
-msgstr "Vänder världen Upsidedown"
+msgstr "Vända upp och ned på världen"
 
 #: 02_course_information.html:167
 msgid "Sermon #4"
-msgstr "Predikan # 4"
+msgstr "Studie 4"
 
 #: 02_course_information.html:169
 msgid "Acts 21-28"
@@ -404,35 +403,35 @@ msgstr "Apg 21-28"
 
 #: 02_course_information.html:171
 msgid "Evangelizing The World In A Generation"
-msgstr "Evangeliserande världen i en generation"
+msgstr "Världsmission på en generation"
 
 #: 04_seeking_god.html:37
 msgid "Psalm 119:1-2"
-msgstr "Salmen 119: 1-2"
+msgstr "Psalm 119:1-2"
 
 #: 04_seeking_god.html:39
 msgid "Blessed means happy (superlatively happy)"
-msgstr "Välsignad betyder lycklig (superlativt glad)"
+msgstr "Välsignad betyder lycklig (fantastiskt lycklig)"
 
 #: 04_seeking_god.html:40
 msgid "Happiness is not the goal of one who seeks God but the \"by-product\""
-msgstr "Lycka är inte målet för en som söker Gud, men \"biprodukten\""
+msgstr "Lycka är inte målet för en som söker Gud, men en \"biprodukt\""
 
 #: 04_seeking_god.html:41
 msgid "To seek God you must do it with all your heart"
-msgstr "För att söka Gud måste du göra det med hela ditt hjärta"
+msgstr "För att söka Gud på Guds sätt behöver du göra det med hela ditt hjärta"
 
 #: 04_seeking_god.html:42
 msgid "Seeking God means to \"keep His statutes\""
-msgstr "Söker Gud betyder att \"behålla sina stadgar\""
+msgstr "Att söka Gud betyder att du \"följer Herrens lag\""
 
 #: 04_seeking_god.html:46
 msgid "Matthew 6:25-34"
-msgstr "Matteus 6: 25-34"
+msgstr "Mt 6:25-34"
 
 #: 04_seeking_god.html:48
 msgid "Do not worry - ironic - can not add a single hour to your life"
-msgstr "Oroa dig inte - ironisk - kan inte lägga till en enda timme i ditt liv"
+msgstr "Oroa dig inte - ironiskt - kan ändå inte lägga till en enda timme i ditt liv"
 
 #: 04_seeking_god.html:49
 msgid "God knows your needs"
@@ -448,15 +447,15 @@ msgstr "Då kommer Gud att ge dig allt du behöver"
 
 #: 04_seeking_god.html:55
 msgid "Acts 17:26-28"
-msgstr "Apg 17: 26-28"
+msgstr "Apg 17:26-28"
 
 #: 04_seeking_god.html:57
 msgid "God determines the times and places each person lives"
-msgstr "Gud bestämmer tider och ställen varje person lever"
+msgstr "Gud har bestämt tid och plats för varje person"
 
 #: 04_seeking_god.html:58
 msgid "He does this so men will seek Him, reach out for Him and find Him"
-msgstr "Han gör detta så män kommer att söka efter honom, nå ut för Honom och hitta honom"
+msgstr "Han gör så för att människor ska söka efter honom, nå ut till Honom och hitta honom"
 
 #: 04_seeking_god.html:59
 msgid "He is not far from anyone"
@@ -464,36 +463,36 @@ msgstr "Han är inte långt ifrån någon"
 
 #: 04_seeking_god.html:60
 msgid "A Christian meeting you is not by chance - but of God"
-msgstr "En kristen som möter dig är inte av en slump - men av Gud"
+msgstr "När en kristen möter dig är det inte en slump. Det är arrangerat av Gud"
 
 #: 04_seeking_god.html:64
 msgid "John 4:23-24"
-msgstr "John 4: 23-24"
+msgstr "Joh 4:23-24"
 
 #: 04_seeking_god.html:66
 msgid "God seeks men (Acts 17 taught men must seek God)"
-msgstr "Gud söker män (Apg 17 lärde män måste söka Gud)"
+msgstr "Hi. Here I want to have an extra scripture after John 4: 2 Chron 16:9b with the following comment: Gud söker efter människor, precis som att Apg 17 lär att människan skulle söka Gud."
 
 #: 04_seeking_god.html:67
 msgid "Men who want to worship Him in spirit and in truth"
-msgstr "Män som vill tillbe honom i ande och i sanning"
+msgstr "Gud vill att vi ska tillbe honom i ande och i sanning"
 
 #: 04_seeking_god.html:71
 msgctxt "seeking_god #1"
 msgid "Acts 17:10-12"
-msgstr "Apg 17: 10-12"
+msgstr "Apg 17:10-12"
 
 #: 04_seeking_god.html:73
 msgid "Read and study the Bible for your own convictions"
-msgstr "Läs och studera Bibeln för dina egna övertygelser"
+msgstr "Läs och studera Bibeln för din egen övertygelse"
 
 #: 04_seeking_god.html:74
 msgid "Study daily"
-msgstr "Studera dagligen"
+msgstr "Studera varje dag"
 
 #: 04_seeking_god.html:78
 msgid "Jeremiah 29:11-14"
-msgstr "Jeremia 29: 11-14"
+msgstr "Jer 29:11-14"
 
 #: 04_seeking_god.html:80
 msgid "God has an individual plan for your life"
