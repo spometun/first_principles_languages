@@ -412,7 +412,7 @@ msgstr "psalm 119 in French"
 
 #: 04_seeking_god.html:39
 msgid "Blessed means happy (superlatively happy)"
-msgstr "blessed in French v2"
+msgstr "blessed in French"
 
 #: 04_seeking_god.html:40
 msgid "Happiness is not the goal of one who seeks God but the \"by-product\""
