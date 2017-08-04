@@ -472,7 +472,7 @@ msgstr "Joh 4:23-24"
 #: 04_seeking_god.html:66
 msgid "God seeks men (Acts 17 taught men must seek God)"
 msgstr "Gud söker män (Apg 17 lärde män måste söka Gud) \n"
-"1 Chron 16:9b Gud söker efter människor, precis som att Apg 17 lär att människan skulle söka Gud."
+"<br>1 Chron 16:9b Gud söker efter människor, precis som att Apg 17 lär att människan skulle söka Gud</br>"
 
 #: 04_seeking_god.html:67
 msgid "Men who want to worship Him in spirit and in truth"
