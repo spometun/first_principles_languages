@@ -548,39 +548,39 @@ msgstr "Palu Jumalalt abi"
 
 #: 05_word_of_god.html:37
 msgid "2 Timothy 3:16-17"
-msgstr ""
+msgstr "2 Timoteose 3:16-17"
 
 #: 05_word_of_god.html:39
 msgid "All Scripture is inspired by God"
-msgstr ""
+msgstr "Kogu Piibel on inspireeritud Jumala poolt"
 
 #: 05_word_of_god.html:40
 msgid "It is to be applied to our lives"
-msgstr ""
+msgstr "Seda tuleb kasutada meie eludes"
 
 #: 05_word_of_god.html:44
 msgid "Hebrews 4:12-13"
-msgstr ""
+msgstr "Heebrealaste 4:12-13"
 
 #: 05_word_of_god.html:46
 msgid "The Word is relevant"
-msgstr ""
+msgstr "Piibel on asjakohane"
 
 #: 05_word_of_god.html:47
 msgid "The Word cuts (hurts)"
-msgstr ""
+msgstr "Sõna lõikab (võib haiget teha)"
 
 #: 05_word_of_god.html:48
 msgid "Learn that it is good to be \"cut,\" because a scalpel (God's Word) \"cuts\" the cancer (sin) out!"
-msgstr ""
+msgstr "Kui Sõna \"lõikab\", siis see on hea, nagu skalpell (Piibel) lõikab ära kasvaja (patu)."
 
 #: 05_word_of_god.html:52
 msgid "2 Peter 1:20-21"
-msgstr ""
+msgstr "2 Peetruse 1:20-21"
 
 #: 05_word_of_god.html:54
 msgid "There is no private interpretation of the Bible"
-msgstr ""
+msgstr "Piiblit ei või omavoliliselt seletada"
 
 #: 05_word_of_god.html:55
 msgid "The Holy Spirit inspired the men who wrote the books of the Bible"
