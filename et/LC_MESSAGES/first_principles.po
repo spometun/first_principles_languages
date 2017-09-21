@@ -491,7 +491,7 @@ msgstr "Apostlite teod 17:10-12"
 
 #: 04_seeking_god.html:73
 msgid "Read and study the Bible for your own convictions"
-msgstr "Loe Piiblit oma enda veendumuste tugevdamiseks"
+msgstr "Loe piiblit oma enda veendumuste tugevdamiseks"
 
 #: 04_seeking_god.html:74
 msgid "Study daily"
@@ -524,11 +524,11 @@ msgstr "Inglid ja Püha Vaim aitavad sind Jumala juurde"
 
 #: 04_seeking_god.html:89
 msgid "Do not be afraid to ask questions about life or the Bible - be humble"
-msgstr "Ära karda küsida küsimusi elu ja Piibli kohta - ole alandlik"
+msgstr "Ära karda küsida küsimusi elu ja piibli kohta - ole alandlik"
 
 #: 04_seeking_god.html:90
 msgid "You need someone to explain the Bible to you"
-msgstr "Sul on vaja kedagi, kes sulle Piiblit õpetab"
+msgstr "Sul on vaja kedagi, kes sulle piiblit õpetab"
 
 #: 04_seeking_god.html:91
 msgid "You will be \"rejoicing\" when you find God"
@@ -552,7 +552,7 @@ msgstr "2 Timoteose 3:16-17"
 
 #: 05_word_of_god.html:39
 msgid "All Scripture is inspired by God"
-msgstr "Kogu Piibel on inspireeritud Jumala poolt"
+msgstr "Kogu piibel on inspireeritud Jumala poolt"
 
 #: 05_word_of_god.html:40
 msgid "It is to be applied to our lives"
@@ -572,7 +572,7 @@ msgstr "Sõna lõikab (võib haiget teha)"
 
 #: 05_word_of_god.html:48
 msgid "Learn that it is good to be \"cut,\" because a scalpel (God's Word) \"cuts\" the cancer (sin) out!"
-msgstr "Kui Sõna \"lõikab\", siis see on hea, nagu skalpell (Piibel) lõikab ära kasvaja (patu)."
+msgstr "Kui Sõna \"lõikab\", siis see on hea, nagu skalpell (piibel) lõikab ära kasvaja (patu)."
 
 #: 05_word_of_god.html:52
 msgid "2 Peter 1:20-21"
@@ -584,7 +584,7 @@ msgstr "Piiblit ei või omavoliliselt seletada"
 
 #: 05_word_of_god.html:55
 msgid "The Holy Spirit inspired the men who wrote the books of the Bible"
-msgstr "Püha Vaim oli see, kes inspireeris inimesi, kes omakorda kirjutasid Piibli"
+msgstr "Püha Vaim oli see, kes inspireeris inimesi, kes omakorda kirjutasid piibli"
 
 #: 05_word_of_god.html:59
 msgctxt "word_of_god #1"
@@ -609,15 +609,15 @@ msgstr "Ka religioossed inimesed võivad eksida"
 
 #: 05_word_of_god.html:68
 msgid "Matthew 15:1-9"
-msgstr ""
+msgstr "Matteuse 15:1-9"
 
 #: 05_word_of_god.html:70
 msgid "Do not go by traditions or creeds"
-msgstr ""
+msgstr "Ära toetu ainult traditsioonidele"
 
 #: 05_word_of_god.html:71
 msgid "Worship by traditions - those which contradict the Word of God - is worship in vain"
-msgstr ""
+msgstr "Traditsioonid, mis käivad piibli vastu, on tühised"
 
 #: 05_word_of_god.html:75
 msgctxt "word_of_god #1"
