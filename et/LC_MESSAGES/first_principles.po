@@ -774,53 +774,53 @@ msgstr "Võidaks terve maailma ... aga teeks enesele kahju. Kaotad oma elu Jeesu
 
 #: 06_discipleship.html:81
 msgid "Luke 14:25-33"
-msgstr ""
+msgstr "Luuka 14:25-33"
 
 #: 06_discipleship.html:84
 msgctxt "discipleship #2"
 msgid "If any man..."
-msgstr ""
+msgstr "Kui keegi..."
 
 #: 06_discipleship.html:85
 msgid "Count the cost (v. 28-30)"
-msgstr ""
+msgstr "Arvesta hinda (v. 28-30)"
 
 #: 06_discipleship.html:86
 msgid "Consider the alternatives (v. 31-32)"
-msgstr ""
+msgstr "Võta alternatiivid arvesse (v. 31-32)"
 
 #: 06_discipleship.html:87
 msgid "Love Christ more than any person (v. 26)"
-msgstr ""
+msgstr "Armasta Jeesust rohkem, kui ühtegi teist inimest (v. 26)"
 
 #: 06_discipleship.html:88
 msgid "Persecutions (v. 27)"
-msgstr ""
+msgstr "Tagakiusamine (v. 27)"
 
 #: 06_discipleship.html:89
 msgid "Everything, not just anything (v. 33)"
-msgstr ""
+msgstr "Kõik (v. 33)"
 
 #: 06_discipleship.html:94
 msgid "Luke 11:1-4"
-msgstr ""
+msgstr "Luuka 11:1-4"
 
 #: 06_discipleship.html:97
 msgid "Must learn to pray - disciples saw the strength Jesus received from the Father"
-msgstr ""
+msgstr "Palvetama peab õppima. Jünrgrid nägid, millist jõudu Jeesus Jumalalt sai läbi palve"
 
 #: 06_discipleship.html:98
 msgid "Daily personal relationship with God (v. 3); daily prayer"
-msgstr ""
+msgstr "Igapäevane isiklik suhe Jumalaga (v. 3), igapäevane palve"
 
 #: 06_discipleship.html:103
 msgctxt "discipleship #1"
 msgid "John 13:34-35"
-msgstr ""
+msgstr "Johannese 13:34-35"
 
 #: 06_discipleship.html:106
 msgid "Love one another"
-msgstr ""
+msgstr "Armastage üksteist"
 
 #: 06_discipleship.html:107
 msgid "Be an active part of the fellowship"
@@ -829,48 +829,48 @@ msgstr ""
 #: 06_discipleship.html:112
 msgctxt "discipleship #2"
 msgid "Matthew 28:18-20"
-msgstr ""
+msgstr "Matteuse 28:18-20"
 
 #: 06_discipleship.html:115
 msgid "Command - make disciples (given to all)"
-msgstr ""
+msgstr "Käsk - tehke jüngriteks (käsk kõigile, mitte ainult apostlitele)"
 
 #: 06_discipleship.html:116
 msgid "Who is a candidate for baptism?  A person who makes the decision to be a disciple"
-msgstr ""
+msgstr "Keda võime ristida? Inimest, kes on otsustanud olla jünger"
 
 #: 06_discipleship.html:117
 msgid "You need someone to disciple you to maturity in Christ"
-msgstr ""
+msgstr "Sul on vaja kedagi, kes õpetab sind olema rohkem nagu Jeesus"
 
 #: 06_discipleship.html:119
 msgid "This is the only way to save the world!"
-msgstr ""
+msgstr "See on ainuke viis päästa maailm"
 
 #: 06_discipleship.html:122
 msgid "Year"
-msgstr ""
+msgstr "Aasta"
 
 #: 06_discipleship.html:123
 msgid "Preacher"
-msgstr ""
+msgstr "Pastor"
 
 #: 06_discipleship.html:124
 msgctxt "discipleship #1"
 msgid "Disciple"
-msgstr ""
+msgstr "Jünger"
 
 #: 06_discipleship.html:149
 msgid "the world, 10 billion plus"
-msgstr ""
+msgstr "Kogu maailm, 10+ miljardit"
 
 #: 06_discipleship.html:158
 msgid "Conclusion Question:"
-msgstr ""
+msgstr "Kokkuvõte:"
 
 #: 06_discipleship.html:158
 msgid "Am I a disciple?  Am I a Christian?  Am I saved?  What do I need to do to become a disciple?"
-msgstr ""
+msgstr "Kas ma olen jünger? Kas ma olen kristlane? Kas ma olen päästetud? Mida ma pean tegema, et saada jüngriks?"
 
 #: 07_coming_of_the_kingdom.html:36
 msgid "In this study you will see the continuity of the Old and New Testaments"
