@@ -414,7 +414,7 @@ msgstr "Õnnis tähendab olla õnnelik"
 
 #: 04_seeking_god.html:40
 msgid "Happiness is not the goal of one who seeks God but the \"by-product\""
-msgstr "Sellele, kes otsib Jumalat, ei ole õnne leidmine  eesmärk. Õnn on pigem kõrvalprodukt"
+msgstr "Sellele, kes otsib Jumalat, ei ole õnne leidmine eesmärk. Õnn on pigem kõrvalprodukt"
 
 #: 04_seeking_god.html:41
 msgid "To seek God you must do it with all your heart"
@@ -471,73 +471,73 @@ msgstr "Johannese 4:23-24"
 
 #: 04_seeking_god.html:66
 msgid "God seeks men (Acts 17 taught men must seek God)"
-msgstr ""
+msgstr "Jumal otsib inimesi (Apostlite 17 õpetab, et inimene peab otsima Jumalat)"
 
 #: 04_seeking_god.html:67
 msgid "Men who want to worship Him in spirit and in truth"
-msgstr ""
+msgstr "Inimesi, kes tahavad Jumalat teenida "
 
 #: 04_seeking_god.html:71
 msgctxt "seeking_god #1"
 msgid "Acts 17:10-12"
-msgstr ""
+msgstr "Apostlite teod 17:10-12"
 
 #: 04_seeking_god.html:73
 msgid "Read and study the Bible for your own convictions"
-msgstr ""
+msgstr "Loe Piiblit oma enda veendumuste tugevdamiseks"
 
 #: 04_seeking_god.html:74
 msgid "Study daily"
-msgstr ""
+msgstr "Loe iga päev"
 
 #: 04_seeking_god.html:78
 msgid "Jeremiah 29:11-14"
-msgstr ""
+msgstr "Jeremija 29:11-14"
 
 #: 04_seeking_god.html:80
 msgid "God has an individual plan for your life"
-msgstr ""
+msgstr "Jumalal on individuaalne plaan sinu elu jaoks"
 
 #: 04_seeking_god.html:81
 msgid "A plan to prosper you - with hope and a future"
-msgstr ""
+msgstr "Jumal tahab anda sulle tulevikku ja lootust"
 
 #: 04_seeking_god.html:82
 msgid "You will find God when you seek Him with all your heart"
-msgstr ""
+msgstr "Sa leiad Jumala, kui sa otsid teda kogu südamest"
 
 #: 04_seeking_god.html:86
 msgctxt "seeking_god #1"
 msgid "Acts 8:26-39"
-msgstr ""
+msgstr "Apostlite teod 8:26-39"
 
 #: 04_seeking_god.html:88
 msgid "The angels and the Holy Spirit are helping to get you to God"
-msgstr ""
+msgstr "Inglid ja Püha Vaim aitavad sind Jumala juurde"
 
 #: 04_seeking_god.html:89
 msgid "Do not be afraid to ask questions about life or the Bible - be humble"
-msgstr ""
+msgstr "Ära karda küsida küsimusi elu ja Piibli kohta - ole alandlik"
 
 #: 04_seeking_god.html:90
 msgid "You need someone to explain the Bible to you"
-msgstr ""
+msgstr "Sul on vaja kedagi, kes sulle Piiblit õpetab"
 
 #: 04_seeking_god.html:91
 msgid "You will be \"rejoicing\" when you find God"
-msgstr ""
+msgstr "Sa oled rõõmus, kui sa leiad Jumala"
 
 #: 04_seeking_god.html:95
 msgid "Matthew 7:7-8"
-msgstr ""
+msgstr "Matteuse 7:7-8"
 
 #: 04_seeking_god.html:97
 msgid "Seek and God guarantees you will find Him"
-msgstr ""
+msgstr "Otsi ja Jumal garanteerib, et sa leiad tema"
 
 #: 04_seeking_god.html:98
 msgid "Ask God for help"
-msgstr ""
+msgstr "Palu Jumalalt abi"
 
 #: 05_word_of_god.html:37
 msgid "2 Timothy 3:16-17"
