@@ -667,29 +667,29 @@ msgstr "Ära unusta, mida sa näed - ole sõna tegija"
 
 #: 05_word_of_god.html:98
 msgid "John 12:48"
-msgstr ""
+msgstr "Johannese 12:48"
 
 #: 05_word_of_god.html:100
 msgid "Why study the Bible? The Word will judge us"
-msgstr ""
+msgstr "Miks piiblit lugeda? Jumala sõna mõistab meie üle kohut viimsel päeval"
 
 #: 05_word_of_god.html:105
 msgid "Decision:"
-msgstr ""
+msgstr "Otsus:"
 
 #: 05_word_of_god.html:105
 msgid "Will I live by the Bible? Or will I live by my feelings, traditions, desires, etc.?"
-msgstr ""
+msgstr "Kas ma elan piibli või oma tunnete, traditsioonide, soovide jne. järgi"
 
 #: 06_discipleship.html:36
 msgctxt "discipleship #1"
 msgid "Introduction:"
-msgstr ""
+msgstr "Sissejuhatus:"
 
 #: 06_discipleship.html:36
 msgctxt "discipleship #1"
 msgid "Matthew 28:18-20"
-msgstr ""
+msgstr "Matteuse 28:18-20"
 
 #: 06_discipleship.html:39
 msgid "What does Jesus want everybody to become?"
@@ -697,35 +697,35 @@ msgstr ""
 
 #: 06_discipleship.html:40
 msgid "Which is the more popular term - \"Disciple\" or \"Christian?\" The word \"Christian\" only appears three times in the New Testament. It is the name those in the world gave the disciples, seven years after the church began"
-msgstr ""
+msgstr "Mis on populaarsem termin tänapäeval, jünger või kristlane? Sõna \"kristlane\" leiab uuest testamendist vaid 3 korda. See on nimi, mille andsid inimesed Jeesuse jüngritele seitse aastat peale koguduse algust."
 
 #: 06_discipleship.html:41
 msgid "Acts 11:19-26"
-msgstr ""
+msgstr "Apostlite teod 11:19-26"
 
 #: 06_discipleship.html:42
 msgid "The word \"Disciple\" occurs over 270 times in the New Testament"
-msgstr ""
+msgstr "Sõna \"jünger\" esineb uues testamendis üle 270 korra"
 
 #: 06_discipleship.html:44
 msgid "SAVED = CHRISTIAN = DISCIPLE"
-msgstr ""
+msgstr "Päästetud=kristlane=jünger"
 
 #: 06_discipleship.html:45
 msgid "Jesus came to make disciples. Only baptized disciples will be saved"
-msgstr ""
+msgstr "Jeesus tuli tegema jüngreid. Ainult ristitud jüngrid on päästetud"
 
 #: 06_discipleship.html:49
 msgid "Let's have Jesus define disciple, thus defining who is a true Christian"
-msgstr ""
+msgstr "Vaatame, mida ütles Jeesus selle kohta, kes on tõeline jünger ja seega, kes on tõeline kristlane"
 
 #: 06_discipleship.html:55
 msgid "Mark 1:14-18"
-msgstr ""
+msgstr "Markuse 1:14-18"
 
 #: 06_discipleship.html:58
 msgid "Calling of the first disciples"
-msgstr ""
+msgstr "Esimeste jüngrite kutsumine"
 
 #: 06_discipleship.html:59
 msgid "Come follow me (Christ)"
