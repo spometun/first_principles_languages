@@ -45,7 +45,7 @@ msgstr "Jumala riigi tulek"
 
 #: 08_light_and_darkness.html:17
 msgid "Light and Darkness"
-msgstr "Valgus ja pimedus"
+msgstr "Pimedus ja valgus"
 
 #: 09_new_testament_conversion.html:17
 msgid "New Testament Conversion"
@@ -69,7 +69,7 @@ msgstr "Püha Vaimu imelised annid"
 
 #: 14_church.html:17
 msgid "The Church"
-msgstr "Kirik"
+msgstr "Kirik/kogudus"
 
 #: 15_book_of_acts.html:17
 msgid "The Book of Acts"
@@ -109,11 +109,18 @@ msgstr ""
 
 #: 01_introduction.html:36
 msgid "For when by reason of the time you ought to be teachers, you... need to have someone teach you the rudiments of the first principles of the oracles of God... Therefore leaving the doctrine of the first principles of Christ, let us press on to perfection - not laying again a foundation... of faith toward God, of the teaching of baptisms, of laying on of hands, of resurrection of the dead and of eternal judgment. This will we do!"
-msgstr ""
+msgstr "Teie, kes te selle aja peale peaksite olema õpetajad, vajate,\n"
+"et teile jälle õpetataks Jumala sõnade esmaseid algeid, te olete saanud\n"
+"nende väärseks, kes vajavad piima, mitte tahket toitu. \n"
+"Seepärast, jättes kõrvale õpetuse Kristuse alguse kohta,\n"
+"suundugem täiuslikkusele. Ärgem hakakem taas rajama alust\n"
+"meeleparandusele surnud tegudest, usule Jumalasse, õpetusele ristimisest, käte pealepanemisest, surnute\n"
+"ülestõusmisest ja igavesest hukkamõistust. Seda me teemegi, kui Jumal lubab. \n"
+""
 
 #: 01_introduction.html:36
 msgid "Hebrews 5:12; 6:1-3"
-msgstr ""
+msgstr "Heebrealaste 5:12, 6:1-3"
 
 #: 01_introduction.html:36
 msgid "WEV"
