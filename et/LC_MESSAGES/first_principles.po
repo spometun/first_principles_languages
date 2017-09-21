@@ -584,28 +584,28 @@ msgstr "Piiblit ei või omavoliliselt seletada"
 
 #: 05_word_of_god.html:55
 msgid "The Holy Spirit inspired the men who wrote the books of the Bible"
-msgstr ""
+msgstr "Püha Vaim oli see, kes inspireeris inimesi, kes omakorda kirjutasid Piibli"
 
 #: 05_word_of_god.html:59
 msgctxt "word_of_god #1"
 msgid "John 8:31-32"
-msgstr ""
+msgstr "Johannese 8:31-32"
 
 #: 05_word_of_god.html:61
 msgid "Intellectual belief is not enough - nor can we go by our feelings"
-msgstr ""
+msgstr "Intellektuaalne usk ei ole piisav, ka ei saa me oma elu elada toetudes vaid oma tunnetele"
 
 #: 05_word_of_god.html:62
 msgid "Everyone must hold on to and follow the teachings of Jesus to be a true disciple"
-msgstr ""
+msgstr "Et olla tõeline jünger, peab järgima Jeesuse õpetust"
 
 #: 05_word_of_god.html:63
 msgid "Sincerity does not equal truth"
-msgstr ""
+msgstr "Siirus ei ole alati tõde"
 
 #: 05_word_of_god.html:64
 msgid "Religious people can be wrong"
-msgstr ""
+msgstr "Ka religioossed inimesed võivad eksida"
 
 #: 05_word_of_god.html:68
 msgid "Matthew 15:1-9"
