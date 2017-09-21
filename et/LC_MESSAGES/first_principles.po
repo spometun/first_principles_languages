@@ -770,7 +770,7 @@ msgstr "Kanna oma risti iga päev"
 
 #: 06_discipleship.html:76
 msgid "Gain the world ... forfeit soul. Lose your life for Jesus ... save it"
-msgstr ""
+msgstr "Võidaks terve maailma ... aga teeks enesele kahju. Kaotad oma elu Jeesuse pärast, päästad oma elu"
 
 #: 06_discipleship.html:81
 msgid "Luke 14:25-33"
