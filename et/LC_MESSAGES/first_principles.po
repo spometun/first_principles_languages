@@ -120,7 +120,7 @@ msgstr "Teie, kes te selle aja peale peaksite olema õpetajad, vajate,\n"
 
 #: 01_introduction.html:36
 msgid "Hebrews 5:12; 6:1-3"
-msgstr "Heebrealaste 5:12, 6:1-3"
+msgstr " Heebrealaste 5:12, 6:1-3"
 
 #: 01_introduction.html:36
 msgid "WEV"
