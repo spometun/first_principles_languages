@@ -406,51 +406,52 @@ msgstr ""
 
 #: 04_seeking_god.html:37
 msgid "Psalm 119:1-2"
-msgstr ""
+msgstr "Psalmid 119:1-2"
 
 #: 04_seeking_god.html:39
 msgid "Blessed means happy (superlatively happy)"
-msgstr ""
+msgstr "Õnnis tähendab olla õnnelik"
 
 #: 04_seeking_god.html:40
 msgid "Happiness is not the goal of one who seeks God but the \"by-product\""
-msgstr ""
+msgstr "Sellele, kes otsib Jumalat, ei ole õnne leidmine  eesmärk. Õnn on pigem kõrvalprodukt"
 
 #: 04_seeking_god.html:41
 msgid "To seek God you must do it with all your heart"
-msgstr ""
+msgstr "Et Jumalat otsida, tuleb seda teha kogu südamest"
 
 #: 04_seeking_god.html:42
 msgid "Seeking God means to \"keep His statutes\""
-msgstr ""
+msgstr "Otsida Jumalat tähendab \"pidada tema tunnistusi\""
 
 #: 04_seeking_god.html:46
 msgid "Matthew 6:25-34"
-msgstr ""
+msgstr "Matteuse 6:25-34"
 
 #: 04_seeking_god.html:48
 msgid "Do not worry - ironic - can not add a single hour to your life"
-msgstr ""
+msgstr "Ära muretse. Kas sa saad \"oma elule ühe\n"
+"küünragi juurde lisada\" muretsemisega?"
 
 #: 04_seeking_god.html:49
 msgid "God knows your needs"
-msgstr ""
+msgstr "Jumal teab su vajadusi"
 
 #: 04_seeking_god.html:50
 msgid "Seek first His kingdom and righteousness"
-msgstr ""
+msgstr "Otsi esmalt Jumala riiki ja tema õigust"
 
 #: 04_seeking_god.html:51
 msgid "Then God will give you everything you need"
-msgstr ""
+msgstr "Siis annab Jumal sulle kõik, mida sa vajad"
 
 #: 04_seeking_god.html:55
 msgid "Acts 17:26-28"
-msgstr ""
+msgstr "Apostlite teod 17:26-28"
 
 #: 04_seeking_god.html:57
 msgid "God determines the times and places each person lives"
-msgstr ""
+msgstr "Jumal on seadnud ettemääratud ajad ja asukohtad, kus iga inimene elab"
 
 #: 04_seeking_god.html:58
 msgid "He does this so men will seek Him, reach out for Him and find Him"
