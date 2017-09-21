@@ -729,44 +729,44 @@ msgstr "Esimeste jüngrite kutsumine"
 
 #: 06_discipleship.html:59
 msgid "Come follow me (Christ)"
-msgstr ""
+msgstr "Järgnege mulle (Kristus)"
 
 #: 06_discipleship.html:60
 msgid "Fishers of men - Jesus gave these first disciples the real purpose for living"
-msgstr ""
+msgstr "Inimesepüüdjad- Jeesus andis esimestele jüngritele uue elu mõtte"
 
 #: 06_discipleship.html:61
 msgid "Immediately"
-msgstr ""
+msgstr "Kohe"
 
 #: 06_discipleship.html:66
 msgid "Luke 9:23-26"
-msgstr ""
+msgstr "Luuka 9:23-26"
 
 #: 06_discipleship.html:69
 msgctxt "discipleship #1"
 msgid "If any man..."
-msgstr ""
+msgstr "Kui keegi tahab..."
 
 #: 06_discipleship.html:70
 msgid "Deny self. Notice Christ in the garden"
-msgstr ""
+msgstr "Salga oma mina. Jeesus Ketsemani aias"
 
 #: 06_discipleship.html:72
 msgid "Matthew 26:36-39"
-msgstr ""
+msgstr "Matteuse 26:36-39"
 
 #: 06_discipleship.html:73
 msgid "'Not my will, but your will'"
-msgstr ""
+msgstr "\"Ometi ärgu sündigu nõnda, nagu mina tahan, vaid nii nagu sina!” "
 
 #: 06_discipleship.html:73
 msgid "Do not give in to moods"
-msgstr ""
+msgstr "Ära anna järele oma meeleoludele"
 
 #: 06_discipleship.html:75
 msgid "Carry the cross - daily"
-msgstr ""
+msgstr "Kanna oma risti iga päev"
 
 #: 06_discipleship.html:76
 msgid "Gain the world ... forfeit soul. Lose your life for Jesus ... save it"
