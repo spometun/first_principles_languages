@@ -455,19 +455,19 @@ msgstr "Jumal on seadnud ettemääratud ajad ja asukohtad, kus iga inimene elab"
 
 #: 04_seeking_god.html:58
 msgid "He does this so men will seek Him, reach out for Him and find Him"
-msgstr ""
+msgstr "Jumal teeb seda selleks, et inimesed otsiks teda, püüaks käega katsuda ja teda leida"
 
 #: 04_seeking_god.html:59
 msgid "He is not far from anyone"
-msgstr ""
+msgstr "Jumal ei ole meist kellegist kaugel"
 
 #: 04_seeking_god.html:60
 msgid "A Christian meeting you is not by chance - but of God"
-msgstr ""
+msgstr "Kui keegi kristlane sinuga kohtub, siis pole see juhuslik, vaid Jumala poolt määratud"
 
 #: 04_seeking_god.html:64
 msgid "John 4:23-24"
-msgstr ""
+msgstr "Johannese 4:23-24"
 
 #: 04_seeking_god.html:66
 msgid "God seeks men (Acts 17 taught men must seek God)"
