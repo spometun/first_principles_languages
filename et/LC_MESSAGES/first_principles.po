@@ -482,7 +482,7 @@ msgstr "Jumal otsib inimesi (Apostlite 17 õpetab, et inimene peab otsima Jumala
 
 #: 04_seeking_god.html:67
 msgid "Men who want to worship Him in spirit and in truth"
-msgstr "Inimesi, kes tahavad Jumalat teenida "
+msgstr "Inimesi, kes tahavad Jumalat teenida"
 
 #: 04_seeking_god.html:71
 msgctxt "seeking_god #1"
@@ -556,7 +556,7 @@ msgstr "Kogu piibel on inspireeritud Jumala poolt"
 
 #: 05_word_of_god.html:40
 msgid "It is to be applied to our lives"
-msgstr "Seda tuleb kasutada meie eludes"
+msgstr "Seda tuleks rakendada oma elus"
 
 #: 05_word_of_god.html:44
 msgid "Hebrews 4:12-13"
@@ -693,7 +693,7 @@ msgstr "Matteuse 28:18-20"
 
 #: 06_discipleship.html:39
 msgid "What does Jesus want everybody to become?"
-msgstr ""
+msgstr "Kelleks tahab Jeesus, et me saaksime?"
 
 #: 06_discipleship.html:40
 msgid "Which is the more popular term - \"Disciple\" or \"Christian?\" The word \"Christian\" only appears three times in the New Testament. It is the name those in the world gave the disciples, seven years after the church began"
@@ -733,7 +733,7 @@ msgstr "Järgnege mulle (Kristus)"
 
 #: 06_discipleship.html:60
 msgid "Fishers of men - Jesus gave these first disciples the real purpose for living"
-msgstr "Inimesepüüdjad- Jeesus andis esimestele jüngritele uue elu mõtte"
+msgstr "Inimesepüüdjad - Jeesus andis esimeste jüngrite eludele uue eesmärgi"
 
 #: 06_discipleship.html:61
 msgid "Immediately"
@@ -758,7 +758,7 @@ msgstr "Matteuse 26:36-39"
 
 #: 06_discipleship.html:73
 msgid "'Not my will, but your will'"
-msgstr "\"Ometi ärgu sündigu nõnda, nagu mina tahan, vaid nii nagu sina!” "
+msgstr "\"Ometi ärgu sündigu nõnda, nagu mina tahan, vaid nii nagu sina!”"
 
 #: 06_discipleship.html:73
 msgid "Do not give in to moods"
@@ -787,7 +787,7 @@ msgstr "Arvesta hinda (v. 28-30)"
 
 #: 06_discipleship.html:86
 msgid "Consider the alternatives (v. 31-32)"
-msgstr "Võta alternatiivid arvesse (v. 31-32)"
+msgstr "Arvesta alternatiividega (v. 31-32)"
 
 #: 06_discipleship.html:87
 msgid "Love Christ more than any person (v. 26)"
@@ -824,7 +824,7 @@ msgstr "Armastage üksteist"
 
 #: 06_discipleship.html:107
 msgid "Be an active part of the fellowship"
-msgstr ""
+msgstr "Ole koguduse aktiivne osa"
 
 #: 06_discipleship.html:112
 msgctxt "discipleship #2"
@@ -1339,16 +1339,16 @@ msgstr ""
 #: 08_light_and_darkness.html:39
 msgctxt "light_and_darkness #1"
 msgid "Introduction:"
-msgstr ""
+msgstr "Sissejuhatus"
 
 #: 08_light_and_darkness.html:39
 msgid "1 Peter 2:9-10"
-msgstr ""
+msgstr "1 Peetruse 2:9-10"
 
 #: 08_light_and_darkness.html:44
 msgctxt "light_and_darkness #1"
 msgid "Darkness"
-msgstr ""
+msgstr "Pimedus"
 
 #: 08_light_and_darkness.html:44
 msgid "Not a people of God"
@@ -1361,7 +1361,7 @@ msgstr ""
 #: 08_light_and_darkness.html:46
 msgctxt "light_and_darkness #1"
 msgid "Light"
-msgstr ""
+msgstr "Valgus"
 
 #: 08_light_and_darkness.html:46
 msgid "People of God"
@@ -1377,75 +1377,75 @@ msgstr ""
 
 #: 08_light_and_darkness.html:50
 msgid "Not a Christian"
-msgstr ""
+msgstr "Ei ole kristlane"
 
 #: 08_light_and_darkness.html:50
 msgid "Not a Disciple"
-msgstr ""
+msgstr "Ei ole jünger"
 
 #: 08_light_and_darkness.html:52
 msgid "Saved"
-msgstr ""
+msgstr "Päästetud"
 
 #: 08_light_and_darkness.html:52
 msgctxt "light_and_darkness #1"
 msgid "Christian"
-msgstr ""
+msgstr "Kristlane"
 
 #: 08_light_and_darkness.html:52
 msgctxt "light_and_darkness #1"
 msgid "Disciple"
-msgstr ""
+msgstr "Jünger"
 
 #: 08_light_and_darkness.html:58
 msgid "Every person is either in the darkness or the light.  There is no twilight zone"
-msgstr ""
+msgstr "Iga inimene on kas pimeduses või valguses, mingit halli tsooni ei eksisteeri"
 
 #: 08_light_and_darkness.html:59
 msgid "Where are you?"
-msgstr ""
+msgstr "Kus oled sina?"
 
 #: 08_light_and_darkness.html:64
 msgctxt "light_and_darkness #2"
 msgid "Darkness"
-msgstr ""
+msgstr "Pimedus"
 
 #: 08_light_and_darkness.html:67
 msgctxt "light_and_darkness #1"
 msgid "Isaiah 59:1-2"
-msgstr ""
+msgstr "Jesaja 59:1-2"
 
 #: 08_light_and_darkness.html:70
 msgid "Sin separates us from God"
-msgstr ""
+msgstr "Patt eraldab meid Jumalast"
 
 #: 08_light_and_darkness.html:75
 msgid "WALL"
-msgstr ""
+msgstr "SEIN"
 
 #: 08_light_and_darkness.html:80
 msgctxt "light_and_darkness #1"
 msgid "DARKNESS"
-msgstr ""
+msgstr "PIMEDUS"
 
 #: 08_light_and_darkness.html:80
 msgid "MAN"
-msgstr ""
+msgstr "INIMENE"
 
 #: 08_light_and_darkness.html:87
 msgctxt "light_and_darkness #1"
 msgid "LIGHT"
-msgstr ""
+msgstr "VALGUS"
 
 #: 08_light_and_darkness.html:87
 msgctxt "light_and_darkness #1"
 msgid "GOD"
-msgstr ""
+msgstr "JUMAL"
 
 #: 08_light_and_darkness.html:93
 msgctxt "light_and_darkness #1"
 msgid "SIN"
-msgstr ""
+msgstr "PATT"
 
 #: 08_light_and_darkness.html:98
 msgid "In order for a man to have a relationship with God the wall must be broken down - sin must be forgiven"
@@ -1457,38 +1457,38 @@ msgstr ""
 
 #: 08_light_and_darkness.html:103
 msgid "Romans 3:23-25"
-msgstr ""
+msgstr "Roomlastele 3:23-25"
 
 #: 08_light_and_darkness.html:106
 msgid "Who has sinned?  Everyone!"
-msgstr ""
+msgstr "Kes on pattu teinud? Meie kõik!"
 
 #: 08_light_and_darkness.html:110
 msgctxt "light_and_darkness #2"
 msgid "SIN"
-msgstr ""
+msgstr "PATT"
 
 #: 08_light_and_darkness.html:114
 msgctxt "light_and_darkness #3"
 msgid "SIN"
-msgstr ""
+msgstr "PATT"
 
 #: 08_light_and_darkness.html:118
 msgctxt "light_and_darkness #4"
 msgid "SIN"
-msgstr ""
+msgstr "PATT"
 
 #: 08_light_and_darkness.html:123
 msgid "Person A"
-msgstr ""
+msgstr "Inimene A"
 
 #: 08_light_and_darkness.html:126
 msgid "Person B"
-msgstr ""
+msgstr "Inimene B"
 
 #: 08_light_and_darkness.html:129
 msgid "Person C"
-msgstr ""
+msgstr "Inimene C"
 
 #: 08_light_and_darkness.html:134
 msgid "Who is further away from God:  a person who sins a little, or a person who sins a lot?  All are equal, all lost.  Therefore a good moral life does not save you.  You cannot earn your salvation by your good deeds"
