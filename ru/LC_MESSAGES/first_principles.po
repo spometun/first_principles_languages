@@ -85,7 +85,7 @@ msgstr "Иисус - твоя жизнь"
 
 #: 18_best_friends_of_all_time.html:17
 msgid "Best Friends of All Time"
-msgstr "Лучший Друг во все времена"
+msgstr "Лучшиe друзья на все времена"
 
 #: 19_mission.html:17
 msgid "The Mission"
@@ -324,11 +324,11 @@ msgstr ""
 
 #: 02_course_information.html:137
 msgid "The Tale of Three Kings"
-msgstr ""
+msgstr "История трех царей"
 
 #: 02_course_information.html:137
 msgid "- Edwards -"
-msgstr ""
+msgstr "Эдвардс Джин"
 
 #: 02_course_information.html:137
 msgctxt "course_information #2"
