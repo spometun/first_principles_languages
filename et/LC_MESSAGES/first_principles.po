@@ -1334,7 +1334,7 @@ msgstr ""
 
 #: 08_light_and_darkness.html:36
 msgid "It is often helpful to begin this study by constructing a \"spiritual timeline\" with the person whom you are helping to become a disciple"
-msgstr ""
+msgstr "Seda tundi on hea alustada inimese, keda sa aitad jüngriks saada, \"vaimse eluliini\" koostamisega."
 
 #: 08_light_and_darkness.html:39
 msgctxt "light_and_darkness #1"
@@ -1352,11 +1352,11 @@ msgstr "Pimedus"
 
 #: 08_light_and_darkness.html:44
 msgid "Not a people of God"
-msgstr ""
+msgstr "Ei ole Jumala rahvas"
 
 #: 08_light_and_darkness.html:44
 msgid "No Mercy"
-msgstr ""
+msgstr "Ei ole halastust"
 
 #: 08_light_and_darkness.html:46
 msgctxt "light_and_darkness #1"
@@ -1365,15 +1365,15 @@ msgstr "Valgus"
 
 #: 08_light_and_darkness.html:46
 msgid "People of God"
-msgstr ""
+msgstr "Jumala rahvas"
 
 #: 08_light_and_darkness.html:46
 msgid "Mercy"
-msgstr ""
+msgstr "Halastus"
 
 #: 08_light_and_darkness.html:50
 msgid "Lost"
-msgstr ""
+msgstr "Kadunud"
 
 #: 08_light_and_darkness.html:50
 msgid "Not a Christian"
@@ -1449,11 +1449,11 @@ msgstr "PATT"
 
 #: 08_light_and_darkness.html:98
 msgid "In order for a man to have a relationship with God the wall must be broken down - sin must be forgiven"
-msgstr ""
+msgstr "Et inimesel saaks olla suhe Jumalaga tuleb see sein lammutada - patt tuleb andeks saada"
 
 #: 08_light_and_darkness.html:99
 msgid "The point in time that sin is forgiven is the point in time a person is saved"
-msgstr ""
+msgstr "See hetk, kui inimene saab oma patud andeks on hetk, mil inimene on päästetud"
 
 #: 08_light_and_darkness.html:103
 msgid "Romans 3:23-25"
@@ -1492,23 +1492,23 @@ msgstr "Inimene C"
 
 #: 08_light_and_darkness.html:134
 msgid "Who is further away from God:  a person who sins a little, or a person who sins a lot?  All are equal, all lost.  Therefore a good moral life does not save you.  You cannot earn your salvation by your good deeds"
-msgstr ""
+msgstr "Kes on kaugemal Jumalast: see, kes on vähe patustanud või see, kes palju? Kõik on võrdsed Jumala ees, kõik on kadunud. Seega hea moraalne elu ei päästa sind. Sa ei saa kuidagi oma heade tegudega päästet ära teenida"
 
 #: 08_light_and_darkness.html:135
 msgid "Faith in the blood of Jesus saves you"
-msgstr ""
+msgstr "Usk Jeesuse veresse  päästab su"
 
 #: 08_light_and_darkness.html:135
 msgid "v. 25"
-msgstr ""
+msgstr "v. 25"
 
 #: 08_light_and_darkness.html:139
 msgid "What is Sin?"
-msgstr ""
+msgstr "Mis on patt?"
 
 #: 08_light_and_darkness.html:141
 msgid "Galatians 5:19-21"
-msgstr ""
+msgstr "Galaatlastele 5:19-21"
 
 #: 08_light_and_darkness.html:141
 msgctxt "light_and_darkness #1"
@@ -1517,7 +1517,7 @@ msgstr ""
 
 #: 08_light_and_darkness.html:142
 msgid "2 Timothy 3:1-5"
-msgstr ""
+msgstr "2 Timoteosele 3:1-5"
 
 #: 08_light_and_darkness.html:142
 msgctxt "light_and_darkness #2"
@@ -1526,7 +1526,7 @@ msgstr ""
 
 #: 08_light_and_darkness.html:143
 msgid "James 4:17"
-msgstr ""
+msgstr "Jaakobuse 4:17"
 
 #: 08_light_and_darkness.html:143
 msgid "(sins of omission)"
@@ -1534,217 +1534,217 @@ msgstr ""
 
 #: 08_light_and_darkness.html:147
 msgid "What is the eternal consequence of sin?"
-msgstr ""
+msgstr "Millised on patu tagajärjed igavikus?"
 
 #: 08_light_and_darkness.html:147
 msgid "Romans 6:23"
-msgstr ""
+msgstr "Roomlastele 6:23"
 
 #: 08_light_and_darkness.html:152
 msgid "WAGES OF SIN"
-msgstr ""
+msgstr "PATU PALK"
 
 #: 08_light_and_darkness.html:153
 msgid "GIFT OF GOD"
-msgstr ""
+msgstr "JUMALA ARMUAND"
 
 #: 08_light_and_darkness.html:156
 msgid "Death"
-msgstr ""
+msgstr "Surm"
 
 #: 08_light_and_darkness.html:156
 msgid "Hell"
-msgstr ""
+msgstr "Põrgu"
 
 #: 08_light_and_darkness.html:156
 msgctxt "light_and_darkness #3"
 msgid "Darkness"
-msgstr ""
+msgstr "Pimedus"
 
 #: 08_light_and_darkness.html:159
 msgid "Eternal Life"
-msgstr ""
+msgstr "Igavene elu"
 
 #: 08_light_and_darkness.html:159
 msgid "Heaven"
-msgstr ""
+msgstr "Taevas"
 
 #: 08_light_and_darkness.html:159
 msgctxt "light_and_darkness #2"
 msgid "Light"
-msgstr ""
+msgstr "Valgus"
 
 #: 08_light_and_darkness.html:168
 msgctxt "light_and_darkness #3"
 msgid "Light"
-msgstr ""
+msgstr "Valgus"
 
 #: 08_light_and_darkness.html:170
 msgctxt "light_and_darkness #1"
 msgid "John 3:1-7"
-msgstr ""
+msgstr "Johannese 3:1-7"
 
 #: 08_light_and_darkness.html:170
 msgid "Born again (v. 3), born of water and Spirit (v. 5), born again. (v. 7)"
-msgstr ""
+msgstr "Sündida ülalt (v. 3), sündida veest ja Vaimust  (v. 5), sündida ülalt (v. 7)"
 
 #: 08_light_and_darkness.html:171
 msgid "Personal decision as an adult"
-msgstr ""
+msgstr "Täiskasvanud isiklik otsus"
 
 #: 08_light_and_darkness.html:173
 msgid "What message must one believe to be in the light (to be saved)?"
-msgstr ""
+msgstr "Mida peab inimene uskuma, et saada valgusesse (päästetud)?"
 
 #: 08_light_and_darkness.html:173
 msgid "Acts 2:22-24"
-msgstr ""
+msgstr "Apostlite teod 2:22-24"
 
 #: 08_light_and_darkness.html:175
 msgid "Jesus is from God"
-msgstr ""
+msgstr "Jeesus on Jumalast"
 
 #: 08_light_and_darkness.html:175
 msgid "v. 22"
-msgstr ""
+msgstr "v. 22"
 
 #: 08_light_and_darkness.html:176
 msgid "Jesus raised physically from the dead"
-msgstr ""
+msgstr "Jeesus ärkas füüsiliselt surnuist üles"
 
 #: 08_light_and_darkness.html:176
 msgctxt "light_and_darkness #1"
 msgid "v. 24"
-msgstr ""
+msgstr "v. 24"
 
 #: 08_light_and_darkness.html:177
 msgid "Everyone is responsible for the crucifixion of Christ"
-msgstr ""
+msgstr "Kõik me oleme vastutavad Jeesuse ristilöömise eest"
 
 #: 08_light_and_darkness.html:177
 msgctxt "light_and_darkness #1"
 msgid "v. 23"
-msgstr ""
+msgstr "v. 23"
 
 #: 08_light_and_darkness.html:177
 msgid "All have sinned."
-msgstr ""
+msgstr "Kõik me oleme pattu teinud"
 
 #: 08_light_and_darkness.html:177
 msgctxt "light_and_darkness #1"
 msgid "Romans 3:23"
-msgstr ""
+msgstr "Roomlastele 3:23"
 
 #: 08_light_and_darkness.html:181
 msgid "Response of people:"
-msgstr ""
+msgstr "Inimeste reaktsioon"
 
 #: 08_light_and_darkness.html:181
 msgid "Acts 2:36-37"
-msgstr ""
+msgstr "Apostlite teod 2:36-37"
 
 #: 08_light_and_darkness.html:183
 msgid "Cut to the heart"
-msgstr ""
+msgstr "Kuuldu lõikas neile südamesse"
 
 #: 08_light_and_darkness.html:184
 msgid "What shall we do?"
-msgstr ""
+msgstr "Mida me peame tegema?"
 
 #: 08_light_and_darkness.html:188
 msgid "Once the people believed, what did they do?"
-msgstr ""
+msgstr "Mida tegid inimesed, kes uskusid?"
 
 #: 08_light_and_darkness.html:188
 msgid "Acts 2:38-42"
-msgstr ""
+msgstr "Apostlite teod 2:38-42"
 
 #: 08_light_and_darkness.html:190
 msgid "Repent (Greek = to turn)"
-msgstr ""
+msgstr "Meeleparandus/kahetsus (Kreeka k. = pöörata)"
 
 #: 08_light_and_darkness.html:192
 msgid "Be baptized (Greek = to be immersed)"
-msgstr ""
+msgstr "Ristimine (Kreeka k. = vee alla vajumine)"
 
 #: 08_light_and_darkness.html:194
 msgid "Sin forgiven. Therefore this is the point in time a person is saved"
-msgstr ""
+msgstr "Patt on andeks antud. Seega on just see hetk, mil inimene on päästetud"
 
 #: 08_light_and_darkness.html:195
 msgid "Holy Spirit given to each who responded - power to live as God commands"
-msgstr ""
+msgstr "Kõik, kes võtsid sõna vastu, said Püha Vaimu, mis aitab nüüdki elada nii, nagu Jumal soovib"
 
 #: 08_light_and_darkness.html:199
 msgid "Baptism:"
-msgstr ""
+msgstr "Ristimine:"
 
 #: 08_light_and_darkness.html:199
 msgid "Romans 6:1-4"
-msgstr ""
+msgstr "Roomlastele 6:1-4"
 
 #: 08_light_and_darkness.html:200
 msgid "Baptism is the sharing (a participation) in the death, burial and resurrection of Christ. (More than just a symbol)"
-msgstr ""
+msgstr "Ristimine on osalemine Jeesuse surmas,  mahamatmuses ja ülestõusmises. See on midagi rohkemat kui lihtsalt sümbol"
 
 #: 08_light_and_darkness.html:208
 msgid "JESUS"
-msgstr ""
+msgstr "JEESUS"
 
 #: 08_light_and_darkness.html:210
 msgid "DIED"
-msgstr ""
+msgstr "Suri"
 
 #: 08_light_and_darkness.html:212
 msgid "RESURRECTED"
-msgstr ""
+msgstr "Tõusis üles"
 
 #: 08_light_and_darkness.html:218
 msgid "BURIED"
-msgstr ""
+msgstr "Maha maetud"
 
 #: 08_light_and_darkness.html:226
 msgid "OLD LIFE"
-msgstr ""
+msgstr "Vana elu"
 
 #: 08_light_and_darkness.html:228
 msgid "\"DIED WITH CHRIST\""
-msgstr ""
+msgstr "\"Surra Jeesusega\""
 
 #: 08_light_and_darkness.html:230
 msgid "\"RAISED TO A NEW LIFE\""
-msgstr ""
+msgstr "\"Ülestõus uude ellu\""
 
 #: 08_light_and_darkness.html:236
 msgid "\"BURIED WITH CHRIST\""
-msgstr ""
+msgstr "\"Maha maetud Jeesusega\""
 
 #: 08_light_and_darkness.html:245
 msgctxt "light_and_darkness #2"
 msgid "DARKNESS"
-msgstr ""
+msgstr "PIMEDUS"
 
 #: 08_light_and_darkness.html:246
 msgctxt "light_and_darkness #2"
 msgid "LIGHT"
-msgstr ""
+msgstr "VALGUS"
 
 #: 08_light_and_darkness.html:249
 msgid "Sin"
-msgstr ""
+msgstr "Patt"
 
 #: 08_light_and_darkness.html:249
 msgid "Separates us from God"
-msgstr ""
+msgstr "Eraldab meid Jumalast"
 
 #: 08_light_and_darkness.html:252
 msgctxt "light_and_darkness #1"
 msgid "Acts 2:38"
-msgstr ""
+msgstr "Apostlite teod 2:38"
 
 #: 08_light_and_darkness.html:253
 msgid "Sin is Forgiven"
-msgstr ""
+msgstr "Patt on andeks antud"
 
 #: 08_light_and_darkness.html:257
 msgid "Born Again of Water and Spirit"
