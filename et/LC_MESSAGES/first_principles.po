@@ -1846,93 +1846,93 @@ msgstr "Soovita inimesele, kellega sa piiblit loed, et ta kirjutaks võimalikult
 
 #: 09_new_testament_conversion.html:37
 msgid "The Major Conversions in Acts"
-msgstr ""
+msgstr "Suuremad pöördumised Apostlite tegudes"
 
 #: 09_new_testament_conversion.html:40
 msgid "Conversions"
-msgstr ""
+msgstr "Pööedumised"
 
 #: 09_new_testament_conversion.html:49
 msgctxt "new_testament_conversion #1"
 msgid "Acts 2:36-47"
-msgstr ""
+msgstr "Apostlite teod 2:36-47"
 
 #: 09_new_testament_conversion.html:54
 msgid "First Christian in Jerusalem"
-msgstr ""
+msgstr "Esimene kristlane Jeruusalemmas"
 
 #: 09_new_testament_conversion.html:64
 msgctxt "new_testament_conversion #1"
 msgid "Acts 8:26-39"
-msgstr ""
+msgstr "Apostlite teod 8:26-39"
 
 #: 09_new_testament_conversion.html:69
 msgid "Ethiopian Eunich"
-msgstr ""
+msgstr "Etioopia kojaülem"
 
 #: 09_new_testament_conversion.html:79
 msgid "Acts 16:22-34"
-msgstr ""
+msgstr "Apostlite teod 16:22-34"
 
 #: 09_new_testament_conversion.html:84
 msgid "Philippian jailer and his family"
-msgstr ""
+msgstr "Vangivalvur ja tema pere Filippis"
 
 #: 09_new_testament_conversion.html:94
 msgctxt "new_testament_conversion #1"
 msgid "Acts 9:1-22"
-msgstr ""
+msgstr "Apostlite teod 9:1-22"
 
 #: 09_new_testament_conversion.html:99
 msgctxt "new_testament_conversion #1"
 msgid "Paul"
-msgstr ""
+msgstr "Paulus"
 
 #: 09_new_testament_conversion.html:106
 msgid "Acts 22:3-16"
-msgstr ""
+msgstr "Apostlite teod 22:3-16"
 
 #: 09_new_testament_conversion.html:111
 msgctxt "new_testament_conversion #2"
 msgid "Paul"
-msgstr ""
+msgstr "Paulus"
 
 #: 09_new_testament_conversion.html:121
 msgid "Acts 18:24-26"
-msgstr ""
+msgstr "Apostlite teod 18:24-26"
 
 #: 09_new_testament_conversion.html:126
 msgid "Apollos"
-msgstr ""
+msgstr "Apollos"
 
 #: 09_new_testament_conversion.html:136
 msgctxt "new_testament_conversion #1"
 msgid "Acts 19:1-5"
-msgstr ""
+msgstr "Apostlite teod 19:1-5"
 
 #: 09_new_testament_conversion.html:141
 msgid "Ephesians"
-msgstr ""
+msgstr "Efeslased"
 
 #: 09_new_testament_conversion.html:147
 msgid "Questions concerning Conversions"
-msgstr ""
+msgstr "Küsimused seoses pöördumistega"
 
 #: 09_new_testament_conversion.html:150
 msgid "What was preached?"
-msgstr ""
+msgstr "Mida kuulutati?"
 
 #: 09_new_testament_conversion.html:153
 msgid "What was the person's (people's) response to the message?"
-msgstr ""
+msgstr "Kuidas reageerisid inimesed kuuldule?"
 
 #: 09_new_testament_conversion.html:156
 msgid "How long did the person (people) take to make the decision?"
-msgstr ""
+msgstr "Kui pikalt võttis aega inimestel otsuse vastuvõtmine?"
 
 #: 09_new_testament_conversion.html:159
 msgid "What was their response after baptism?"
-msgstr ""
+msgstr "Mida nad tegid peale ristimist?"
 
 #: 09_new_testament_conversion.html:167
 msgid "Refuting False Doctrines"
