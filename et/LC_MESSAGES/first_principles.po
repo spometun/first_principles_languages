@@ -1748,101 +1748,101 @@ msgstr "Patt on andeks antud"
 
 #: 08_light_and_darkness.html:257
 msgid "Born Again of Water and Spirit"
-msgstr ""
+msgstr "Uuesti sündinud veest ja Vaimust"
 
 #: 08_light_and_darkness.html:257
 msgctxt "light_and_darkness #1"
 msgid "John 3:5"
-msgstr ""
+msgstr "Johannese 3:5"
 
 #: 08_light_and_darkness.html:261
 msgctxt "light_and_darkness #2"
 msgid "Acts 2:38"
-msgstr ""
+msgstr "Apostlite teod 2:38"
 
 #: 08_light_and_darkness.html:262
 msgid "Water = Baptism"
-msgstr ""
+msgstr "Vesi = ristimine"
 
 #: 08_light_and_darkness.html:262
 msgid "Spirit = Received at Baptism"
-msgstr ""
+msgstr "Vaim = saadakse ristimisel"
 
 #: 08_light_and_darkness.html:267
 msgid "Romans 3:25"
-msgstr ""
+msgstr "Roomlastele 3:25"
 
 #: 08_light_and_darkness.html:268
 msgid "Faith in the Blood of Jesus Saves Us"
-msgstr ""
+msgstr "Usk Jeesuse veresse päästab meid"
 
 #: 08_light_and_darkness.html:270
 msgid "Jesus shed His blood when He died.  In baptism we share by faith in the death, burial and resurrection of Jesus.  Thus we contact the blood of baptism and are forgiven of our sins and SAVED!"
-msgstr ""
+msgstr "Jeesus valas oma verd, kui ta suri. Ristimises osaleme me tema surmas, mahamatmises ja ülestõusmises. Seega puutume me kokku ristimise verega ja saame andeks oma patud ning oleme päästetud."
 
 #: 08_light_and_darkness.html:277
 msgid "Traditions/False Doctrines -"
-msgstr ""
+msgstr "Traditsioonid/valeõpetused"
 
 #: 08_light_and_darkness.html:277
 msgctxt "light_and_darkness #1"
 msgid "Matthew 15:6-9"
-msgstr ""
+msgstr "Matteuse 15:6-9"
 
 #: 08_light_and_darkness.html:280
 msgid "Infant Baptism"
-msgstr ""
+msgstr "Imikute ristimine"
 
 #: 08_light_and_darkness.html:282
 msgid "Personal faith is needed"
-msgstr ""
+msgstr "Vajalik on isiklik usk"
 
 #: 08_light_and_darkness.html:282
 msgctxt "light_and_darkness #1"
 msgid "Colossians 2:12"
-msgstr ""
+msgstr "Koloslastele 2:12"
 
 #: 08_light_and_darkness.html:283
 msgid "Began approximately third century A.D."
-msgstr ""
+msgstr "Sai alguse umbes 3. sajandil p.Kr."
 
 #: 08_light_and_darkness.html:285
 msgid "Original sin"
-msgstr ""
+msgstr "Pärispatt"
 
 #: 08_light_and_darkness.html:287
 msgctxt "light_and_darkness #1"
 msgid "Ezekiel 18:20"
-msgstr ""
+msgstr "Hesekiel 18:20"
 
 #: 08_light_and_darkness.html:288
 msgid "Became \"church doctrine\" in 549 A.D."
-msgstr ""
+msgstr "Sellest sai \"kiriku ametlik õpetus\" 549. aastal p.Kr."
 
 #: 08_light_and_darkness.html:294
 msgid "Praying Jesus into your heart"
-msgstr ""
+msgstr "Palveta Jeesus oma südamesse"
 
 #: 08_light_and_darkness.html:296
 msgctxt "light_and_darkness #1"
 msgid "Revelation 3:20"
-msgstr ""
+msgstr "Johannese ilmutus 3:20"
 
 #: 08_light_and_darkness.html:296
 msgid "- taken out of context.  This verse is addressed to Christians"
-msgstr ""
+msgstr "- kontekstist välja võetud. See värss on kirjutatud kristlastele"
 
 #: 08_light_and_darkness.html:297
 msgid "Began in the early 1800s in America"
-msgstr ""
+msgstr "Sai alguse 1800. aastate Ameerikast"
 
 #: 08_light_and_darkness.html:303
 msgid "Sinful nature"
-msgstr ""
+msgstr "Patune loomus"
 
 #: 08_light_and_darkness.html:304
 msgid "Suggest to the individual with whom you are studying that he or she write out and be specific about various sins that they have committed during their life.  This is so they might see the gravity and magnitude of their sin.  This is confidential and should only be shared with those who are studying with the person"
-msgstr ""
+msgstr "Soovita inimesele, kellega sa piiblit loed, et ta kirjutaks võimalikult konkreetselt endale üles kõik oma patud, mis ta elus on teinud. See selleks, et ta näeks oma patu tõsidust ja suurust. See on konfidentsiaalne ja tuleks jagada vaid nendega, kes temaga piiblit loevad."
 
 #: 09_new_testament_conversion.html:37
 msgid "The Major Conversions in Acts"
