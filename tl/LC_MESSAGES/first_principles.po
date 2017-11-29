@@ -17,7 +17,7 @@ msgstr ""
 
 #: 20_persecution.html:36
 msgid "Introduction"
-msgstr ""
+msgstr "Panimula"
 
 #: 02_course_information.html:17
 msgid "Course Information"
