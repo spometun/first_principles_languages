@@ -177,11 +177,11 @@ msgstr "на Хорошие Новости"
 
 #: 02_course_information.html:46
 msgid "CAICC.net"
-msgstr "icchurch.ru"
+msgstr "CAICC.net"
 
 #: 02_course_information.html:46
 msgid "by Session 2"
-msgstr "из Занятия 2"
+msgstr "на Занятии 2"
 
 #: 02_course_information.html:48
 msgid "Read Ron Harding’s History of the Spread of Christianity in Modern Times"
@@ -193,7 +193,7 @@ msgstr "KipMcKean.com"
 
 #: 02_course_information.html:49
 msgid "by Session 8"
-msgstr "Из Занятия 8"
+msgstr "на Занятии 8"
 
 #: 02_course_information.html:52
 msgid "An outline of the book of Acts will be turned in by Session 11. Each student is required to\n"
@@ -337,7 +337,7 @@ msgstr "Аудио"
 
 #: 02_course_information.html:138
 msgid "Voice in the Wind"
-msgstr "Голось из ветра"
+msgstr "Voice in the Wind"
 
 #: 02_course_information.html:138
 msgid "- Rivers -"
@@ -4835,7 +4835,7 @@ msgstr "Ссылки "
 
 #: 20_persecution.html:317
 msgid "caicc.net"
-msgstr "icchurch.ru"
+msgstr "caicc.net"
 
 #: 20_persecution.html:318
 msgid "usd21.org"
