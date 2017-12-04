@@ -9,11 +9,11 @@ msgstr ""
 
 #: 00_index.html:17
 msgid "First Principles"
-msgstr "Первые принципы Христианства"
+msgstr "Основы Учения о Христе"
 
 #: 22_contact_us.html:29
 msgid "Home"
-msgstr "На домашнюю"
+msgstr "Основная страница"
 
 #: 20_persecution.html:36
 msgid "Introduction"
@@ -21,7 +21,7 @@ msgstr "Введение"
 
 #: 02_course_information.html:17
 msgid "Course Information"
-msgstr "Информация о курсе обучения"
+msgstr "Информация о занятиях"
 
 #: 03_book_of_john.html:17
 msgid "The Book of John"
@@ -122,7 +122,7 @@ msgstr "Евреям 5:12-6:1-3"
 
 #: 01_introduction.html:36
 msgid "WEV"
-msgstr "НРП"
+msgstr "NRT"
 
 #: 01_introduction.html:38
 msgid "Originally, the First Principle Studies were written in 1980, while I served the Lord during the formative early days of the Boston Church of Christ. They were revised in 2003 and 2006 to meet the needs and to confront the challenges of the Portland International Church of Christ. In Los Angeles in 2009 and 2012, I made a few more modifications. As of today, these same First Principles Studies are being taught to all the new disciples of the"
@@ -147,13 +147,13 @@ msgstr "Кип Маккин"
 
 #: 01_introduction.html:43
 msgid "July 1, 2014"
-msgstr "1 Июля,2014"
+msgstr "1 Июля 2014 г."
 
 #: 02_course_information.html:38
 msgid "This course should take a high priority in your day as it is geared to help you grasp a\n"
 "      firmer hold on God’s Word and to deepen your understanding of His will for your life"
 msgstr "Эти уроки должны стать очень важной частью каждого вашего дня, так как\n"
-"предназначены для того, чтобы помочь вам больше сфокусироваться на Слове Бога и углубить понимание Его воли для вашей жизни. "
+"предназначены для того, чтобы помочь вам больше сфокусироваться на Слове Бога и углубить понимание Его воли для вашей жизни."
 
 #: 02_course_information.html:40
 msgid "Each session two new Scriptures should be memorized for a quiz at the beginning of each class"
@@ -173,40 +173,40 @@ msgstr "Подписаться"
 
 #: 02_course_information.html:46
 msgid "for the Good News Emails at"
-msgstr "на Хорошие Новости "
+msgstr "на Хорошие Новости"
 
 #: 02_course_information.html:46
 msgid "CAICC.net"
-msgstr "http://www.moscowicc.org/"
+msgstr "icchurch.ru"
 
 #: 02_course_information.html:46
 msgid "by Session 2"
-msgstr ""
+msgstr "из Занятия 2"
 
 #: 02_course_information.html:48
 msgid "Read Ron Harding’s History of the Spread of Christianity in Modern Times"
-msgstr ""
+msgstr "Прочитайте статью Рона Хардинга про историю распространения христианства в наше время"
 
 #: 02_course_information.html:48
 msgid "KipMcKean.com"
-msgstr ""
+msgstr "KipMcKean.com"
 
 #: 02_course_information.html:49
 msgid "by Session 8"
-msgstr ""
+msgstr "Из Занятия 8"
 
 #: 02_course_information.html:52
 msgid "An outline of the book of Acts will be turned in by Session 11. Each student is required to\n"
 "      memorize two points from each chapter in the book of Acts"
-msgstr "Уроки 11-14 содержат обзор книги Деяний. Каждому ученику необходимо запомнить по два важных момента из каждой главы книги Деяний. "
+msgstr "Уроки 11-14 содержат обзор книги Деяний. Каждому ученику необходимо запомнить по два важных момента из каждой главы книги Деяний."
 
 #: 02_course_information.html:56
 msgid "Outline of Classes"
-msgstr ""
+msgstr "План занятий"
 
 #: 02_course_information.html:60
 msgid "Session 1"
-msgstr "Урок 1"
+msgstr "Занятие 1"
 
 #: 02_course_information.html:62
 msgid "Introduction and Seeking God"
@@ -214,7 +214,7 @@ msgstr "Введение. В поисках Бога."
 
 #: 02_course_information.html:65
 msgid "Session 2"
-msgstr "Урок  2"
+msgstr "Занятие  2"
 
 #: 02_course_information.html:67
 msgid "The Word Of God"
@@ -222,27 +222,27 @@ msgstr "Слово Бога"
 
 #: 02_course_information.html:70
 msgid "Session 3"
-msgstr "Урок  3"
+msgstr "Занятие  3"
 
 #: 02_course_information.html:75
 msgid "Session 4"
-msgstr "Урок  4"
+msgstr "Занятие  4"
 
 #: 02_course_information.html:80
 msgid "Session 5"
-msgstr "Урок  5"
+msgstr "Занятие  5"
 
 #: 02_course_information.html:85
 msgid "Session 6"
-msgstr "Урок  6"
+msgstr "Занятие  6"
 
 #: 02_course_information.html:90
 msgid "Session 7"
-msgstr "Урок  7"
+msgstr "Занятие  7"
 
 #: 02_course_information.html:95
 msgid "Session 8"
-msgstr "Урок 8"
+msgstr "Занятие 8"
 
 #: 02_course_information.html:97
 msgid "The Baptism of the Holy Spirit"
@@ -250,7 +250,7 @@ msgstr "Крещение Святым Духом"
 
 #: 02_course_information.html:100
 msgid "Session 9"
-msgstr "Урок  9"
+msgstr "Занятие  9"
 
 #: 02_course_information.html:102
 msgid "The Miraculous Gifts of the Holy Spirit"
@@ -258,11 +258,11 @@ msgstr "Чудесные дары Святого Духа"
 
 #: 02_course_information.html:105
 msgid "Session 10"
-msgstr "Урок  10"
+msgstr "Занятие  10"
 
 #: 02_course_information.html:110
 msgid "Session 11"
-msgstr "Урок 11"
+msgstr "Занятие 11"
 
 #: 02_course_information.html:112
 msgid "Acts 1 - 8"
@@ -270,7 +270,7 @@ msgstr "Деяния Апостолов 1-8"
 
 #: 02_course_information.html:115
 msgid "Session 12"
-msgstr "Урок  12"
+msgstr "Занятие  12"
 
 #: 02_course_information.html:117
 msgid "Acts 9 - 15"
@@ -278,7 +278,7 @@ msgstr "Деяния Апостолов 9-15"
 
 #: 02_course_information.html:120
 msgid "Session 13"
-msgstr "Урок 13"
+msgstr "Занятие 13"
 
 #: 02_course_information.html:122
 msgid "Acts 16 - 21"
@@ -286,7 +286,7 @@ msgstr "Деяния Апостолов 16-21"
 
 #: 02_course_information.html:125
 msgid "Session 14"
-msgstr "Урок  14"
+msgstr "Занятие  14"
 
 #: 02_course_information.html:127
 msgid "Acts 21 - 28"
@@ -303,24 +303,24 @@ msgstr "Эти книги предлагаются для размышлений
 
 #: 02_course_information.html:135
 msgid "The Five Love Languages"
-msgstr " «Пять языков любви»"
+msgstr "«Пять языков любви»"
 
 #: 02_course_information.html:135
 msgid "- Chapman"
-msgstr ""
+msgstr "- Чапмен"
 
 #: 02_course_information.html:136
 msgid "The Master Plan of Evangelism"
-msgstr ""
+msgstr "План евангелизации от Христа"
 
 #: 02_course_information.html:136
 msgid "- Coleman -"
-msgstr ""
+msgstr "- Колман -"
 
 #: 02_course_information.html:136
 msgctxt "course_information #1"
 msgid "Audio"
-msgstr ""
+msgstr "Аудио"
 
 #: 02_course_information.html:137
 msgid "The Tale of Three Kings"
@@ -333,88 +333,88 @@ msgstr "Эдвардс Джин"
 #: 02_course_information.html:137
 msgctxt "course_information #2"
 msgid "Audio"
-msgstr ""
+msgstr "Аудио"
 
 #: 02_course_information.html:138
 msgid "Voice in the Wind"
-msgstr ""
+msgstr "Голось из ветра"
 
 #: 02_course_information.html:138
 msgid "- Rivers -"
-msgstr ""
+msgstr "- Риверс -"
 
 #: 02_course_information.html:138
 msgctxt "course_information #3"
 msgid "Audio"
-msgstr ""
+msgstr "Аудио"
 
 #: 02_course_information.html:139
 msgid "The Disciplined Life"
-msgstr ""
+msgstr "Жизнь под наставлением"
 
 #: 02_course_information.html:139
 msgid "- Taylor"
-msgstr ""
+msgstr "- Тейлор"
 
 #: 02_course_information.html:140
 msgid "Elevate"
-msgstr ""
+msgstr "Поднимись"
 
 #: 02_course_information.html:140
 msgid "- McKean"
-msgstr ""
+msgstr "- МакКин"
 
 #: 02_course_information.html:142
 msgid "Overview of the Book of Acts"
-msgstr ""
+msgstr "Обзор Книги Деяний"
 
 #: 02_course_information.html:146
 msgid "Sermon #1"
-msgstr ""
+msgstr "Проповедь #1"
 
 #: 02_course_information.html:148
 msgid "Acts 1-8"
-msgstr ""
+msgstr "Деяния 1-8"
 
 #: 02_course_information.html:150
 msgid "Building A Great Church"
-msgstr ""
+msgstr "Построение великой церкви"
 
 #: 02_course_information.html:153
 msgid "Sermon #2"
-msgstr ""
+msgstr "Проповедь #2"
 
 #: 02_course_information.html:155
 msgid "Acts 9-15"
-msgstr ""
+msgstr "Деяния 9-15"
 
 #: 02_course_information.html:157
 msgid "Forcefully Advancing The Kingdom"
-msgstr ""
+msgstr "Продвижение Царства с силой"
 
 #: 02_course_information.html:160
 msgid "Sermon #3"
-msgstr ""
+msgstr "Проповедь #3"
 
 #: 02_course_information.html:162
 msgid "Acts 16-21"
-msgstr ""
+msgstr "Деяния 16-21"
 
 #: 02_course_information.html:164
 msgid "Turning The World Upsidedown"
-msgstr ""
+msgstr "Перевернуть мир вверх дном"
 
 #: 02_course_information.html:167
 msgid "Sermon #4"
-msgstr ""
+msgstr "Проповедь #4"
 
 #: 02_course_information.html:169
 msgid "Acts 21-28"
-msgstr ""
+msgstr "Деяния 21-28"
 
 #: 02_course_information.html:171
 msgid "Evangelizing The World In A Generation"
-msgstr ""
+msgstr "Обратить мир в одном поколении"
 
 #: 04_seeking_god.html:37
 msgid "Psalm 119:1-2"
@@ -703,7 +703,7 @@ msgstr " За чем я последую в своей жизни: за Библ
 #: 06_discipleship.html:36
 msgctxt "discipleship #1"
 msgid "Introduction:"
-msgstr ""
+msgstr "Введение:"
 
 #: 06_discipleship.html:36
 msgctxt "discipleship #1"
@@ -789,7 +789,7 @@ msgstr "Матфея 26:36-39"
 
 #: 06_discipleship.html:73
 msgid "'Not my will, but your will'"
-msgstr " «…не как Я хочу, а как Ты хочешь»"
+msgstr "«…не как Я хочу, а как Ты хочешь»"
 
 #: 06_discipleship.html:73
 msgid "Do not give in to moods"
@@ -1108,7 +1108,7 @@ msgstr "Матфея 16:13-19"
 
 #: 07_coming_of_the_kingdom.html:90
 msgid "Church and the Kingdom are the same and will be built on the truth that Jesus is the Christ"
-msgstr "Церковь и Царство – это одно и то же, и оно будет построено на истине, что Иисус и есть Христос "
+msgstr "Церковь и Царство – это одно и то же, и оно будет построено на истине, что Иисус и есть Христос"
 
 #: 07_coming_of_the_kingdom.html:90
 msgid "1 Corinthians 3:11"
@@ -1231,7 +1231,7 @@ msgstr "Пророчество Ветхого Завета.\n"
 
 #: 07_coming_of_the_kingdom.html:130
 msgid "John the Baptist - \"is near\""
-msgstr "Иоанн Креститель: «близко» "
+msgstr "Иоанн Креститель: «близко»"
 
 #: 07_coming_of_the_kingdom.html:130
 msgid "Matthew 3:1-2"
@@ -2591,7 +2591,7 @@ msgstr "Четвертую, являющуюся первой строфой 21-
 
 #: 11_medical_account.html:161
 msgid "My God, my God, why has thou forsaken me?"
-msgstr " “Боже мой! Боже мой! Для чего Ты оставил меня?\"\n"
+msgstr "“Боже мой! Боже мой! Для чего Ты оставил меня?\"\n"
 ""
 
 #: 11_medical_account.html:166
@@ -2624,7 +2624,7 @@ msgstr "Пятая  фраза Иисуса - это крик\n"
 
 #: 11_medical_account.html:183
 msgid "I thirst."
-msgstr " “Меня мучает жажда”"
+msgstr "“Меня мучает жажда”"
 
 #: 11_medical_account.html:188
 msgid "One remembers another verse from the prophetic 22nd Psalm:"
@@ -2640,7 +2640,7 @@ msgstr "Губка, смоченная в дешевом кислом вине �
 
 #: 11_medical_account.html:197
 msgid "It is finished."
-msgstr " “Вот теперь все”."
+msgstr "“Вот теперь все”."
 
 #: 11_medical_account.html:199
 msgid "His mission of atonement has completed. Finally He can allow his body to die."
@@ -2654,7 +2654,7 @@ msgstr "Еще одно последнее усилие, он снова упи�
 
 #: 11_medical_account.html:205
 msgid "Father! Into thy hands I commit my spirit."
-msgstr " “Отец, в Твои руки передаю дух Мой\""
+msgstr "“Отец, в Твои руки передаю дух Мой\""
 
 #: 11_medical_account.html:210
 msgid "The rest you know. In order that the Sabbath not be profaned, the Jews asked that the condemned men be dispatched and removed from the crosses. The common method of ending a crucifixion was by crucifracture, the breaking of the bones of the legs. This prevented the victim from pushing himself upward; thus the tension could not be relieved from the muscles of the chest and rapid suffocation occurred. The legs of the two thieves were broken, but when the soldiers came to Jesus they saw that this was unnecessary."
@@ -2670,7 +2670,7 @@ msgstr "Один из воинов, желая убедиться в том, ч�
 
 #: 11_medical_account.html:216
 msgid "And immediately there came out blood and water."
-msgstr " “и сразу же кровь и вода хлынули из раны”."
+msgstr "“и сразу же кровь и вода хлынули из раны”."
 
 #: 11_medical_account.html:218
 msgid "That is, there was an escape of water fluid from the sac surrounding the heart, giving postmortem evidence that our Lord died not the usual crucifixion death by suffocation, but of heart failure due to shock and constriction of the heart by fluid in the pericardium."
@@ -2955,7 +2955,7 @@ msgstr "и в"
 #: 12_baptism_with_the_holy_spirit.html:211
 msgctxt "baptism_with_the_holy_spirit #1"
 msgid "1 Peter 3:18-21"
-msgstr "  1 Петра 3:18-21"
+msgstr "1 Петра 3:18-21"
 
 #: 12_baptism_with_the_holy_spirit.html:214
 msgid "written around"
@@ -3451,7 +3451,7 @@ msgstr "Римлянам 12:4-5\n"
 #: 14_church.html:216
 msgctxt "church #2"
 msgid "— one body"
-msgstr " – одно тело."
+msgstr "– одно тело."
 
 #: 14_church.html:221
 msgctxt "church #2"
@@ -4835,11 +4835,11 @@ msgstr "Ссылки "
 
 #: 20_persecution.html:317
 msgid "caicc.net"
-msgstr ""
+msgstr "icchurch.ru"
 
 #: 20_persecution.html:318
 msgid "usd21.org"
-msgstr ""
+msgstr "usd21.org"
 
 #: 20_persecution.html:319
 msgctxt "persecution #1"
@@ -4848,7 +4848,7 @@ msgstr "и"
 
 #: 20_persecution.html:319
 msgid "KipMcKean.org"
-msgstr ""
+msgstr "KipMcKean.org"
 
 #: 21_memory_scriptures.html:38
 msgid "\"For I know the plans I have for you,\" declares the LORD, \"plans to prosper you and not to harm you, plans to give you hope and a future\""
@@ -5038,29 +5038,29 @@ msgstr "К Евреям 13:17\n"
 
 #: 22_contact_us.html:35
 msgid "Do you have feedback, suggestions or questions regarding this mobile application or the First Principles study series?  Please let us know!"
-msgstr ""
+msgstr "Есть ли у вас отзывы, предложения или вопросы относительно этого мобильного приложения или серии занятий Основы Учения? Пожалуйста дайте нам знать!"
 
 #: 22_contact_us.html:37
 msgid "To contact us regarding technical questions, such as improving this application on mobile devices, send an e-mail to:"
-msgstr ""
+msgstr "Чтобы связаться с нами по техническим вопросам, таким как улучшение этого приложения на мобильных устройствах, отправьте электронное письмо по адресу:"
 
 #: 22_contact_us.html:38
 msgid "support"
-msgstr ""
+msgstr "Поддержка"
 
 #: 22_contact_us.html:40
 msgid "To contact us regarding the Biblical content of these First Principles studies, visit our:"
-msgstr ""
+msgstr "Чтобы связаться с нами относительно библейского содержания этих занятий Основы Учения, посетите наш:"
 
 #: 22_contact_us.html:41
 msgid "Movement Website"
-msgstr ""
+msgstr "Веб-сайт Движения"
 
 #: 22_contact_us.html:42
 msgid "and locate Church in nation/city you want to contact to"
-msgstr ""
+msgstr "и найдите Церковь в той стране и городе, в котором вам легче всего связаться"
 
 #: 22_contact_us.html:44
 msgid "We look forward to hearing from you!  We strive to respond promptly to all correspondence."
-msgstr ""
+msgstr "Мы с нетерпением ждем писем от вас! Мы стремимся оперативно реагировать на всю переписку."
 
