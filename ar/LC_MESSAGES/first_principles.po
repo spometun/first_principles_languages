@@ -185,13 +185,15 @@ msgstr "KipMcKean.com\n"
 "هنا تجد رابط الكتاب المذكور أعلاه"
 
 #: 02_course_information.html:49
+#, fuzzy
 msgid "by Session 8"
 msgstr "في حلقه الدراسه الثامنه"
 
 #: 02_course_information.html:52
 msgid "An outline of the book of Acts will be turned in by Session 11. Each student is required to\n"
 "      memorize two points from each chapter in the book of Acts"
-msgstr ""
+msgstr "في المحاضره ١١ سيتم مناقشه كتاب \" اعمال الرسل\" بشكل موجز\n"
+"كل مشارك يتعين عليه ان يستذكر فقرتين في كل فصل من كتاب \" اعمال الرسل\" "
 
 #: 02_course_information.html:56
 msgid "Outline of Classes"
