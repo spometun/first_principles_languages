@@ -19,9 +19,10 @@ msgstr "ألصفحه ألرئيسيه "
 msgid "Introduction"
 msgstr "مقدمه "
 
+#. معلومات عن الكورس
 #: 02_course_information.html:17
 msgid "Course Information"
-msgstr ""
+msgstr "معلومات عن ألدراسه "
 
 #: 03_book_of_john.html:17
 msgid "The Book of John"
@@ -49,7 +50,7 @@ msgstr "ألنور وألظلمه "
 
 #: 09_new_testament_conversion.html:17
 msgid "New Testament Conversion"
-msgstr ""
+msgstr "تحويل ألعهد ألجديد "
 
 #: 10_cross.html:17
 msgid "The Cross"
@@ -142,7 +143,8 @@ msgstr ""
 #: 02_course_information.html:38
 msgid "This course should take a high priority in your day as it is geared to help you grasp a\n"
 "      firmer hold on God’s Word and to deepen your understanding of His will for your life"
-msgstr ""
+msgstr "هذه ألدراسه بالطبع يجب أن تأخذ أولوية عالية في يومك بما أنها تهدف إلى مساعدتك على فهم \n"
+"     متين لكلمة الله وإلى تعميق فهمك لإرادته لحياتك."
 
 #: 02_course_information.html:40
 msgid "Each session two new Scriptures should be memorized for a quiz at the beginning of each class"
