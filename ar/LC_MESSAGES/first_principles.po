@@ -322,7 +322,7 @@ msgstr "حكايه ثلاثه ملوك"
 
 #: 02_course_information.html:137
 msgid "- Edwards -"
-msgstr "إدواردز"
+msgstr "-إدواردز"
 
 #: 02_course_information.html:137
 msgctxt "course_information #2"
@@ -335,7 +335,7 @@ msgstr "صوت في ألريح"
 
 #: 02_course_information.html:138
 msgid "- Rivers -"
-msgstr "ريفرز"
+msgstr "-ريفرز"
 
 #: 02_course_information.html:138
 msgctxt "course_information #3"
@@ -348,7 +348,7 @@ msgstr "ألحياه ألمنضبطه"
 
 #: 02_course_information.html:139
 msgid "- Taylor"
-msgstr "تايلور"
+msgstr "-تايلور"
 
 #: 02_course_information.html:140
 msgid "Elevate"
@@ -364,7 +364,7 @@ msgstr "نظره عامه على كتاب \" أعمال ألرسل\""
 
 #: 02_course_information.html:146
 msgid "Sermon #1"
-msgstr "ألفصل ١"
+msgstr "ألقسم 1"
 
 #: 02_course_information.html:148
 msgid "Acts 1-8"
@@ -376,7 +376,7 @@ msgstr "بناء كنيسه عظيمه"
 
 #: 02_course_information.html:153
 msgid "Sermon #2"
-msgstr "ألفصل ألثاني"
+msgstr "ألقسم 2"
 
 #: 02_course_information.html:155
 msgid "Acts 9-15"
@@ -388,7 +388,7 @@ msgstr "ألنهوض بقوه ألملكوت"
 
 #: 02_course_information.html:160
 msgid "Sermon #3"
-msgstr "ألفصل ألثالث"
+msgstr "ألقسم 3"
 
 #: 02_course_information.html:162
 msgid "Acts 16-21"
@@ -400,7 +400,7 @@ msgstr "قلب ألعالم رأسا على عقب"
 
 #: 02_course_information.html:167
 msgid "Sermon #4"
-msgstr "ألفصل ألرابع"
+msgstr "ألقسم 4"
 
 #: 02_course_information.html:169
 msgid "Acts 21-28"
