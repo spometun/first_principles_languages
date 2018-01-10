@@ -197,75 +197,75 @@ msgstr "في المحاضره ١١ سيتم مناقشه كتاب \" اعمال 
 
 #: 02_course_information.html:56
 msgid "Outline of Classes"
-msgstr ""
+msgstr "مخطط فصول ألدراسه"
 
 #: 02_course_information.html:60
 msgid "Session 1"
-msgstr ""
+msgstr "ألفصل ألأول"
 
 #: 02_course_information.html:62
 msgid "Introduction and Seeking God"
-msgstr ""
+msgstr "مقدمه في دراسه \" كلمه ألله\" "
 
 #: 02_course_information.html:65
 msgid "Session 2"
-msgstr ""
+msgstr "ألفصل ألثاني"
 
 #: 02_course_information.html:67
 msgid "The Word Of God"
-msgstr ""
+msgstr "كلمه الله \" ألكتاب ألمقدس\" "
 
 #: 02_course_information.html:70
 msgid "Session 3"
-msgstr ""
+msgstr "ألفصل ألثالث"
 
 #: 02_course_information.html:75
 msgid "Session 4"
-msgstr ""
+msgstr "ألفصل الرابع"
 
 #: 02_course_information.html:80
 msgid "Session 5"
-msgstr ""
+msgstr "الفصل ألخامس"
 
 #: 02_course_information.html:85
 msgid "Session 6"
-msgstr ""
+msgstr "ألفصل ألسادس"
 
 #: 02_course_information.html:90
 msgid "Session 7"
-msgstr ""
+msgstr "ألفصل ألسابع"
 
 #: 02_course_information.html:95
 msgid "Session 8"
-msgstr ""
+msgstr "ألفصل ألثامن"
 
 #: 02_course_information.html:97
 msgid "The Baptism of the Holy Spirit"
-msgstr ""
+msgstr "معموديه ألروح ألقدس"
 
 #: 02_course_information.html:100
 msgid "Session 9"
-msgstr ""
+msgstr "ألفصل ألتاسع"
 
 #: 02_course_information.html:102
 msgid "The Miraculous Gifts of the Holy Spirit"
-msgstr ""
+msgstr "عطايا ألروح ألقدس المذهله"
 
 #: 02_course_information.html:105
 msgid "Session 10"
-msgstr ""
+msgstr "ألفصل ألعاشر"
 
 #: 02_course_information.html:110
 msgid "Session 11"
-msgstr ""
+msgstr "ألفصل ألحادي عشر"
 
 #: 02_course_information.html:112
 msgid "Acts 1 - 8"
-msgstr ""
+msgstr "أعمال 1-8"
 
 #: 02_course_information.html:115
 msgid "Session 12"
-msgstr ""
+msgstr "ألفصل الثاني عشر"
 
 #: 02_course_information.html:117
 msgid "Acts 9 - 15"
