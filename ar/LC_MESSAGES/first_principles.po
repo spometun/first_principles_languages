@@ -568,7 +568,7 @@ msgstr "كلمه الله متاحه وذي صله بواقعنا"
 
 #: 05_word_of_god.html:47
 msgid "The Word cuts (hurts)"
-msgstr "كلمه ألله تقطع ( تجرح)"
+msgstr "كلمه ألله تقطع/ تجرح"
 
 #: 05_word_of_god.html:48
 msgid "Learn that it is good to be \"cut,\" because a scalpel (God's Word) \"cuts\" the cancer (sin) out!"
@@ -597,7 +597,7 @@ msgstr "ألتصديق أو ألأيمان ألعقلي غير كافي ولا �
 
 #: 05_word_of_god.html:62
 msgid "Everyone must hold on to and follow the teachings of Jesus to be a true disciple"
-msgstr "يجب على الجميع حفظ وأتباع تعاليم ألمسيح ليكون تلميذ حقيقي"
+msgstr "يجب على الجميع حفظ وأتباع تعاليم ألمسيح ليكون تلاميذ حقيقين"
 
 #: 05_word_of_god.html:63
 msgid "Sincerity does not equal truth"
