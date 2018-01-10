@@ -50,7 +50,7 @@ msgstr "ألنور وألظلمه "
 
 #: 09_new_testament_conversion.html:17
 msgid "New Testament Conversion"
-msgstr "تحويل ألعهد ألجديد "
+msgstr "تحول ألعهد ألجديد "
 
 #: 10_cross.html:17
 msgid "The Cross"
@@ -148,43 +148,45 @@ msgstr "هذه ألدراسه بالطبع يجب أن تأخذ أولوية ع�
 
 #: 02_course_information.html:40
 msgid "Each session two new Scriptures should be memorized for a quiz at the beginning of each class"
-msgstr ""
+msgstr "كل فقره يجب ان يحفط فيها إصحاحين للإستعداد للمسابقه في المره القادمه التي سنلتقي فيها. "
 
 #: 02_course_information.html:42
 msgid "Each study’s content and order of Scriptures should also be memorized for the quiz"
-msgstr ""
+msgstr "محتوى كل دراسه وترتيب الإصحاحات ينبغي كذلك أن يحفظ ويراجع قبل المسابقه. "
 
 #: 02_course_information.html:44
 msgid "Each student is required to memorize the names of all the books of the Bible"
-msgstr ""
+msgstr "كل طالب يدرس في الكورس مطالب بحفظ أسماء جميع كتب الكتاب ألمقدس. "
 
 #: 02_course_information.html:46
 msgid "Sign up"
-msgstr ""
+msgstr "سجل هنا "
 
 #: 02_course_information.html:46
 msgid "for the Good News Emails at"
-msgstr ""
+msgstr "للحصول على إيميل ألأخبار ألمبشره"
 
 #: 02_course_information.html:46
 msgid "CAICC.net"
-msgstr ""
+msgstr "هذا موقعنا: \n"
+"CAICC.met"
 
 #: 02_course_information.html:46
 msgid "by Session 2"
-msgstr ""
+msgstr "قبل/ خلال المحاضره ألثانيه"
 
 #: 02_course_information.html:48
 msgid "Read Ron Harding’s History of the Spread of Christianity in Modern Times"
-msgstr ""
+msgstr "إقرأ كتاب \" تاريخ رون هاردينغ في إنتشار ألمسيحيه في ألعصر ألحديث) "
 
 #: 02_course_information.html:48
 msgid "KipMcKean.com"
-msgstr ""
+msgstr "KipMcKean.com\n"
+"هنا تجد رابط الكتاب المذكور أعلاه"
 
 #: 02_course_information.html:49
 msgid "by Session 8"
-msgstr ""
+msgstr "في حلقه الدراسه الثامنه"
 
 #: 02_course_information.html:52
 msgid "An outline of the book of Acts will be turned in by Session 11. Each student is required to\n"
