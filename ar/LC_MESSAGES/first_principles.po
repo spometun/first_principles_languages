@@ -34,7 +34,8 @@ msgstr "ألبحث عن ألله "
 
 #: 05_word_of_god.html:17
 msgid "The Word of God"
-msgstr "كلمه ألله ( ألكتاب ألمقدس) "
+msgstr "\n"
+"كلمه ألله \" ألكتاب ألمقدس\""
 
 #: 06_discipleship.html:17
 msgid "Discipleship"
@@ -551,11 +552,11 @@ msgstr ""
 
 #: 05_word_of_god.html:39
 msgid "All Scripture is inspired by God"
-msgstr ""
+msgstr "كل أصحاحات الكتاب المقدس موحى بها من ألله"
 
 #: 05_word_of_god.html:40
 msgid "It is to be applied to our lives"
-msgstr ""
+msgstr "كل ألأصحاحات قابله للتطبيق على حياتنا"
 
 #: 05_word_of_god.html:44
 msgid "Hebrews 4:12-13"
@@ -563,15 +564,15 @@ msgstr ""
 
 #: 05_word_of_god.html:46
 msgid "The Word is relevant"
-msgstr ""
+msgstr "كلمه الله متاحه وذي صله بواقعنا"
 
 #: 05_word_of_god.html:47
 msgid "The Word cuts (hurts)"
-msgstr ""
+msgstr "كلمه ألله تقطع ( تجرح)"
 
 #: 05_word_of_god.html:48
 msgid "Learn that it is good to be \"cut,\" because a scalpel (God's Word) \"cuts\" the cancer (sin) out!"
-msgstr ""
+msgstr "كلمه الله تشبه بمشرط الطبيب الذي يقطع السرطان، هي تقطع خطايانا من جذرها"
 
 #: 05_word_of_god.html:52
 msgid "2 Peter 1:20-21"
@@ -579,11 +580,11 @@ msgstr ""
 
 #: 05_word_of_god.html:54
 msgid "There is no private interpretation of the Bible"
-msgstr ""
+msgstr "كلمه ألله ليست مفسره تفسير خاص، أي تفسير أشخاص"
 
 #: 05_word_of_god.html:55
 msgid "The Holy Spirit inspired the men who wrote the books of the Bible"
-msgstr ""
+msgstr "وأنما هي موحاه لأشخاص/ ناس إنساقوا بالروح ألقدس"
 
 #: 05_word_of_god.html:59
 msgctxt "word_of_god #1"
@@ -592,19 +593,19 @@ msgstr ""
 
 #: 05_word_of_god.html:61
 msgid "Intellectual belief is not enough - nor can we go by our feelings"
-msgstr ""
+msgstr "ألتصديق أو ألأيمان ألعقلي غير كافي ولا حتى إلأيمان بالمشاعر"
 
 #: 05_word_of_god.html:62
 msgid "Everyone must hold on to and follow the teachings of Jesus to be a true disciple"
-msgstr ""
+msgstr "يجب على الجميع حفظ وأتباع تعاليم ألمسيح ليكون تلميذ حقيقي"
 
 #: 05_word_of_god.html:63
 msgid "Sincerity does not equal truth"
-msgstr ""
+msgstr "ألأخلاص وألحقيقه لايساويان نفس الشئ"
 
 #: 05_word_of_god.html:64
 msgid "Religious people can be wrong"
-msgstr ""
+msgstr "ألناس ألمتدينين/ ألقاده ألدينين يمكن أن يكونوا على خطأ أيضا"
 
 #: 05_word_of_god.html:68
 msgid "Matthew 15:1-9"
