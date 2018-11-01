@@ -17,7 +17,7 @@ msgstr "На домашню"
 
 #: 20_persecution.html:36
 msgid "Introduction"
-msgstr "Тра ля ля "
+msgstr "Вступ"
 
 #: 02_course_information.html:17
 msgid "Course Information"
