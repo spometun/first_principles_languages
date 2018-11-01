@@ -13,11 +13,11 @@ msgstr "Principio Basicos"
 
 #: 22_contact_us.html:29
 msgid "Home"
-msgstr ""
+msgstr "Casa"
 
 #: 20_persecution.html:36
 msgid "Introduction"
-msgstr ""
+msgstr "Introducción"
 
 #: 02_course_information.html:17
 msgid "Course Information"
