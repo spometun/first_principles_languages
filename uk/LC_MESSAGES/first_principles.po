@@ -4621,7 +4621,7 @@ msgstr "Щоб зв'язатися з нами з приводу біблійн�
 
 #: 22_contact_us.html:41
 msgid "Movement Website"
-msgstr "сайт руху"
+msgstr "вебсайт руху"
 
 #: 22_contact_us.html:42
 msgid "and locate Church in nation/city you want to contact to"
