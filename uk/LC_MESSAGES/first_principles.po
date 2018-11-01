@@ -3527,7 +3527,7 @@ msgstr "Обговоріть з новим учнем його перші дні
 
 #: 16_after_baptism_now_what.html:44
 msgid "Share \"letter to God.\" If the new disciple has not had a chance to write one, encourage him/her to do so"
-msgstr "Поділіться своїм «листом Богу». Якщо молодий учень ще його не написав, надихніть його / її написати такий"
+msgstr "Поділіться своїм «листом Богу». Якщо молодий учень ще його не написав, надихніть його / її написати такий лист"
 
 #: 16_after_baptism_now_what.html:52
 msgctxt "after_baptism_now_what #1"
