@@ -153,7 +153,7 @@ msgstr "En cada sesión se deberán memorizar dos nuevas escrituras para tener u
 
 #: 02_course_information.html:42
 msgid "Each study’s content and order of Scriptures should also be memorized for the quiz"
-msgstr ""
+msgstr "Cada estudio y el orden de las escrituras también deberá ser memorizad para el examen."
 
 #: 02_course_information.html:44
 msgid "Each student is required to memorize the names of all the books of the Bible"
