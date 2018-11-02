@@ -109,7 +109,8 @@ msgstr ""
 
 #: 01_introduction.html:36
 msgid "For when by reason of the time you ought to be teachers, you... need to have someone teach you the rudiments of the first principles of the oracles of God... Therefore leaving the doctrine of the first principles of Christ, let us press on to perfection - not laying again a foundation... of faith toward God, of the teaching of baptisms, of laying on of hands, of resurrection of the dead and of eternal judgment. This will we do!"
-msgstr ""
+msgstr "En realidad, a estas alturas ya deberían ser maestros, y sin embargo necesitan que alguien vuelva a enseñarles las verdades más elementales de la palabra de Dios. Dicho de otro modo, necesitan leche en vez de alimento sólido. Por eso, dejando a un lado las enseñanzas elementales acerca de Cristo, avancemos hacia la madurez. No volvamos a poner los fundamentos, tales como el arrepentimiento de las obras que conducen a la muerte,\n"
+"la fe en Dios, la instrucción sobre bautismos, la imposición de manos, la resurrección de los muertos y el juicio eterno. Así procederemos, si Dios lo permite."
 
 #: 01_introduction.html:36
 msgid "Hebrews 5:12; 6:1-3"
@@ -121,32 +122,34 @@ msgstr "WEV"
 
 #: 01_introduction.html:38
 msgid "Originally, the First Principle Studies were written in 1980, while I served the Lord during the formative early days of the Boston Church of Christ. They were revised in 2003 and 2006 to meet the needs and to confront the challenges of the Portland International Church of Christ. In Los Angeles in 2009 and 2012, I made a few more modifications. As of today, these same First Principles Studies are being taught to all the new disciples of the"
-msgstr ""
+msgstr "Originalmente los estudios de los Principios Básicos fueron escritos en 1980 mientras servía en el inicio de la Iglesia de Cristo en Boston. Estos fueron revisados en los años 2003 y 2006 para suplir las necesidades y enfrentar los retos de la Iglesia Internacional de Cristo en Pórtland.  En los Angeles los años 2009 y 2012, hice algunas modificaciones.\n"
+"\n"
+"Hoy en día, estos mismos estudios son enseñados a todos los nuevos discípulos de la"
 
 #: 01_introduction.html:39
 msgid "City of Angels International Christian Church"
-msgstr ""
+msgstr "Iglesia Cristiana Internacional de Los Angeles"
 
 #: 01_introduction.html:40
 msgid "God has greatly blessed these lessons as they have been translated into over 20 languages around the world. May the Lord continue to \"solidify, unify and multiply\" sold-out disciples everywhere for the evangelization of all the nations in this generation! And to God be the glory!"
-msgstr ""
+msgstr "Dios ha bendecido grandemente estas lecciones que han sido traducidos a más de 20 idiomas alrededor del mundo. !Que El Señor siga \"Solidificando, unificando y multiplicando\" discípulos totalmente comprometidos por todos lados, para la evangelización de todas las naciones en esta generación! Y !A Dios sea la Gloria!"
 
 #: 01_introduction.html:42
 msgid "Dr. Kip McKean"
-msgstr ""
+msgstr "Kip McKean"
 
 #: 01_introduction.html:43
 msgid "July 1, 2014"
-msgstr ""
+msgstr "Julio 1, 2014"
 
 #: 02_course_information.html:38
 msgid "This course should take a high priority in your day as it is geared to help you grasp a\n"
 "      firmer hold on God’s Word and to deepen your understanding of His will for your life"
-msgstr ""
+msgstr "El curso debe tomar una prioridad cada día, ya que está diseñado para ayudarte a tener una más firme convicción de la Palabra de Dios y profundizar tu entendimiento de Su voluntad para tu vida."
 
 #: 02_course_information.html:40
 msgid "Each session two new Scriptures should be memorized for a quiz at the beginning of each class"
-msgstr ""
+msgstr "En cada sesión se deberán memorizar dos nuevas escrituras para tener un examen oral o escrito al principio de cada clase."
 
 #: 02_course_information.html:42
 msgid "Each study’s content and order of Scriptures should also be memorized for the quiz"
