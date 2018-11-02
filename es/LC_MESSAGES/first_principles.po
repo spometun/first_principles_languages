@@ -414,268 +414,268 @@ msgstr "Salmos 119: 1 - 2"
 
 #: 04_seeking_god.html:39
 msgid "Blessed means happy (superlatively happy)"
-msgstr "Bendito significa Feliz (Superlativamente Feliz)"
+msgstr "Dichoso quiere decir feliz (excepcionalmente feliz)."
 
 #: 04_seeking_god.html:40
 msgid "Happiness is not the goal of one who seeks God but the \"by-product\""
-msgstr ""
+msgstr "La felicidad no es el objetivo de aquél que busca a Dios, pero sí es el resultado."
 
 #: 04_seeking_god.html:41
 msgid "To seek God you must do it with all your heart"
-msgstr ""
+msgstr "Para buscar a Dios debes hacerlo con todo tu corazón."
 
 #: 04_seeking_god.html:42
 msgid "Seeking God means to \"keep His statutes\""
-msgstr ""
+msgstr "Buscar a Dios quiere decir \"guardar sus estatutos\"."
 
 #: 04_seeking_god.html:46
 msgid "Matthew 6:25-34"
-msgstr ""
+msgstr "Mateo 6:25-34"
 
 #: 04_seeking_god.html:48
 msgid "Do not worry - ironic - can not add a single hour to your life"
-msgstr ""
+msgstr "\"No se preocupen\" - irónico - no se puede agregar ni una hora al curso de tu vida."
 
 #: 04_seeking_god.html:49
 msgid "God knows your needs"
-msgstr ""
+msgstr "Dios sabes tus necesidades."
 
 #: 04_seeking_god.html:50
 msgid "Seek first His kingdom and righteousness"
-msgstr ""
+msgstr "Busca primero el Reino de Dios y Su Justicia."
 
 #: 04_seeking_god.html:51
 msgid "Then God will give you everything you need"
-msgstr ""
+msgstr "Entones Dios te dará todo lo que necesites."
 
 #: 04_seeking_god.html:55
 msgid "Acts 17:26-28"
-msgstr ""
+msgstr "Hechos 17:26-28"
 
 #: 04_seeking_god.html:57
 msgid "God determines the times and places each person lives"
-msgstr ""
+msgstr "Dios determina el lugar y el tiempo en que una persona vive."
 
 #: 04_seeking_god.html:58
 msgid "He does this so men will seek Him, reach out for Him and find Him"
-msgstr ""
+msgstr "Él hace esto para que todo hombre lo busque, búscalo y lo encontrarás."
 
 #: 04_seeking_god.html:59
 msgid "He is not far from anyone"
-msgstr ""
+msgstr "Él no está lejos de ninguno de nosotros."
 
 #: 04_seeking_god.html:60
 msgid "A Christian meeting you is not by chance - but of God"
-msgstr ""
+msgstr "Que te conozca un cristiano no es casualidad - es Dios."
 
 #: 04_seeking_god.html:64
 msgid "John 4:23-24"
-msgstr ""
+msgstr "Juan 4:23-24"
 
 #: 04_seeking_god.html:66
 msgid "God seeks men (Acts 17 taught men must seek God)"
-msgstr ""
+msgstr "Dios busca al hombre (Hechos 17 les enseñó que deben buscar a Dios)"
 
 #: 04_seeking_god.html:67
 msgid "Men who want to worship Him in spirit and in truth"
-msgstr ""
+msgstr "Hombre que lo adoren en Espíritu y en Verdad."
 
 #: 04_seeking_god.html:71
 msgctxt "seeking_god #1"
 msgid "Acts 17:10-12"
-msgstr ""
+msgstr "Hechos 17:10-12"
 
 #: 04_seeking_god.html:73
 msgid "Read and study the Bible for your own convictions"
-msgstr ""
+msgstr "Lee y estudia La Biblia para tener tus propias convicciones"
 
 #: 04_seeking_god.html:74
 msgid "Study daily"
-msgstr ""
+msgstr "Estudiala todos los días."
 
 #: 04_seeking_god.html:78
 msgid "Jeremiah 29:11-14"
-msgstr ""
+msgstr "Jeremias 29:11-14"
 
 #: 04_seeking_god.html:80
 msgid "God has an individual plan for your life"
-msgstr ""
+msgstr "Dios tiene un plan personal para tu vida."
 
 #: 04_seeking_god.html:81
 msgid "A plan to prosper you - with hope and a future"
-msgstr ""
+msgstr "Un plan de prosperidad, con un futuro y una esperanza."
 
 #: 04_seeking_god.html:82
 msgid "You will find God when you seek Him with all your heart"
-msgstr ""
+msgstr "Encontrarás a Dios cuando lo busques de todo corazón."
 
 #: 04_seeking_god.html:86
 msgctxt "seeking_god #1"
 msgid "Acts 8:26-39"
-msgstr ""
+msgstr "Hechos 8:26-39"
 
 #: 04_seeking_god.html:88
 msgid "The angels and the Holy Spirit are helping to get you to God"
-msgstr ""
+msgstr "Los ángeles y El Espíritu Santo están ayudando para que llegues a Dios"
 
 #: 04_seeking_god.html:89
 msgid "Do not be afraid to ask questions about life or the Bible - be humble"
-msgstr ""
+msgstr "No tengas miedo de hacer preguntas acerca de la vida o la Biblia - sé humilde"
 
 #: 04_seeking_god.html:90
 msgid "You need someone to explain the Bible to you"
-msgstr ""
+msgstr "Necesitas a alguien que te explique la Biblia."
 
 #: 04_seeking_god.html:91
 msgid "You will be \"rejoicing\" when you find God"
-msgstr ""
+msgstr "Serás muy feliz cuando encuentres a Dios."
 
 #: 04_seeking_god.html:95
 msgid "Matthew 7:7-8"
-msgstr ""
+msgstr "Mateo 7:7-8"
 
 #: 04_seeking_god.html:97
 msgid "Seek and God guarantees you will find Him"
-msgstr ""
+msgstr "Búscalo y Dios te garantiza que lo encontrarás."
 
 #: 04_seeking_god.html:98
 msgid "Ask God for help"
-msgstr ""
+msgstr "Pídele ayuda a Dios"
 
 #: 05_word_of_god.html:37
 msgid "2 Timothy 3:16-17"
-msgstr ""
+msgstr "2 Timoteo 3:16-17"
 
 #: 05_word_of_god.html:39
 msgid "All Scripture is inspired by God"
-msgstr ""
+msgstr "Toda la escritura está inspirada por Dios."
 
 #: 05_word_of_god.html:40
 msgid "It is to be applied to our lives"
-msgstr ""
+msgstr "Debe ser aplicada a nuestras vidas."
 
 #: 05_word_of_god.html:44
 msgid "Hebrews 4:12-13"
-msgstr ""
+msgstr "Hebreos 4:12-13"
 
 #: 05_word_of_god.html:46
 msgid "The Word is relevant"
-msgstr ""
+msgstr "La Palabra es relevante y aplicable hoy en día"
 
 #: 05_word_of_god.html:47
 msgid "The Word cuts (hurts)"
-msgstr ""
+msgstr "La Palabra corta (hiere)"
 
 #: 05_word_of_god.html:48
 msgid "Learn that it is good to be \"cut,\" because a scalpel (God's Word) \"cuts\" the cancer (sin) out!"
-msgstr ""
+msgstr "Aprende que es !Es bueno ser cortado porque se extrae el cáncer (el pecado), ya que trabaja como un bisturí (La Palabra de Dios)!"
 
 #: 05_word_of_god.html:52
 msgid "2 Peter 1:20-21"
-msgstr ""
+msgstr "2 Pedro 1:20-21"
 
 #: 05_word_of_god.html:54
 msgid "There is no private interpretation of the Bible"
-msgstr ""
+msgstr "No hay interpretación particular de la Biblia"
 
 #: 05_word_of_god.html:55
 msgid "The Holy Spirit inspired the men who wrote the books of the Bible"
-msgstr ""
+msgstr "El Espíritu Santo inspiro a los hombres que escribieron los libros de la Biblia."
 
 #: 05_word_of_god.html:59
 msgctxt "word_of_god #1"
 msgid "John 8:31-32"
-msgstr ""
+msgstr "Juan 8:31-32"
 
 #: 05_word_of_god.html:61
 msgid "Intellectual belief is not enough - nor can we go by our feelings"
-msgstr ""
+msgstr "No es suficiente la creencia intelectual, tampoco podemos actuar por sentimientos."
 
 #: 05_word_of_god.html:62
 msgid "Everyone must hold on to and follow the teachings of Jesus to be a true disciple"
-msgstr ""
+msgstr "Todos deben obedecer y seguir las enseñanzas de Jesús para ser verdaderos discípulos."
 
 #: 05_word_of_god.html:63
 msgid "Sincerity does not equal truth"
-msgstr ""
+msgstr "La sinceridad no es igual a la verdad."
 
 #: 05_word_of_god.html:64
 msgid "Religious people can be wrong"
-msgstr ""
+msgstr "La gente religiosa puede estar equivocada."
 
 #: 05_word_of_god.html:68
 msgid "Matthew 15:1-9"
-msgstr ""
+msgstr "Mateo 15:1-9"
 
 #: 05_word_of_god.html:70
 msgid "Do not go by traditions or creeds"
-msgstr ""
+msgstr "No debes dejarte guiar por tradiciones o creencias hechas por hombres."
 
 #: 05_word_of_god.html:71
 msgid "Worship by traditions - those which contradict the Word of God - is worship in vain"
-msgstr ""
+msgstr "Adorar por tradiciones (las cuales contradicen la palabra de Dios) es adorar en vano."
 
 #: 05_word_of_god.html:75
 msgctxt "word_of_god #1"
 msgid "1 Timothy 4:16"
-msgstr ""
+msgstr "1 Timoteo 4:15"
 
 #: 05_word_of_god.html:77
 msgid "Watch your life and doctrine closely - they are inseparable"
-msgstr ""
+msgstr "Ten cuidado de tu manera de vivir (vida) y de lo que enseñas a otros (doctrina) -- éstas son inseperables."
 
 #: 05_word_of_god.html:78
 msgid "Which is more important:  life or doctrine?  Neither - an airplane with only one wing cannot fly"
-msgstr ""
+msgstr "¿Cúal es más importante, la vida o la doctrina? Ninguna, ya que un avión no puede volar con solamente un ala."
 
 #: 05_word_of_god.html:79
 msgid "Why is it so important to learn and to teach and to live the right doctrine?  To save yourself and those who hear you"
-msgstr ""
+msgstr "¿Por qué es tan importante aprender, enseñar y vivir la doctrina correcta? Para salvarte a tí mismo y a los que te escuchan."
 
 #: 05_word_of_god.html:83
 msgctxt "word_of_god #1"
 msgid "Acts 17:10-12"
-msgstr ""
+msgstr "Hechos 17:10-12"
 
 #: 05_word_of_god.html:85
 msgid "A noble character in God's eyes: great eagerness in receiving the message; examine Scriptures; daily; and believe - make decisions based on the Scriptures"
-msgstr ""
+msgstr "Un carácter noble antes los ojos de Dios: Tiene gran entusiasmo en recibir el mensaje; examina las Escrituras diariamente; y cree - Toma decisiones basadas en las Escrituras."
 
 #: 05_word_of_god.html:86
 msgid "Must check what religious leaders say"
-msgstr ""
+msgstr "Debes examinar lo que enseñan los líderes religiosos."
 
 #: 05_word_of_god.html:87
 msgid "Your challenge: Read and study the Bible every day!"
-msgstr ""
+msgstr "Tu reto: !Lee y estudia tu Biblia todos los días!"
 
 #: 05_word_of_god.html:91
 msgid "James 1:22-25"
-msgstr ""
+msgstr "Santiago 1:22-25"
 
 #: 05_word_of_god.html:93
 msgid "The Word of God is a mirror"
-msgstr ""
+msgstr "La Palabra de Dios es un espejo."
 
 #: 05_word_of_god.html:94
 msgid "Do not forget what you see - \"do what it says\""
-msgstr ""
+msgstr "No te olvides de lo que ves - \"!Haz lo que dice!\""
 
 #: 05_word_of_god.html:98
 msgid "John 12:48"
-msgstr ""
+msgstr "Juan 12:48"
 
 #: 05_word_of_god.html:100
 msgid "Why study the Bible? The Word will judge us"
-msgstr ""
+msgstr "¿Por qué estudiar la Biblia? ¡Porque la Palabra de Dios nos juzgará!"
 
 #: 05_word_of_god.html:105
 msgid "Decision:"
-msgstr ""
+msgstr "Decisión:"
 
 #: 05_word_of_god.html:105
 msgid "Will I live by the Bible? Or will I live by my feelings, traditions, desires, etc.?"
-msgstr ""
+msgstr "¿Viviré por la Biblia o por mis sentimientos, tradiciones, deseos, etc...?"
 
 #: 06_discipleship.html:36
 msgctxt "discipleship #1"
