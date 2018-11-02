@@ -1441,7 +1441,7 @@ msgstr "DIOS"
 #: 08_light_and_darkness.html:93
 msgctxt "light_and_darkness #1"
 msgid "SIN"
-msgstr "PECDADO"
+msgstr "PECADO"
 
 #: 08_light_and_darkness.html:98
 msgid "In order for a man to have a relationship with God the wall must be broken down - sin must be forgiven"
@@ -1550,98 +1550,98 @@ msgstr "La Muerte"
 
 #: 08_light_and_darkness.html:156
 msgid "Hell"
-msgstr ""
+msgstr "El Infierno"
 
 #: 08_light_and_darkness.html:156
 msgctxt "light_and_darkness #3"
 msgid "Darkness"
-msgstr ""
+msgstr "La Oscuridad"
 
 #: 08_light_and_darkness.html:159
 msgid "Eternal Life"
-msgstr ""
+msgstr "La Vida Eterna"
 
 #: 08_light_and_darkness.html:159
 msgid "Heaven"
-msgstr ""
+msgstr "El Cielo"
 
 #: 08_light_and_darkness.html:159
 msgctxt "light_and_darkness #2"
 msgid "Light"
-msgstr ""
+msgstr "La Luz"
 
 #: 08_light_and_darkness.html:168
 msgctxt "light_and_darkness #3"
 msgid "Light"
-msgstr ""
+msgstr "La Luz"
 
 #: 08_light_and_darkness.html:170
 msgctxt "light_and_darkness #1"
 msgid "John 3:1-7"
-msgstr ""
+msgstr "Juan 3:1-7"
 
 #: 08_light_and_darkness.html:170
 msgid "Born again (v. 3), born of water and Spirit (v. 5), born again. (v. 7)"
-msgstr ""
+msgstr "Nacer de Nuevo (v.3), nacer del agua y del espíritu (v. 5), nacer de nuevo. (v.7="
 
 #: 08_light_and_darkness.html:171
 msgid "Personal decision as an adult"
-msgstr ""
+msgstr "Decisión personal como adulto."
 
 #: 08_light_and_darkness.html:173
 msgid "What message must one believe to be in the light (to be saved)?"
-msgstr ""
+msgstr "¿Qué mensaje debemos creer para estar en la Luz (ser salvo)?"
 
 #: 08_light_and_darkness.html:173
 msgid "Acts 2:22-24"
-msgstr ""
+msgstr "Hechos 2:22-24"
 
 #: 08_light_and_darkness.html:175
 msgid "Jesus is from God"
-msgstr ""
+msgstr "Jesús fue enviado por Dios"
 
 #: 08_light_and_darkness.html:175
 msgid "v. 22"
-msgstr ""
+msgstr "v. 22"
 
 #: 08_light_and_darkness.html:176
 msgid "Jesus raised physically from the dead"
-msgstr ""
+msgstr "Jesús recusitó físicamente de la muerte"
 
 #: 08_light_and_darkness.html:176
 msgctxt "light_and_darkness #1"
 msgid "v. 24"
-msgstr ""
+msgstr "v. 24"
 
 #: 08_light_and_darkness.html:177
 msgid "Everyone is responsible for the crucifixion of Christ"
-msgstr ""
+msgstr "Todos somos responsables por la crucifixión de Cristo."
 
 #: 08_light_and_darkness.html:177
 msgctxt "light_and_darkness #1"
 msgid "v. 23"
-msgstr ""
+msgstr "v. 23"
 
 #: 08_light_and_darkness.html:177
 msgid "All have sinned."
-msgstr ""
+msgstr "Todos hemos pecado"
 
 #: 08_light_and_darkness.html:177
 msgctxt "light_and_darkness #1"
 msgid "Romans 3:23"
-msgstr ""
+msgstr "Romanos 3:23"
 
 #: 08_light_and_darkness.html:181
 msgid "Response of people:"
-msgstr ""
+msgstr "La Respuesta de la gente"
 
 #: 08_light_and_darkness.html:181
 msgid "Acts 2:36-37"
-msgstr ""
+msgstr "Hechos 2:37"
 
 #: 08_light_and_darkness.html:183
 msgid "Cut to the heart"
-msgstr ""
+msgstr "Profundamente conmovidos (corazón)"
 
 #: 08_light_and_darkness.html:184
 msgid "What shall we do?"
