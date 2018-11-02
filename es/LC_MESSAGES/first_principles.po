@@ -878,264 +878,264 @@ msgstr "Preguntas: ¿Qué es el Reino de Dios?¿Cuándo llegó?"
 
 #: 07_coming_of_the_kingdom.html:41
 msgid "Old Testament Predictions of the Kingdom (the height of Israel's glory was under the kingship of David, approximately 1000 B.C.)"
-msgstr ""
+msgstr "Predicciones acerca del Reino en el Antiguo Testamento (El momento más importante de la gloria de Israel fue bajo el reinado de David en el año 1000 A.C aprox.)"
 
 #: 07_coming_of_the_kingdom.html:44
 msgid "Isaiah 2:1-4"
-msgstr ""
+msgstr "Isaías 2:1-4"
 
 #: 07_coming_of_the_kingdom.html:44
 msgid "(750 B.C.)"
-msgstr ""
+msgstr "(759 A.C)"
 
 #: 07_coming_of_the_kingdom.html:46
 msgctxt "coming_of_the_kingdom #1"
 msgid "Last days"
-msgstr ""
+msgstr "Los últimos días"
 
 #: 07_coming_of_the_kingdom.html:47
 msgid "Mountains (Symbolizes kingdoms):  Mountain of the Lord, chief of the mountains"
-msgstr ""
+msgstr "Montes (símbolos de reinos): Monte del Señor, El principal de los montes."
 
 #: 07_coming_of_the_kingdom.html:48
 msgctxt "coming_of_the_kingdom #1"
 msgid "All nations"
-msgstr ""
+msgstr "Todas las Naciones"
 
 #: 07_coming_of_the_kingdom.html:49
 msgctxt "coming_of_the_kingdom #1"
 msgid "Jerusalem"
-msgstr ""
+msgstr "Jerusalén"
 
 #: 07_coming_of_the_kingdom.html:53
 msgctxt "coming_of_the_kingdom #1"
 msgid "Daniel 2:31-45"
-msgstr ""
+msgstr "Daniel 2:31-45"
 
 #: 07_coming_of_the_kingdom.html:53
 msgid "(550 B.C.)"
-msgstr ""
+msgstr "(550 A.C)"
 
 #: 07_coming_of_the_kingdom.html:55
 msgid "Set up this passage by explaining that earlier in Daniel 2 King Nebuchadnezzer threatens death to all his astrologers and dream interpreters if they do not first tell him his dream, then interpret it"
-msgstr ""
+msgstr "Plantea este pasaje explicando que al principio de David 2 el rey Nabucodonosor amenazó de muerte a todos sus astrólogos e interpretadores de sueños si no le decían su sueño primero y luego lo interpretaban."
 
 #: 07_coming_of_the_kingdom.html:56
 msgid "Daniel interprets King Nebuchadnezzar's dream"
-msgstr ""
+msgstr "Daniel interpreta el sueño del Rey Nabucodonorsor."
 
 #: 07_coming_of_the_kingdom.html:58
 msgid "Empires"
-msgstr ""
+msgstr "Imperios"
 
 #: 07_coming_of_the_kingdom.html:60
 msgid "Babylonian:  gold"
-msgstr ""
+msgstr "Babilonia: El oro"
 
 #: 07_coming_of_the_kingdom.html:61
 msgid "Medo-Persian:  silver"
-msgstr ""
+msgstr "Medo-Persa: La Plata"
 
 #: 07_coming_of_the_kingdom.html:62
 msgid "Alexander the Great:  bronze"
-msgstr ""
+msgstr "Alejandro Magno: El Bronce"
 
 #: 07_coming_of_the_kingdom.html:63
 msgid "Roman:  iron (iron and clay)"
-msgstr ""
+msgstr "Roma: El Hierro (El hierro y el barro)"
 
 #: 07_coming_of_the_kingdom.html:66
 msgid "Rock - cut out not by human hands (therefore God)"
-msgstr ""
+msgstr "Una roca que nadie desprendió (fue Dios)"
 
 #: 07_coming_of_the_kingdom.html:67
 msgid "Rock becomes huge mountain - filled the whole earth"
-msgstr ""
+msgstr "Una roca que se convirtió en una gran montaña, cubrió toda la tierra. (Evangelismo mundial)"
 
 #: 07_coming_of_the_kingdom.html:68
 msgid "Kingdom that will never be destroyed (v. 44)"
-msgstr ""
+msgstr "Un reino que jamás será destruido (v. 44)"
 
 #: 07_coming_of_the_kingdom.html:74
 msgid "New Testament Predictions of the Kingdom"
-msgstr ""
+msgstr "Predicciones acerca del Reino en el Nuevo Testamento"
 
 #: 07_coming_of_the_kingdom.html:77
 msgid "John the Baptist"
-msgstr ""
+msgstr "Juan el Bautista"
 
 #: 07_coming_of_the_kingdom.html:77
 msgid "(25 A.D.)"
-msgstr ""
+msgstr "(25 D.C)"
 
 #: 07_coming_of_the_kingdom.html:79
 msgctxt "coming_of_the_kingdom #1"
 msgid "Kingdom is near"
-msgstr ""
+msgstr "El Reino está cerca"
 
 #: 07_coming_of_the_kingdom.html:79
 msgid "Matthew 3:1-6"
-msgstr ""
+msgstr "Mateo 3:1-6"
 
 #: 07_coming_of_the_kingdom.html:83
 msgid "Jesus"
-msgstr ""
+msgstr "Jesús"
 
 #: 07_coming_of_the_kingdom.html:83
 msgid "(30 A.D.)"
-msgstr ""
+msgstr "(30 D.C)"
 
 #: 07_coming_of_the_kingdom.html:85
 msgctxt "coming_of_the_kingdom #2"
 msgid "Kingdom is near"
-msgstr ""
+msgstr "El Reino está cerca"
 
 #: 07_coming_of_the_kingdom.html:85
 msgctxt "coming_of_the_kingdom #1"
 msgid "Matthew 4:17"
-msgstr ""
+msgstr "Mateo 4:17"
 
 #: 07_coming_of_the_kingdom.html:86
 msgid "Kingdom will come in the lifetime of some of the disciples"
-msgstr ""
+msgstr "El Reino llegará durante el transcurso de la vida de algunos de los discípulos."
 
 #: 07_coming_of_the_kingdom.html:86
 msgctxt "coming_of_the_kingdom #1"
 msgid "Mark 9:1"
-msgstr ""
+msgstr "Marcos 9:1"
 
 #: 07_coming_of_the_kingdom.html:87
 msgid "Kingdom will come with power"
-msgstr ""
+msgstr "El Reino vendrá con Poder."
 
 #: 07_coming_of_the_kingdom.html:87
 msgctxt "coming_of_the_kingdom #2"
 msgid "Mark 9:1"
-msgstr ""
+msgstr "Marcos 9:1"
 
 #: 07_coming_of_the_kingdom.html:88
 msgid "Kingdom entered by new birth - by water and the Spirit"
-msgstr ""
+msgstr "Un nacimiento nuevo es necesario para entrar al Reino, mediante el agua y el espíritu"
 
 #: 07_coming_of_the_kingdom.html:88
 msgctxt "coming_of_the_kingdom #1"
 msgid "John 3:1-7"
-msgstr ""
+msgstr "Juan 3:1-7"
 
 #: 07_coming_of_the_kingdom.html:89
 msgid "Kingdom is within you"
-msgstr ""
+msgstr "El Reino está entre ustedes."
 
 #: 07_coming_of_the_kingdom.html:89
 msgctxt "coming_of_the_kingdom #1"
 msgid "Luke 17:20-21"
-msgstr ""
+msgstr "Lucas 17:20-21"
 
 #: 07_coming_of_the_kingdom.html:90
 msgid "Peter has the keys"
-msgstr ""
+msgstr "Pedro tiene las llaves"
 
 #: 07_coming_of_the_kingdom.html:90
 msgid "Matthew 16:13-19"
-msgstr ""
+msgstr "Mateo 16:13-19"
 
 #: 07_coming_of_the_kingdom.html:90
 msgid "Church and the Kingdom are the same and will be built on the truth that Jesus is the Christ"
-msgstr ""
+msgstr "La iglesia y el Reino son lo mismo y será construido sobre la verdad que Jesús es el Cristo"
 
 #: 07_coming_of_the_kingdom.html:90
 msgid "1 Corinthians 3:11"
-msgstr ""
+msgstr "1 Corintios 3:11"
 
 #: 07_coming_of_the_kingdom.html:91
 msgid "Joseph of Arimathea was still waiting for the Kingdom when Jesus died"
-msgstr ""
+msgstr "José de Arimatéa todavía esperaba el reino aún después de la muerte de Jesús."
 
 #: 07_coming_of_the_kingdom.html:91
 msgid "Luke 23:50-52"
-msgstr ""
+msgstr "Lucas 23:50-51"
 
 #: 07_coming_of_the_kingdom.html:92
 msgid "Repentance and forgiveness of sins will be preached first in Jerusalem to all nations"
-msgstr ""
+msgstr "Comenzando desde Jerusalén, se anunciará a todas las naciones el arrepentimiento y el perdón de los pecados."
 
 #: 07_coming_of_the_kingdom.html:92
 msgctxt "coming_of_the_kingdom #1"
 msgid "Luke 24:44-49"
-msgstr ""
+msgstr "Lucas 24:44-49"
 
 #: 07_coming_of_the_kingdom.html:98
 msgid "Fulfillment of the Old and New Testament Predictions,"
-msgstr ""
+msgstr "Cumplimiento de las Predicciones del Antiguo y Nuevo Testamento,"
 
 #: 07_coming_of_the_kingdom.html:98
 msgctxt "coming_of_the_kingdom #1"
 msgid "Acts 1-2"
-msgstr ""
+msgstr "Hechos 1-2"
 
 #: 07_coming_of_the_kingdom.html:98
 msgid "(33 A.D.)"
-msgstr ""
+msgstr "(33 D.C)"
 
 #: 07_coming_of_the_kingdom.html:101
 msgctxt "coming_of_the_kingdom #2"
 msgid "Last days"
-msgstr ""
+msgstr "Los últimos días"
 
 #: 07_coming_of_the_kingdom.html:101
 msgid "Acts 2:17"
-msgstr ""
+msgstr "Hechos 2:17"
 
 #: 07_coming_of_the_kingdom.html:103
 msgctxt "coming_of_the_kingdom #1"
 msgid "Isaiah 2:2"
-msgstr ""
+msgstr "Isaías 2:2"
 
 #: 07_coming_of_the_kingdom.html:107
 msgctxt "coming_of_the_kingdom #2"
 msgid "All nations"
-msgstr ""
+msgstr "Todas las naciones"
 
 #: 07_coming_of_the_kingdom.html:107
 msgctxt "coming_of_the_kingdom #1"
 msgid "Acts 2:5"
-msgstr ""
+msgstr "Hechos 2:5"
 
 #: 07_coming_of_the_kingdom.html:109
 msgctxt "coming_of_the_kingdom #2"
 msgid "Isaiah 2:2"
-msgstr ""
+msgstr "Isaías 2:2"
 
 #: 07_coming_of_the_kingdom.html:110
 msgid "Luke 24:47"
-msgstr ""
+msgstr "Lucas 24:47"
 
 #: 07_coming_of_the_kingdom.html:114
 msgctxt "coming_of_the_kingdom #2"
 msgid "Jerusalem"
-msgstr ""
+msgstr "Jerusalem"
 
 #: 07_coming_of_the_kingdom.html:114
 msgctxt "coming_of_the_kingdom #2"
 msgid "Acts 2:5"
-msgstr ""
+msgstr "Hechos 2:5"
 
 #: 07_coming_of_the_kingdom.html:116
 msgid "Isaiah 2:3"
-msgstr ""
+msgstr "Isaías 2:3"
 
 #: 07_coming_of_the_kingdom.html:117
 msgctxt "coming_of_the_kingdom #2"
 msgid "Luke 24:44-49"
-msgstr ""
+msgstr "Lucas 24:44-49"
 
 #: 07_coming_of_the_kingdom.html:121
 msgid "Eternal kingdom"
-msgstr ""
+msgstr "Un Reino Eterno"
 
 #: 07_coming_of_the_kingdom.html:121
 msgid "Acts 2:37-42"
-msgstr ""
+msgstr "Hechos 2:37-42"
 
 #: 07_coming_of_the_kingdom.html:123
 msgctxt "coming_of_the_kingdom #2"
@@ -1144,409 +1144,409 @@ msgstr ""
 
 #: 07_coming_of_the_kingdom.html:127
 msgid "Date of coming approximately"
-msgstr ""
+msgstr "Fecha aproximada de la llegada del Reino"
 
 #: 07_coming_of_the_kingdom.html:127
 msgctxt "coming_of_the_kingdom #1"
 msgid "33 A.D."
-msgstr ""
+msgstr "33 D.C"
 
 #: 07_coming_of_the_kingdom.html:127
 msgctxt "coming_of_the_kingdom #2"
 msgid "Acts 1-2"
-msgstr ""
+msgstr "Hechos 1-2"
 
 #: 07_coming_of_the_kingdom.html:129
 msgid "Old Testament prophecy"
-msgstr ""
+msgstr "La profecía del Antiguo Testamento"
 
 #: 07_coming_of_the_kingdom.html:130
 msgid "John the Baptist - \"is near\""
-msgstr ""
+msgstr "Juan el Bautísta - \"Está cerca\""
 
 #: 07_coming_of_the_kingdom.html:130
 msgid "Matthew 3:1-2"
-msgstr ""
+msgstr "Mateo 3:1-2"
 
 #: 07_coming_of_the_kingdom.html:131
 msgid "Jesus - \"is near\""
-msgstr ""
+msgstr "Jesús - \"Está Cerca\""
 
 #: 07_coming_of_the_kingdom.html:131
 msgctxt "coming_of_the_kingdom #2"
 msgid "Matthew 4:17"
-msgstr ""
+msgstr "Mateo 4:17"
 
 #: 07_coming_of_the_kingdom.html:135
 msgid "Lifetime"
-msgstr ""
+msgstr "Durante la vida de algunos discípulos"
 
 #: 07_coming_of_the_kingdom.html:135
 msgctxt "coming_of_the_kingdom #1"
 msgid "Acts 2:14"
-msgstr ""
+msgstr "Hechos 2:14"
 
 #: 07_coming_of_the_kingdom.html:137
 msgctxt "coming_of_the_kingdom #3"
 msgid "Mark 9:1"
-msgstr ""
+msgstr "Marcos 9:1"
 
 #: 07_coming_of_the_kingdom.html:138
 msgid "\"Some\" - Judas died"
-msgstr ""
+msgstr "\"Algunos\", y que Judas murió"
 
 #: 07_coming_of_the_kingdom.html:138
 msgid "Acts 1:18-19"
-msgstr ""
+msgstr "Hechos 1:18-19"
 
 #: 07_coming_of_the_kingdom.html:142
 msgid "Power"
-msgstr ""
+msgstr "Poder"
 
 #: 07_coming_of_the_kingdom.html:142
 msgctxt "coming_of_the_kingdom #1"
 msgid "Acts 1:8"
-msgstr ""
+msgstr "Hechos 1:8"
 
 #: 07_coming_of_the_kingdom.html:142
 msgid "Acts 2:1-4"
-msgstr ""
+msgstr "Hechos 2:1-4"
 
 #: 07_coming_of_the_kingdom.html:144
 msgctxt "coming_of_the_kingdom #4"
 msgid "Mark 9:1"
-msgstr ""
+msgstr "Marcos 9:1"
 
 #: 07_coming_of_the_kingdom.html:148
 msgid "New birth"
-msgstr ""
+msgstr "Nuevo Nacimiento"
 
 #: 07_coming_of_the_kingdom.html:148
 msgctxt "coming_of_the_kingdom #1"
 msgid "Acts 2:38"
-msgstr ""
+msgstr "Hechos 2:38"
 
 #: 07_coming_of_the_kingdom.html:150
 msgid "Water and Spirit"
-msgstr ""
+msgstr "Agua y Espíritu"
 
 #: 07_coming_of_the_kingdom.html:150
 msgctxt "coming_of_the_kingdom #2"
 msgid "John 3:1-7"
-msgstr ""
+msgstr "Juan 3:1-7"
 
 #: 07_coming_of_the_kingdom.html:154
 msgid "Kingdom within"
-msgstr ""
+msgstr "Reino entre/dentro"
 
 #: 07_coming_of_the_kingdom.html:154
 msgid "Acts 2:37"
-msgstr ""
+msgstr "Hechos 2:37"
 
 #: 07_coming_of_the_kingdom.html:156
 msgctxt "coming_of_the_kingdom #2"
 msgid "Luke 17:20-21"
-msgstr ""
+msgstr "Lucas 17:20-21"
 
 #: 07_coming_of_the_kingdom.html:160
 msgid "Peter with the keys"
-msgstr ""
+msgstr "Pedro con las Llaves"
 
 #: 07_coming_of_the_kingdom.html:160
 msgctxt "coming_of_the_kingdom #2"
 msgid "Acts 2:14"
-msgstr ""
+msgstr "Hechos 2:14"
 
 #: 07_coming_of_the_kingdom.html:160
 msgctxt "coming_of_the_kingdom #2"
 msgid "Acts 2:38"
-msgstr ""
+msgstr "Hechos 2:38"
 
 #: 07_coming_of_the_kingdom.html:162
 msgid "Matthew 16:19"
-msgstr ""
+msgstr "Mateo 16:19"
 
 #: 07_coming_of_the_kingdom.html:166
 msgid "Repentance and forgiveness of sin"
-msgstr ""
+msgstr "El arrepentimiento y el perdón de pecados"
 
 #: 07_coming_of_the_kingdom.html:166
 msgctxt "coming_of_the_kingdom #3"
 msgid "Acts 2:38"
-msgstr ""
+msgstr "Hechos 2:38"
 
 #: 07_coming_of_the_kingdom.html:168
 msgctxt "coming_of_the_kingdom #3"
 msgid "Luke 24:44-49"
-msgstr ""
+msgstr "Lucas 24:44-49"
 
 #: 07_coming_of_the_kingdom.html:174
 msgctxt "coming_of_the_kingdom #1"
 msgid "Conclusion"
-msgstr ""
+msgstr "Conclusión"
 
 #: 07_coming_of_the_kingdom.html:176
 msgid "The church is the Kingdom of God on earth, established in approximately"
-msgstr ""
+msgstr "La Iglesia es el Reino de Dios en la tierra establecida aproximadamente en el año"
 
 #: 07_coming_of_the_kingdom.html:176
 msgctxt "coming_of_the_kingdom #2"
 msgid "33 A.D."
-msgstr ""
+msgstr "33 D.C"
 
 #: 07_coming_of_the_kingdom.html:178
 msgid "Acts 2:42"
-msgstr ""
+msgstr "Hechos 2:42"
 
 #: 07_coming_of_the_kingdom.html:178
 msgid "As citizens of the Kingdom and members of the body (the church), we must be devoted to:"
-msgstr ""
+msgstr "Como ciudadanos del Reino y miembros del Cuerpo (la Iglesia) debemos estar comprometidos a:"
 
 #: 07_coming_of_the_kingdom.html:180
 msgctxt "coming_of_the_kingdom #1"
 msgid "Doctrine"
-msgstr ""
+msgstr "La Doctrina"
 
 #: 07_coming_of_the_kingdom.html:181
 msgid "Fellowship"
-msgstr ""
+msgstr "La confraternidad"
 
 #: 07_coming_of_the_kingdom.html:182
 msgid "Breaking Bread"
-msgstr ""
+msgstr "El Partimiento del Pan"
 
 #: 07_coming_of_the_kingdom.html:183
 msgid "Prayer"
-msgstr ""
+msgstr "La Oración"
 
 #: 07_coming_of_the_kingdom.html:186
 msgctxt "coming_of_the_kingdom #1"
 msgid "Matthew 6:33"
-msgstr ""
+msgstr "Mateo 6:33"
 
 #: 07_coming_of_the_kingdom.html:186
 msgid "We must seek His Kingdom first.  Ask them to commit themselves to at least Sunday services and Midweek services"
-msgstr ""
+msgstr "El Reino debe ser nuestra prioridad. Pídele que se comprometa a ir a la reunión de cada domingo y a las reuniones de entre-semana."
 
 #: 08_light_and_darkness.html:36
 msgid "It is often helpful to begin this study by constructing a \"spiritual timeline\" with the person whom you are helping to become a disciple"
-msgstr ""
+msgstr "A menudo es útil comenzar este estudio armando una \"cronología espiritual\" con la persona que estás ayudando a ser un discípulo."
 
 #: 08_light_and_darkness.html:39
 msgctxt "light_and_darkness #1"
 msgid "Introduction:"
-msgstr ""
+msgstr "Introducción:"
 
 #: 08_light_and_darkness.html:39
 msgid "1 Peter 2:9-10"
-msgstr ""
+msgstr "1 Pedro 2:9-10"
 
 #: 08_light_and_darkness.html:44
 msgctxt "light_and_darkness #1"
 msgid "Darkness"
-msgstr ""
+msgstr "Oscuridad"
 
 #: 08_light_and_darkness.html:44
 msgid "Not a people of God"
-msgstr ""
+msgstr "No pueblo de Dios"
 
 #: 08_light_and_darkness.html:44
 msgid "No Mercy"
-msgstr ""
+msgstr "No Compasión"
 
 #: 08_light_and_darkness.html:46
 msgctxt "light_and_darkness #1"
 msgid "Light"
-msgstr ""
+msgstr "Luz"
 
 #: 08_light_and_darkness.html:46
 msgid "People of God"
-msgstr ""
+msgstr "Pueblo de Dios"
 
 #: 08_light_and_darkness.html:46
 msgid "Mercy"
-msgstr ""
+msgstr "Compasión"
 
 #: 08_light_and_darkness.html:50
 msgid "Lost"
-msgstr ""
+msgstr "Perdido"
 
 #: 08_light_and_darkness.html:50
 msgid "Not a Christian"
-msgstr ""
+msgstr "No Cristiano"
 
 #: 08_light_and_darkness.html:50
 msgid "Not a Disciple"
-msgstr ""
+msgstr "No Discípulo"
 
 #: 08_light_and_darkness.html:52
 msgid "Saved"
-msgstr ""
+msgstr "Salvo"
 
 #: 08_light_and_darkness.html:52
 msgctxt "light_and_darkness #1"
 msgid "Christian"
-msgstr ""
+msgstr "Cristiano"
 
 #: 08_light_and_darkness.html:52
 msgctxt "light_and_darkness #1"
 msgid "Disciple"
-msgstr ""
+msgstr "Discípulo"
 
 #: 08_light_and_darkness.html:58
 msgid "Every person is either in the darkness or the light.  There is no twilight zone"
-msgstr ""
+msgstr "Toda Persona está en la oscuridad o en la luz.  No existe un punto medio."
 
 #: 08_light_and_darkness.html:59
 msgid "Where are you?"
-msgstr ""
+msgstr "¿Donde estás tú?"
 
 #: 08_light_and_darkness.html:64
 msgctxt "light_and_darkness #2"
 msgid "Darkness"
-msgstr ""
+msgstr "Oscuridad"
 
 #: 08_light_and_darkness.html:67
 msgctxt "light_and_darkness #1"
 msgid "Isaiah 59:1-2"
-msgstr ""
+msgstr "Isaías 59:1-2"
 
 #: 08_light_and_darkness.html:70
 msgid "Sin separates us from God"
-msgstr ""
+msgstr "El pecado nos separa de Dios."
 
 #: 08_light_and_darkness.html:75
 msgid "WALL"
-msgstr ""
+msgstr "BARRERA"
 
 #: 08_light_and_darkness.html:80
 msgctxt "light_and_darkness #1"
 msgid "DARKNESS"
-msgstr ""
+msgstr "OSCURIDAD"
 
 #: 08_light_and_darkness.html:80
 msgid "MAN"
-msgstr ""
+msgstr "HOMBRE"
 
 #: 08_light_and_darkness.html:87
 msgctxt "light_and_darkness #1"
 msgid "LIGHT"
-msgstr ""
+msgstr "LUZ"
 
 #: 08_light_and_darkness.html:87
 msgctxt "light_and_darkness #1"
 msgid "GOD"
-msgstr ""
+msgstr "DIOS"
 
 #: 08_light_and_darkness.html:93
 msgctxt "light_and_darkness #1"
 msgid "SIN"
-msgstr ""
+msgstr "PECDADO"
 
 #: 08_light_and_darkness.html:98
 msgid "In order for a man to have a relationship with God the wall must be broken down - sin must be forgiven"
-msgstr ""
+msgstr "Para que una persona pueda tener una relación con Dios, la barrera debe ser derribada - el pecado debe ser perdonado."
 
 #: 08_light_and_darkness.html:99
 msgid "The point in time that sin is forgiven is the point in time a person is saved"
-msgstr ""
+msgstr "Cuando el pecado es perdonado, ese es el momento en que una persona es salva."
 
 #: 08_light_and_darkness.html:103
 msgid "Romans 3:23-25"
-msgstr ""
+msgstr "Romanos 3:23-25"
 
 #: 08_light_and_darkness.html:106
 msgid "Who has sinned?  Everyone!"
-msgstr ""
+msgstr "¿Quienes han pecado? ¡Todos!"
 
 #: 08_light_and_darkness.html:110
 msgctxt "light_and_darkness #2"
 msgid "SIN"
-msgstr ""
+msgstr "PECADO"
 
 #: 08_light_and_darkness.html:114
 msgctxt "light_and_darkness #3"
 msgid "SIN"
-msgstr ""
+msgstr "PECADO"
 
 #: 08_light_and_darkness.html:118
 msgctxt "light_and_darkness #4"
 msgid "SIN"
-msgstr ""
+msgstr "PECADO"
 
 #: 08_light_and_darkness.html:123
 msgid "Person A"
-msgstr ""
+msgstr "Persona A"
 
 #: 08_light_and_darkness.html:126
 msgid "Person B"
-msgstr ""
+msgstr "Persona B"
 
 #: 08_light_and_darkness.html:129
 msgid "Person C"
-msgstr ""
+msgstr "Persona C"
 
 #: 08_light_and_darkness.html:134
 msgid "Who is further away from God:  a person who sins a little, or a person who sins a lot?  All are equal, all lost.  Therefore a good moral life does not save you.  You cannot earn your salvation by your good deeds"
-msgstr ""
+msgstr "¿Quien se encuentra más lejos de Dios, la persona que peca menos o que peca más? Todos por igual están perdidos.  Por lo tanto, una vida moralmente buena no te salva.  No puedes ganar tu salvación con buenas obras."
 
 #: 08_light_and_darkness.html:135
 msgid "Faith in the blood of Jesus saves you"
-msgstr ""
+msgstr "La fe en la sangre de Cristo te salva."
 
 #: 08_light_and_darkness.html:135
 msgid "v. 25"
-msgstr ""
+msgstr "v. 25"
 
 #: 08_light_and_darkness.html:139
 msgid "What is Sin?"
-msgstr ""
+msgstr "¿Qué es el pecado?"
 
 #: 08_light_and_darkness.html:141
 msgid "Galatians 5:19-21"
-msgstr ""
+msgstr "Gálatas 5:19-21"
 
 #: 08_light_and_darkness.html:141
 msgctxt "light_and_darkness #1"
 msgid "(sins of commission)"
-msgstr ""
+msgstr "(Pecados de comisión)"
 
 #: 08_light_and_darkness.html:142
 msgid "2 Timothy 3:1-5"
-msgstr ""
+msgstr "2 Timoteo 3:1-5"
 
 #: 08_light_and_darkness.html:142
 msgctxt "light_and_darkness #2"
 msgid "(sins of commission)"
-msgstr ""
+msgstr "(Pecados de comisión)"
 
 #: 08_light_and_darkness.html:143
 msgid "James 4:17"
-msgstr ""
+msgstr "Santiago 4:17"
 
 #: 08_light_and_darkness.html:143
 msgid "(sins of omission)"
-msgstr ""
+msgstr "(Pecados de omisión)"
 
 #: 08_light_and_darkness.html:147
 msgid "What is the eternal consequence of sin?"
-msgstr ""
+msgstr "¿Cuales son las consecuencias eternas del pecado?"
 
 #: 08_light_and_darkness.html:147
 msgid "Romans 6:23"
-msgstr ""
+msgstr "Romanos 6:23"
 
 #: 08_light_and_darkness.html:152
 msgid "WAGES OF SIN"
-msgstr ""
+msgstr "PAGA DEL PECADO"
 
 #: 08_light_and_darkness.html:153
 msgid "GIFT OF GOD"
-msgstr ""
+msgstr "DON DE DIOS"
 
 #: 08_light_and_darkness.html:156
 msgid "Death"
-msgstr ""
+msgstr "La Muerte"
 
 #: 08_light_and_darkness.html:156
 msgid "Hell"
