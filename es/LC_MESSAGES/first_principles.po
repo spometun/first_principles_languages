@@ -105,7 +105,7 @@ msgstr "Contáctanos"
 
 #: 22_contact_us.html:61
 msgid "2017 International Christian Churches (SoldOut Discipling Movement)"
-msgstr ""
+msgstr "2017 Iglesias Cristianas Internacional (Movimientos de Discípulos Comprometidos)"
 
 #: 01_introduction.html:36
 msgid "For when by reason of the time you ought to be teachers, you... need to have someone teach you the rudiments of the first principles of the oracles of God... Therefore leaving the doctrine of the first principles of Christ, let us press on to perfection - not laying again a foundation... of faith toward God, of the teaching of baptisms, of laying on of hands, of resurrection of the dead and of eternal judgment. This will we do!"
@@ -680,201 +680,201 @@ msgstr "¿Viviré por la Biblia o por mis sentimientos, tradiciones, deseos, etc
 #: 06_discipleship.html:36
 msgctxt "discipleship #1"
 msgid "Introduction:"
-msgstr ""
+msgstr "Introducción:"
 
 #: 06_discipleship.html:36
 msgctxt "discipleship #1"
 msgid "Matthew 28:18-20"
-msgstr ""
+msgstr "Mateo 28-18-20"
 
 #: 06_discipleship.html:39
 msgid "What does Jesus want everybody to become?"
-msgstr ""
+msgstr "¿Qué quiere Jesús que todos seamos?"
 
 #: 06_discipleship.html:40
 msgid "Which is the more popular term - \"Disciple\" or \"Christian?\" The word \"Christian\" only appears three times in the New Testament. It is the name those in the world gave the disciples, seven years after the church began"
-msgstr ""
+msgstr "¿Cúal es la palabra más común - \"Discípulo\" o \"Cristiano\"? La palabra \"Cristiano\" solamente aparece 3 veces en el Nuevo Testamento.  Fue el nombre que el mundo le dio a los discípulos, siete años despues de comenzar la Iglesia."
 
 #: 06_discipleship.html:41
 msgid "Acts 11:19-26"
-msgstr ""
+msgstr "Hechos 11:19-26"
 
 #: 06_discipleship.html:42
 msgid "The word \"Disciple\" occurs over 270 times in the New Testament"
-msgstr ""
+msgstr "La palabra \"Discípulo\" aparece más de 270 veces en el Nuevo Testamento."
 
 #: 06_discipleship.html:44
 msgid "SAVED = CHRISTIAN = DISCIPLE"
-msgstr ""
+msgstr "SALVO = CRISTIANO = DISCIPULO"
 
 #: 06_discipleship.html:45
 msgid "Jesus came to make disciples. Only baptized disciples will be saved"
-msgstr ""
+msgstr "Jesús vino a hacer discípulos.  Sólo los discípulos bautizados serán salvos."
 
 #: 06_discipleship.html:49
 msgid "Let's have Jesus define disciple, thus defining who is a true Christian"
-msgstr ""
+msgstr "Dejemos que Jesús defina qué es ser un discípulo, para poder definir quién es un verdadero cristiano."
 
 #: 06_discipleship.html:55
 msgid "Mark 1:14-18"
-msgstr ""
+msgstr "Marcos 1:14-18"
 
 #: 06_discipleship.html:58
 msgid "Calling of the first disciples"
-msgstr ""
+msgstr "Llamado de los primeros discípulos."
 
 #: 06_discipleship.html:59
 msgid "Come follow me (Christ)"
-msgstr ""
+msgstr "Vengan y Síganme (Cristo)."
 
 #: 06_discipleship.html:60
 msgid "Fishers of men - Jesus gave these first disciples the real purpose for living"
-msgstr ""
+msgstr "Pescadores de hombre - Jesús les dio a los primeros discípulos el verdadero propósito para vivir."
 
 #: 06_discipleship.html:61
 msgid "Immediately"
-msgstr ""
+msgstr "Al momento"
 
 #: 06_discipleship.html:66
 msgid "Luke 9:23-26"
-msgstr ""
+msgstr "Lucas 9:23-26"
 
 #: 06_discipleship.html:69
 msgctxt "discipleship #1"
 msgid "If any man..."
-msgstr ""
+msgstr "Si alguno ... (Aplicable a todos)"
 
 #: 06_discipleship.html:70
 msgid "Deny self. Notice Christ in the garden"
-msgstr ""
+msgstr "Negarse a sí mismo.  Observa a Jesús en Getsemaní"
 
 #: 06_discipleship.html:72
 msgid "Matthew 26:36-39"
-msgstr ""
+msgstr "Mateo 26:36-39"
 
 #: 06_discipleship.html:73
 msgid "'Not my will, but your will'"
-msgstr ""
+msgstr "\"... pero que no se haga lo que yo quiero, sino lo que quieres tú\""
 
 #: 06_discipleship.html:73
 msgid "Do not give in to moods"
-msgstr ""
+msgstr "No te dejes llevar por tus emociones"
 
 #: 06_discipleship.html:75
 msgid "Carry the cross - daily"
-msgstr ""
+msgstr "Cargar con tu cruz - diariamente"
 
 #: 06_discipleship.html:76
 msgid "Gain the world ... forfeit soul. Lose your life for Jesus ... save it"
-msgstr ""
+msgstr "Ganas el mundo -> perder tu alma.  Perder tu vida por Jesús ... Salvar tu alma."
 
 #: 06_discipleship.html:81
 msgid "Luke 14:25-33"
-msgstr ""
+msgstr "Lucas 14:25-33"
 
 #: 06_discipleship.html:84
 msgctxt "discipleship #2"
 msgid "If any man..."
-msgstr ""
+msgstr "Si alguno...(se aplica a todos)"
 
 #: 06_discipleship.html:85
 msgid "Count the cost (v. 28-30)"
-msgstr ""
+msgstr "Cuanta el costo (v. 28-30)"
 
 #: 06_discipleship.html:86
 msgid "Consider the alternatives (v. 31-32)"
-msgstr ""
+msgstr "Considera las alternativas (v. 31-32)"
 
 #: 06_discipleship.html:87
 msgid "Love Christ more than any person (v. 26)"
-msgstr ""
+msgstr "Amar a Cristo más que a cualquier persona (v. 26)"
 
 #: 06_discipleship.html:88
 msgid "Persecutions (v. 27)"
-msgstr ""
+msgstr "Las persecuciones (v. 27)"
 
 #: 06_discipleship.html:89
 msgid "Everything, not just anything (v. 33)"
-msgstr ""
+msgstr "Todo, no solo nua cosa (v. 33)"
 
 #: 06_discipleship.html:94
 msgid "Luke 11:1-4"
-msgstr ""
+msgstr "Lucas 11:1-4"
 
 #: 06_discipleship.html:97
 msgid "Must learn to pray - disciples saw the strength Jesus received from the Father"
-msgstr ""
+msgstr "Debes aprender a orar - Los discípulos se dieron cuenta del poder que Jesús recibía de su Padre."
 
 #: 06_discipleship.html:98
 msgid "Daily personal relationship with God (v. 3); daily prayer"
-msgstr ""
+msgstr "Una relación personal con Dios (v. 3); orar diariamente."
 
 #: 06_discipleship.html:103
 msgctxt "discipleship #1"
 msgid "John 13:34-35"
-msgstr ""
+msgstr "Juan 13:34-35"
 
 #: 06_discipleship.html:106
 msgid "Love one another"
-msgstr ""
+msgstr "Amarse los unos a los otros."
 
 #: 06_discipleship.html:107
 msgid "Be an active part of the fellowship"
-msgstr ""
+msgstr "Debes ser una parte activa de la confraternidad."
 
 #: 06_discipleship.html:112
 msgctxt "discipleship #2"
 msgid "Matthew 28:18-20"
-msgstr ""
+msgstr "Mateo 28:18-20"
 
 #: 06_discipleship.html:115
 msgid "Command - make disciples (given to all)"
-msgstr ""
+msgstr "Mandamiento - Hacer discípulos (dado a todos)."
 
 #: 06_discipleship.html:116
 msgid "Who is a candidate for baptism?  A person who makes the decision to be a disciple"
-msgstr ""
+msgstr "¿Quién es un candidato para el bautísmo? Una persona que toma la decisión de ser un discípulo."
 
 #: 06_discipleship.html:117
 msgid "You need someone to disciple you to maturity in Christ"
-msgstr ""
+msgstr "Necesitas a alguien que te discípule hacia la madurez en Cristo."
 
 #: 06_discipleship.html:119
 msgid "This is the only way to save the world!"
-msgstr ""
+msgstr "¡Ésta es la única manera de salvar el mundo!"
 
 #: 06_discipleship.html:122
 msgid "Year"
-msgstr ""
+msgstr "Año"
 
 #: 06_discipleship.html:123
 msgid "Preacher"
-msgstr ""
+msgstr "Predicador"
 
 #: 06_discipleship.html:124
 msgctxt "discipleship #1"
 msgid "Disciple"
-msgstr ""
+msgstr "Discípulo"
 
 #: 06_discipleship.html:149
 msgid "the world, 10 billion plus"
-msgstr ""
+msgstr "Más de 10 billones - !el mundo entero!"
 
 #: 06_discipleship.html:158
 msgid "Conclusion Question:"
-msgstr ""
+msgstr "Preguntas de Conclusión:"
 
 #: 06_discipleship.html:158
 msgid "Am I a disciple?  Am I a Christian?  Am I saved?  What do I need to do to become a disciple?"
-msgstr ""
+msgstr "¿Soy un discípulo? ¿Soy un Cristiano?¿Soy Salvo?¿Qué necesit hacer para ser un discúpulo?"
 
 #: 07_coming_of_the_kingdom.html:36
 msgid "In this study you will see the continuity of the Old and New Testaments"
-msgstr ""
+msgstr "En este estudio verás la continuidad del Antiguo y el Nuevo Testamento"
 
 #: 07_coming_of_the_kingdom.html:37
 msgid "Questions:  What is the Kingdom of God?  When did it come?"
-msgstr ""
+msgstr "Preguntas: ¿Qué es el Reino de Dios?¿Cuándo llegó?"
 
 #: 07_coming_of_the_kingdom.html:41
 msgid "Old Testament Predictions of the Kingdom (the height of Israel's glory was under the kingship of David, approximately 1000 B.C.)"
