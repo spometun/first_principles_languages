@@ -9,11 +9,11 @@ msgstr ""
 
 #: 00_index.html:17
 msgid "First Principles"
-msgstr "Principio Basicos"
+msgstr "Principios Básicos"
 
 #: 22_contact_us.html:29
 msgid "Home"
-msgstr "Casa"
+msgstr "Inicio"
 
 #: 20_persecution.html:36
 msgid "Introduction"
@@ -21,39 +21,39 @@ msgstr "Introducción"
 
 #: 02_course_information.html:17
 msgid "Course Information"
-msgstr ""
+msgstr "Información del Curso"
 
 #: 03_book_of_john.html:17
 msgid "The Book of John"
-msgstr ""
+msgstr "Libro de Juan"
 
 #: 04_seeking_god.html:17
 msgid "Seeking God"
-msgstr ""
+msgstr "Buscando a Dios"
 
 #: 05_word_of_god.html:17
 msgid "The Word of God"
-msgstr ""
+msgstr "Palabra"
 
 #: 06_discipleship.html:17
 msgid "Discipleship"
-msgstr ""
+msgstr "Vida de un Discipulo"
 
 #: 07_coming_of_the_kingdom.html:17
 msgid "The Coming of the Kingdom"
-msgstr ""
+msgstr "La Llegada del Reino"
 
 #: 08_light_and_darkness.html:17
 msgid "Light and Darkness"
-msgstr ""
+msgstr "Luz y Oscuridad"
 
 #: 09_new_testament_conversion.html:17
 msgid "New Testament Conversion"
-msgstr ""
+msgstr "Conversión del Nuevo Testamento"
 
 #: 10_cross.html:17
 msgid "The Cross"
-msgstr ""
+msgstr "La Cruz"
 
 #: 11_medical_account.html:17
 msgid "The Medical Account of the Crucifixion of Christ"
@@ -69,11 +69,11 @@ msgstr ""
 
 #: 14_church.html:17
 msgid "The Church"
-msgstr ""
+msgstr "Iglesia"
 
 #: 15_book_of_acts.html:17
 msgid "The Book of Acts"
-msgstr ""
+msgstr "Libro de Hechos"
 
 #: 16_after_baptism_now_what.html:17
 msgid "After Baptism, Now What?"
@@ -4590,7 +4590,7 @@ msgstr ""
 
 #: 21_memory_scriptures.html:152
 msgid "Hebrews 12:15"
-msgstr ""
+msgstr "Hebreos 12:15"
 
 #: 21_memory_scriptures.html:157
 msgid "Obey your leaders and submit to their authority. They keep watch over you as men who must give an account. Obey them so that their work will be a joy, not a burden, for that would be of no advantage to you"
@@ -4599,7 +4599,7 @@ msgstr ""
 #: 21_memory_scriptures.html:159
 msgctxt "memory_scriptures #1"
 msgid "Hebrews 13:17"
-msgstr ""
+msgstr "Hebreos 13:17"
 
 #: 22_contact_us.html:35
 msgid "Do you have feedback, suggestions or questions regarding this mobile application or the First Principles study series?  Please let us know!"
