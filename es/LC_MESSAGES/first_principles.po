@@ -49,7 +49,7 @@ msgstr "Luz y Oscuridad"
 
 #: 09_new_testament_conversion.html:17
 msgid "New Testament Conversion"
-msgstr "Conversión del Nuevo Testamento"
+msgstr "Conversiones en el Nuevo Testamento"
 
 #: 10_cross.html:17
 msgid "The Cross"
@@ -57,19 +57,19 @@ msgstr "La Cruz"
 
 #: 11_medical_account.html:17
 msgid "The Medical Account of the Crucifixion of Christ"
-msgstr ""
+msgstr "La Pasión de Cristo desde un Punto de Vista Médico"
 
 #: 12_baptism_with_the_holy_spirit.html:17
 msgid "Baptism with the Holy Spirit"
-msgstr ""
+msgstr "El Bautizmo con el Espíritu Santo"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:17
 msgid "Miraculous Gifts of the Holy Spirit"
-msgstr ""
+msgstr "Los Dones Milagrosos del Espíritu Santo"
 
 #: 14_church.html:17
 msgid "The Church"
-msgstr "Iglesia"
+msgstr "La Iglesia"
 
 #: 15_book_of_acts.html:17
 msgid "The Book of Acts"
@@ -77,31 +77,31 @@ msgstr "Libro de Hechos"
 
 #: 16_after_baptism_now_what.html:17
 msgid "After Baptism, Now What?"
-msgstr ""
+msgstr "Ya Me Bauticé, ¿Y Ahora qué?"
 
 #: 17_christ_is_your_life.html:17
 msgid "Christ Is Your Life"
-msgstr ""
+msgstr "Cristo Es Tu Vida"
 
 #: 18_best_friends_of_all_time.html:17
 msgid "Best Friends of All Time"
-msgstr ""
+msgstr "Mejores Amigos de Todos los Tiempos"
 
 #: 19_mission.html:17
 msgid "The Mission"
-msgstr ""
+msgstr "La Misión"
 
 #: 20_persecution.html:17
 msgid "Persecution"
-msgstr ""
+msgstr "La Persecusión"
 
 #: 21_memory_scriptures.html:17
 msgid "Memory Scriptures"
-msgstr ""
+msgstr "Escrituras de Memoria"
 
 #: 22_contact_us.html:17
 msgid "Contact Us"
-msgstr ""
+msgstr "Contáctanos"
 
 #: 22_contact_us.html:61
 msgid "2017 International Christian Churches (SoldOut Discipling Movement)"
@@ -113,11 +113,11 @@ msgstr ""
 
 #: 01_introduction.html:36
 msgid "Hebrews 5:12; 6:1-3"
-msgstr ""
+msgstr "Hebreos 5:12; 6:1-3"
 
 #: 01_introduction.html:36
 msgid "WEV"
-msgstr ""
+msgstr "WEV"
 
 #: 01_introduction.html:38
 msgid "Originally, the First Principle Studies were written in 1980, while I served the Lord during the formative early days of the Boston Church of Christ. They were revised in 2003 and 2006 to meet the needs and to confront the challenges of the Portland International Church of Christ. In Los Angeles in 2009 and 2012, I made a few more modifications. As of today, these same First Principles Studies are being taught to all the new disciples of the"
