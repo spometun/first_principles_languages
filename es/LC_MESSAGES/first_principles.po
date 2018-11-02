@@ -157,27 +157,27 @@ msgstr "Cada estudio y el orden de las escrituras también deberá ser memorizad
 
 #: 02_course_information.html:44
 msgid "Each student is required to memorize the names of all the books of the Bible"
-msgstr ""
+msgstr "Cada estudiante deberá también memorizar los nombres de todos los libros de la Biblia."
 
 #: 02_course_information.html:46
 msgid "Sign up"
-msgstr ""
+msgstr "Regístrate"
 
 #: 02_course_information.html:46
 msgid "for the Good News Emails at"
-msgstr ""
+msgstr "para las Buenas Noticias via Emails en"
 
 #: 02_course_information.html:46
 msgid "CAICC.net"
-msgstr ""
+msgstr "CAICC.net"
 
 #: 02_course_information.html:46
 msgid "by Session 2"
-msgstr ""
+msgstr "para la Sesión 2"
 
 #: 02_course_information.html:48
 msgid "Read Ron Harding’s History of the Spread of Christianity in Modern Times"
-msgstr ""
+msgstr "Lea la Historia de la Difusión del Cristianismo en los tiempos modernos por Ron Harding"
 
 #: 02_course_information.html:48
 msgid "KipMcKean.com"
@@ -185,171 +185,172 @@ msgstr ""
 
 #: 02_course_information.html:49
 msgid "by Session 8"
-msgstr ""
+msgstr "para la Sesión 8"
 
 #: 02_course_information.html:52
 msgid "An outline of the book of Acts will be turned in by Session 11. Each student is required to\n"
 "      memorize two points from each chapter in the book of Acts"
-msgstr ""
+msgstr "Un resumen del libro de Hechos se entregará en la Sesión 11. Se requiere que cada estudiante\n"
+"       Memorice dos puntos de cada capítulo en el libro de Hechos."
 
 #: 02_course_information.html:56
 msgid "Outline of Classes"
-msgstr ""
+msgstr "Visión General de Las Clases"
 
 #: 02_course_information.html:60
 msgid "Session 1"
-msgstr ""
+msgstr "Sesión 1"
 
 #: 02_course_information.html:62
 msgid "Introduction and Seeking God"
-msgstr ""
+msgstr "Introducción y Buscando a Dios."
 
 #: 02_course_information.html:65
 msgid "Session 2"
-msgstr ""
+msgstr "Sesión 2"
 
 #: 02_course_information.html:67
 msgid "The Word Of God"
-msgstr ""
+msgstr "La Palabra de Dios."
 
 #: 02_course_information.html:70
 msgid "Session 3"
-msgstr ""
+msgstr "Sesión 3"
 
 #: 02_course_information.html:75
 msgid "Session 4"
-msgstr ""
+msgstr "Sesión 4"
 
 #: 02_course_information.html:80
 msgid "Session 5"
-msgstr ""
+msgstr "Sesión 5"
 
 #: 02_course_information.html:85
 msgid "Session 6"
-msgstr ""
+msgstr "Sesión 6"
 
 #: 02_course_information.html:90
 msgid "Session 7"
-msgstr ""
+msgstr "Sesión 7"
 
 #: 02_course_information.html:95
 msgid "Session 8"
-msgstr ""
+msgstr "Sesión 8"
 
 #: 02_course_information.html:97
 msgid "The Baptism of the Holy Spirit"
-msgstr ""
+msgstr "El Bautismo del Espíritu Santo."
 
 #: 02_course_information.html:100
 msgid "Session 9"
-msgstr ""
+msgstr "Sesión 9"
 
 #: 02_course_information.html:102
 msgid "The Miraculous Gifts of the Holy Spirit"
-msgstr ""
+msgstr "Los Dones del Espíritu Santo."
 
 #: 02_course_information.html:105
 msgid "Session 10"
-msgstr ""
+msgstr "Sesión 10"
 
 #: 02_course_information.html:110
 msgid "Session 11"
-msgstr ""
+msgstr "Sesión 11"
 
 #: 02_course_information.html:112
 msgid "Acts 1 - 8"
-msgstr ""
+msgstr "Hechos 1-8."
 
 #: 02_course_information.html:115
 msgid "Session 12"
-msgstr ""
+msgstr "Sesión 12"
 
 #: 02_course_information.html:117
 msgid "Acts 9 - 15"
-msgstr ""
+msgstr "Hechos 9 - 15."
 
 #: 02_course_information.html:120
 msgid "Session 13"
-msgstr ""
+msgstr "Sesión 13"
 
 #: 02_course_information.html:122
 msgid "Acts 16 - 21"
-msgstr ""
+msgstr "Hechos 16 - 21."
 
 #: 02_course_information.html:125
 msgid "Session 14"
-msgstr ""
+msgstr "Sesión 14"
 
 #: 02_course_information.html:127
 msgid "Acts 21 - 28"
-msgstr ""
+msgstr "Hechos 21 - 28."
 
 #: 02_course_information.html:132
 msgid "Suggested Reading"
-msgstr ""
+msgstr "Libros Recomendados"
 
 #: 02_course_information.html:133
 msgid "These books are recommended as thought-provoking and informative tools to be used in gaining insights into God’s Word. In no way are they suggested to be Biblically correct on all doctrinal points"
-msgstr ""
+msgstr "Los siguientes libros son recomendados como herramientas informativas y para hacerte pensar, y útiles para entender la Palabra de Dios. De ninguna manera se sugiere que tengan enseñanzas bíblicas en todos los aspectos de la doctrina."
 
 #: 02_course_information.html:135
 msgid "The Five Love Languages"
-msgstr ""
+msgstr "Los Cinco Lenguajes del Amor"
 
 #: 02_course_information.html:135
 msgid "- Chapman"
-msgstr ""
+msgstr "- Chapman"
 
 #: 02_course_information.html:136
 msgid "The Master Plan of Evangelism"
-msgstr ""
+msgstr "El Plan Maestro del Evangelismo"
 
 #: 02_course_information.html:136
 msgid "- Coleman -"
-msgstr ""
+msgstr "- Coleman -"
 
 #: 02_course_information.html:136
 msgctxt "course_information #1"
 msgid "Audio"
-msgstr ""
+msgstr "Sonido"
 
 #: 02_course_information.html:137
 msgid "The Tale of Three Kings"
-msgstr ""
+msgstr "El Relato de los Tres Reyes"
 
 #: 02_course_information.html:137
 msgid "- Edwards -"
-msgstr ""
+msgstr "- Edwards -"
 
 #: 02_course_information.html:137
 msgctxt "course_information #2"
 msgid "Audio"
-msgstr ""
+msgstr "Sonido"
 
 #: 02_course_information.html:138
 msgid "Voice in the Wind"
-msgstr ""
+msgstr "La Voz en el Viento"
 
 #: 02_course_information.html:138
 msgid "- Rivers -"
-msgstr ""
+msgstr "- Rivers -"
 
 #: 02_course_information.html:138
 msgctxt "course_information #3"
 msgid "Audio"
-msgstr ""
+msgstr "Sonido"
 
 #: 02_course_information.html:139
 msgid "The Disciplined Life"
-msgstr ""
+msgstr "La Vida Disciplinada"
 
 #: 02_course_information.html:139
 msgid "- Taylor"
-msgstr ""
+msgstr "- Taylor"
 
 #: 02_course_information.html:140
 msgid "Elevate"
-msgstr ""
+msgstr "Elévate"
 
 #: 02_course_information.html:140
 msgid "- McKean"
@@ -357,7 +358,7 @@ msgstr ""
 
 #: 02_course_information.html:142
 msgid "Overview of the Book of Acts"
-msgstr ""
+msgstr "Resumen del Libro de los Hechos"
 
 #: 02_course_information.html:146
 msgid "Sermon #1"
