@@ -362,59 +362,59 @@ msgstr "Resumen del Libro de los Hechos"
 
 #: 02_course_information.html:146
 msgid "Sermon #1"
-msgstr ""
+msgstr "Sermón No. 1"
 
 #: 02_course_information.html:148
 msgid "Acts 1-8"
-msgstr ""
+msgstr "Hechos 1 - 8"
 
 #: 02_course_information.html:150
 msgid "Building A Great Church"
-msgstr ""
+msgstr "Construyendo una Gran Iglesia"
 
 #: 02_course_information.html:153
 msgid "Sermon #2"
-msgstr ""
+msgstr "Sermón No. 2"
 
 #: 02_course_information.html:155
 msgid "Acts 9-15"
-msgstr ""
+msgstr "Hechos 9 - 15"
 
 #: 02_course_information.html:157
 msgid "Forcefully Advancing The Kingdom"
-msgstr ""
+msgstr "Avanzando El Reino Forzosamente"
 
 #: 02_course_information.html:160
 msgid "Sermon #3"
-msgstr ""
+msgstr "Sermón No. 3"
 
 #: 02_course_information.html:162
 msgid "Acts 16-21"
-msgstr ""
+msgstr "Hechos 16 - 21"
 
 #: 02_course_information.html:164
 msgid "Turning The World Upsidedown"
-msgstr ""
+msgstr "Volteando al Mundo de Cabeza"
 
 #: 02_course_information.html:167
 msgid "Sermon #4"
-msgstr ""
+msgstr "Sermón No. 4"
 
 #: 02_course_information.html:169
 msgid "Acts 21-28"
-msgstr ""
+msgstr "Hecho 21 - 28"
 
 #: 02_course_information.html:171
 msgid "Evangelizing The World In A Generation"
-msgstr ""
+msgstr "Evangelizando El Mundo en una Generación"
 
 #: 04_seeking_god.html:37
 msgid "Psalm 119:1-2"
-msgstr ""
+msgstr "Salmos 119: 1 - 2"
 
 #: 04_seeking_god.html:39
 msgid "Blessed means happy (superlatively happy)"
-msgstr ""
+msgstr "Bendito significa Feliz (Superlativamente Feliz)"
 
 #: 04_seeking_god.html:40
 msgid "Happiness is not the goal of one who seeks God but the \"by-product\""
