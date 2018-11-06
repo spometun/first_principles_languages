@@ -1645,509 +1645,509 @@ msgstr "Profundamente conmovidos (corazón)"
 
 #: 08_light_and_darkness.html:184
 msgid "What shall we do?"
-msgstr ""
+msgstr "¿Qué debemos hacer?"
 
 #: 08_light_and_darkness.html:188
 msgid "Once the people believed, what did they do?"
-msgstr ""
+msgstr "¿Una vez que creyeron, qué hicieron?"
 
 #: 08_light_and_darkness.html:188
 msgid "Acts 2:38-42"
-msgstr ""
+msgstr "Hechos 2:38-42"
 
 #: 08_light_and_darkness.html:190
 msgid "Repent (Greek = to turn)"
-msgstr ""
+msgstr "Arrepentirse (Griego = cambiar)"
 
 #: 08_light_and_darkness.html:192
 msgid "Be baptized (Greek = to be immersed)"
-msgstr ""
+msgstr "Bautizarse (Griego = sumergido)"
 
 #: 08_light_and_darkness.html:194
 msgid "Sin forgiven. Therefore this is the point in time a person is saved"
-msgstr ""
+msgstr "Perdón de Pecados.  Por lo tanto, este es el momento en el cual alguien se salva."
 
 #: 08_light_and_darkness.html:195
 msgid "Holy Spirit given to each who responded - power to live as God commands"
-msgstr ""
+msgstr "Cada una de las personas que respondieron, recibieron el Espíritu Santo, que es el poder para vivir como Dios manda."
 
 #: 08_light_and_darkness.html:199
 msgid "Baptism:"
-msgstr ""
+msgstr "Bautismo"
 
 #: 08_light_and_darkness.html:199
 msgid "Romans 6:1-4"
-msgstr ""
+msgstr "Romanos 6:1-4"
 
 #: 08_light_and_darkness.html:200
 msgid "Baptism is the sharing (a participation) in the death, burial and resurrection of Christ. (More than just a symbol)"
-msgstr ""
+msgstr "El Bautismo es la participación en la muerte, sepultura y resurrección de Cristo (Más que sólo un símbolo)"
 
 #: 08_light_and_darkness.html:208
 msgid "JESUS"
-msgstr ""
+msgstr "JESÚS"
 
 #: 08_light_and_darkness.html:210
 msgid "DIED"
-msgstr ""
+msgstr "MUERTO"
 
 #: 08_light_and_darkness.html:212
 msgid "RESURRECTED"
-msgstr ""
+msgstr "RESUCITADO"
 
 #: 08_light_and_darkness.html:218
 msgid "BURIED"
-msgstr ""
+msgstr "SEPULTADO"
 
 #: 08_light_and_darkness.html:226
 msgid "OLD LIFE"
-msgstr ""
+msgstr "LA VIDA PASADA"
 
 #: 08_light_and_darkness.html:228
 msgid "\"DIED WITH CHRIST\""
-msgstr ""
+msgstr "MORIR CON CRISTO"
 
 #: 08_light_and_darkness.html:230
 msgid "\"RAISED TO A NEW LIFE\""
-msgstr ""
+msgstr "RESUCITADO A UNA NUEVA VIDA"
 
 #: 08_light_and_darkness.html:236
 msgid "\"BURIED WITH CHRIST\""
-msgstr ""
+msgstr "\"SEPULTADO CON CRISTO\""
 
 #: 08_light_and_darkness.html:245
 msgctxt "light_and_darkness #2"
 msgid "DARKNESS"
-msgstr ""
+msgstr "LA OSCURIDAD"
 
 #: 08_light_and_darkness.html:246
 msgctxt "light_and_darkness #2"
 msgid "LIGHT"
-msgstr ""
+msgstr "LA LUZ"
 
 #: 08_light_and_darkness.html:249
 msgid "Sin"
-msgstr ""
+msgstr "Pecado"
 
 #: 08_light_and_darkness.html:249
 msgid "Separates us from God"
-msgstr ""
+msgstr "Nos Separa de Dios"
 
 #: 08_light_and_darkness.html:252
 msgctxt "light_and_darkness #1"
 msgid "Acts 2:38"
-msgstr ""
+msgstr "Hechos 2:38"
 
 #: 08_light_and_darkness.html:253
 msgid "Sin is Forgiven"
-msgstr ""
+msgstr "El Pecado es Perdonado"
 
 #: 08_light_and_darkness.html:257
 msgid "Born Again of Water and Spirit"
-msgstr ""
+msgstr "Nacer de nuevo del Agua y el Espíritu"
 
 #: 08_light_and_darkness.html:257
 msgctxt "light_and_darkness #1"
 msgid "John 3:5"
-msgstr ""
+msgstr "Juan 3:5"
 
 #: 08_light_and_darkness.html:261
 msgctxt "light_and_darkness #2"
 msgid "Acts 2:38"
-msgstr ""
+msgstr "Hechos 2:38"
 
 #: 08_light_and_darkness.html:262
 msgid "Water = Baptism"
-msgstr ""
+msgstr "Agua = Bautismo"
 
 #: 08_light_and_darkness.html:262
 msgid "Spirit = Received at Baptism"
-msgstr ""
+msgstr "El Espíritu = Recibido en el Bautismo"
 
 #: 08_light_and_darkness.html:267
 msgid "Romans 3:25"
-msgstr ""
+msgstr "Romanos 3:25"
 
 #: 08_light_and_darkness.html:268
 msgid "Faith in the Blood of Jesus Saves Us"
-msgstr ""
+msgstr "Fe en la Sangre de Jesús nos Salva"
 
 #: 08_light_and_darkness.html:270
 msgid "Jesus shed His blood when He died.  In baptism we share by faith in the death, burial and resurrection of Jesus.  Thus we contact the blood of baptism and are forgiven of our sins and SAVED!"
-msgstr ""
+msgstr "Jesús derramó su sangre al morir.  En el Bautismo participamos por fe en la muerte, sepultura y resurrección de Jesús.  ¡Tomamos contacto con su sangre en el Bautismo, somos perdonados de nuestros pecados y SALVADOS!"
 
 #: 08_light_and_darkness.html:277
 msgid "Traditions/False Doctrines -"
-msgstr ""
+msgstr "Tradiciones y Doctrinas Falsas"
 
 #: 08_light_and_darkness.html:277
 msgctxt "light_and_darkness #1"
 msgid "Matthew 15:6-9"
-msgstr ""
+msgstr "Mateo 15:6-9"
 
 #: 08_light_and_darkness.html:280
 msgid "Infant Baptism"
-msgstr ""
+msgstr "El Bautismo infantil"
 
 #: 08_light_and_darkness.html:282
 msgid "Personal faith is needed"
-msgstr ""
+msgstr "Se necesita una fe personal"
 
 #: 08_light_and_darkness.html:282
 msgctxt "light_and_darkness #1"
 msgid "Colossians 2:12"
-msgstr ""
+msgstr "Colosenses 2:12"
 
 #: 08_light_and_darkness.html:283
 msgid "Began approximately third century A.D."
-msgstr ""
+msgstr "Comenzó alrededor del tercer siglo D.C"
 
 #: 08_light_and_darkness.html:285
 msgid "Original sin"
-msgstr ""
+msgstr "El pecado original"
 
 #: 08_light_and_darkness.html:287
 msgctxt "light_and_darkness #1"
 msgid "Ezekiel 18:20"
-msgstr ""
+msgstr "Ezequiel 18:20"
 
 #: 08_light_and_darkness.html:288
 msgid "Became \"church doctrine\" in 549 A.D."
-msgstr ""
+msgstr "Se volvió \"doctrina de la iglesia\" en el año 549 D.C"
 
 #: 08_light_and_darkness.html:294
 msgid "Praying Jesus into your heart"
-msgstr ""
+msgstr "Aceptando a Jesús en tú corazón"
 
 #: 08_light_and_darkness.html:296
 msgctxt "light_and_darkness #1"
 msgid "Revelation 3:20"
-msgstr ""
+msgstr "Apocalipsis 3:20"
 
 #: 08_light_and_darkness.html:296
 msgid "- taken out of context.  This verse is addressed to Christians"
-msgstr ""
+msgstr "- Está tomado fuera de contexto, porque éste versículo está dirigido a los cristianos."
 
 #: 08_light_and_darkness.html:297
 msgid "Began in the early 1800s in America"
-msgstr ""
+msgstr "Empezó a los principios del año 1800 en los Estados Unidos"
 
 #: 08_light_and_darkness.html:303
 msgid "Sinful nature"
-msgstr ""
+msgstr "La Naturaleza Pecaminosa"
 
 #: 08_light_and_darkness.html:304
 msgid "Suggest to the individual with whom you are studying that he or she write out and be specific about various sins that they have committed during their life.  This is so they might see the gravity and magnitude of their sin.  This is confidential and should only be shared with those who are studying with the person"
-msgstr ""
+msgstr "Sugiérele al individuo con quien estás estudiando que escriba específicamente acerca de los pecados que ha cometido en su vida.  Esto sirve para que pueda ver la gravedad y magnitud de su pecado.  Esto es confidencial y sólo se debe compartir con los que están estudiando con la persona."
 
 #: 09_new_testament_conversion.html:37
 msgid "The Major Conversions in Acts"
-msgstr ""
+msgstr "Conversiones en el Nuevo Testamento"
 
 #: 09_new_testament_conversion.html:40
 msgid "Conversions"
-msgstr ""
+msgstr "Las Conversiones"
 
 #: 09_new_testament_conversion.html:49
 msgctxt "new_testament_conversion #1"
 msgid "Acts 2:36-47"
-msgstr ""
+msgstr "Hechos 2: 36-47"
 
 #: 09_new_testament_conversion.html:54
 msgid "First Christian in Jerusalem"
-msgstr ""
+msgstr "Los primeros cristianos en Jerusalén"
 
 #: 09_new_testament_conversion.html:64
 msgctxt "new_testament_conversion #1"
 msgid "Acts 8:26-39"
-msgstr ""
+msgstr "Hechos 8:26-39"
 
 #: 09_new_testament_conversion.html:69
 msgid "Ethiopian Eunich"
-msgstr ""
+msgstr "El eunuco de Etipoía."
 
 #: 09_new_testament_conversion.html:79
 msgid "Acts 16:22-34"
-msgstr ""
+msgstr "Hechos 16:22-34"
 
 #: 09_new_testament_conversion.html:84
 msgid "Philippian jailer and his family"
-msgstr ""
+msgstr "Carcelero Filipense y su familia."
 
 #: 09_new_testament_conversion.html:94
 msgctxt "new_testament_conversion #1"
 msgid "Acts 9:1-22"
-msgstr ""
+msgstr "Hechos 9:1-22"
 
 #: 09_new_testament_conversion.html:99
 msgctxt "new_testament_conversion #1"
 msgid "Paul"
-msgstr ""
+msgstr "Pablo"
 
 #: 09_new_testament_conversion.html:106
 msgid "Acts 22:3-16"
-msgstr ""
+msgstr "Hechos 22:3-16"
 
 #: 09_new_testament_conversion.html:111
 msgctxt "new_testament_conversion #2"
 msgid "Paul"
-msgstr ""
+msgstr "Pablo"
 
 #: 09_new_testament_conversion.html:121
 msgid "Acts 18:24-26"
-msgstr ""
+msgstr "Hechos 18:24-26"
 
 #: 09_new_testament_conversion.html:126
 msgid "Apollos"
-msgstr ""
+msgstr "Apolos"
 
 #: 09_new_testament_conversion.html:136
 msgctxt "new_testament_conversion #1"
 msgid "Acts 19:1-5"
-msgstr ""
+msgstr "Hechos 19:1-5"
 
 #: 09_new_testament_conversion.html:141
 msgid "Ephesians"
-msgstr ""
+msgstr "Los efesios"
 
 #: 09_new_testament_conversion.html:147
 msgid "Questions concerning Conversions"
-msgstr ""
+msgstr "Preguntas relacionadas a las conversiones."
 
 #: 09_new_testament_conversion.html:150
 msgid "What was preached?"
-msgstr ""
+msgstr "¿Qué se predicó?"
 
 #: 09_new_testament_conversion.html:153
 msgid "What was the person's (people's) response to the message?"
-msgstr ""
+msgstr "¿Cuál fue la respuesta de la(s) persona(s) al mensaje?"
 
 #: 09_new_testament_conversion.html:156
 msgid "How long did the person (people) take to make the decision?"
-msgstr ""
+msgstr "¿Cuánto tiempo le(s) tomó a la(s) persona(s) tomar su decisión?"
 
 #: 09_new_testament_conversion.html:159
 msgid "What was their response after baptism?"
-msgstr ""
+msgstr "¿Cuál fue la respuesta después del bautismo?"
 
 #: 09_new_testament_conversion.html:167
 msgid "Refuting False Doctrines"
-msgstr ""
+msgstr "Refutando las falsas doctrinas"
 
 #: 09_new_testament_conversion.html:172
 msgid "\"Pray Jesus into your heart\":"
-msgstr ""
+msgstr "\"Orar a Cristo en tu corazón\""
 
 #: 09_new_testament_conversion.html:175
 msgid "This phrase is never mentioned in the Bible.  People may use"
-msgstr ""
+msgstr "Esta frase nunca es mencionada en la Biblia.  La gente probablemente use"
 
 #: 09_new_testament_conversion.html:178
 msgctxt "new_testament_conversion #1"
 msgid "Revelation 3:20"
-msgstr ""
+msgstr "Apocalipses 3:20"
 
 #: 09_new_testament_conversion.html:181
 msgid "about Jesus knocking at the door.  However, you must examine the Scripture in context.  This scripture does not teach how to become a Christian and be saved, but how to come back to God after becoming lukewarm.  It is addressed to disciples who already responded to Christ in faith, repentance, confession and baptism"
-msgstr ""
+msgstr "que habla acerca de que Jesús está tocando a la puerta, pero debemos examinar la Escritura en contexto.  Esta escritura no enseña cómo hacerse un cristiano y ser salvo, sino como regresar a Dios después de haber estado tibio.  Está dirigida a discípulos que ya han respondido a Cristo con fe, arrepentimiento, confesión y bautismo."
 
 #: 09_new_testament_conversion.html:185
 msgid "\"Accept Jesus into your heart\":"
-msgstr ""
+msgstr "\"Aceptar a Cristo en tu corazón\""
 
 #: 09_new_testament_conversion.html:188
 msgid "(Same teaching as praying Jesus into your heart, just different terminology)  Based on"
-msgstr ""
+msgstr "(Es la misma enseñanza que orar a Cristo en tu corazón solo que con diferente terminologia.) Se basa en "
 
 #: 09_new_testament_conversion.html:191
 msgid "Romans 10:9"
-msgstr ""
+msgstr "Romanos 10:9"
 
 #: 09_new_testament_conversion.html:194
 msgid "You must look at Scripture in context.  Paul is addressing the problem of the Israelites:  unbelief that Jesus was the Christ, the Son of God.  Read further on to"
-msgstr ""
+msgstr "Hay que ver la escritura en su contexto.  Pablo está hablando del problema de los Israelitas: quienes no creían que Jesús era el Cristo, el Hijo de Dios.  Leer hasta"
 
 #: 09_new_testament_conversion.html:197
 msgid "Romans 10:13"
-msgstr ""
+msgstr "Romanos 10:13"
 
 #: 09_new_testament_conversion.html:200
 msgid "When do you call on the name of the Lord?  At baptism"
-msgstr ""
+msgstr "¿Cuándo imploras el nombre del Señor? En el Bautismo"
 
 #: 09_new_testament_conversion.html:203
 msgctxt "new_testament_conversion #1"
 msgid "Acts 22:16"
-msgstr ""
+msgstr "Hechos 22:16"
 
 #: 09_new_testament_conversion.html:209
 msgid "Infant baptism:"
-msgstr ""
+msgstr "El bautismo Infantil:"
 
 #: 09_new_testament_conversion.html:212
 msgid "A baby cannot have faith, and since we are baptized through faith in the power of God"
-msgstr ""
+msgstr "Un bebé no puede tener fe, y ya que nos bautisamos por la fe en el poder de Dios"
 
 #: 09_new_testament_conversion.html:215
 msgctxt "new_testament_conversion #1"
 msgid "Colossians 2:12"
-msgstr ""
+msgstr "Colosenses 2:12"
 
 #: 09_new_testament_conversion.html:218
 msgid "babies cannot be baptized.  Original sin:"
-msgstr ""
+msgstr ", los bebés no se pueden bautizar.  El pecado original"
 
 #: 09_new_testament_conversion.html:221
 msgctxt "new_testament_conversion #1"
 msgid "Ezekiel 18:20"
-msgstr ""
+msgstr "Ezequiel 18:20"
 
 #: 09_new_testament_conversion.html:224
 msgid "teaches that there is no original sin; each person is responsible for his own actions and will be judged accordingly.  Therefore babies are born sinless and will be saved if they die"
-msgstr ""
+msgstr "enseña que no existe; cada persona es responsable por sus propias acciones y será juzgado de acuerdo a ellas.  Por lo tanto los bebés nacen sin pecado y serán salvos si se mueren."
 
 #: 09_new_testament_conversion.html:228
 msgid "\"Baptism does not save you\":"
-msgstr ""
+msgstr "El Bautismo no te salva"
 
 #: 09_new_testament_conversion.html:233
 msgctxt "new_testament_conversion #1"
 msgid "1 Peter 3:18-21"
-msgstr ""
+msgstr "1 Pedro 3:18-21"
 
 #: 09_new_testament_conversion.html:236
 msgid "says that baptism does save you through the resurrection of Jesus Christ"
-msgstr ""
+msgstr "dice que el bautismo sí salva por la resurrección de Jesucristo"
 
 #: 09_new_testament_conversion.html:239
 msgctxt "new_testament_conversion #1"
 msgid "Acts 2:38"
-msgstr ""
+msgstr "Hechos 2:38"
 
 #: 09_new_testament_conversion.html:242
 msgid "teaches that sin is forgiven at baptism — one is saved at the point that sin is forgiven"
-msgstr ""
+msgstr "enseña que los pecados son perdonados en el bautismo, por lo tanto ahí se obtiene la salvación"
 
 #: 09_new_testament_conversion.html:246
 msgid "\"Baptism is a work — yet we are saved by faith:\""
-msgstr ""
+msgstr "\"El Bautismo es una acción y somos salvos mediante la fe\""
 
 #: 09_new_testament_conversion.html:252
 msgid "Ephesians 2:8"
-msgstr ""
+msgstr "Efesios 2:8"
 
 #: 09_new_testament_conversion.html:258
 msgid "Colossians 2:11-15"
-msgstr ""
+msgstr "Colosenses 2:11-15"
 
 #: 09_new_testament_conversion.html:261
 msgid "teaches that we are saved by faith — in the working of God at baptism"
-msgstr ""
+msgstr "enseña que somos salvos por la fe, es decir que por la obra de Dios en el bautismo."
 
 #: 09_new_testament_conversion.html:267
 msgid "This passage also teaches that circumcision as an eight-day-old baby under the old covenant has its spiritual parallel in the new covenant to baptism, as this is the time that Christ cuts away your old life.  At baptism one enters a \"covenant\" with God — salvation"
-msgstr ""
+msgstr "(v12) Este pasaje también enseña que la circunsición practicada al octavo día de nacido un bebé en el pacto antiguo es un paralelo espiritual al bautismo en el nuevo pacto, es el momento que Cristo corta nuestra vida antigua.  Con el bautismo entramos al \"pacto\" con Dios - la salvación."
 
 #: 09_new_testament_conversion.html:271
 msgid "\"Baptism is an outward sign of an inward grace:\""
-msgstr ""
+msgstr "\"El Bautismo es una obra - sin embargo somos salvos mediante la fe\""
 
 #: 09_new_testament_conversion.html:276
 msgctxt "new_testament_conversion #1"
 msgid "Romans 6:2-4"
-msgstr ""
+msgstr "Romanos 6:2-4"
 
 #: 09_new_testament_conversion.html:279
 msgid "states that baptism is an actual participation in the death, burial and resurrection of Christ.  It is not merely a sign, seal or symbol"
-msgstr ""
+msgstr "Afirma que el bautismo es la participación en la muerte, sepultura y resurrección de Cristo.  No es solo un sello o símbolo."
 
 #: 09_new_testament_conversion.html:283
 msgid "\"Baptism isn't important. After all, look at what Paul said about it in"
-msgstr ""
+msgstr "\"El bautismo no es imporante, después de todo mira lo que dice Pablo acerca de él en"
 
 #: 09_new_testament_conversion.html:285
 msgid "1 Corinthians 1:17"
-msgstr ""
+msgstr "1 Corintios 1:17"
 
 #: 09_new_testament_conversion.html:290
 msgid "Paul does not diminish the importance of baptism here.  (Paul himself was baptized to have his sins forgiven in"
-msgstr ""
+msgstr "Pablo no le quita importancia al bautismo en este pasaje. (El mismo fue bautizado para el perdón de sus pecados en "
 
 #: 09_new_testament_conversion.html:293
 msgctxt "new_testament_conversion #2"
 msgid "Acts 22:16"
-msgstr ""
+msgstr "Hechos 22:16"
 
 #: 09_new_testament_conversion.html:296
 msgid "In context (read"
-msgstr ""
+msgstr "En contexto (leer"
 
 #: 09_new_testament_conversion.html:299
 msgid "1 Corinthians 1:10-17"
-msgstr ""
+msgstr "1 Corintios 1:10-17"
 
 #: 09_new_testament_conversion.html:302
 msgid "he makes the point that he does not want people following men (denominationalism).  He mentions baptism several times in the passage"
-msgstr ""
+msgstr "está hablando de que él no quiere que la gente siga a los hombres (o a las denominaciones).  Además menciona el bautismo varias veces en el pasaje."
 
 #: 09_new_testament_conversion.html:306
 msgid "\"The thief on the cross was not baptized and Jesus told him that they would see each other in paradise:\""
-msgstr ""
+msgstr "\"El criminal en la cruz no fue bautizado y Jesús le dijo que estaría con Él en el paraíso\""
 
 #: 09_new_testament_conversion.html:309
 msgid "Jesus had not even died yet, and baptism is participating in his death"
-msgstr ""
+msgstr "Jesús ni siquiera había muerto, y el bautismo es la participación en su muerte."
 
 #: 09_new_testament_conversion.html:312
 msgctxt "new_testament_conversion #2"
 msgid "Romans 6:2-4"
-msgstr ""
+msgstr "Romanos 6:2-4"
 
 #: 09_new_testament_conversion.html:315
 msgid "also on earth, he had the power to forgive sins"
-msgstr ""
+msgstr "Además Jesús en la tierra tenía todo el poder para perdonar pecados"
 
 #: 09_new_testament_conversion.html:318
 msgid "Matthew 9:2-6"
-msgstr ""
+msgstr "Mateo 9:2-6"
 
 #: 09_new_testament_conversion.html:324
 msgid "\"Believers baptism:\""
-msgstr ""
+msgstr "\"El Bautismo de los Creyentes\""
 
 #: 09_new_testament_conversion.html:327
 msgid "This is baptism as an adult, but is not done in conjunction with the understanding that one is being saved at this point in time"
-msgstr ""
+msgstr "Eso es bautismo como adulto, pero no se hace con el entendimiento de que es el punto en que uno es salvo"
 
 #: 09_new_testament_conversion.html:330
 msgctxt "new_testament_conversion #1"
 msgid "John 3:5"
-msgstr ""
+msgstr "Juan 3:5"
 
 #: 09_new_testament_conversion.html:334
 msgctxt "new_testament_conversion #2"
 msgid "Acts 2:38"
-msgstr ""
+msgstr "Hechos 2:38"
 
 #: 09_new_testament_conversion.html:337
 msgid "\"Retroactive understanding\" is not sufficient for salvation"
-msgstr ""
+msgstr "El \"entendimiento retroactivo\" no es suficiente para la salvación"
 
 #: 10_cross.html:37
 msgid "Passion Account"
-msgstr ""
+msgstr "El Relato de la Pasión"
 
 #: 10_cross.html:38
 msgid "Read"
-msgstr ""
+msgstr "Leer"
 
 #: 10_cross.html:38
 msgid "Matthew 26:31-28:10"
-msgstr ""
+msgstr "Mateo 26:31 - 28:10"
 
 #: 10_cross.html:40
 msgid "Suggested Reading Intervals:"
-msgstr ""
+msgstr "Lectura Sugerida:"
 
 #: 10_cross.html:41
 msgid "26:31-35"
@@ -2203,69 +2203,69 @@ msgstr ""
 
 #: 10_cross.html:57
 msgid "Physical Death"
-msgstr ""
+msgstr "La Muerte Física"
 
 #: 10_cross.html:58
 msgid "Read the"
-msgstr ""
+msgstr "Lee el"
 
 #: 10_cross.html:58
 msgid "medical account"
-msgstr ""
+msgstr "relato médico"
 
 #: 10_cross.html:58
 msgid "of Jesus' physical death"
-msgstr ""
+msgstr "de la muerte física de Jesús"
 
 #: 10_cross.html:61
 msgid "Personal Responsibility"
-msgstr ""
+msgstr "La Responsabilidad Personal"
 
 #: 10_cross.html:63
 msgid "Remember that there were many others who died by crucifixion in the first century.  It was not that Jesus was physically crucified that makes Him unique; it was that He was crucified for you, in your place.  He died on the cross for you"
-msgstr ""
+msgstr "Recuerda que muchos otros murieron por crucifixión en el primer siglo.  No lo hace único a Jesús el haber sido crucificado físicamente en la cruz; pero sí el que ÉL fue crucificado por tí, en tú lugar.  El murió en la cruz por tí."
 
 #: 10_cross.html:64
 msgctxt "cross #1"
 msgid "Romans 3:23"
-msgstr ""
+msgstr "Romanos 3:23"
 
 #: 10_cross.html:65
 msgctxt "cross #1"
 msgid "Isaiah 59:1-2"
-msgstr ""
+msgstr "Isaías 59:1-2"
 
 #: 10_cross.html:66
 msgid "Matthew 27:46"
-msgstr ""
+msgstr "Mateo 27:46"
 
 #: 10_cross.html:67
 msgid "Share the sins that you committed before being baptized and your feelings of being forgiven at baptism.  Ask the person with whom you are studying to share and confess their sins"
-msgstr ""
+msgstr "Comparte los pecados que tú cometiste antes de bautizarte y cómo te sentiste al se perdonado cuando te bautizaste.  Pídele a la persona con la cual estás estudiando que comparta y confiese sus pecados."
 
 #: 10_cross.html:68
 msgid "Isaiah 53:4-6"
-msgstr ""
+msgstr "Isaías 53:4-6"
 
 #: 10_cross.html:68
 msgid "(substitute your name)"
-msgstr ""
+msgstr "(substituye tu nombre)"
 
 #: 10_cross.html:69
 msgid "If possible immediately after this study watch either"
-msgstr ""
+msgstr "Si es posible, inmediatamente después del estudio, vean el video de La cruz"
 
 #: 10_cross.html:69
 msgid "or"
-msgstr ""
+msgstr "o"
 
 #: 10_cross.html:69
 msgid "The Passion"
-msgstr ""
+msgstr "de la Pasion del Cristo"
 
 #: 10_cross.html:69
 msgid "video"
-msgstr ""
+msgstr "video"
 
 #: 11_medical_account.html:36
 msgid "Dr. C. Truman Davis"
@@ -2273,51 +2273,51 @@ msgstr ""
 
 #: 11_medical_account.html:37
 msgid "A Physician Analyzes the Crucifixion"
-msgstr ""
+msgstr "Un análisis médico de la crucifixión"
 
 #: 11_medical_account.html:41
 msgid "In this paper, I shall discuss some of the physical aspects of the passion, or suffering, of Jesus Christ. We shall follow Him from Gethsemane, through His trial, His scourging, His path along the Via Dolorosa, to His last dying hours on the cross..."
-msgstr ""
+msgstr "A continuación veremos algunos de los aspectos físicos de la pasión, o el sufrimiento de Jesús.  Vamos a seguir los pasos de Jesús a través de Getsemaní, durante su juicio, cuando fue azotado, durante su caminar a lo largo de la \"Vía Dolorosa\" y aún durante sus últimas horas en la cruz..."
 
 #: 11_medical_account.html:45
 msgid "This led me first to a study of the practice of crucifixion itself; that is, torture and execution by fixation to a cross. Apparently, the first known practice of crucifixion was by the Persians. Alexander and his generals brought it back to the Mediterranean world - to Egypt and to Carthage. The Romans apparently learned the practice from the Carthaginians and (as with almost everything the Romans did) rapidly developed a very high degree of efficiency and skill at it. A number of Roman authors (Livy, Cicero, Tacitus) comment on crucifixion, and several innovations, modifications, and variations are described in the ancient literature."
-msgstr ""
+msgstr "Esto me llevó a estudiar la práctica conocida de la crucifixión en sí misma; osea, la tortura y ejecución de una persona por asfixia en una cruz.  Aparentemente, la primera práctica conocida de crucifixión fue realizada por los persas.  Alejandro y sus generales la llevaron al mundo Mediterráneo, a Egipto y a Cartago.  Los romanos la aprendieron de los cargaginenses y (como casi todo lo que hicieron) rápidamente desarrollaron un grado muy alto de eficiencia y técnica para llevarla a cabo.  Algunos autores romanos (Livio, Cicerón y Tácito) comentan sobre la crucifixión.  Múltiples innovaciones y modificaciones están descritas en la literatura antigua."
 
 #: 11_medical_account.html:49
 msgid "For instance, the upright portion of the cross (or stipes) could have the cross-arm (or patibulum) attached two or three feet below its top in what we commonly think of as the Latin cross. The most common form used in our Lord's day, however, was the Tau cross, shaped like our T. In this cross the patibulum was placed in a notch at the top of the stipes. There is archeological evidence that it was on this type of cross that Jesus was crucified."
-msgstr ""
+msgstr "Voy a mencionar algunos elementos que tienen importancia en este aspecto.  La parte de arriba de la cruz (patíbulo) fue colocada 60 o 90 cm. abajo del borde superior de lo que comúnmente conocemos hoy en día como la forma clásica de la cruz (cruz latina).  Sin embargo, la forma usual del tipo de cruz que pudo haberse empleado con nuestro Señor, fue la \"cruz tau\" (formada como la letra griega \"tau\" o como nuestra \"T\").  En esta cruz. el brazo horizontal estaaba puesto en un corte del borde superiror.  Hay evidencias arqueológicas bastante abrumadoras de que fue en este tipo de cruz que Jesús murió."
 
 #: 11_medical_account.html:53
 msgid "Without any historical or Biblical proof, Medieval and Renaissance painters have given us our picture of Christ carrying the entire cross. But the upright post, or stipes, was generally fixed permanently in the ground at the site of execution and the condemned man was forced to carry the patibulum, weighing about 110 pounds, from the prison to the place of execution."
-msgstr ""
+msgstr "El poste vertica, generalmente se fijó en tierra en el lugar de la ejecución, y el hombre condenado fue forzado a cargar el brazo horizontal, que se cree pesaría unos 51 Kg. (110 libras), de la cárcel al lugar de la ejecución."
 
 #: 11_medical_account.html:57
 msgid "Many of the painters and most of the sculptors of crucifixion, also show the nails through the palms. Historical Roman accounts and experimental work have established that the nails were driven between the small bones of the wrists (radius and ulna) and not through the palms. Nails driven through the palms will strip out between the fingers when made to support the weight of the human body. The misconception may have come about through a misunderstanding of Jesus' words to Thomas\""
-msgstr ""
+msgstr "Sin ninguna prueba histórica o bíblica, los pintores medievales y renacentistas nos han hecho visualizar a Cristo cargando la cruz entera.  Muchos de esos pintores, y la mayoría de los escultores de la crucifixión, muestran los clavos atravesando las palmas, pero informes históricos romanos y trabajo experimental, han demostrado que los clavos fueron insertados entre los huesos pequeños de las muñecas y no en las palmas, pues de haber sido del segundo modo, las manos se hubieran desgarrado de entre los dedos cuando soportaran el peso del cuerpo.  La equivocación tal vez sucedió por el malentendido de las palabras de Jesús a Tomás: "
 
 #: 11_medical_account.html:59
 msgid "Observe my hands"
-msgstr ""
+msgstr "\"ve mis manos\"."
 
 #: 11_medical_account.html:60
 msgid "Anatomists, both modern and ancient, have always considered the wrist as part of the hand."
-msgstr ""
+msgstr "Los anatomistas modernos y antiguos siempre han considerado las muñecas como la parte de las manos."
 
 #: 11_medical_account.html:64
 msgid "A titulus, or small sign, stating the victim's crime was usually placed on a staff, carried at the front of the procession from the prison, and later nailed to the cross so that it extended above the head. This sign with its staff nailed to the top of the cross would have given it somewhat the characteristic form of the Latin cross."
-msgstr ""
+msgstr "Un letrero pequeño, diciendo el crimen de la víctima, normalmente fue cargado delante de la procesión y después clavado en la cruz, arriba de la cabeza del crucificado.  Este letrero clavado arriba de la cruz pudiera haberle dado, de alguna manera, la forma característica de la cruz latina."
 
 #: 11_medical_account.html:68
 msgid "But, of course, the physical passion of the Christ began in Gethsemane. Of the many aspects of this initial suffering, the one of greatest physiological interest is the bloody sweat. It is interesting that St. Luke, the physician, is the only one to mention this. He says"
-msgstr ""
+msgstr "La pasión física de Jesús comienza en Getsemaní.  De los muchos aspectos de este sufrimiento inicial, voy a hablar solamente sobre los de interés fisiológico, como el fenómeno del \"sudor de sangre\".  Es interesante que el médico del grupo, Lucas, sea el único que menciona este fenómeno.  él dice:"
 
 #: 11_medical_account.html:70
 msgid "And being in agony, He prayed the longer. And His sweat became as drops of blood, trickling down upon the ground."
-msgstr ""
+msgstr "En medio de su gran sufrimiento, Jesús oraba aún más intensamente y el sudor caía a tierra como grandes gotas de sangre."
 
 #: 11_medical_account.html:75
 msgid "Every ruse (trick) imaginable has been used by modern scholars to explain away this description, apparently under the mistaken impression that this just doesn't happen. A great deal of effort could have been saved had the doubters consulted the medical literature. Though very rare, the phenomenon of"
-msgstr ""
+msgstr "Cada intento imaginable ha sido usado por los estudiosos modernos para explicar científicamente esta frase, ante la idea errónea de que esto no podría suceder.  Ahorraríamos mucho esfuerzo consultando la literatura médica.  Aunque es muy raro, el fenómeno del"
 
 #: 11_medical_account.html:76
 msgid "Hematidrosis"
@@ -2325,212 +2325,214 @@ msgstr ""
 
 #: 11_medical_account.html:77
 msgid "or bloody sweat, is well documented. Under great emotional stress of the kind our Lord suffered, tiny capillaries in the sweat glands can break, thus mixing blood with sweat. This process might well have produced marked weakness and possible shock."
-msgstr ""
+msgstr "o sudor de sangre, es bien conocido por la ciencia clínica.  Bajo gran \"stress\" emocional, los vasos capilares pequeños de las glándulas sudodíparas pueden romperse y de esta manera mezclarse sangre con sudor.  Solamente este proceso hubiera podido producir debilidades marcadas y posiblemente el shock."
 
 #: 11_medical_account.html:81
 msgid "After the arrest in the middle of the night, Jesus was next brought before the Sanhedrin and Caiphus, the High Priest; it is here that the first physical trauma was inflicted. A soldier struck Jesus across the face for remaining silent when questioned by Caiphus. The palace guards then blind-folded Him and mockingly taunted Him to identify them as they each passed by, spat upon Him, and struck Him in the face."
-msgstr ""
+msgstr "Después del arrestro, durante la madrugada, llevaron a Jesús ante el Sanedrín y Caifás, el sumo sacerdote.  Es aquí donde le causaron el primer trauma físico.  Un soldado golpeó a Jesús en la cara, porque se quedó callado mientras Caifás lo interrogaba.  Después, los guardianes del palacio le pusieron una venda en los ojos y burlándose de Él, le preguntaron quién de ellos lo había golpeado, escupiéndole y abofeteándole el rostro."
 
 #: 11_medical_account.html:85
 msgid "In the early morning, battered and bruised, dehydrated, and exhausted from a sleepless night, Jesus is taken across the Praetorium of the Fortress Antonia, the seat of government of the Procurator of Judea, Pontius Pilate. You are, of course, familiar with Pilate's action in attempting to pass responsibility to Herod Antipas, the Tetrarch of Judea. Jesus apparently suffered no physical mistreatment at the hands of Herod and was returned to Pilate. It was then, in response to the cries of the mob, that Pilate ordered Bar-Abbas released and condemned Jesus to scourging and crucifixion."
-msgstr ""
+msgstr "En la mañana, Jesús, golpeado, lleno de moretones, deshidratado y exhausto por una noche sin dormir, fue llevado desde Jerusalén hasta el pretorio de la fortaleza Antonia, el trono del procurador de Judea, Poncio Pilato.  Estamos familiarizados, por su puesto, con las acciones de Pilato al intentar pasar su responsabilidad a Herodes Antipas, el tetrarca de Judea.  Aparentemente, Jesús no fue maltratado en las manos de Herodes, sino solamente devuelto a Pilato.\n"
+"\n"
+"Fue entonces, en resuesta a los gritos de la muchedumbre, que Pilato ordenó la libertada de Barrabás y condenó a Jesus a ser azotado y crucificado."
 
 #: 11_medical_account.html:89
 msgid "There is much disagreement among authorities about the unusual scourging as a prelude to crucifixion. Most Roman writers from this period do not associate the two. Many scholars believe that Pilate originally ordered Jesus scourged as his full punishment and that the death sentence by crucifixion came only in response to the taunt by the mob that the Procurator was not properly defending Caesar against this pretender who allegedly claimed to be the King of the Jews."
-msgstr ""
+msgstr "Hay mucho desacuerdo entre los estudiosos acerca de la práctica de flagelaciones como preámbulo a la crucifixión.  La mayoría de los escritores romanos de este tiempo no la asocian.  Muchos expertos en la materia, creen que Pilato originalmente ordenó, como castigo único, que Jesús fuera flagelado, y que su condena a muerte por crucifixión fue solamente respuesta a la provocación de la muchedumbre, pues como procurador no estaba propiamente defendiendo al César contra lo que se decía de Jesús acerca de ser el Rey de los Judíos."
 
 #: 11_medical_account.html:93
 msgid "Preparations for the scourging were carried out when the Prisoner was stripped of His clothing and His hands tied to a post above His head. It is doubtful the Romans would have made any attempt to follow the Jewish law in this matter, but the Jews had an ancient law prohibiting more than forty lashes."
-msgstr ""
+msgstr "Los preparativos para la flagelación se llevaron a cabo.  El preso fue despojado de sus ropas y sus manos fueron atadas sobre su cabeza.  Es dudoso que los romanos intentaran seguir las leyes judías con respecto a la flagelación.  Los judíos tenían una ley antigua que prohibía más de cuarenta azotes.  Los fariseos, que siempre fueron estrictos en asuntos de la ley, insistieron en solamente le dieran treinta y nueve.  (Pues en caso de perder uno en el conteo, estaban seguros de permanecer dentro de lo legal). "
 
 #: 11_medical_account.html:97
 msgid "The Roman legionnaire steps forward with the flagrum (or flagellum) in his hand. This is a short whip consisting of several heavy, leather thongs with two small balls of lead attached near the ends of each. The heavy whip is brought down with full force again and again across Jesus' shoulders, back, and legs. At first the thongs cut through the skin only. Then, as the blows continue, they cut deeper into the subcutaneous tissues, producing first an oozing of blood from the capillaries and veins of the skin, and finally spurting arterial bleeding from vessels in the underlying muscles."
-msgstr ""
+msgstr "El legionario romaro dio un paso adelante con el látigo (\"flagrum\" o \"flagelum\") en la mano.  Era un látigo corto que consistía en muchas correas pesadas de cuero, con dos bolas pequeñas de plomo en las puntas de cada una.  El látifo pesado fue lanzado con toda fuerza una y otra vez sobre los hombros, espalda y piernas de Jesús.  Al principio, las correas pesadas cortaron la piel solamente.  Después, mientras los golpes continuaban, cortaron más profundamente, hasta el fino tejido subcutáneo, produciendo en inicio un flujo de sangre de los vasos capilares y vendas de la piel, y al final chorreó sangre arterial de los vasos de los músculos."
 
 #: 11_medical_account.html:101
 msgid "The small balls of lead first produce large, deep bruises which are broken open by subsequent blows. Finally the skin of the back is hanging in long ribbons and the entire area is an unrecognizable mass of torn, bleeding tissue. When it is determined by the centurion in charge that the prisoner is near death, the beating is finally stopped."
-msgstr ""
+msgstr "Las bolas pequeñas de plomo, produjeron primero moretones grandes y profundos que se abrieron con los subsecuentes golpes, y después la piel de la espalda se colgó en forma de largas tiras, hasta que el área entera fue en masa irreconocible de tejido sangrante y desgarrado.  Cuando el centurión a cargo determina que el preso está cerca de la muerte, se detiene la flagelación."
 
 #: 11_medical_account.html:105
 msgid "The half-fainting Jesus is then untied and allowed to slump to the stone pavement, wet with His own blood. The Roman soldiers see a great joke in this provincial Jew claiming to be king. They throw a robe across His shoulders and place a stick in His hand for a scepter. They still need a crown to make their travesty complete. Flexible branches covered with long thorns (commonly used in bundles for firewood) are plaited into the shape of a crown and this is pressed into His scalp. Again there is copious bleeding, the scalp being one of the most vascular areas of the body."
-msgstr ""
+msgstr "Jesús, medio desmayado, es entonces desatado y cae desplomándose sobre el pavimento de piedra, mojado en su propia sangre.  Los soldados romanos ven con mofa que este judío provinciano proclame se rey.  Ponen una capa sobre sus hombros y le colocan un palo en la mano, como cetro.  Todavía necesitan de una corona para hacer completa su burla.  Un bulto pequeño de ramas flexibles cubiertas con espinas largas (normalmente usadas como leña), trenzadas en forma de corona, le es incrutado en el cuero cabelludo.  Otra vez hay un sangrado abundante (el cuero cabelludo es una de las áreas más vascularizadas del cuerpo)."
 
 #: 11_medical_account.html:109
 msgid "After mocking Him and striking Him across the face, the soldiers take the stick from His hand and strike Him across the head, driving the thorns deeper into His scalp. Finally, they tire of their sadistic sport and the robe is torn from His back. Already having adhered to the clots of blood and serum in the wounds, its removal causes excruciating pain just as in the careless removal of a surgical bandage, and almost as though He were again being whipped the wounds once more begin to bleed."
-msgstr ""
+msgstr "Después de burlarse de Él y de pegarle en la cara, los soldados tomaron el palo de su mano y le pegaron a lo ancho de la cabeza, incrustándole más profundamente las espinas en el cuero cabelludo.  Finalmente, se cansaron de su juego sádico y jalaron la capa de su espalda, habiendo sido ya adherida a los coágulos de sangre y al suero de las heridas.  Su removimiento fue como el retiro descuidado de una gasa sobre una cirugía, causándole extenuantes dolores, casí como si hubiera sido flagelado otra vez.   Las heridas sangraron de nuevo."
 
 #: 11_medical_account.html:113
 msgid "In deference to Jewish custom, the Romans return His garments. The heavy patibulum of the cross is tied across His shoulders, and the procession of the condemned Christ, two thieves, and the execution detail of Roman soldiers headed by a centurion begins its slow journey along the Via Dolorosa. In spite of His efforts to walk erect, the weight of the heavy wooden beam, together with the shock produced by copious blood loss, is too much. He stumbles and falls. The rough wood of the beam gouges into the lacerated skin and muscles of the shoulders. He tries to rise, but human muscles have been pushed beyond their endurance."
-msgstr ""
+msgstr "Por deferencia a las costumbres judías, los romanos le regresan su ropa.  El pesado brazo horizontal de la cruz es atado a sus hombros y la procesión del Cristo condenado, dos ladrones y el equipo de ejecución de los soldados romanos, dirigido por un centurión, empieza un viaje lento por la \"Vía Dolorosa\".  A pesar de sus esfuerzos por caminar recto, la carga de la pesada cruz de madera combinada con el shock producido por la pérdida copiosa de sangre, es excesiva.  Se tambalea y cae.  La madera áspera de la viga penetra y raspa dentro la piel rasgada de los músculos de los hombros.  Trata de levantarse, pero sus músculos humanos han sido utilizados más allá de sus límites."
 
 #: 11_medical_account.html:117
 msgid "The centurion, anxious to get on with the crucifixion, selects a stalwart North African onlooker, Simon of Cyrene, to carry the cross. Jesus follows, still bleeding and sweating the cold, clammy sweat of shock, until the 650 yard journey from the fortress Antonia to Golgotha is finally completed."
-msgstr ""
+msgstr "El centurión, ansioso de continuar con la crucifixión, selecciona un fuerte espectador norafricano, Simón de Cirene, para cargar la cruz.  Jesús sigue todavía sangrando y sudando el sudor frío y pegajoso del shock.  El viaje de 549 m (650 yardas) de la fortaleza Antonia al Gólgota está cumplido por fin.  El preso es de nuevo despojado de sus ropas, con la excepción de un calzón corto, que es permitido a los judíos."
 
 #: 11_medical_account.html:121
 msgid "Jesus is offered wine mixed with myrrh, a mild analgesic mixture. He refuses to drink. Simon is ordered to place the patibulum on the ground and Jesus quickly thrown backward with His shoulders against the wood. The legionnaire feels for the depression at the front of the wrist. He drives a heavy, square, wrought-iron nail through the wrist and deep into the wood. Quickly, he moves to the other side and repeats the action being careful not to pull the arms too tightly, but to allow some flexion and movement. The patibulum is then lifted in place at the top of the stipes and the titulus reading \"Jesus of Nazareth, King of the Jews\" is nailed in place."
-msgstr ""
+msgstr "La crucifixión comienza.  Ofrecen a Jesús vino mezclado con mirra, una mezcla analgésica suave que se rehúsa a tomar.  Exigen a Simón poner la cruz sobre la tierra y tiran a Jesús rápidamente, poniendo sus hombros contra la madera.  El legionario busca con el tacto el hundimiento al frente de la muñeca de su brazo.  La atraviesa con un clavo pesado de hierro dulce, de sección cuadrada y atraviesa también la madera, y rápidamente se mueve al otro lado repitiendo la operación, teniendo cuidado de no colocar los brazos demasiado extendidos para permitir un poco de flexibilidad y movimiento.  Se levanta la parte horizontal (patíbulos) al borde del poste y el título que dice: \"Jesus de Nazaret, Rey de los Judíos\", es clavado ahí."
 
 #: 11_medical_account.html:125
 msgid "The left foot is now pressed backward against the right foot, and with both feet extended, toes down, a nail is driven through the arch of each, leaving the knees moderately flexed. The victim is now crucified. As He slowly sags down with more weight on the nails in the wrists excruciating pain shoots along the fingers and up the arms to explode in the brain. As He pushes Himself upward to avoid this stretching torment, He places His full weight on the nail through His feet. Again there is the searing agony of the nail tearing through the nerves between the metatarsal bones of the feet."
-msgstr ""
+msgstr "El pie izquierdo es presionado contra el pie derecho y con los dos pies extendidos, dedos abajo, atraviesan un clavo a través del arco de cada uno, dejando las rodillas flexionadas moderadamente.  La víctima ahora está crucificada.  Mientras lentamente desfallece poniendo más peso sobre los clavos en las muñecas, un ardiente dolor insoportable se esparce sobre los dedos a través de los brazos hasta explotar en el cerebro y los clavos en las muñecas presionan los nervios intermediarios.  Mientras Jesús se impulsa hacia arriba para evitar este tormento inmenso, pone su peso completo en el clavo de sus pies.  De nuevo, viene otra horrible agonía de desquebrajamiento de los nervios entre los huesos metatarsianos de los pies."
 
 #: 11_medical_account.html:129
 msgid "At this point, as the arms fatigue, great waves of cramps sweep over the muscles, knotting them in deep, relentless, throbbing pain. With these cramps comes the inability to push Himself upward. Hanging by His arms, the pectoral muscles are paralyzed and the intercostal muscles are unable to act. Air can be drawn into the lungs, but cannot be exhaled. Jesus fights to raise Himself in order to get even one short breath. Finally, carbon dioxide builds up in the lungs and in the blood stream and the cramps partially subside. Spasmodically, He is able to push Himself upward to exhale and bring in the life-giving oxygen. It was undoubtedly during these periods that He uttered the seven short sentences recorded:"
-msgstr ""
+msgstr "En este punto, otro fenómeno sucede.  Mientras los brazos se fatigan, grandes olas de calambres pulsan sobre sus músculos contrayéndolos en un dolor palpitante y persistente.  Con estos calambres viene la incapacidad de empujarse hacia arriba.  Colgado de sus brazos, los músculos pectorales están paralizados y los músculos intercostales están incapacitados para reaccionar.  Puede inhalar aire en los pulmones pero no puede exhalarlo.  Jesús lucha para levantarse y obtener por lo menos una respiración leve.  Finalmente se acumula bióxido de carbono en los pulmones y en las vías sanguíneas.  Los calambres disminuyen parcialmente.  Espasmódicamente, se empuja hacia arriba para exhalar y respirar el vital oxígeno.  Es indudable que fue durante este tiempo cuando Jesús dijo las siete frasees cortas que han quedado escritas:"
 
 #: 11_medical_account.html:133
 msgid "The first, looking down at the Roman soldiers throwing dice for His seamless garment"
-msgstr ""
+msgstr "La primera, mirando hacia abajo a los soldados romanos echando suerte por su capa sin costura,"
 
 #: 11_medical_account.html:135
 msgid "Father, forgive them for they know not what they do."
-msgstr ""
+msgstr "\"Padre, perdónalos, porque no saben lo que hacen\"."
 
 #: 11_medical_account.html:140
 msgid "The second, to the penitent thief"
-msgstr ""
+msgstr "La segunda, al ladrón arrepentido,"
 
 #: 11_medical_account.html:142
 msgid "Today thou shalt be with me in Paradise."
-msgstr ""
+msgstr "\"Hoy estarás conmigo en el paraíso\"."
 
 #: 11_medical_account.html:147
 msgid "The third, looking down at the terrified, grief-stricken adolescent John - the beloved Apostle - he said"
-msgstr ""
+msgstr "La tercera, mirando al joven Juan, angustiado y dolido, su apóstol amado, "
 
 #: 11_medical_account.html:150
 msgid "Behold thy mother."
-msgstr ""
+msgstr "\"He ahí a tu madre\""
 
 #: 11_medical_account.html:152
 msgid "Then, looking to His mother Mary"
-msgstr ""
+msgstr "Luego mirando a María, su madre"
 
 #: 11_medical_account.html:154
 msgid "Woman behold thy son."
-msgstr ""
+msgstr "\"Mujer, ahí tienes a tu hijo\""
 
 #: 11_medical_account.html:159
 msgid "The fourth cry is from the beginning of the 22nd Psalm"
-msgstr ""
+msgstr "El cuarto grito proviene del comienzo del Salmo 22,"
 
 #: 11_medical_account.html:161
 msgid "My God, my God, why has thou forsaken me?"
-msgstr ""
+msgstr "\"Dios mío, Dios mío, ¿Por qué me has abandonado?\"."
 
 #: 11_medical_account.html:166
 msgid "Hours of limitless pain, cycles of twisting, joint-rending cramps, intermittent partial asphyxiation, searing pain where tissue is torn from His lacerated back as He moves up and down against the rough timber. Then another agony begins... A terrible crushing pain deep in the chest as the pericardium slowly fills with serum and begins to compress the heart."
-msgstr ""
+msgstr "Horas de dolor sin límites, ciclos de calambres que le retuercen las coyonturas y asfixia parcial intermintente, mientras el tejido fino de su espalda se desgarra cotra la madera áspera.  Empieza entonces otra agonía: un dolor profundo e intenso en el pecho, cuando el pericardio se llena lentamente de suero y empieza a comprimir el corazón."
 
 #: 11_medical_account.html:170
 msgid "One remembers again the 22nd Psalm, the 14th verse:"
-msgstr ""
+msgstr "Recordemos de nuevo el Salmo 22 (v. 14), "
 
 #: 11_medical_account.html:172
 msgid "I am poured out like water, and all my bones are out of joint; my heart is like wax; it is melted in the midst of my bowels."
-msgstr ""
+msgstr "\"Soy como agua que se derrama, mis huesos están dislocados.  Mi corazón es como cera que se derrite dentro de mí\"."
 
 #: 11_medical_account.html:177
 msgid "It is now almost over. The loss of tissue fluids has reached a critical level; the compressed heart is struggling to pump heavy, thick, sluggish blood into the tissue; the tortured lungs are making a frantic effort to gasp in small gulps of air. The markedly dehydrated tissues send their flood of stimuli to the brain."
-msgstr ""
+msgstr "Ahora casi todo está terminado.  La pérdida del fluido de los tejidos finos ha alcanzado un nivel crítico y el corazón comprimido está luchando para bombear sangre pesada y espesa dentro del tejido fino. Los pulmones torturados están haciendo un esfuerzo frenético para obtener dosis pequeñas de aire.  El tejido fino deshidratado manda otra tormenta de estímulos al cerebro."
 
 #: 11_medical_account.html:181
 msgid "Jesus gasps His fifth cry"
-msgstr ""
+msgstr "Jesús da su quinto grito,"
 
 #: 11_medical_account.html:183
 msgid "I thirst."
-msgstr ""
+msgstr "\"Tengo sed\"."
 
 #: 11_medical_account.html:188
 msgid "One remembers another verse from the prophetic 22nd Psalm:"
-msgstr ""
+msgstr "Recordemos otro versículo del profético Salmo 22:"
 
 #: 11_medical_account.html:190
 msgid "My strength is dried up like a potsherd; and my tongue cleaveth to my jaws; and thou has brought me into the dust of death."
-msgstr ""
+msgstr "\"Tengo la boca seca como una teja; tengo la lengua pegada al paladar.  ¡Me has hundido hasta el polvo de la muerte!\""
 
 #: 11_medical_account.html:195
 msgid "A sponge soaked in posca, the cheap, sour wine which is the staple drink of the Roman legionaries, is lifted to His lips. He apparently doesn't take any of the liquid. The body of Jesus is now in extremis, and He can feel the chill of death creeping through His tissues. This realization brings out His sixth words, possibly little more than a tortured whisper"
-msgstr ""
+msgstr "Un hisopo empapado en \"poska\", el vino agrio y barato que es la bebida común de los legionarios romanos, es acercada a sus labios.  Aparentemente no toma nada del líquido.  El cuerpo de Jesús ahora se extingue y puede sentir el escalofrío de la muerte correr por sus entrañas, ante esta situación, salen sus sextas palabras, posiblemente no más que un murmullo agonizante"
 
 #: 11_medical_account.html:197
 msgid "It is finished."
-msgstr ""
+msgstr "\"Todo está cumplido\""
 
 #: 11_medical_account.html:199
 msgid "His mission of atonement has completed. Finally He can allow his body to die."
-msgstr ""
+msgstr "Su misión de redención se ha completado.  Por fin puede dejar que su cuerpo muera."
 
 #: 11_medical_account.html:203
 msgid "With one last surge of strength, He once again presses His torn feet against the nail, straightens His legs, takes a deeper breath, and utters His seventh and last cry"
-msgstr ""
+msgstr "Con el último aliento de fuerza, de nuevo persiona sus pies desgarrados cotra el clavo, enderezando sus piernas.  Jesús toma una respiración más profunda y emite su séptimo y último grito,"
 
 #: 11_medical_account.html:205
 msgid "Father! Into thy hands I commit my spirit."
-msgstr ""
+msgstr "\"Padre, en tus manos encomiendo mi espíritu\"."
 
 #: 11_medical_account.html:210
 msgid "The rest you know. In order that the Sabbath not be profaned, the Jews asked that the condemned men be dispatched and removed from the crosses. The common method of ending a crucifixion was by crucifracture, the breaking of the bones of the legs. This prevented the victim from pushing himself upward; thus the tension could not be relieved from the muscles of the chest and rapid suffocation occurred. The legs of the two thieves were broken, but when the soldiers came to Jesus they saw that this was unnecessary."
-msgstr ""
+msgstr "Lo que sigue ya se conocido.  Para que el día de reposo no fuera profanado, los judíos pidieron que los hombres condenados fueran bajados de las cruces.  La manera común de terminar una crucifixión era la \"crucifractura\", el rompimiento de los huesos de las piernas.  Esto prevenía que la víctima se empujase hacia arriba, pues la tensión no podía ser aliviada en los músculos del pecho y producía una sofocación rápida.  Las piernas de los dos ladrones fueron rotas pero cuando llegaron a Jesús, vieron que no era necesario hacerlo con Él, cumpliendo la escritura, \"No le quebrarán ningún hueso\"."
 
 #: 11_medical_account.html:214
 msgid "Apparently to make doubly sure of death, the legionnaire drove his lance through the fifth interspace between the ribs, upward through the pericardium and into the heart. The 34th verse of the 19th chapter of the Gospel according to St. John reports:"
-msgstr ""
+msgstr "Aparentemente para estar seguro de su muerte, el legionario clavó su lanza en el quinto espacio intercostal, atravesando el pericardio y el corazón.  En Juan 10:34, dice,   "
 
 #: 11_medical_account.html:216
 msgid "And immediately there came out blood and water."
-msgstr ""
+msgstr "\"Y al momento salió sangre y agua\"."
 
 #: 11_medical_account.html:218
 msgid "That is, there was an escape of water fluid from the sac surrounding the heart, giving postmortem evidence that our Lord died not the usual crucifixion death by suffocation, but of heart failure due to shock and constriction of the heart by fluid in the pericardium."
-msgstr ""
+msgstr "Por eso hubo un flujo de agua de la bolsa que rodea al corazón y sangre del interior cardiaco.  Lo que concluimos a través de la clara evidencia es que nuestro Señor murió, no por la asfixia común producida por la crucifixión, sino por un fallo del corazón debido al shock y contracción de éste por la presencia de fluidos en el pericardio."
 
 #: 11_medical_account.html:222
 msgid "Thus we have had our glimpse - including the medical evidence - of that epitome of evil which man has exhibited toward man and toward God. It has been a terrible sight, and more than enough to leave us despondent and depressed. How grateful we can be that we have the great sequel in the infinite mercy of God toward man - at once the miracle of the atonement and the expectation of the triumphant Easter morning."
-msgstr ""
+msgstr "Ahora, hemos vislumbreado la personificación del mal que el hombre puede inflingir al hombre y a Dios.  esta no es una bella visón y es capaz de dejarnos abatidos y desalentados.  ¡Qué agradecidos debemos estar de tener una esperanza: vislumbrar la infinita misericordia de Dios hacia el hombre, el milagro de la expiación y la esperanza de la mañana de la Pascua!"
 
 #: 11_medical_account.html:226
 msgid "From"
-msgstr ""
+msgstr "De"
 
 #: 11_medical_account.html:228
 msgid "New Wine Magazine, April 1982"
-msgstr ""
+msgstr "New Wine Magazine, abril 1982"
 
 #: 11_medical_account.html:230
 msgid "Originally published in Arizona Medicine, March 1965, Arizona Medical Association."
-msgstr ""
+msgstr "Publicada originalmente en Arizona Medicine, marzo 1965, Asociación Médica de Arizona."
 
 #: 12_baptism_with_the_holy_spirit.html:35
 msgctxt "baptism_with_the_holy_spirit #1"
 msgid "Introduction:"
-msgstr ""
+msgstr "Introducción"
 
 #: 12_baptism_with_the_holy_spirit.html:35
 msgid "Jesus was given the Spirit in full measure (RSV), no limit"
-msgstr ""
+msgstr "Jesús recibió el Espíritu en toda plenitud, sin límite."
 
 #: 12_baptism_with_the_holy_spirit.html:36
 msgid "John 3:34"
-msgstr ""
+msgstr "Juan 3:34"
 
 #: 12_baptism_with_the_holy_spirit.html:37
 msgid "There are three measures of the Holy Spirit:"
-msgstr ""
+msgstr "Hay tres medidas del Espíritu Santo:"
 
 #: 12_baptism_with_the_holy_spirit.html:41
 msgid "The Indwelling of the Holy Spirit"
-msgstr ""
+msgstr "La residencia Interna del Espíritu Santo"
 
 #: 12_baptism_with_the_holy_spirit.html:45
 msgid "Terminology from"
-msgstr ""
+msgstr "Terminología tomada de"
 
 #: 12_baptism_with_the_holy_spirit.html:48
 msgid "Romans 8:9"
-msgstr ""
+msgstr "Romanos 8:9"
 
 #: 12_baptism_with_the_holy_spirit.html:50
 msgid "(RSV)"
@@ -2538,768 +2540,769 @@ msgstr ""
 
 #: 12_baptism_with_the_holy_spirit.html:54
 msgid "Received at baptism"
-msgstr ""
+msgstr "Se recibe el bautismo"
 
 #: 12_baptism_with_the_holy_spirit.html:57
 msgctxt "baptism_with_the_holy_spirit #1"
 msgid "Acts 2:38"
-msgstr ""
+msgstr "Hechos 2:38"
 
 #: 12_baptism_with_the_holy_spirit.html:65
 msgctxt "baptism_with_the_holy_spirit #1"
 msgid "The Baptism with the Holy Spirit"
-msgstr ""
+msgstr "El Bautismo con el Espíritu Santo"
 
 #: 12_baptism_with_the_holy_spirit.html:69
 msgid "Characteristics in"
-msgstr ""
+msgstr "Sus características en"
 
 #: 12_baptism_with_the_holy_spirit.html:72
 msgctxt "baptism_with_the_holy_spirit #1"
 msgid "Acts 2"
-msgstr ""
+msgstr "Hecho 2"
 
 #: 12_baptism_with_the_holy_spirit.html:75
 msgctxt "baptism_with_the_holy_spirit #1"
 msgid "and"
-msgstr ""
+msgstr "y"
 
 #: 12_baptism_with_the_holy_spirit.html:78
 msgctxt "baptism_with_the_holy_spirit #1"
 msgid "Acts 10"
-msgstr ""
+msgstr "Hechos 10"
 
 #: 12_baptism_with_the_holy_spirit.html:83
 msgid "Promise (not command):"
-msgstr ""
+msgstr "Una promesa (no un mandato)"
 
 #: 12_baptism_with_the_holy_spirit.html:86
 msgid "Acts 1:4-5"
-msgstr ""
+msgstr "Hechos 1:4-5"
 
 #: 12_baptism_with_the_holy_spirit.html:91
 msgid "Predicted (prophesied)"
-msgstr ""
+msgstr "Fue predicho (profetizado)"
 
 #: 12_baptism_with_the_holy_spirit.html:94
 msgid "Came without warning. (People were not specifically praying for it)"
-msgstr ""
+msgstr "Vino sin advertencia (La gente no estaba orando especificamente por él)"
 
 #: 12_baptism_with_the_holy_spirit.html:97
 msgid "Languages"
-msgstr ""
+msgstr "Idiomas"
 
 #: 12_baptism_with_the_holy_spirit.html:100
 msgid "Purpose:  to usher in the Kingdom with power"
-msgstr ""
+msgstr "Su propósito: Anunciar la llegada del Reino con poder."
 
 #: 12_baptism_with_the_holy_spirit.html:103
 msgctxt "baptism_with_the_holy_spirit #1"
 msgid "Acts 1:8"
-msgstr ""
+msgstr "Marcos 9:1, Hechos 1:8"
 
 #: 12_baptism_with_the_holy_spirit.html:110
 msgid "Accounts of the Baptism with the Holy Spirit"
-msgstr ""
+msgstr "Acontecimientos del bautismo con el Espíritu Santo"
 
 #: 12_baptism_with_the_holy_spirit.html:113
 msgid "To the Jews — in Jerusalem"
-msgstr ""
+msgstr "Los judíos - en Jerusalén"
 
 #: 12_baptism_with_the_holy_spirit.html:116
 msgctxt "baptism_with_the_holy_spirit #2"
 msgid "Acts 2"
-msgstr ""
+msgstr "Hechos 2"
 
 #: 12_baptism_with_the_holy_spirit.html:121
 msgid "To the Gentiles — begins with Cornelius"
-msgstr ""
+msgstr "A los no judíos - Comienza con Cornelio"
 
 #: 12_baptism_with_the_holy_spirit.html:124
 msgctxt "baptism_with_the_holy_spirit #2"
 msgid "Acts 10"
-msgstr ""
+msgstr "Hechos 10"
 
 #: 12_baptism_with_the_holy_spirit.html:129
 msgid "Note:  Cornelius and his household were water baptized in"
-msgstr ""
+msgstr "Noten que Cornelio y su familia fueron bautizados en agua en"
 
 #: 12_baptism_with_the_holy_spirit.html:131
 msgid "Acts 10:48"
-msgstr ""
+msgstr "Hechos 10:48"
 
 #: 12_baptism_with_the_holy_spirit.html:133
 msgid "saved at baptism"
-msgstr ""
+msgstr ", salvados al bautizarse."
 
 #: 12_baptism_with_the_holy_spirit.html:136
 msgid "Peter explained actions to the Jews"
-msgstr ""
+msgstr "Pedro explicó sus acciones a los judíos"
 
 #: 12_baptism_with_the_holy_spirit.html:139
 msgid "Acts 11:1-18"
-msgstr ""
+msgstr "Hechos 11: 1-18"
 
 #: 12_baptism_with_the_holy_spirit.html:144
 msgid "\"At the beginning\""
-msgstr ""
+msgstr "\"Al principio\""
 
 #: 12_baptism_with_the_holy_spirit.html:147
 msgid "Acts 11:15"
-msgstr ""
+msgstr "Hechos 11:15"
 
 #: 12_baptism_with_the_holy_spirit.html:152
 msgid "Peter gives the \"keys to the Kingdom\" to both Jews and Gentiles"
-msgstr ""
+msgstr "Pedro da \"las llaves del Reino\" a ambos, a los Judíos y a los Gentiles"
 
 #: 12_baptism_with_the_holy_spirit.html:159
 msgid "Does the Baptism with the Holy Spirit still exist today?"
-msgstr ""
+msgstr "¿Existe aún hoy en día el bautismo con el Espíritu Santo?"
 
 #: 12_baptism_with_the_holy_spirit.html:162
 msgctxt "baptism_with_the_holy_spirit #1"
 msgid "Ephesians 4:4-6"
-msgstr ""
+msgstr "Efesios 4:4-6"
 
 #: 12_baptism_with_the_holy_spirit.html:165
 msgid "There is one baptism — which one?"
-msgstr ""
+msgstr "Hay UN SOLO Bautismo - ¿Cual?"
 
 #: 12_baptism_with_the_holy_spirit.html:165
 msgid "Written about"
-msgstr ""
+msgstr "Escrito por los años"
 
 #: 12_baptism_with_the_holy_spirit.html:167
 msgctxt "baptism_with_the_holy_spirit #1"
 msgid "60-62 A.D."
-msgstr ""
+msgstr "60-62 D.C"
 
 #: 12_baptism_with_the_holy_spirit.html:169
 msgid "There are three options:"
-msgstr ""
+msgstr "Hay tres opciones:"
 
 #: 12_baptism_with_the_holy_spirit.html:172
 msgid "John's baptism — Passed when the new covenant began"
-msgstr ""
+msgstr "El Bautismo de Juan - Dejó de existir con el inicio del Nuevo Pacto"
 
 #: 12_baptism_with_the_holy_spirit.html:175
 msgctxt "baptism_with_the_holy_spirit #1"
 msgid "Acts 19:1-5"
-msgstr ""
+msgstr "Hechos 19:1-5"
 
 #: 12_baptism_with_the_holy_spirit.html:180
 msgctxt "baptism_with_the_holy_spirit #2"
 msgid "The Baptism with the Holy Spirit"
-msgstr ""
+msgstr "El Bautismo con el Espíritu Santo"
 
 #: 12_baptism_with_the_holy_spirit.html:183
 msgctxt "baptism_with_the_holy_spirit #3"
 msgid "Acts 2"
-msgstr ""
+msgstr "Hechos 2"
 
 #: 12_baptism_with_the_holy_spirit.html:185
 msgctxt "baptism_with_the_holy_spirit #2"
 msgid "and"
-msgstr ""
+msgstr "y"
 
 #: 12_baptism_with_the_holy_spirit.html:187
 msgctxt "baptism_with_the_holy_spirit #3"
 msgid "Acts 10"
-msgstr ""
+msgstr "Hechos 10"
 
 #: 12_baptism_with_the_holy_spirit.html:190
 msgid "is no longer present as it was a prophecy/promise that has been fulfilled.  It was never a general command for all Christians"
-msgstr ""
+msgstr "Ya no existe ya que fue una profecía/promesa que ha sido cumplida.  Nunca fue un mandato general para todos los cristianos."
 
 #: 12_baptism_with_the_holy_spirit.html:193
 msgid "Baptism with water in the name of Jesus Christ for the forgiveness of sins to receive the indwelling of the Holy Spirit"
-msgstr ""
+msgstr "El bautismo en agua en el nombre de Jesucristo para el perdón de los pecados y recibir la residencia interna del Espíritu Santo."
 
 #: 12_baptism_with_the_holy_spirit.html:196
 msgid "Jesus commanded this baptism"
-msgstr ""
+msgstr "Jesús nos mandó a tomar este bautismo"
 
 #: 12_baptism_with_the_holy_spirit.html:199
 msgctxt "baptism_with_the_holy_spirit #1"
 msgid "Matthew 28:18-20"
-msgstr ""
+msgstr "Mateo 28:18-20"
 
 #: 12_baptism_with_the_holy_spirit.html:204
 msgid "This baptism is recorded all the way through the book of Acts and the Epistles. In fact, Peter was present for all the baptisms:  John's baptism, both accounts of the Baptism of the Holy Spirit, and preached water baptism in the name of Jesus in Acts 2"
-msgstr ""
+msgstr "Este bautismo está documentado a través de todo el libro de Hechos y las epístolas.  De hecho, Pedro estaba presente para todos los bautismos: El bautismo de Juan, ambos relatos del bautismo del Espíritu Santo, y predicó el bautismo en agua en el nombre de Jesús en Hechos 2"
 
 #: 12_baptism_with_the_holy_spirit.html:206
 msgctxt "baptism_with_the_holy_spirit #1"
 msgid "33 A.D."
-msgstr ""
+msgstr "33 D.C"
 
 #: 12_baptism_with_the_holy_spirit.html:208
 msgid "and in"
-msgstr ""
+msgstr "y en "
 
 #: 12_baptism_with_the_holy_spirit.html:211
 msgctxt "baptism_with_the_holy_spirit #1"
 msgid "1 Peter 3:18-21"
-msgstr ""
+msgstr "1 Pedro 3:18-21"
 
 #: 12_baptism_with_the_holy_spirit.html:214
 msgid "written around"
-msgstr ""
+msgstr "tambien escrito por el año"
 
 #: 12_baptism_with_the_holy_spirit.html:216
 msgid "64 A.D."
-msgstr ""
+msgstr "64 D.C"
 
 #: 12_baptism_with_the_holy_spirit.html:218
 msgid "well after all the events of the book of Acts"
-msgstr ""
+msgstr "bastante después de todos los eventos del libro de Hechos."
 
 #: 12_baptism_with_the_holy_spirit.html:221
 msgid "It had to be the one baptism of"
-msgstr ""
+msgstr "Tendría que ser \"un solo\" bautismo de"
 
 #: 12_baptism_with_the_holy_spirit.html:224
 msgctxt "baptism_with_the_holy_spirit #2"
 msgid "Ephesians 4:4-6"
-msgstr ""
+msgstr "Efesios 4:4-6"
 
 #: 12_baptism_with_the_holy_spirit.html:227
 msgid "as it was the only one practiced by"
-msgstr ""
+msgstr "ya que era el único en practica en los años"
 
 #: 12_baptism_with_the_holy_spirit.html:229
 msgctxt "baptism_with_the_holy_spirit #2"
 msgid "60-62 A.D."
-msgstr ""
+msgstr "60-62 D.C"
 
 #: 12_baptism_with_the_holy_spirit.html:231
 msgid "when Ephesians was written"
-msgstr ""
+msgstr "cuando fue escrito Efesios."
 
 #: 12_baptism_with_the_holy_spirit.html:241
 msgid "The"
-msgstr ""
+msgstr "Los"
 
 #: 12_baptism_with_the_holy_spirit.html:243
 msgid "miraculous gifts of the Holy Spirit"
-msgstr ""
+msgstr "Dones milagrosos del Espíritu santo"
 
 #: 12_baptism_with_the_holy_spirit.html:246
 msgid "(next lesson)"
-msgstr ""
+msgstr "(siguiente lección)"
 
 #: 12_baptism_with_the_holy_spirit.html:249
 msgid "Received by the apostles' laying on of hands"
-msgstr ""
+msgstr "Se reciben a través de la imposición de las manos de los apóstoles."
 
 #: 12_baptism_with_the_holy_spirit.html:252
 msgid "No longer present today"
-msgstr ""
+msgstr "Ya no existen hoy."
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:38
 msgid "Types of Miraculous Gifts"
-msgstr ""
+msgstr "Los Tipos de Dones Milagrosos"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:44
 msgid "1 Corinthians 12:8-10"
-msgstr ""
+msgstr "1 Corintios 12:8-10"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:49
 msgid "Wisdom"
-msgstr ""
+msgstr "Sabiduría"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:52
 msgid "Knowledge"
-msgstr ""
+msgstr "Conocimiento"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:55
 msgid "Faith"
-msgstr ""
+msgstr "Fe"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:58
 msgctxt "miraculous_gifts_of_the_holy_spirit #1"
 msgid "Healing"
-msgstr ""
+msgstr "Sanar Enfermos"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:61
 msgid "Miracles"
-msgstr ""
+msgstr "Milagros"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:64
 msgid "Prophecy"
-msgstr ""
+msgstr "Profecía"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:67
 msgid "Distinguishing Spirits"
-msgstr ""
+msgstr "Distinguir Espíritus"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:70
 msgid "Tongues"
-msgstr ""
+msgstr "Hablar en lenguas"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:73
 msgid "Interpretation"
-msgstr ""
+msgstr "Interpretación de lenguas"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:81
 msgid "Mark 16:16-18"
-msgstr ""
+msgstr "Marcos 16:16-18"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:84
 msgid "Some will be able to:"
-msgstr ""
+msgstr "Algunos tendrán la habilidad de:"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:87
 msgid "Drink poison and not die"
-msgstr ""
+msgstr "Tomar veneno y no morir"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:90
 msgid "Be bitten by snakes and not die"
-msgstr ""
+msgstr "ser mordidos por víboras y no morir"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:93
 msgid "Acts 28:5"
-msgstr ""
+msgstr "Hechos 28:8"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:104
 msgid "Types of \"Laying on of Hands\""
-msgstr ""
+msgstr "Tipos de \"Imposición de Manos\""
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:108
 msgid "Blessing"
-msgstr ""
+msgstr "Bendición"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:111
 msgid "Acts 13:3"
-msgstr ""
+msgstr "Hechos 13:3"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:117
 msgctxt "miraculous_gifts_of_the_holy_spirit #2"
 msgid "Healing"
-msgstr ""
+msgstr "Sanación"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:120
 msgid "Ananias heals Paul's blindness"
-msgstr ""
+msgstr "Ananías sana la ceguera de Pablo"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:123
 msgid "Acts 9:17-18"
-msgstr ""
+msgstr "Hechos 9:17-18"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:129
 msgid "Paul heals Publius' father on Malta"
-msgstr ""
+msgstr "Pablo saba al padre de Publio en Malta"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:132
 msgid "Acts 28:8"
-msgstr ""
+msgstr "Hechos 28:8"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:140
 msgid "Passing on the Gifts"
-msgstr ""
+msgstr "Transmitiendo los dones a otras personas."
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:143
 msgid "Apostles pass on the gifts"
-msgstr ""
+msgstr "Los apóstoles podían pasar los dones a otros"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:146
 msgctxt "miraculous_gifts_of_the_holy_spirit #1"
 msgid "Acts 8:18"
-msgstr ""
+msgstr "Hechos 8:18"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:152
 msgid "These people could not pass on the gifts that they received"
-msgstr ""
+msgstr "Estas personas NO podían pasar los dones que recibían."
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:159
 msgctxt "miraculous_gifts_of_the_holy_spirit #1"
 msgid "Acts 6:1-8"
-msgstr ""
+msgstr "Hechos 6:1-8"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:162
 msgid "Context is the choosing of \"The Seven.\"  This is the first occasion that the gifts were passed.  Stephen immediately starts to perform miraculous signs among the people with God's power (v.8)"
-msgstr ""
+msgstr "El contexto es la selección de \"Los Siete\".  Esta es la primera ocasión que los dondes son transferidos.  Estaban inmediatamente comienza a hacer milagros entre la gente con el poder de Dios. (v 8)"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:167
 msgid "Acts 8:1-25"
-msgstr ""
+msgstr "Hechos 8:1-25"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:170
 msgid "Context is after Stephen's martyrdom.  Great persecution breaks out.  Many leave, but apostles stay in Jerusalem.  Philip, one of \"The Seven\" who had received the gifts in"
-msgstr ""
+msgstr "El contexto es después del martirio de Esteban, se desata una gran persecución y muchos salen, pero los apóstoles permanecen en Jerusalén.  Felipe, uno de \"Los Siete\" que había recibido los dones en"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:173
 msgctxt "miraculous_gifts_of_the_holy_spirit #2"
 msgid "Acts 6:1-8"
-msgstr ""
+msgstr "Hechos 6:1-8"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:176
 msgid "goes to Samaria.  He performs many miraculous signs and healings to get people to believe"
-msgstr ""
+msgstr "va a Samaria.  realiza muchas señales milagrosas y sanaciones para hacer que la cente crea (v. 12)"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:182
 msgid "including Simon the Sorcerer"
-msgstr ""
+msgstr "incluyendo a Simón el Mago (v. 13)"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:188
 msgid "and they are baptized.  (They became Christians and thus receive the forgiveness of sins and the gift (indwelling) of the Holy Spirit"
-msgstr ""
+msgstr "y son bautizados.  Ellos se convirtieron en cristianos y así recibieron el perfón de los pecados y el don (interno) del Espíritu Santo"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:191
 msgctxt "miraculous_gifts_of_the_holy_spirit #1"
 msgid "Acts 2:38"
-msgstr ""
+msgstr "Hechos 2:38"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:194
 msgid "When apostles come to Samaria, Simon saw that the Spirit's gifts were only given by apostles' laying on of hands and offers them money for this ability"
-msgstr ""
+msgstr "Cuando los apóstoles vienen a Samaria, Simón se da cuenta que los dondes se dan solamente cuando los apóstoles imponían sus manos y les ofrece dinero para recibir la habilidad"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:197
 msgctxt "miraculous_gifts_of_the_holy_spirit #2"
 msgid "Acts 8:18"
-msgstr ""
+msgstr "Hechos 8:18"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:200
 msgid "Note:  Simon didn't ask Philip for the gifts because Philip could not pass them on.  Simon is rebuked for having the wrong motivation"
-msgstr ""
+msgstr "Noten que Simón no le pidió a Felipe los dones, porque Felipe no los podía transmitir.  Simón es reprendido por tener la motivación equivocada."
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:205
 msgid "Acts 19:1-6"
-msgstr ""
+msgstr "Hechos 19:1-6"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:208
 msgid "Paul finds disciples in Ephesus who didn't know what the Holy Spirit was because they had only received John's baptism of repentance.  Then they were baptized into the name of Jesus Christ to receive the forgiveness of their sins and the indwelling of the Holy Spirit"
-msgstr ""
+msgstr "Pablo encuentra discípulos en Éfeso que no sabían que era el Espíritu Santo, porque solamente recibieron el bautismo de arrepentimiento de Juan.  Entonces fueron bautizados en el nombre de Jesucristo para recibir el perdón de sus pecados y la residencia interna del Espíritu Santo (v. 5)"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:214
 msgid "Then they receive the miraculous gifts of prophecy and speaking in tongues by the laying on of Paul's hands"
-msgstr ""
+msgstr "Después a través de la imposición de las manos de Pablo, ellos recibieron los dones milagrosos de profecía y de hablar en lenguas (v. 6)"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:220
 msgid "Paul is an apostle"
-msgstr ""
+msgstr "Pablo es un apóstol"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:228
 msgid "General Observations"
-msgstr ""
+msgstr "Observaciones Generales"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:232
 msgid "Apostles were able to pass on the gifts because they were apostles.  The Apostles possessed the ability to perform miracles even during the ministry of Christ"
-msgstr ""
+msgstr "Los apóstoles tenían la habilidad de transmitir los dones porque eran apóstoles.  Los apóstoles poseían la habilidad de realizar milagros aún durante el ministerio de Cristo."
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:235
 msgid "Luke 9:1"
-msgstr ""
+msgstr "Lucas 9:1"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:238
 msgid "This ability to pass and perform the gifts was not given at Pentecost"
-msgstr ""
+msgstr "Esta habilidad de transmitir y realizar los dondes no fue dada en Pentecostés."
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:242
 msgid "1 Corinthians"
-msgstr ""
+msgstr "1 Corintios 12"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:247
 msgctxt "miraculous_gifts_of_the_holy_spirit #1"
 msgid "and"
-msgstr ""
+msgstr "y 14"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:253
 msgid "are not the directives on how to receive tongues (the church there had already received them), but rather the correctives on how to use them because everyone was speaking at the same time and misusing the tongues"
-msgstr ""
+msgstr "no son directrices acerca de como recibir el don de hablar en lenguas (la iglesia allí ya las había recibido), sino las correctivas acerca de cómo usarlo ya que muchos hablaban al mismo tiempo y mal usaban las lenguas."
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:256
 msgid "1 Corinthians 12:28-30"
-msgstr ""
+msgstr "1 Corintios 12:28-30"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:259
 msgid "shows that tongues as a gift were not given to everyone in the church.  Thus the concept of a \"Pentecostal church\" (every member speaking in tongues) is contrary to Scripture"
-msgstr ""
+msgstr "enseña que el don de lenguas no se daba a todos en la iglesia.  Por lo tanto el concepto de una \"iglesia Pentecostal\" (todo miembro hablando en lenguas) contradice las escrituras."
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:264
 msgid "1 Corinthians 13:8-10"
-msgstr ""
+msgstr "1 Corintios 13:8-10"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:267
 msgid "\"Perfection\" here could not mean the coming of Christ because it is in the neuter gender in Greek, not the masculine gender.  When perfection comes probably refers to the canonization of the Bible some time after the first century.  At that time, all the miraculous gifts would be gone because all the apostles and those to whom they passed the gifts would have died"
-msgstr ""
+msgstr "\"Perfección\" aquí no puede significar la venida de Cristo ya que está en el género neutro en Griego, y no el género masculino.  Cuando venga la perfección probablemente se refiere a la canonización de la Biblia un tiempo después del primer siglo.  En ese tiempo, todos los dondes milagrosos ya habrían desaparecido porque todos los apóstoles y aquellos a quienes les pasaron los dones ya habrían muerto."
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:270
 msgid "The purpose of the miraculous gifts from"
-msgstr ""
+msgstr "El propósito de los dones milagrosos"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:273
 msgid "1 Corinthians 14:20-22"
-msgstr ""
+msgstr "1 Corintios 14:20-22"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:279
 msgid "To get non-believers to believe (tongues were only to be used to bring non-believers to faith)"
-msgstr ""
+msgstr "Ayudar a no-creyentes a creer.  (Lenguas debían usarse solamente para traer a no-creyentes a la fe)"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:282
 msgid "To edify the Christians and strengthen their faith"
-msgstr ""
+msgstr "Edificar a Cristianos y reforzar su fe."
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:285
 msgid "Now the Bible fulfills these needs — thus the church today does not need apostles or miraculous gifts"
-msgstr ""
+msgstr "Ahora la Biblia suple estas necesidades - por consiguiente la iglesia hoy no necesita apóstoles ni dones milagrosos."
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:292
 msgid "2 Thessalonians 2:9-12"
-msgstr ""
+msgstr "2 Tesalonicenses 2:9-10"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:295
 msgid "shows that there can be miracles by Satan today.  Satan's purpose is to deceive people about the truth, so they will not be saved"
-msgstr ""
+msgstr "Demuestra que pueden haber milagros por Satanás hoy dia.  El propósito de Satanás es engañar a la gente acerca de la verdad, para que no sean salvos."
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:298
 msgid "Speaking in \"tongues\" is common in many religions (Mormon, Catholic, Islam, etc.), because religion gets dried and staid.  These are also called \"ecstatic utterances\" — non-understandable sounds and fragments of speech"
-msgstr ""
+msgstr "Hablando en \"lenguas\" es común a muchas religiones (Mormones, Católicos, Islam, etc...) porque la religión se vuelve seca y aburrida.  Son también llamados \"palabras extáticas\" - sonidos y fragmentos idiomáticos incomprensibles."
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:301
 msgid "A person can be filled with the Spirit without speaking in tongues"
-msgstr ""
+msgstr "Una persona puede estar llena del Espíritu sin hablar en Lenguas."
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:304
 msgid "Ephesians 5:18-20"
-msgstr ""
+msgstr "Efesios 5:18-19"
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:310
 msgid "Jesus never spoke in tongues and he was accorded the full-measure of the Spirit"
-msgstr ""
+msgstr "Jesús nunca habló en lenguas y recibió el Espíritu en toda plenitud, sin límite."
 
 #: 13_miraculous_gifts_of_the_holy_spirit.html:313
 msgid "John 3:34-36"
-msgstr ""
+msgstr "Juan 3:34-36"
 
 #: 14_church.html:39
 msgid "Colossians 1:15-18"
-msgstr ""
+msgstr "Colosenses 1:15-18"
 
 #: 14_church.html:43
 msgid "The church is the body of Christ.  The body needs the head.  The church is essential to Christianity"
-msgstr ""
+msgstr "La iglesia es el cuerpo de Cristo.  El cuerpo necesita la cabeza.  La iglesia es esencia para el cristianismo."
 
 #: 14_church.html:48
 msgid "HEAD"
-msgstr ""
+msgstr "CABEZA"
 
 #: 14_church.html:60
 msgid "CHRIST"
-msgstr ""
+msgstr "CRISTO"
 
 #: 14_church.html:66
 msgid "BODY"
-msgstr ""
+msgstr "CUERPO"
 
 #: 14_church.html:77
 msgid "CHURCH"
-msgstr ""
+msgstr "IGLESIA"
 
 #: 14_church.html:86
 msgid "Ephesians 2:19-21"
-msgstr ""
+msgstr "Efesios 2:19-21"
 
 #: 14_church.html:91
 msgid "The church is the family of God"
-msgstr ""
+msgstr "La iglesia es la familia de Dios"
 
 #: 14_church.html:102
 msgctxt "church #1"
 msgid "GOD"
-msgstr ""
+msgstr "DIOS"
 
 #: 14_church.html:105
 msgid "(Father)"
-msgstr ""
+msgstr "(Padre)"
 
 #: 14_church.html:128
 msgctxt "church #1"
 msgid "Christian"
-msgstr ""
+msgstr "Cristiano"
 
 #: 14_church.html:130
 msgctxt "church #1"
 msgid "(Son)"
-msgstr ""
+msgstr "(Hijo)"
 
 #: 14_church.html:136
 msgid "Brothers"
-msgstr ""
+msgstr "Hermanos"
 
 #: 14_church.html:142
 msgctxt "church #2"
 msgid "Christian"
-msgstr ""
+msgstr "Cristiano"
 
 #: 14_church.html:144
 msgctxt "church #2"
 msgid "(Son)"
-msgstr ""
+msgstr "(Hijo)"
 
 #: 14_church.html:152
 msgctxt "church #1"
 msgid "1 Corinthians 12:12-13"
-msgstr ""
+msgstr "1 Corintios 12:12-13"
 
 #: 14_church.html:155
 msgid "teaches that we are baptized into the body of Christ, the church"
-msgstr ""
+msgstr "En el bautismo, nos unimos al cuerpo de Cristo, la iglesia."
 
 #: 14_church.html:160
 msgid "Romans 6:3-4"
-msgstr ""
+msgstr "Romanos 6:3-4"
 
 #: 14_church.html:163
 msgid "teaches that we are also baptized into Christ.  Baptism is when we become Christian, a son of God, and at that same point we become members of the church, the family of God"
-msgstr ""
+msgstr "Nos enseña que también nos unimos a Cristo en el bautismo.  El bautismo es cuando nos convertimos en un Cristiano, un/a hijo/a de Dios, y al mismo tiempo llegamos a formar parte de la iglesia, la familia de Dios."
 
 #: 14_church.html:170
 msgid "Ephesians 2:20"
-msgstr ""
+msgstr "Efesios 2:20"
 
 #: 14_church.html:175
 msgid "Cornerstone:  Christ"
-msgstr ""
+msgstr "La piedra angular: Cristo"
 
 #: 14_church.html:178
 msgid "Foundation:  Apostles and Prophets"
-msgstr ""
+msgstr "La fundación: Los apóstoles y los profetas"
 
 #: 14_church.html:181
 msgid "Apostles = New Testament Bible"
-msgstr ""
+msgstr "Los Apóstoles = El Nuevo Testamento"
 
 #: 14_church.html:184
 msgid "Prophets = Old Testament"
-msgstr ""
+msgstr "Los profetas = El Antiguo Testamento"
 
 #: 14_church.html:189
 msgid "The church is based on the Word of God only"
-msgstr ""
+msgstr "La iglesia está fundada en la palabra de Dios solamente"
 
 #: 14_church.html:195
 msgid "Have you ever wondered why there are so many denominations — divisions?"
-msgstr ""
+msgstr "¿Te has preguntado por qué existen tantas denominaciones? - divisiones?"
 
 #: 14_church.html:197
 msgid "(450 or more exist in the U.S. alone)"
-msgstr ""
+msgstr "(más de 450 existen en los Estados Unidos solamente)"
 
 #: 14_church.html:200
 msgid "The Bible teaches that there is one church"
-msgstr ""
+msgstr "La Biblia nos enseña que sólo hay una iglesia"
 
 #: 14_church.html:205
 msgctxt "church #1"
 msgid "Ephesians 4:4-6"
-msgstr ""
+msgstr "Efesios 4:4-6"
 
 #: 14_church.html:208
 msgctxt "church #1"
 msgid "— one body"
-msgstr ""
+msgstr "- Un solo cuerpo"
 
 #: 14_church.html:213
 msgid "Romans 12:4-5"
-msgstr ""
+msgstr "Romanos 12:4-5"
 
 #: 14_church.html:216
 msgctxt "church #2"
 msgid "— one body"
-msgstr ""
+msgstr "- Un solo cuerpo"
 
 #: 14_church.html:221
 msgctxt "church #2"
 msgid "1 Corinthians 12:12-13"
-msgstr ""
+msgstr "1 Corintios 12:12-13"
 
 #: 14_church.html:224
 msgctxt "church #3"
 msgid "— one body"
-msgstr ""
+msgstr "- Un solo cuerpo"
 
 #: 14_church.html:229
 msgid "Divisions in Christendom are either of Satan or of God"
-msgstr ""
+msgstr "Las divisiones en el cristianismo o son de Satanás o son de Dios."
 
 #: 14_church.html:234
 msgid "1 Corinthians 1:10-13"
-msgstr ""
+msgstr "1 Corintios 1:10-13"
 
 #: 14_church.html:237
 msgid "Division is sin, when following personalities and in time their writings (traditions of men that contradict the Word — false doctrines)"
-msgstr ""
+msgstr "No hay divisiones.  Sieguiendo personalidades y después su literatura (las tradiciones de los hombres que contradicen la Palabra de Dios - doctrinas falsas)"
 
 #: 14_church.html:240
 msgctxt "church #1"
 msgid "Matthew 15:6-9"
-msgstr ""
+msgstr "Mateo 15:6-9"
 
 #: 14_church.html:247
 msgid "Luke 12:51-53"
-msgstr ""
+msgstr "Lucas 12:51-53"
 
 #: 14_church.html:251
 msgctxt "church #1"
 msgid "John 10:19-21"
-msgstr ""
+msgstr "Juan 10:19-21"
 
 #: 14_church.html:254
 msgid "Division will occur and is righteous, when an individual, church or movement aligns themselves with the Word of God.  The Jews considered themselves \"God's people,\" yet Jesus' words (the truth) divided them into two groups — those who opposed Him and those who obeyed Him"
-msgstr ""
+msgstr "La división va a ocurrir y es justo, cuando una persona, iglesia o movimiento se alinea con la Palabra de Dios.  Los judíos se consideraban el \"pueblo de Dios\", sin embargo las palabras de Jesús (la verdad) los dividió en dos grupos - los que se oponían y los que obedecían."
 
 #: 14_church.html:259
 msgid "The following are the major historical divisions in Christendom — some were formed by a noble stand for the truth (though not a complete return), while others were departures from the truth"
-msgstr ""
+msgstr "A continuación vemos las principales divisiones en la historia del cristianismo - unas se hicieron por una noble causa a favor de la verdad (aunque no fue un regreso completo), mientras otras fueron desviaciones de la verdad"
 
 #: 14_church.html:262
 msgid "Through the centuries the church was corrupted by traditions of men — false doctrines, such as: infant baptism, original sin, perpetual virginity of Mary, priests as clergy, papal infallibility, etc… This becomes the"
-msgstr ""
+msgstr "A través de los siglos la iglesia se corrompió con las tradiciones de los hombres - las falsas doctrinas, tales como: el bautismo de los bebés, el pecado original, la virginidad perpétua de Maria, el sacerdocio, la infalibilidad del papa, etc...\n"
+"Esta llega a ser la"
 
 #: 14_church.html:264
 msgid "Catholic Church"
-msgstr ""
+msgstr "Iglesia Católica"
 
 #: 14_church.html:266
 msgid "In 364 AD the Roman Empire is split into two parts. This division leads to a split in Christianity — the eastern portion becomes the"
-msgstr ""
+msgstr "En 364 D.C el imperio Romano se divide en dos partes.  Esa división causa una rotura en el cristianismo - la parte en el este se convierte en la"
 
 #: 14_church.html:268
 msgid "Eastern Orthodox Church"
-msgstr ""
+msgstr "Iglesia Ortodoxa del Este"
 
 #: 14_church.html:270
 msgid "and the western part becomes the"
-msgstr ""
+msgstr " y la parte en el oeste se vuelve la"
 
 #: 14_church.html:272
 msgid "Roman Catholic Church"
-msgstr ""
+msgstr "Iglesia Católica"
 
 #: 14_church.html:274
 msgid "Practices diverge, for example — Orthodox has married priests, Roman Catholic priests are celibate. The \"Great Schism\" occurs in 1054 AD, as the leaders of \"each church\" excommunicate each other"
-msgstr ""
+msgstr "Sus prácticas empiezan a ser distintas, por ejemplo - la iglesia Ortodoxa tiene sacerdotes casados, los sacerdotes de la iglesia Católica son celibatos.  El \"Gran Cisma\" ocurren en 1054, y los líderes de \"cada iglesia\" expulsan a los otros."
 
 #: 14_church.html:278
 msgid "1500's Reformation Movement"
-msgstr ""
+msgstr "El Movimiento de la Reforma de los años 1500"
 
 #: 14_church.html:280
 msgid "— Martin Luther (Lutheran Church) He takes a stand against the Roman Catholic Church on these convictions: Bible authority over church authority, salvation by faith not works, and the priesthood of all believers, yet still baptizes infants. Other noted reformers were John Calvin (Presbyterian Church), Ulrich Zwingli and Conrad Grebel (Anabaptists). Anabaptists were heavily persecuted by Catholics and some reformers, because of their stand for adult baptism. Henry VIII (Anglican Church / Church of England) He breaks from the Catholic Church over his right to divorce his wife. He appoints himself head of the church. Later in the United States, the Anglican Church becomes the Episcopalian Church, since members will not follow the king of England"
-msgstr ""
+msgstr "- Martín Lutero (La Iglesia Luterana).  Él toma una posición en contra de la Iglesia Católica por estas convicciones:  La Biblia tiene autoridad sobre la Iglesia, la salvación por fe y no por obras, y el sacerdocio de todos los creyentes, sin embargo todavía bautiza a los infantes.  Otros reformistas notables fueron: Juan Calvino (La Iglesia Presbeteriana), Ulrich Zwingly y Conrad Grebel (los anabautistas).  Los anabautistas fueron severamente perseguidos por los católicos y por algunos de los reformistas por su posición en favor del bautismo de los adultos.  Enrique VII (la iglesia Anglicana / la Iglesia de Inglaterra) Él rompe con la iglesia Católica para tener el derecho de divorciarse de su esposa. Él se nombra a sí mismo la cabeza de la iglesia.  Luego en los Estados Unidos, se vuelve la iglesia Eposcopal, ya que los miembros no iban a seguir al rey de Inglaterra."
 
 #: 14_church.html:284
 msgid "1700's Great Awakening Movement"
-msgstr ""
+msgstr "El movimiento del Gran Despertar de los años 1700"
 
 #: 14_church.html:286
 msgid "— John and Charles Wesley (Methodist Church). Followers divide from Church of England over: personal transforming decision for Christ not state religion, high accountability of members, and preaching to the \"unchurched;\" also practiced infant baptism"
-msgstr ""
+msgstr "- Juan y Carlos Wesley (la Iglesia Metodista).  Los seguidores se dividen de la Iglesia de Inglaterra por:  una decisión personal tranformador por Cristo y no la religión del estado, la alta contabilidad para los miembros, y predicando a los \"inconversos\"; tambien practicaban el bautismo de infantes."
 
 #: 14_church.html:290
 msgid "1800's Restoration Movement"
-msgstr ""
+msgstr "El movimiento de la Restaura"
 
 #: 14_church.html:292
 msgid "— Alexander Campbell and Barton Stone (Mainline Church of Christ and Conservative Christian Church) Take a stand against both Catholic and Protestant doctrines of salvation. They preach to be saved one must have personal faith in Christ, repentance and baptism (immersion) for the forgiveness of sin to receive the Holy Spirit. In reaction to Catholicism, their congregations are autonomous — self-governing. (1906 is the formal split between Mainline Church of Christ, which is non-instrumental, and the Conservative Christian Church, which is instrumental.) Joseph Smith (Mormon Church) divides from Restoration Movement in 1830 over \"new revelation\" — the Book of Mormon"
