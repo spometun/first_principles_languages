@@ -3302,170 +3302,170 @@ msgstr "- Juan y Carlos Wesley (la Iglesia Metodista).  Los seguidores se divide
 
 #: 14_church.html:290
 msgid "1800's Restoration Movement"
-msgstr "El movimiento de la Restaura"
+msgstr "El movimiento de la Restauración de los años 1800"
 
 #: 14_church.html:292
 msgid "— Alexander Campbell and Barton Stone (Mainline Church of Christ and Conservative Christian Church) Take a stand against both Catholic and Protestant doctrines of salvation. They preach to be saved one must have personal faith in Christ, repentance and baptism (immersion) for the forgiveness of sin to receive the Holy Spirit. In reaction to Catholicism, their congregations are autonomous — self-governing. (1906 is the formal split between Mainline Church of Christ, which is non-instrumental, and the Conservative Christian Church, which is instrumental.) Joseph Smith (Mormon Church) divides from Restoration Movement in 1830 over \"new revelation\" — the Book of Mormon"
-msgstr ""
+msgstr "- Alexander Campbell y Barton Stone (la iglesia tradicional de Cristo y la Iglesia Cristiana Conservadora) Ellos se ponen en contra de las doctrinas de salvación católica y protestante también.  Ellos predican que para poder ser salvo uno debe tener una fe personal en Cristo, arrepentirse y bautizarse (por inmersión) para el perdón de los pecados y para recibir al Espíritu Santo.  En reacción del catolicismo, sus congregaciones son autónomas - se gobierna cada una a sí misma.  (1906 es el año oficial de la división entre las iglesias tradicionales de Cristo, que no usa instrumentos musicales y la Iglesia Cristiana Conservadora, la cual sí usa instrumentos.)  José Smith (la Iglesia Mormona) se divide con el Movimiento de la Restauración en 1830 por una \"nueva revelación\" - el Libro de Mormón."
 
 #: 14_church.html:296
 msgid "1967 Crossroads Movement"
-msgstr ""
+msgstr "El Movimiento de la Encrucijada (Crossroads) de 1967"
 
 #: 14_church.html:298
 msgid "(Total Commitment Movement) — Controversial, though never departing from the Mainline Church of Christ, the Crossroads Church near the University of Florida pioneers evangelizing the secular campuses of United States, \"counting the cost\" with each person that desires to be baptized, and the shepherding of new converts"
-msgstr ""
+msgstr "(el Movimiento del Compromiso Total) Controversial, aunque nunca se separó de las iglesias tradicionales de Cristo, la Iglesia de la Encrucijada cerca de la Universidad de la Florida inicia la evangelización de los campus universitarios de los Estados Unidos, \"contando el costo\" con cada persona que deseaba bautizarse, y el cuidado espiritual de los nuevos cristianos."
 
 #: 14_church.html:302
 msgid "1979 Boston Movement"
-msgstr ""
+msgstr "El Movimiento de Boston"
 
 #: 14_church.html:304
 msgid "(International Church of Christ) — Kip McKean — Baptized at the University of Florida in 1972, divides from Mainline Churches of Christ and Crossroads Movement over: Bible Church not just New Testament Church, only disciples are true Christians, each and every member of church must be a disciple, each member should be in discipling relationships, vision to evangelize the nations in a generation, the planting of new churches to achieve this vision, central leadership not autonomous congregations, and the role of women. In 2002, the International Churches of Christ return to a more Mainline Church of Christ theology — each congregation becomes autonomous (self-governing), calling a central leadership and the vision to evangelize the nations in a generation \"unbiblical.\" Around the world, thousands fall away"
-msgstr ""
+msgstr "(las Iglesias Internacionales de Cristo) de 1979 - Kip McKean - Bautizado en la Universidad de la Florida en 1972, se divide de las iglesias tradicionales de Cristo y el Movimiento de la Encrucijada por: ser una iglesia de la Biblia y no solamente del Nuevo Testamento, solamente los discípulos son verdaderos cristianos, cada miembro de la iglesia tenía que ser un discípulo, cada miembro debe tener una relación de discipulado, la visión de evangelizar al mundo en una generación, el plantar a nuevas iglesias para alcanzar esa visión, un liderazgo central y no congregaciones autónomas, y el papel de las mujeres.  En 2002, las Iglesias Internacionales de Cristo regresan a la doctrina de las Iglesias tradicionales de Cristo - cada congregación se vuelve autónoma ( se auto-gobierna), diciendo que un liderazgo central y la visión de evangelizar al mundo en una generación son \"anti-bíblicos\".  Alrededor del mundo, miles se caen de la fe."
 
 #: 14_church.html:308
 msgid "2006 SoldOut Movement"
-msgstr ""
+msgstr "El Movimiento de Discipulado y Compromiso Total."
 
 #: 14_church.html:310
 msgid "(Portland Movement / International Christian Church): Begins in Portland, Oregon as a revival movement within the International Churches of Christ. The International Church of Christ separates from the SoldOut Movement, because of the new movement's stand on these convictions: Bible Church not just New Testament Church, only disciples are true Christians, each and every member of church must be a disciple, each member should be in discipling relationships, vision to evangelize the nations in a generation, the planting of new churches to achieve this vision, central leadership not autonomous congregations, and the role of women"
-msgstr ""
+msgstr "(El Movimiento de Portland / La Iglesia Cristiana Internacional) Empieza en Pórtland, Oregon en el año 2006 como un movimiento de reavivamiento dentro de las Iglesias Internacionales de Cristo.  La Iglesia Internacional de Cristo se separa del Movimiento de Discipulado y Compromiso Total por la postura del nuevo movimiento acerca de las siguientes convicciones: ser una Iglesia de la Biblia y no solamente del Nuevo Testamento, solamente los discípulos son verdaderos cristianos, cada miembro de la iglesia tiene que ser un discípulo, cada miembro debe tener una relación de discipulado, la visión de evangelizar al mundo en una generación, el plantar a nuevas iglesias para alcanzar esa visión, un liderazgo central y no congregaciones autónomas, y el papel de las mujeres."
 
 #: 14_church.html:318
 msgid "What is the \"one church?\""
-msgstr ""
+msgstr "¿Qué significa \"una sola Iglesia\"?"
 
 #: 14_church.html:324
 msgid "Acts 11:25-26"
-msgstr ""
+msgstr "Hechos 11:25-26"
 
 #: 14_church.html:326
 msgid "Church = Disciples = Christians"
-msgstr ""
+msgstr "Iglesia = Discípulos = Cristianos"
 
 #: 14_church.html:328
 msgid "When God looks down from heaven, He sees one church — all the baptized disciples around the world, who are \"sold-out\" in obeying his Word.  This is called the \"church universal\" — the one true church"
-msgstr ""
+msgstr "Cuando Dios mira hacia abajo desde el cielo se ve a una sola iglesia, es decir a todos los discípulos bautizados alrededor del mundo, quienes están \"completamente comprometidos\" en obedecer Su Palabra.  Esto se llama \"iglesia universal\", la única iglesia verdadera"
 
 #: 14_church.html:331
 msgctxt "church #2"
 msgid "Ephesians 4:4-6"
-msgstr ""
+msgstr "Efesios 4:4-6"
 
 #: 14_church.html:337
 msgid "A local congregation is called the \"visible church.\"  In the first century, all the \"visible churches\" made up the \"church universal.\"  However, since so many \"visible churches\" have departed from true doctrine and because all sold-out baptized disciples are not in one fellowship, we should strive to be a member of a local congregation"
-msgstr ""
+msgstr "Una congregación local se llama la \"iglesia visible\".  En el primer siglo, todas las \"iglesias visibles\" formaban a la \"iglesia universal\".  Sin embargo, ya que tantas \"iglesias visibles\" se han desviado de la verdadera doctrina y ya que no todos los discípulos bautizados completamente se encuentran en una sola confraternidad, debemos procurar ser miembreo de una congregación local."
 
 #: 14_church.html:340
 msgid "The Greek word for church is \"ekklesia\" which means \"assembly\" or \"called out\" (\"Ek\" meaning 'out' and \"kaleo\" meaning 'to call').  To be a disciple is to be \"called out\" from the world.  Therefore, the church in the Bible was the \"assembly\" of the \"called out\""
-msgstr ""
+msgstr "La palabra griega para iglesia es \"ekklesia\" la cual quiere decir \"asamblea\" o \"llamado para afuera\".  (\"Ek\" quiere decir \"para afuera\" y \"kaleo\" significa \"llamar\".)  El ser un discípulo es ser llamado a salirse del mundo.  Por eso, la iglesia en la Biblia fue la \"asamblea\" de los \"llamados para salir fuera\"."
 
 #: 14_church.html:343
 msgid "There are several names in the Bible for God's Church: Disciples, Christians, Church of God, Church of Christ, The Way, Church of the Firstborn, Saints, etc...  Since we are free to choose any name for our fellowship, since our fellowship goes around the world, and because our churches are composed of only sold-out disciples, we call ourselves the \"International Christian Church\""
-msgstr ""
+msgstr "Hubo varios nombres en la Biblia para lglesia de Dios: los discípulos, los cristianos, la Iglesia de Dios, la Iglesia de Cristo, el Camino, la Iglesia del Primogénito, los Santos, etc... Como somos libres para elegir cualquier nombre para nuestra confraternidad, y nuestra confraternidad se extiende por todo el mundo, además de que nuestras iglesias tienen solamente discípulos completamente comprometidos, nosotros llamamos la \"Iglesia Cristiana Internacional\"."
 
 #: 14_church.html:349
 msgid "What distinguishes the International Christian Churches? (What separates or \"divides\" us from mainstream Christendom?)"
-msgstr ""
+msgstr "¿Qué distingue a las Iglesias Cristianas Internacionales? (¿Qué nos sepera o nos \"divide\" del cristianismo común?)"
 
 #: 14_church.html:354
 msgid "We believe God physically resurrected Jesus from the dead"
-msgstr ""
+msgstr "Creemos que Dios resucitó a Jesús físicamente de la muerte."
 
 #: 14_church.html:359
 msgid "We believe the Bible is inspired by God and is our sole authority"
-msgstr ""
+msgstr "Creemos que la Biblia es inspirada por Dios y es nuestra única autoridad."
 
 #: 14_church.html:361
 msgid " Therefore, since we have not departed (divided) from the truth, we consider ourselves non-denominational"
-msgstr ""
+msgstr " Por eso, ya que no nos hemos separado (dividido) de la verdad, nos consideramos no-denominacional."
 
 #: 14_church.html:365
 msgid "We are a Bible Church, not simply a New Testament Church"
-msgstr ""
+msgstr "Somos una Iglesia de la Biblia, no solamente una Iglesia del Nuevo Testamento"
 
 #: 14_church.html:367
 msgid "2 Timothy 3:14-17"
-msgstr ""
+msgstr "2 Timoteo 3:14-17"
 
 #: 14_church.html:370
 msgid "The context of the word \"Scripture\" is referring to the Old Testament.  We believe the Old Testament applies to our lives — as much as the New Testament — except for the Mosaic Law and any teaching in the New Testament that supercedes the Old Testament (Example: grounds for divorce)"
-msgstr ""
+msgstr "El contexto de la palabra \"Escritura\" se refiere al Antiguo Testamento.  Creemos que tanto el Antiguo Testamento.  Creemos que tanto el Antiguo como el Nuevo Testamento se aplican en nuestras vidas, menos la Ley de Moisés y cualquier enseñanza del Antiguo Testamento que sea superada por otra enseñanza en el Nuevo Testamento (Ejemplo: los motivos para un divorcio)."
 
 #: 14_church.html:374
 msgid "We believe — as in the book of Acts — the visible church should be composed of only sold-out baptized disciples"
-msgstr ""
+msgstr "Creemos - como en el libro de los Hechos - La iglesia visible debe ser compuesta de solo discípulos completamente comprometidos."
 
 #: 14_church.html:379
 msgid "\"Be silent where the Bible speaks, and speak where the Bible is silent\""
-msgstr ""
+msgstr "\"Callarnos cuando la Biblia habla y hablar cuando la Biblia se calla.\""
 
 #: 14_church.html:381
 msgid "In applying Scriptural principles to build the visible church, we believe we must obey God's Word, but where the Bible does not prohibit a practice or name, we are free to use our God-given creativity"
-msgstr ""
+msgstr "En aplicar los principios de la Escritura para construir a la iglesia visible, creemos que tenemos que obedecer a la Palabra de Dios, pero donde la Biblia no prohibe una práctica o nombre, somos libres de usar nuestra creatividad que Dios nos ha dado."
 
 #: 14_church.html:384
 msgid "Genesis 2:19"
-msgstr ""
+msgstr "Genésis 2:19"
 
 #: 14_church.html:387
 msgid "(Examples: The principles for \"Bible Talks,\" \"Lead Evangelist,\" \"Discipleship Partners\" and \"Regions\" are in the Scriptures, though these terms are not.  However, nowhere are they prohibited.  Also instrumental music and paid Women's Ministry Leaders are not prohibited in the Scriptures)"
-msgstr ""
+msgstr "(Ejemplo: los principios para las \"charlas bíblicas\", \"evangelista principal\", \"parejas de discipulado\", y \"regiones\" se encuentran en la Escritura, aunque esos nombres no.  Sin embargo, en ningún lugar son prohibidos.  También, la música instrumental y el pagar a los Líderes de Ministerio de Mujeres no son prohibidos en las Escrituras)"
 
 #: 14_church.html:391
 msgid "We believe in a Central Leadership"
-msgstr ""
+msgstr "Creemos en un Liderazgo Central"
 
 #: 14_church.html:393
 msgid "Throughout God's Word, when His people were unified, there was a strong central leadership and godly central leader.  (Examples:  Moses, Joshua, David and of course Jesus and the Apostles)"
-msgstr ""
+msgstr "A través de la Palabra de Dios, cuando Su pueblo estaba unido, hubo un liderazgo central fuerte y un líder central espiritual.  (Ejemplos: Moisés, Josué, David y claro Jesús y los apóstoles"
 
 #: 14_church.html:396
 msgid "1 Corinthians 4:15-17"
-msgstr ""
+msgstr "1 Corintios 4:15-17"
 
 #: 14_church.html:399
 msgctxt "church #1"
 msgid "and"
-msgstr ""
+msgstr "y"
 
 #: 14_church.html:402
 msgid "Titus 1:5"
-msgstr ""
+msgstr "Tito 1:5"
 
 #: 14_church.html:405
 msgid "teaches that local congregations had an overseeing evangelist, who unified the disciples \"everywhere in every church.\" In the first century, congregations were a collective movement — not autonomous, not self-governing)"
-msgstr ""
+msgstr "enseñan que las congregaciones locales tuvieron un evangelista supervisor, quien unía a los discípulos \"en todas partes y en cada iglesia.\"  En el primer siglo, las congregaciones eran un movimiento colectivo - no autómatas, no auto-gobernadas.)"
 
 #: 14_church.html:410
 msgctxt "church #1"
 msgid "Matthew 28:19-20"
-msgstr ""
+msgstr "Mateo 28:19-20"
 
 #: 14_church.html:412
 msgid "Our vision — the evangelization of all nations in this generation —"
-msgstr ""
+msgstr "Nuestra visión - evangelización de todas las naciones en nuestra generación -"
 
 #: 14_church.html:414
 msgid "will be accomplished through every disciple making disciples and every disciple having discipling relationships"
-msgstr ""
+msgstr "se va a cumplir por medio de que cada discípulo hace discípulos y cada discípulo tiene relaciones de discipulado."
 
 #: 14_church.html:421
 msgid "1 Corinthians 12:14-27"
-msgstr ""
+msgstr "1 Corintios 12:14-27"
 
 #: 14_church.html:426
 msgid "We need the body.  The body needs us"
-msgstr ""
+msgstr "Necesitamos al cuerpo.  El cuerpo nos necesita"
 
 #: 14_church.html:429
 msgid "v. 21"
-msgstr ""
+msgstr "v. 21"
 
 #: 14_church.html:435
 msgid "Be involved on a relationship level in the church"
-msgstr ""
+msgstr "Involúcrate en un nivel de relaciones profundas dentro de la iglesia"
 
 #: 14_church.html:438
 msgid "v. 26"
@@ -3473,15 +3473,15 @@ msgstr ""
 
 #: 14_church.html:448
 msgid "Hebrews 10:23-25"
-msgstr ""
+msgstr "Hebreos 10:23-25"
 
 #: 14_church.html:453
 msgid "Do not miss church"
-msgstr ""
+msgstr "No faltes a la Iglesia"
 
 #: 14_church.html:456
 msgid "The fellowship helps us to be unswerving in our commitment"
-msgstr ""
+msgstr "La confraternidad nos ayuda a mantenernos firmes en nuestro compromiso"
 
 #: 14_church.html:459
 msgctxt "church #1"
@@ -3490,7 +3490,7 @@ msgstr ""
 
 #: 14_church.html:465
 msgid "Another purpose of fellowship is to encourage each other so we will remain faithful"
-msgstr ""
+msgstr "Otro propósito de la confraternidad es animarnos con el fin de seguir fieles"
 
 #: 14_church.html:467
 msgctxt "church #1"
@@ -3499,310 +3499,310 @@ msgstr ""
 
 #: 14_church.html:472
 msgid "Must come to all meetings of the body:  Sunday and Midweek Services, Bible Talks, special devotionals, Jubilees, retreats, etc...  Begin to rearrange schedule to come to all the meetings of the body"
-msgstr ""
+msgstr "Debemos asistir a todas las reuniones del cuerpo:  Servicios dominicales y entre-semana, Charlas Bíblicas, devocionales especiales, Jubileos, retiros, etc...Empieza a arreglar tu horario para poder asistir a todas las reuniones del cuerpo."
 
 #: 14_church.html:478
 msgid "Contribution"
-msgstr ""
+msgstr "La Contribución"
 
 #: 14_church.html:484
 msgctxt "church #1"
 msgid "Malachi 3:6-12"
-msgstr ""
+msgstr "Malaquías 3:6-12"
 
 #: 14_church.html:487
 msgid "Do not rob God in your tithes and offerings.  Tithing is the guideline of our sacrifice on Sundays to meet the ministry needs.  Benevolent offerings are given at Midweek Services"
-msgstr ""
+msgstr "No le robes a Dios los diezmos y las ofrendas.  El diezmo es la guía de nuestro sacrificio se da el día domingo para cumplir con las necesidades del ministerio.  Las ofrendas de benevolencia se dan en las reuniones de entre-semana."
 
 #: 14_church.html:492
 msgid "2 Corinthians 9:6-8"
-msgstr ""
+msgstr "2 Corinitios 9:6-8"
 
 #: 14_church.html:495
 msgid "Giving should be from a \"cheerful\" heart — not under compulsion"
-msgstr ""
+msgstr "Dar debe salir de un corazón alegre, no por obligación."
 
 #: 14_church.html:498
 msgid "God blesses you when you sacrifice"
-msgstr ""
+msgstr "Dios te bendice cuando tú sacrificas."
 
 #: 16_after_baptism_now_what.html:41
 msgid "Discuss the young disciple's first few days as a Christian"
-msgstr ""
+msgstr "Platicar acerca de sus primeros días como nuevo discípulo/a"
 
 #: 16_after_baptism_now_what.html:44
 msgid "Share \"letter to God.\" If the new disciple has not had a chance to write one, encourage him/her to do so"
-msgstr ""
+msgstr "Comparte \"carta a Dios\".  Si el nuevo discípulo no ha tenido la oportunidad de escribir una, anímalo que lo haga."
 
 #: 16_after_baptism_now_what.html:52
 msgctxt "after_baptism_now_what #1"
 msgid "Acts 2:36-47"
-msgstr ""
+msgstr "Hechos 2:36-47"
 
 #: 16_after_baptism_now_what.html:55
 msgid "The Conversion of the 3000"
-msgstr ""
+msgstr "La Conversión de los 3000"
 
 #: 16_after_baptism_now_what.html:58
 msgid "Discuss Biblical conversion"
-msgstr ""
+msgstr "Platica de la conversición bíblica"
 
 #: 16_after_baptism_now_what.html:61
 msgid "Review how to become a disciple"
-msgstr ""
+msgstr "Repasa cómo uno se hace discípulo."
 
 #: 16_after_baptism_now_what.html:64
 msgid "Reinforce the joy of salvation and awe of God"
-msgstr ""
+msgstr "Haz énfasis en la alegría de la salvación y el asombro de Dios."
 
 #: 16_after_baptism_now_what.html:69
 msgid "Devoted to the Apostles' Teaching — the Word"
-msgstr ""
+msgstr "Devotos a la Enseñanza de los Apóstoles - la Palabra"
 
 #: 16_after_baptism_now_what.html:72
 msgid "For a quiet time, suggest a book or theme — reading a chapter a day"
-msgstr ""
+msgstr "Para los tiempos con Dios, sugiere un libro o un tema - leyendo un capítulo al día."
 
 #: 16_after_baptism_now_what.html:75
 msgid "For many, a quiet time journal is helpful"
-msgstr ""
+msgstr "A muchos les ayuda tener un librito para escribir sus tiempos con Dios."
 
 #: 16_after_baptism_now_what.html:80
 msgid "Devoted to the Fellowship"
-msgstr ""
+msgstr "Devotos a la Confraternidad"
 
 #: 16_after_baptism_now_what.html:83
 msgid "Discuss the purpose of each gathering:  Sunday Worship Services, Midweek Services — Men's Night Out / Women's Night Out, Bible Talks, Devotionals and discipleship partners"
-msgstr ""
+msgstr "Platícale el propósito de cada tipo de reunión: la reunión dominical, el servicio de entre semana para hombres y para mujeres, las charlas biblícas, devocionales y tiempos de discipulado."
 
 #: 16_after_baptism_now_what.html:86
 msgid "Discuss the need to initiate relationships — to give, not just receive"
-msgstr ""
+msgstr "Platica acerca de la importancia de iniciar las relaciones - de dar y no solo recibir"
 
 #: 16_after_baptism_now_what.html:89
 msgid "Discuss the importance of hospitality — invite people into your home for a meal"
-msgstr ""
+msgstr "Hablar de la importancia de la hospitalidad - el invitar a la gente a comer en tu casa."
 
 #: 16_after_baptism_now_what.html:92
 msgid "Discuss the leadership's expectation to tithe on Sundays and give a benevolent offering at the Midweek Services.  Read together"
-msgstr ""
+msgstr "Hablar de la expectativa de los líderes de dar un diezmo los domingos y dar una ofrenda de benevolencia en las reuniones de entre semana.  Lean juntos"
 
 #: 16_after_baptism_now_what.html:95
 msgctxt "after_baptism_now_what #1"
 msgid "Malachi 3:6-12"
-msgstr ""
+msgstr "Malaquías 3:6-12"
 
 #: 16_after_baptism_now_what.html:98
 msgctxt "after_baptism_now_what #1"
 msgid "and"
-msgstr ""
+msgstr "y"
 
 #: 16_after_baptism_now_what.html:101
 msgctxt "after_baptism_now_what #1"
 msgid "Hebrews 13:17"
-msgstr ""
+msgstr "Hebreos 13:17"
 
 #: 16_after_baptism_now_what.html:108
 msgid "Devoted to Breaking Bread — Communion"
-msgstr ""
+msgstr "Devotos al partimiento del pan - la Comunión"
 
 #: 16_after_baptism_now_what.html:111
 msgid "1 Corinthians 11:23-32"
-msgstr ""
+msgstr "1 Corintios 11:23-32"
 
 #: 16_after_baptism_now_what.html:116
 msgid "Discuss the purpose of bread and fruit of the vine"
-msgstr ""
+msgstr "Platica del propósito del pan y el fruto de la vid"
 
 #: 16_after_baptism_now_what.html:119
 msgid "Discuss what it means to become spiritually \"weak, sick and fallen asleep.\" How does communion prevent these conditions?"
-msgstr ""
+msgstr "Platica de lo que es ponerse \"débil, enformo y dormido\" espiritualmente.  ¿Cómo ayuda a estas condiciones la comunión?"
 
 #: 16_after_baptism_now_what.html:119
 msgid "sick:"
-msgstr ""
+msgstr "enfermo:"
 
 #: 16_after_baptism_now_what.html:122
 msgid "Proverbs 13:12"
-msgstr ""
+msgstr "Provervios 13:12"
 
 #: 16_after_baptism_now_what.html:129
 msgid "Devoted to Prayer"
-msgstr ""
+msgstr "Devotos a la Oración"
 
 #: 16_after_baptism_now_what.html:132
 msgid "Discuss how prayer brings peace"
-msgstr ""
+msgstr "Platicar de cómo la oración trae la paz"
 
 #: 16_after_baptism_now_what.html:135
 msgid "Philippians 4:4-7"
-msgstr ""
+msgstr "Filipenses 4:4-7"
 
 #: 16_after_baptism_now_what.html:140
 msgid "Share petitions and answered prayers"
-msgstr ""
+msgstr "Compartir las peticiones y las oraciones contestadas."
 
 #: 16_after_baptism_now_what.html:149
 msgctxt "after_baptism_now_what #1"
 msgid "Acts 9:1-22"
-msgstr ""
+msgstr "Hechos 9:1-22"
 
 #: 16_after_baptism_now_what.html:152
 msgid "The Conversion of Paul"
-msgstr ""
+msgstr "La Conversión de Pablo"
 
 #: 16_after_baptism_now_what.html:155
 msgid "Paul immediately begins to preach"
-msgstr ""
+msgstr "Pablo empieza a predicar de inmediato."
 
 #: 16_after_baptism_now_what.html:158
 msgid "With whom have you shared your faith?"
-msgstr ""
+msgstr "¿Con quienes has compartido tu fe?"
 
 #: 16_after_baptism_now_what.html:161
 msgid "List friends and family to share with this week"
-msgstr ""
+msgstr "Hagan una lista de amigos y familiares con quienes compartir esta semana."
 
 #: 16_after_baptism_now_what.html:166
 msgid "Paul grows powerful"
-msgstr ""
+msgstr "Pablo crece a ser poderoso."
 
 #: 16_after_baptism_now_what.html:169
 msgid "Paul is persecuted"
-msgstr ""
+msgstr "Pablo es perseguido"
 
 #: 16_after_baptism_now_what.html:176
 msgid "Hebrews 5:11-6:6"
-msgstr ""
+msgstr "Hebreos 5:11-6:6"
 
 #: 16_after_baptism_now_what.html:179
 msgid "The First Principles"
-msgstr ""
+msgstr "Las Enseñanzas Elementales"
 
 #: 16_after_baptism_now_what.html:182
 msgid "Strive to learn the first principles (elementary teachings) and go on to maturity, so you can be fruitful and not fall away"
-msgstr ""
+msgstr "Procurar aprenderse las enseñanzas más básicas (las enseñanzas elementales) y seguir la madurez, para que puedas dar fruto y no caerse de la fe."
 
 #: 16_after_baptism_now_what.html:185
 msgid "Discuss taking the First Principles Classes"
-msgstr ""
+msgstr "Hablar acerca de tomar clases de los Principios Básicos."
 
 #: 17_christ_is_your_life.html:40
 msgid "Discuss:"
-msgstr ""
+msgstr "Hablar de:"
 
 #: 17_christ_is_your_life.html:43
 msgid "Did you have daily quiet times this past week?"
-msgstr ""
+msgstr "¿Tuviste tiempos con Dios diariamente esta semana pasada?"
 
 #: 17_christ_is_your_life.html:46
 msgid "Who did you share with and invite?"
-msgstr ""
+msgstr "¿Con quienes compartiste e invitaste?"
 
 #: 17_christ_is_your_life.html:51
 msgid "Discuss the impact of communion on Sunday"
-msgstr ""
+msgstr "Hablar del impacto de la comunión el domingo."
 
 #: 17_christ_is_your_life.html:59
 msgid "Colossians 3:1-4"
-msgstr ""
+msgstr "Colosenses 3:1-4"
 
 #: 17_christ_is_your_life.html:62
 msgid "Raised to a new life"
-msgstr ""
+msgstr "Recusitados a una nueva vida"
 
 #: 17_christ_is_your_life.html:65
 msgid "Raised with Christ in baptism"
-msgstr ""
+msgstr "Resucitados con Cristo en el bautismo"
 
 #: 17_christ_is_your_life.html:68
 msgctxt "christ_is_your_life #1"
 msgid "Colossians 2:12"
-msgstr ""
+msgstr "Colosenses 2:12"
 
 #: 17_christ_is_your_life.html:74
 msgid "The Holy Spirit, received at baptism, gives you the power to set your mind (thoughts) and set your heart (emotions) on things above"
-msgstr ""
+msgstr "El Espíritu Santo, el cual recibes en el bautismo, te da el poder de poner a tu mente (los pensamientos) y tu corazón (las emociones) en las cosas de arriba."
 
 #: 17_christ_is_your_life.html:77
 msgid "Christ is your life"
-msgstr ""
+msgstr "¡Cristo es tu vida!"
 
 #: 17_christ_is_your_life.html:84
 msgid "Colossians 3:5-11"
-msgstr ""
+msgstr "Colosenses 3:5-11"
 
 #: 17_christ_is_your_life.html:87
 msgid "Put to death"
-msgstr ""
+msgstr "Haz morir."
 
 #: 17_christ_is_your_life.html:90
 msgid "Discuss and be open about your struggles this week"
-msgstr ""
+msgstr "Platica y sé abierto con tus luchas en esta semana."
 
 #: 17_christ_is_your_life.html:93
 msgid "Discuss any financial challenges — pledge to God, rent, bills, salary, etc..."
-msgstr ""
+msgstr "Habla de los retos económicos - su voto con Dios, la renta, los bíles, el salario, etc..."
 
 #: 17_christ_is_your_life.html:96
 msgid "Discuss practical ways to crucify your sinful nature"
-msgstr ""
+msgstr "Habla de consejos prácticos para crucificar tu naturaleza pecaminosa."
 
 #: 17_christ_is_your_life.html:103
 msgid "Colossians 3:12-14"
-msgstr ""
+msgstr "Colosenses 3:12-14"
 
 #: 17_christ_is_your_life.html:106
 msgid "Put on — clothe yourself"
-msgstr ""
+msgstr "Vístete, revístete"
 
 #: 17_christ_is_your_life.html:109
 msgid "Compassion"
-msgstr ""
+msgstr "Compasión (el afecto entrañable)"
 
 #: 17_christ_is_your_life.html:112
 msgid "Kindness"
-msgstr ""
+msgstr "Bondad"
 
 #: 17_christ_is_your_life.html:115
 msgid "Humility"
-msgstr ""
+msgstr "Humilidad"
 
 #: 17_christ_is_your_life.html:118
 msgid "Gentleness"
-msgstr ""
+msgstr "Amabilidad"
 
 #: 17_christ_is_your_life.html:121
 msgid "Patience"
-msgstr ""
+msgstr "Paciencia"
 
 #: 17_christ_is_your_life.html:124
 msgid "Forgiveness"
-msgstr ""
+msgstr "Perdón"
 
 #: 17_christ_is_your_life.html:131
 msgid "Colossians 3:15-24"
-msgstr ""
+msgstr "Colosenses 3:15-24"
 
 #: 17_christ_is_your_life.html:134
 msgid "New attitudes"
-msgstr ""
+msgstr "Nuevas (buenas) actitudes"
 
 #: 17_christ_is_your_life.html:137
 msgid "Peace"
-msgstr ""
+msgstr "Paz"
 
 #: 17_christ_is_your_life.html:140
 msgid "Thankful"
-msgstr ""
+msgstr "Gratitud"
 
 #: 17_christ_is_your_life.html:143
 msgid "Wholehearted"
-msgstr ""
+msgstr "De todo corazon"
 
 #: 17_christ_is_your_life.html:146
 msgid "Family Interactions"
-msgstr ""
+msgstr "Dinámica de la familia"
 
 #: 17_christ_is_your_life.html:149
 msgid "v. 18-21"
@@ -3810,7 +3810,7 @@ msgstr ""
 
 #: 17_christ_is_your_life.html:155
 msgid "Employer/employee relationships"
-msgstr ""
+msgstr "Relaciones de empleador - empleado"
 
 #: 17_christ_is_your_life.html:158
 msgctxt "christ_is_your_life #1"
@@ -3819,7 +3819,7 @@ msgstr ""
 
 #: 17_christ_is_your_life.html:164
 msgid "Teacher/student relationships"
-msgstr ""
+msgstr "Relaciones de maestro - estudiante"
 
 #: 17_christ_is_your_life.html:167
 msgctxt "christ_is_your_life #2"
@@ -3828,616 +3828,617 @@ msgstr ""
 
 #: 18_best_friends_of_all_time.html:40
 msgid "Share about your closest relationships during your life — God and spiritual family in comparison to your physical family and old friends"
-msgstr ""
+msgstr "Comparte acerca de tus relaciones más cercanas en tu vida - Dios y la familia espiritual en comparación de tu familia carnal y viejos amigos."
 
 #: 18_best_friends_of_all_time.html:43
 msgid "Ask the young Christian, \"Who are your closest friends?\""
-msgstr ""
+msgstr "Preguntar al joven discípulo, \"¿Quiénes son tus mejores amigos?\""
 
 #: 18_best_friends_of_all_time.html:50
 msgid "One Another Scriptures"
-msgstr ""
+msgstr "Los Unos a los Otros"
 
 #: 18_best_friends_of_all_time.html:56
 msgctxt "best_friends_of_all_time #1"
 msgid "John 13:34-35"
-msgstr ""
+msgstr "Juan 13:34-35"
 
 #: 18_best_friends_of_all_time.html:59
 msgid "Love one another.  Jesus teaches that Christians should have closer and better relationships than people in the world. Set your mind to make disciples your best friends"
-msgstr ""
+msgstr "Ámense los unos a los otros.  Jesús enseña que los cristianos deben tener relaciones más cercanas y de mejor calidad que la gente del mundo.  Pon en tu mente hacer a los discípulos tus mejores amigos."
 
 #: 18_best_friends_of_all_time.html:64
 msgid "Hebrews 3:12-14"
-msgstr ""
+msgstr "Hebreos 3:12-14"
 
 #: 18_best_friends_of_all_time.html:67
 msgid "Daily encouragement of one another"
-msgstr ""
+msgstr "Animarse los unos a los otros"
 
 #: 18_best_friends_of_all_time.html:72
 msgid "Ephesians 5:19-20"
-msgstr ""
+msgstr "Efesios 5:19-20"
 
 #: 18_best_friends_of_all_time.html:75
 msgid "Worship God with one another — sing out to God and each other with psalms, hymns and spiritual songs"
-msgstr ""
+msgstr "Adorar a Dios los unos a los otros - cantarle a Dios y los unos a los otros con salmos, himnos, y canciones espirituales."
 
 #: 18_best_friends_of_all_time.html:80
 msgid "Colossians 1:28-29"
-msgstr ""
+msgstr "Colosenses 1:28-29"
 
 #: 18_best_friends_of_all_time.html:83
 msgid "Disciple one another.  This is essential in God's plan to become mature.  As we mature, we learn to instruct one another"
-msgstr ""
+msgstr "Discipular los unos a los otros.  Esto es una parte esencial del plan de Dios para que lleguemos a ser maduros.  Al madurar, aprendemos a instruirnos los unos a los otros"
 
 #: 18_best_friends_of_all_time.html:86
 msgid "Romans 15:14"
-msgstr ""
+msgstr "Romanos 15:14"
 
 #: 18_best_friends_of_all_time.html:94
 msgid "Galatians 6:1-2"
-msgstr ""
+msgstr "Gálatas 6:1-2"
 
 #: 18_best_friends_of_all_time.html:97
 msgid "Gently restore one another and bear one another's burdens"
-msgstr ""
+msgstr "Restáurense amablemente los unos a los otros y ayuden a llevar las cargas los unos a los otros"
 
 #: 18_best_friends_of_all_time.html:102
 msgid "James 5:16"
-msgstr ""
+msgstr "Santiago 5:16"
 
 #: 18_best_friends_of_all_time.html:105
 msgid "Confess sins to one another.  Discuss openness and transparency, remembering that \"openness breeds openness,\" so share your struggles"
-msgstr ""
+msgstr "Confiésense sus pecados los unos a los otros.  Habla de ser abierto y transparente. Acuérdate que al ser abierto tú ayudas a que se abra el otro, así que sé abierto con tus batallas."
 
 #: 18_best_friends_of_all_time.html:110
 msgid "James 5:16-18"
-msgstr ""
+msgstr "Santiago 5:16-18"
 
 #: 18_best_friends_of_all_time.html:113
 msgid "Pray for one another.  It makes a difference!"
-msgstr ""
+msgstr "Oren los unos por los otros. ¡Sí hace una diferencia!"
 
 #: 18_best_friends_of_all_time.html:118
 msgid "Hebrews 12:14-15"
-msgstr ""
+msgstr "Hebreos 12:14-15"
 
 #: 18_best_friends_of_all_time.html:121
 msgid "Be holy and prevent \"bad attitudes\" in one another"
-msgstr ""
+msgstr "Sean santos y eviten las malas actitudes los unos con los otros."
 
 #: 18_best_friends_of_all_time.html:126
 msgid "1 Thessalonians 5:12-14"
-msgstr ""
+msgstr "1 Tesalonicenses 5:12-14"
 
 #: 18_best_friends_of_all_time.html:129
 msgid "Outlook toward one another"
-msgstr ""
+msgstr "La perspectiva de los unos a los otros."
 
 #: 18_best_friends_of_all_time.html:134
 msgid "John 17:20-23"
-msgstr ""
+msgstr "Juan 17:20-23"
 
 #: 18_best_friends_of_all_time.html:137
 msgid "The ultimate goal of love and unity — world evangelism!"
-msgstr ""
+msgstr "La meta principal del amor y la unidad es ¡la evangelización del mundo!"
 
 #: 18_best_friends_of_all_time.html:143
 msgid "Date and marry only disciples"
-msgstr ""
+msgstr "Ser novios con y casarse solamente con discípulos"
 
 #: 18_best_friends_of_all_time.html:149
 msgid "1 Corinthians 7:39"
-msgstr ""
+msgstr "1 Corintios 7:39"
 
 #: 18_best_friends_of_all_time.html:152
 msgid "Marriage must only be in the Lord"
-msgstr ""
+msgstr "El matrimonio debe ser únicamente en el Señor."
 
 #: 18_best_friends_of_all_time.html:157
 msgid "2 Corinthians 6:14-7:1"
-msgstr ""
+msgstr "2 Corintios 6:14-7:1"
 
 #: 18_best_friends_of_all_time.html:160
 msgid "Dating, as in marriage, is a partnership in which you are \"yoked together.\"  Disciples must separate from unbelievers to receive the promises of God"
-msgstr ""
+msgstr "El ser novios, igual que el matrimonio, es un tipo de unión, donde comparten una \"yunta\".  Los discípulos tienene que separarse de los no creyentes para recibir las promesas de Dios."
 
 #: 18_best_friends_of_all_time.html:165
 msgid "1 Kings 11:1-10"
-msgstr ""
+msgstr "1 Reyes 11:1-10"
 
 #: 18_best_friends_of_all_time.html:169
 msgid "Nehemiah 13:23-27"
-msgstr ""
+msgstr "Nehemías 13:23-27"
 
 #: 18_best_friends_of_all_time.html:172
 msgid "Study this principle in the Old Testament.  To date or marry outside of the faith is to be unfaithful to God.  If you are single, have you gone on a Christian date?"
-msgstr ""
+msgstr "Estudien ese principio del Antiguo Testamento.  El tener novio/a o casarse fuera de la fe es serle infiel a Dios.  Si eres soltero, ¿ya has salido en cita de discípulos?"
 
 #: 18_best_friends_of_all_time.html:177
 msgid "1 Peter 3:1-7"
-msgstr ""
+msgstr "1 Pedro 3:1-7"
 
 #: 18_best_friends_of_all_time.html:180
 msgid "If you are married, are you winning your spouse?"
-msgstr ""
+msgstr "Si estás casado/a ¿Estás ganando a tu esposo/a?"
 
 #: 18_best_friends_of_all_time.html:186
 msgid "Reconcile with one another"
-msgstr ""
+msgstr "Reconcíliense los unos con los otros."
 
 #: 18_best_friends_of_all_time.html:192
 msgid "Matthew 18:15-17"
-msgstr ""
+msgstr "Mateo 18:15-17"
 
 #: 18_best_friends_of_all_time.html:195
 msgid "Christians will sin against each other.  When someone sins against you, do not gossip by going to someone else.  Talk to the person who hurt you, so you can win him/her over as a friend"
-msgstr ""
+msgstr "Los cristianos van a pecar los unos contra los otros.  Cuando alguien peca contra ti, no seas chismoso al ir con otra persona.  Habla con la persona que te hizo mal, para ganártela como amigo/a."
 
 #: 18_best_friends_of_all_time.html:198
 msgid "Church discipline begins one-on-one and rarely should go to step 2, 3 and 4"
-msgstr ""
+msgstr "La disciplina en la iglesia comienza uno-con-uno y rara vez debe llegar al paso 2, 3, o 4."
 
 #: 19_mission.html:41
 msgid "Share about the visitors you most recently brought to church or Bible Talk"
-msgstr ""
+msgstr "Comparte acerca de los últimos visitantes que trajiste a la iglesia o a la charla bíblica."
 
 #: 19_mission.html:44
 msgid "Ask the young disciple about their evangelism"
-msgstr ""
+msgstr "Pregúntale al joven discípulo acerca de su evangelismo"
 
 #: 19_mission.html:51
 msgid "Jesus' Mission"
-msgstr ""
+msgstr "La Misión de Jesús"
 
 #: 19_mission.html:57
 msgctxt "mission #1"
 msgid "Luke 19:10"
-msgstr ""
+msgstr "Lucas 19:10"
 
 #: 19_mission.html:64
 msgid "1 Timothy 1:15"
-msgstr ""
+msgstr "1 Timoteo 1:15"
 
 #: 19_mission.html:71
 msgctxt "mission #1"
 msgid "Matthew 28:19-20"
-msgstr ""
+msgstr "Mateo 28:19-20"
 
 #: 19_mission.html:78
 msgid "Acts 20:24"
-msgstr ""
+msgstr "Hechos 20:24"
 
 #: 19_mission.html:83
 msgid "What was Jesus' mission?"
-msgstr ""
+msgstr "¿Cuál fue la misión de Jesús?"
 
 #: 19_mission.html:86
 msgid "What is each disciple's mission?"
-msgstr ""
+msgstr "¿Cuál es la misión de cada discípulo?"
 
 #: 19_mission.html:94
 msgid "Disciples' Mission"
-msgstr ""
+msgstr "La Misión del Discípulo"
 
 #: 19_mission.html:100
 msgid "John 15:1-16"
-msgstr ""
+msgstr "Juan 15:1-16"
 
 #: 19_mission.html:105
 msgid "Glorifying God in"
-msgstr ""
+msgstr "Glorificar a Dios en "
 
 #: 19_mission.html:108
 msgid "John 15"
-msgstr ""
+msgstr "Juan 15"
 
 #: 19_mission.html:111
 msgid "is bearing the fruit of making disciples, not simply baptizing"
-msgstr ""
+msgstr "es dar el fruto de hacer discípulos, no solamente el bautizar."
 
 #: 19_mission.html:114
 msgid "Matthew 28:19"
-msgstr ""
+msgstr "Mateo 28:19"
 
 #: 19_mission.html:117
 msgid "commands us to \"go and make disciples;\""
-msgstr ""
+msgstr "nos manda a \"ir a hacer discípulos\";"
 
 #: 19_mission.html:120
 msgid "John 15:16"
-msgstr ""
+msgstr "Juan 15:16"
 
 #: 19_mission.html:123
 msgid "commands us to \"go and bear fruit that will last\""
-msgstr ""
+msgstr "nos manda a \"ir a dar fruto que va a durar\"."
 
 #: 19_mission.html:126
 msgid "To bear fruit, one must be \"in the vine,\" otherwise we will be cut off"
-msgstr ""
+msgstr "Para dar fruto, uno debe estar \"en la vid\", al no ser así, vamos a ser cortados."
 
 #: 19_mission.html:129
 msgid "Jesus is the perfect discipler, but He is also the perfect disciple of God"
-msgstr ""
+msgstr "Jesús es el discipulador perfecto, pero también es el perfecto discípulo de Dios."
 
 #: 19_mission.html:132
 msgid "To love God is to obey His commands.  Discipling helps our hearts to want to obey His commands"
-msgstr ""
+msgstr "El amar a Dios consiste en obedecer sus mandatos.  El discipulado ayuda nuestro corazón a querer obedecer Sus mandatos."
 
 #: 19_mission.html:135
 msgid "Matthew 28:20"
-msgstr ""
+msgstr "Mateo 28:20"
 
 #: 19_mission.html:138
 msgid "Therefore, we must love one another, even to the point of laying down our lives for each other"
-msgstr ""
+msgstr "Por eso, tenemos que amarnos los unos a los otros, hasta el punto de dar la vida los unos por los otros."
 
 #: 19_mission.html:143
 msgid "The Book of Acts records the 30 years from the beginning of the church on the day of Pentecost to Paul's arrival in Rome — signaling that the gospel has gone to the known world.  The church in the first century was a movement.  Discuss the growth of the first century church when all Christians were striving to be fruitful — making disciples"
-msgstr ""
+msgstr "El libro de los Hechos registra a los 30 años desde que comenzó la iglesia en día de Pentecostés hasta la llegada de Pablo a Roma - es señal que el evangelio ha llegado a todo el mundo conocido.  La iglesia en el primer siglo era un movimiento.  Platica como crecía la iglesia del primer siglo cuando todos los cristianos procuraban ser fructíferos - haciendo otros discípulos."
 
 #: 19_mission.html:148
 msgid "Acts 2:41"
-msgstr ""
+msgstr "Hechos 2:41"
 
 #: 19_mission.html:155
 msgid "Acts 2:47"
-msgstr ""
+msgstr "Hechos 2:47"
 
 #: 19_mission.html:162
 msgid "Acts 4:4"
-msgstr ""
+msgstr "Hechos 4:4"
 
 #: 19_mission.html:169
 msgid "Acts 5:14"
-msgstr ""
+msgstr "Hechos 5:14"
 
 #: 19_mission.html:176
 msgid "Acts 6:1"
-msgstr ""
+msgstr "Hechos 6:1"
 
 #: 19_mission.html:183
 msgid "Acts 6:7"
-msgstr ""
+msgstr "Hechos 6:7"
 
 #: 19_mission.html:190
 msgid "Acts 8:4"
-msgstr ""
+msgstr "Hechos 8:4"
 
 #: 19_mission.html:197
 msgid "Acts 9:31"
-msgstr ""
+msgstr "Hechos 9:31"
 
 #: 19_mission.html:204
 msgid "Acts 11:21"
-msgstr ""
+msgstr "Hechos 11:21"
 
 #: 19_mission.html:211
 msgid "Acts 12:24"
-msgstr ""
+msgstr "Hechos 12:24"
 
 #: 19_mission.html:218
 msgid "Acts 13:49"
-msgstr ""
+msgstr "Hechos 13:49"
 
 #: 19_mission.html:225
 msgid "Acts 14:1"
-msgstr ""
+msgstr "Hechos 14:1"
 
 #: 19_mission.html:232
 msgid "Acts 14:21"
-msgstr ""
+msgstr "Hechos 14:21"
 
 #: 19_mission.html:239
 msgid "Acts 16:5"
-msgstr ""
+msgstr "Hechos 16:5"
 
 #: 19_mission.html:246
 msgid "Acts 17:4"
-msgstr ""
+msgstr "Hechos 17:4"
 
 #: 19_mission.html:253
 msgid "Acts 17:6"
-msgstr ""
+msgstr "Hechos 17:6"
 
 #: 19_mission.html:256
 msgid "(RSV):  \"These men who have turned the world upside-down have come here also...\""
-msgstr ""
+msgstr "\"Esos hombres que han volteado al mundo de cabeza han llegado también hasta acá...\""
 
 #: 19_mission.html:261
 msgid "Colossians 1:6, 23"
-msgstr ""
+msgstr "Colosenses 1:6, 23"
 
 #: 19_mission.html:264
 msgid "The known world was evangelized by 61 A.D., in a generation!  Paul is in prison when he writes Colossians —"
-msgstr ""
+msgstr "El mundo conocido fue evangelizado en el año 51 DC, ¡una generación! (Pablo está encarcelado cuando escribe Colosenses - "
 
 #: 19_mission.html:267
 msgid "Acts 28"
-msgstr ""
+msgstr "Hechos 28"
 
 #: 19_mission.html:270
 msgid "Therefore, Jesus' vision became a reality — \"the evangelization of the nations in a generation!\""
-msgstr ""
+msgstr ") Por eso, la visión de Jesús llegó a ser la realidad - \"¡La evangelización de las naciones en una generación!\""
 
 #: 19_mission.html:276
 msgid "Discuss and pray for:"
-msgstr ""
+msgstr "Hablen y oren por:"
 
 #: 19_mission.html:280
 msgid "World Evangelism"
-msgstr ""
+msgstr "El Evangelismo Mundial"
 
 #: 19_mission.html:283
 msgid "Missions Teams"
-msgstr ""
+msgstr "Los Equipos Misioneros"
 
 #: 19_mission.html:286
 msgid "Your Kingdom dreams... how can you use your talents for God?"
-msgstr ""
+msgstr "Tu sueños para el Reino...¿Cómo puedes usar tus talentos para Dios?"
 
 #: 20_persecution.html:37
 msgid "2 Timothy 3:12"
-msgstr ""
+msgstr "2 Timoteo 3:12"
 
 #: 20_persecution.html:38
 msgid "Everyone who wants to live as a disciple will be persecuted"
-msgstr ""
+msgstr "Todos quienes quieren vivir como discípulos de Jesús van a ser perseguidos."
 
 #: 20_persecution.html:43
 msgid "Jesus was persecuted"
-msgstr ""
+msgstr "Jesús fue perseguido"
 
 #: 20_persecution.html:48
 msgid "Family"
-msgstr ""
+msgstr "Familia"
 
 #: 20_persecution.html:54
 msgid "Mark 3:20-21"
-msgstr ""
+msgstr "Marcos 3:20-21"
 
 #: 20_persecution.html:57
 msgid "Jesus' family thought that he was out of His mind (brain washed; mind-control)"
-msgstr ""
+msgstr "La familia de Jesús pensó que Él estaba loco (lavado del coco, bajo control mental)"
 
 #: 20_persecution.html:62
 msgid "Mark 3:31-35"
-msgstr ""
+msgstr "Marcos 3:31-35"
 
 #: 20_persecution.html:65
 msgid "Jesus prioritized His spiritual family above His physical family"
-msgstr ""
+msgstr "Jesús puso la prioridad en Su familia espiritual antes que Su familia física."
 
 #: 20_persecution.html:70
 msgid "Acts 1:12-14"
-msgstr ""
+msgstr "Hechos 1:12-14"
 
 #: 20_persecution.html:73
 msgid "This conviction produces conflict.  However, after His resurrection and ascension, His mother and brothers were disciples"
-msgstr ""
+msgstr "Esa convicción causa conflicto.  Sin embargo, después de Su resurrección y ascensión, Su madre y hermanos ya eran discípulos."
 
 #: 20_persecution.html:79
 msgid "Gossip and slander"
-msgstr ""
+msgstr "Chisme y difamación."
 
 #: 20_persecution.html:85
 msgid "John 7:12-13"
-msgstr ""
+msgstr "Juan 7:12-13"
 
 #: 20_persecution.html:88
 msgid "Jesus was accused of deceiving people"
-msgstr ""
+msgstr "La gente chismea acerca de Jesús y le acusan de engañar a la gente."
 
 #: 20_persecution.html:93
 msgctxt "persecution #1"
 msgid "John 10:19-21"
-msgstr ""
+msgstr "Juan 10:19-21"
 
 #: 20_persecution.html:96
 msgid "The Jews — religious people — intensely persecuted Jesus through name-calling and character assassination.  Jesus' teaching always divided His listeners"
-msgstr ""
+msgstr "Los judíos - gente religiosa - perseguía agresivamente a Jesús por medio de ponerle sobrenombres y difamación de sus carácter.  Las enseñanzas de Jesús siempre dividían a Sus oyentes."
 
 #: 20_persecution.html:102
 msgid "Scope of persecution"
-msgstr ""
+msgstr "La Gravedad de la Persecusión"
 
 #: 20_persecution.html:108
 msgid "Luke 23:1-3"
-msgstr ""
+msgstr "Lucas 23:1-3"
 
 #: 20_persecution.html:111
 msgid "Jesus is condemned to a death by crucifixion through half-truths"
-msgstr ""
+msgstr "Jesús recibe la pena de muerte por crucifixión a través de verdades a medias."
 
 #: 20_persecution.html:114
 msgid "Jesus — who was perfect — was falsely accused and misunderstood by His family and killed by religious leaders.  What do you think will happen to you if you follow Jesus?"
-msgstr ""
+msgstr "Jesús - quien era perfecto - fue acusado falsamente, malentendido por su familia, y matado por los líderes religiosos.  ¿Qué crees que te va a pasar a ti si sigues a Jesús?"
 
 #: 20_persecution.html:122
 msgid "The First Century Church was persecuted"
-msgstr ""
+msgstr "La Iglesia del primer siglo fue perseguida"
 
 #: 20_persecution.html:128
 msgid "Acts 5:17-18, 38-42"
-msgstr ""
+msgstr "Hechos 5:17-18, 38-42"
 
 #: 20_persecution.html:133
 msgid "The Jewish leadership arrested the apostles for preaching the Word, because of jealousy"
-msgstr ""
+msgstr "Los líderes Judíos arrestaron a los apóstoles por predicar la Palabra, motivados por la envidia."
 
 #: 20_persecution.html:136
 msgid "Those who persecuted the Christians thought that they were doing this for God, though in fact they were fighting against Him"
-msgstr ""
+msgstr "Los que perseguían a los cristianos pensaban que lo estaban haciendo para Dios, aunque en realidad estaban peleando en contra de Él."
 
 #: 20_persecution.html:139
 msgid "The apostles suffered physical mistreatment"
-msgstr ""
+msgstr "Los apóstoles sufrieron el maltrato físico."
 
 #: 20_persecution.html:142
 msgid "Persecution did not stop the disciples from daily proclamation"
-msgstr ""
+msgstr "La persecución no detuvo a los discípulos de la proclamación diaria."
 
 #: 20_persecution.html:149
 msgid "Acts 28:21-22"
-msgstr ""
+msgstr "Hechos 28:21-22"
 
 #: 20_persecution.html:154
 msgid "Everywhere, the church was highly controversial"
-msgstr ""
+msgstr "Por todas partes, la iglesia era altamente controversial."
 
 #: 20_persecution.html:157
 msgid "The church was called a \"sect\" (cult)"
-msgstr ""
+msgstr "La iglesia fue llamada una \"secta\" (una \"secta destructiva\")"
 
 #: 20_persecution.html:160
 msgid "Since the International Christian Churches have the goal of imitating Jesus and the first century church, what will happen to us?  If a church is not being persecuted, what does that imply?"
-msgstr ""
+msgstr "Ya que las Iglesias Cristianas Internacionales tienen la meta de imitar a Jesús y a la iglesia del primer siglo, ¿qué nos va a pasar a nosotros? ¿Si una Iglesia no recibe persecución? ¿Qué quiere decir eso?"
 
 #: 20_persecution.html:168
 msgid "Causes of persecution.  "
-msgstr ""
+msgstr "Los Motivos de la Persecución"
 
 #: 20_persecution.html:170
 msgctxt "persecution #1"
 msgid "1 Timothy 4:16"
-msgstr ""
+msgstr "1 Timoteo 4:16"
 
 #: 20_persecution.html:172
 msgid "— Life and Doctrine"
-msgstr ""
+msgstr "- El Estilo de Vida y la Doctrina"
 
 #: 20_persecution.html:177
 msgid "Life"
-msgstr ""
+msgstr "El Estilo de Vida"
 
 #: 20_persecution.html:183
 msgid "1 Peter 4:3-4"
-msgstr ""
+msgstr "1 Pedro 4:3-4"
 
 #: 20_persecution.html:186
 msgid "The world feels condemned by those who no longer participate in its sin"
-msgstr ""
+msgstr "El mundo se siente condenado por los que ya no participan en su pecado."
 
 #: 20_persecution.html:191
 msgid "1 Peter 4:12-16"
-msgstr ""
+msgstr "1 Pedro 4:12-16"
 
 #: 20_persecution.html:194
 msgid "Do not be surprised or ashamed by persecution, but be sure you are persecuted for righteousness' sake"
-msgstr ""
+msgstr "No te sorprendas ni te avergüences por la persecución, pero asegúrate que te están persiguiendo por causa de tu justicia."
 
 #: 20_persecution.html:200
 msgctxt "persecution #1"
 msgid "Doctrine"
-msgstr ""
+msgstr "La Doctrina"
 
 #: 20_persecution.html:204
 msgid "Preaching the Word —"
-msgstr ""
+msgstr "Predicando la Palabra -"
 
 #: 20_persecution.html:207
 msgid "John 15:18-20, 16:1-4"
-msgstr ""
+msgstr "Juan 15:18-20; 16:1-4"
 
 #: 20_persecution.html:212
 msgid "Jesus warns that persecution comes to those who preach the same message as Him"
-msgstr ""
+msgstr "Jesús advierte que cuando un discípulo predica el mensaje de Jesús, el discípulo va a recibir la misma respuesta - el odio y la persecución."
 
 #: 20_persecution.html:215
 msgid "Jesus warns that the price of hatred is certain, and perhaps even death"
-msgstr ""
+msgstr "Jesús advierte a los discípulos acerca de la persecución, para que no se desvien.\n"
+"Jesús advierte a los discípulos acerca de ser expulsados de la Sinagoga - perdiendo sus amistades más íntimas - y hasta siendo asesinados por gente que piensa que está sirviendo a Dios al hacerlo."
 
 #: 20_persecution.html:220
 msgid "Narrow Road of Salvation —"
-msgstr ""
+msgstr "El camino Estrecho de la Salvación -"
 
 #: 20_persecution.html:223
 msgid "Matthew 7:13-14"
-msgstr ""
+msgstr "Mateo 7:13-14"
 
 #: 20_persecution.html:230
 msgid "Acts 4:12"
-msgstr ""
+msgstr "Hechos 4:12"
 
 #: 20_persecution.html:233
 msgid "Only an individual who believes in Jesus is saved.  (This truth condemns atheists, polytheists, Jews, Muslims, Hindus, Buddhists, etc...)"
-msgstr ""
+msgstr "Solamente quien cree en Jesús es salvo (Esta verdad condena a los ateos, los politeístas, los judios, los musulmanes, lo hidúes, los budistas, etc) "
 
 #: 20_persecution.html:238
 msgid "Acts 2:36-38"
-msgstr ""
+msgstr "Hechos 2:36-38"
 
 #: 20_persecution.html:241
 msgid "Only an adult who is water baptized for the forgiveness of sins is saved.  (This truth condemns those who practice infant baptism and \"praying Jesus into your heart\" as doctrines of salvation)"
-msgstr ""
+msgstr "Solamente un adulto que está bautizado en agua para el perdón de sus pecados es salbo.  (Esta verdad condena a quienes practican el bautismo de los bebés y el \"orar para recibir a Jesucristo en tu corazón\" como doctrinas de salvación)."
 
 #: 20_persecution.html:246
 msgctxt "persecution #1"
 msgid "Matthew 28:19-20"
-msgstr ""
+msgstr "Mateo 28:19-20"
 
 #: 20_persecution.html:249
 msgid "Only the person who makes the decision to be baptized as a disciple is saved.  (This truth condemns those who may baptize for remission of sins, but are not made into disciples before and after baptism)"
-msgstr ""
+msgstr "Solamente la persona que toma la decisión de bautizarse como discípulo es salvo.  (Esta verdad condena a los que aunque bauticen para el perdrón de los pecados, pero no los hacen discípulos antes de y después de bautizarse)."
 
 #: 20_persecution.html:252
 msgid "We do not condemn the lost; they are condemned already.  However, when the lost are confronted doctrinally about their condition before God, they will repent, run or persecute"
-msgstr ""
+msgstr "Nosotros no condenamos a los perdidos, ya están condenados.  Sin embargo, cuando los perdidos son confrontados acerca de su condición antes Dios, van a arrepentirse, huir, o ponerse a perseguir a los discípulos."
 
 #: 20_persecution.html:257
 msgid "Doctrine of discipling"
-msgstr ""
+msgstr "La Doctrina del disipulado"
 
 #: 20_persecution.html:262
 msgctxt "persecution #2"
 msgid "Matthew 28:19-20"
-msgstr ""
+msgstr "Mateo 28:19-20"
 
 #: 20_persecution.html:265
 msgid "Discipling, calling people to obey the Word of God, is often viewed by the world as controlling"
-msgstr ""
+msgstr "El discipulado, o sea el llamar a las personas a obedecer a la Palabra de Dios, es muchas veces visto por el mundo como controlador."
 
 #: 20_persecution.html:275
 msgid "Our attitude about persecution"
-msgstr ""
+msgstr "Nuestra actitud al enfrentar la persecución."
 
 #: 20_persecution.html:281
 msgid "Matthew 5:10-12"
-msgstr ""
+msgstr "Mateo 5:10-12"
 
 #: 20_persecution.html:286
 msgid "Do not fear persecution.  Do not care what men think about you, only God"
-msgstr ""
+msgstr "No temas a la persecusión.  Que no te importe lo que pienses los hombres de tí, solo Dios."
 
 #: 20_persecution.html:289
 msgid "Rejoice!  You are not alone, since they persecuted both Jesus and the prophets"
-msgstr ""
+msgstr "¡Alégrate! No estás solo, ya que persiguieron a Jesús y a los profetas."
 
 #: 20_persecution.html:296
 msgid "Ephesians 6:10-18"
-msgstr ""
+msgstr "Efesios 6:10-18"
 
 #: 20_persecution.html:301
 msgid "Satan is behind all persecution. Only God and His spiritual armor will give you the victory over the world"
-msgstr ""
+msgstr "Satanás es quien inicia toda la persecución.  Solamente Dios y Su armadura espiritual te van a dar la victoria sobre el mundo."
 
 #: 20_persecution.html:309
 msgctxt "persecution #1"
 msgid "Conclusion"
-msgstr ""
+msgstr "La Conclusión"
 
 #: 20_persecution.html:311
 msgid "— The International Christian Churches are a controversial Christian movement.  Some call us a cult and accuse us of both brain-washing and mind-control.  Many false rumors and half-truths have been spread.  Newspaper articles, television shows and especially the internet have slandered the ICC, and yet, the facts are that lives have been radically changed, marriages have been healed, drug addicts have been freed, the poor have been fed and cared for, and this rapidly growing movement — The SoldOut Movement — is spreading around the world in this generation!  Just like the first century!"
-msgstr ""
+msgstr "- Las Iglesias Cristianas Internacionales somos un movimiento controversial.  Unos dicen que somos una secta y nos acusan de lavar mentes y el control mental.  Muchos rumores falsos y medias-verdades han sido difundidas.  Los artículos en los periódicos, programas de televisión y especialmente en el Internet han tratado de difamar a las ICI, y sin embargo, la verdad es que ¡las vidas han sido radicalmente cambiadas, los matrimonios han sido sanados, drogadictos han sido liberados, los pobres han sido alimentados y cuidados, y este movimiento - el Movimiento de Discipulado y Compromiso Total -  se está extendiendo alrededor del mundo en nuestra generación! ¡Exactamente como pasó en el primer siglo!"
 
 #: 20_persecution.html:315
 msgid "* The Persecution study has been proven to be most helpful after the Discipleship study"
-msgstr ""
+msgstr "El estudio de persecución ha sido provado como el más útil despues del estudio de Discipulado"
 
 #: 20_persecution.html:317
 msgid "See"
-msgstr ""
+msgstr "Ver"
 
 #: 20_persecution.html:317
 msgid "caicc.net"
@@ -4450,7 +4451,7 @@ msgstr ""
 #: 20_persecution.html:319
 msgctxt "persecution #1"
 msgid "and"
-msgstr ""
+msgstr "y"
 
 #: 20_persecution.html:319
 msgid "KipMcKean.org"
@@ -4462,7 +4463,7 @@ msgstr ""
 
 #: 21_memory_scriptures.html:40
 msgid "Jeremiah 29:11"
-msgstr ""
+msgstr "Jeremias 29:11"
 
 #: 21_memory_scriptures.html:45
 msgid "But seek first his kingdom and his righteousness, and all these things will be given to you as well"
@@ -4471,7 +4472,7 @@ msgstr ""
 #: 21_memory_scriptures.html:47
 msgctxt "memory_scriptures #1"
 msgid "Matthew 6:33"
-msgstr ""
+msgstr "Mateo 6:33"
 
 #: 21_memory_scriptures.html:52
 msgid "To the Jews who had believed him, Jesus said, \"If you hold to my teaching, you are really my disciples. Then you will know the truth, and the truth will set you free\""
@@ -4480,7 +4481,7 @@ msgstr ""
 #: 21_memory_scriptures.html:54
 msgctxt "memory_scriptures #1"
 msgid "John 8:31-32"
-msgstr ""
+msgstr "Juan 8:31-32"
 
 #: 21_memory_scriptures.html:59
 msgid "I can do everything through him who gives me strength"
