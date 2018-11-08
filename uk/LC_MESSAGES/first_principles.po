@@ -4050,7 +4050,7 @@ msgstr "заповідає нам, щоб ми \"ішли і приносили 
 
 #: 19_mission.html:126
 msgid "To bear fruit, one must be \"in the vine,\" otherwise we will be cut off"
-msgstr "Щоб приносити плід учень має бути \"на лозі\", інакше він буде вдірізаний"
+msgstr "Щоб приносити плід учень має бути \"на лозі\", інакше він буде відрізаний"
 
 #: 19_mission.html:129
 msgid "Jesus is the perfect discipler, but He is also the perfect disciple of God"
