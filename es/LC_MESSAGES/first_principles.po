@@ -105,7 +105,7 @@ msgstr "Contáctanos"
 
 #: 22_contact_us.html:61
 msgid "2017 International Christian Churches (SoldOut Discipling Movement)"
-msgstr "2017 Iglesias Cristianas Internacional (Movimientos de Discípulos Comprometidos)"
+msgstr "2017 Iglesias Cristianas Internacionales (Movimientos de Discípulos Comprometidos)"
 
 #: 01_introduction.html:36
 msgid "For when by reason of the time you ought to be teachers, you... need to have someone teach you the rudiments of the first principles of the oracles of God... Therefore leaving the doctrine of the first principles of Christ, let us press on to perfection - not laying again a foundation... of faith toward God, of the teaching of baptisms, of laying on of hands, of resurrection of the dead and of eternal judgment. This will we do!"
@@ -181,7 +181,7 @@ msgstr "Lea la Historia de la Difusión del Cristianismo en los tiempos modernos
 
 #: 02_course_information.html:48
 msgid "KipMcKean.com"
-msgstr ""
+msgstr "KipMcKean.com"
 
 #: 02_course_information.html:49
 msgid "by Session 8"
@@ -354,7 +354,7 @@ msgstr "Elévate"
 
 #: 02_course_information.html:140
 msgid "- McKean"
-msgstr ""
+msgstr "- McKean"
 
 #: 02_course_information.html:142
 msgid "Overview of the Book of Acts"
@@ -1140,7 +1140,7 @@ msgstr "Hechos 2:37-42"
 #: 07_coming_of_the_kingdom.html:123
 msgctxt "coming_of_the_kingdom #2"
 msgid "Daniel 2:31-45"
-msgstr ""
+msgstr "Daniel 2:31-45"
 
 #: 07_coming_of_the_kingdom.html:127
 msgid "Date of coming approximately"
@@ -2151,55 +2151,55 @@ msgstr "Lectura Sugerida:"
 
 #: 10_cross.html:41
 msgid "26:31-35"
-msgstr ""
+msgstr "26:31-35"
 
 #: 10_cross.html:42
 msgid "26:36-46"
-msgstr ""
+msgstr "26:36-46"
 
 #: 10_cross.html:43
 msgid "26:47-56"
-msgstr ""
+msgstr "26:47-56"
 
 #: 10_cross.html:44
 msgid "26:57-68"
-msgstr ""
+msgstr "26:57-68"
 
 #: 10_cross.html:45
 msgid "26:69-75"
-msgstr ""
+msgstr "26:69-75"
 
 #: 10_cross.html:46
 msgid "27:1-10"
-msgstr ""
+msgstr "27:1-10"
 
 #: 10_cross.html:47
 msgid "27:11-26"
-msgstr ""
+msgstr "27:11-26"
 
 #: 10_cross.html:48
 msgid "27:27-31"
-msgstr ""
+msgstr "27:27-31"
 
 #: 10_cross.html:49
 msgid "27:32-44"
-msgstr ""
+msgstr "27:32-44"
 
 #: 10_cross.html:50
 msgid "27:45-56"
-msgstr ""
+msgstr "27:45-56"
 
 #: 10_cross.html:51
 msgid "27:57-61"
-msgstr ""
+msgstr "27:57-61"
 
 #: 10_cross.html:52
 msgid "27:62-66"
-msgstr ""
+msgstr "27:62-66"
 
 #: 10_cross.html:53
 msgid "28:1-10"
-msgstr ""
+msgstr "28:1-10"
 
 #: 10_cross.html:57
 msgid "Physical Death"
@@ -2269,7 +2269,7 @@ msgstr "video"
 
 #: 11_medical_account.html:36
 msgid "Dr. C. Truman Davis"
-msgstr ""
+msgstr "Dr. C. Truman Davis"
 
 #: 11_medical_account.html:37
 msgid "A Physician Analyzes the Crucifixion"
@@ -2321,7 +2321,7 @@ msgstr "Cada intento imaginable ha sido usado por los estudiosos modernos para e
 
 #: 11_medical_account.html:76
 msgid "Hematidrosis"
-msgstr ""
+msgstr "Hematidrosis"
 
 #: 11_medical_account.html:77
 msgid "or bloody sweat, is well documented. Under great emotional stress of the kind our Lord suffered, tiny capillaries in the sweat glands can break, thus mixing blood with sweat. This process might well have produced marked weakness and possible shock."
@@ -2536,7 +2536,7 @@ msgstr "Romanos 8:9"
 
 #: 12_baptism_with_the_holy_spirit.html:50
 msgid "(RSV)"
-msgstr ""
+msgstr "(RSV)"
 
 #: 12_baptism_with_the_holy_spirit.html:54
 msgid "Received at baptism"
@@ -3469,7 +3469,7 @@ msgstr "Involúcrate en un nivel de relaciones profundas dentro de la iglesia"
 
 #: 14_church.html:438
 msgid "v. 26"
-msgstr ""
+msgstr "v. 26"
 
 #: 14_church.html:448
 msgid "Hebrews 10:23-25"
@@ -3486,7 +3486,7 @@ msgstr "La confraternidad nos ayuda a mantenernos firmes en nuestro compromiso"
 #: 14_church.html:459
 msgctxt "church #1"
 msgid "v. 23"
-msgstr ""
+msgstr "v. 23"
 
 #: 14_church.html:465
 msgid "Another purpose of fellowship is to encourage each other so we will remain faithful"
@@ -3495,7 +3495,7 @@ msgstr "Otro propósito de la confraternidad es animarnos con el fin de seguir f
 #: 14_church.html:467
 msgctxt "church #1"
 msgid "v. 24"
-msgstr ""
+msgstr "v. 24"
 
 #: 14_church.html:472
 msgid "Must come to all meetings of the body:  Sunday and Midweek Services, Bible Talks, special devotionals, Jubilees, retreats, etc...  Begin to rearrange schedule to come to all the meetings of the body"
@@ -3806,7 +3806,7 @@ msgstr "Dinámica de la familia"
 
 #: 17_christ_is_your_life.html:149
 msgid "v. 18-21"
-msgstr ""
+msgstr "v. 18-21"
 
 #: 17_christ_is_your_life.html:155
 msgid "Employer/employee relationships"
@@ -3815,7 +3815,7 @@ msgstr "Relaciones de empleador - empleado"
 #: 17_christ_is_your_life.html:158
 msgctxt "christ_is_your_life #1"
 msgid "v. 22-24"
-msgstr ""
+msgstr "v. 22-24"
 
 #: 17_christ_is_your_life.html:164
 msgid "Teacher/student relationships"
@@ -3824,7 +3824,7 @@ msgstr "Relaciones de maestro - estudiante"
 #: 17_christ_is_your_life.html:167
 msgctxt "christ_is_your_life #2"
 msgid "v. 22-24"
-msgstr ""
+msgstr "v. 22-24"
 
 #: 18_best_friends_of_all_time.html:40
 msgid "Share about your closest relationships during your life — God and spiritual family in comparison to your physical family and old friends"
@@ -4442,11 +4442,11 @@ msgstr "Ver"
 
 #: 20_persecution.html:317
 msgid "caicc.net"
-msgstr ""
+msgstr "caicc.net"
 
 #: 20_persecution.html:318
 msgid "usd21.org"
-msgstr ""
+msgstr "usd21.org"
 
 #: 20_persecution.html:319
 msgctxt "persecution #1"
@@ -4455,7 +4455,7 @@ msgstr "y"
 
 #: 20_persecution.html:319
 msgid "KipMcKean.org"
-msgstr ""
+msgstr "KipMcKean.org"
 
 #: 21_memory_scriptures.html:38
 msgid "\"For I know the plans I have for you,\" declares the LORD, \"plans to prosper you and not to harm you, plans to give you hope and a future\""
