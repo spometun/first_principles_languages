@@ -443,7 +443,7 @@ msgstr "Матфея 6:25-34"
 
 #: 04_seeking_god.html:48
 msgid "Do not worry - ironic - can not add a single hour to your life"
-msgstr "Не беспокойся – ты не можешь добавить ни одного дополнительного часа к своейжизни."
+msgstr "Не беспокойся – ты не можешь добавить ни одного дополнительного часа к своей жизни."
 
 #: 04_seeking_god.html:49
 msgid "God knows your needs"
